@@ -1,0 +1,531 @@
+{
+  "feed": "Random philosophy",
+  "slug": "random-philosophy",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-01.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "syllabus",
+      "title": "How to build a mind course",
+      "caption": "A philosophy-of-mind syllabus in one post: animal minds, AI minds, consciousness. Great if you teach it, thin for a scroll. Surfaced by Threadverse.",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-02.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "chaotic",
+      "title": "2,000 years of Chinese thought, one napkin",
+      "caption": "Someone hand-drew all of ancient Chinese political philosophy: Confucianism, Daoism, Legalism, arrows everywhere. Absolute genius chaos. Which node is you? Found via Threadverse.",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ],
+      "quote": "",
+      "povText": "POV: you tried to summarize 2,000 years of philosophy on one page"
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-03.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "witty",
+      "title": "All of philosophy of mind, in one paragraph",
+      "caption": "Dualism, behaviourism, identity theory, functionalism, consciousness. 'The end.' The most efficient philosophy lecture you'll ever read. What did they leave out? Surfaced by Threadverse.",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ],
+      "quote": "first there was dualism, then behaviourism, then identity theory, then functionalism, then consciousness. The end.",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-04.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "insurgent",
+      "title": "Philosophers want AI money disclosed",
+      "caption": "An open letter: as AI companies buy into the philosophy-of-AI narrative, philosophers are demanding conflict-of-interest disclosure their field never had. 118 hearts and climbing. Via Threadverse.",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "identity",
+        "social_currency"
+      ],
+      "quote": "philosophy has no standards for reporting conflicts of interest",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-05.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "petition",
+      "title": "Sign this: AI money in philosophy",
+      "caption": "A reshare of the open letter asking philosophy to disclose AI industry funding. Good cause, but it's the echo of card 04. Surfaced by Threadverse.",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "participation",
+        "identity"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-06.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "scholarly",
+      "title": "Cicero on bringing people closer",
+      "caption": "From the archive: Cicero, Hierocles and cosmopolitanism, on how we widen our circle of care. Lovely essay, quiet share. Found via Threadverse.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-07.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "academic",
+      "title": "New entry: Innateness and Language",
+      "caption": "A fresh Stanford Encyclopedia of Philosophy entry on innateness and language. Great bookmark for grad students, thin for a feed. Surfaced by Threadverse.",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-08.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "cutting",
+      "title": "\"Thinking is for poor people\"",
+      "caption": "A brutal read on AI and 'quantum computing' hype: cognitive surrender, sold to us as convenience. Quoting a savage line about thinking being outsourced. Do you feel it too? Via Threadverse.",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ],
+      "quote": "I don't know if anyone needs to think anymore. It's AI, quantum computing, it seems like thinking is for poor people",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-09.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "cosmic",
+      "title": "You Are Chemistry Writing Poetry",
+      "caption": "\"A walking symphony of trillions of chemical reactions, entirely dependent on a shape-shifting liquid.\" Water and stardust learned to write. What are you, really? Found on Threadverse.",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty",
+        "identity"
+      ],
+      "quote": "We are a walking symphony of trillions of chemical reactions, entirely dependent on a shape-shifting liquid.",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-10.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "linkdump",
+      "title": "It's the Pursuit That Matters",
+      "caption": "Bare link to an op-ed, no payoff on the card itself. Too little context to carry a repost.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-11.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "self-aware",
+      "title": "\"I Think I Think Too Much\"",
+      "caption": "The most philosopher sentence ever posted. Filed under #CriticalThinking, of course. Do you think too much? Surfaced by Threadverse.",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "emotion",
+        "social_currency"
+      ],
+      "quote": "And I think I think too much",
+      "povText": "POV: you overthink whether you overthink"
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-12.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "absurd",
+      "title": "Socrates Plays Striker",
+      "caption": "The Philosopher's Football Match: Greeks vs Germans, and Socrates is apparently the fave. Monty Python meets metaphysics. Threadverse dug this one up.",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "emotion"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-13.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "luminous",
+      "title": "\"Reason Is Immortal, All Else Mortal\"",
+      "caption": "Pythagoras in neon. The reply adds a spicy modern twist: logic forms as mind-independent truth. Poetry or math? Curated by Threadverse.",
+      "format": "quote",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "novelty",
+        "identity"
+      ],
+      "quote": "Reason is immortal, all else mortal.",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-14.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "hilarious",
+      "title": "Ogre Reads Kant, Retains Nothing",
+      "caption": "\"I came away retaining nothing other than a dislike for Kant.\" Everyone who survived Philosophy 101 felt this in their bones. Who else? Found on Threadverse.",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency",
+        "participation"
+      ],
+      "quote": "I came away from it retaining nothing other than a dislike for Kant.",
+      "povText": "POV: your brain trying to read Kant before the internet existed"
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-15.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "provocative",
+      "title": "Is Doubt a Duty or a Cop-Out?",
+      "caption": "A philosopher and scientist square off: is agnosticism a rigorous moral duty or an intellectual cop-out? Huxley vs Russell's teapot. Where do you land? Via Threadverse.",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation",
+        "identity",
+        "novelty"
+      ],
+      "quote": "Is agnosticism a rigorous moral duty or an intellectual cop-out?",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-16.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contemplative",
+      "title": "Doubt: The First of All Pleasures",
+      "caption": "Voltaire: \"Doubt is the first of all pleasures.\" The reply argues he really meant delusion. Translation nerds, is that a better read? Surfaced by Threadverse.",
+      "format": "quote",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "novelty",
+        "social_currency"
+      ],
+      "quote": "...the first of all pleasures.",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-17.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "scholarly",
+      "title": "A de Beauvoir Deep Dive",
+      "caption": "A thoughtful walk through de Beauvoir's Ethics of Ambiguity. More book review than viral moment, but a solid find for existentialism heads.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-18.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "provocative",
+      "title": "Philosophy Isn't Science's Sidekick",
+      "caption": "\"Philosophy is not another way of doing science.\" A tiny book with a big claim about what universities keep getting wrong. Surfaced by Threadverse. Agree?",
+      "quote": "Philosophy is actually not another way of doing science.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-19.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "cryptic",
+      "title": "I'm a Relationalist",
+      "caption": "A one-line self-label with a wall of hashtags and zero context. Interesting word, not enough post.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-20.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "nostalgic",
+      "title": "Bring Back Footnote-Free Thinking",
+      "caption": "If AI eats literature-based research, maybe we go back to the 1950s: people just thinking hard, few footnotes. A quietly radical take Threadverse pulled. Welcome it?",
+      "quote": "maybe humans need to go back to the old ways. I, for one, would much welcome that.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-21.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "witty",
+      "title": "Why Care About Anna Karenina?",
+      "caption": "Asked why we care about a fictional character's fate, this student almost wrote: \"Because I'm not a f***ing asshole.\" Honestly? Whole ethics course in one line.",
+      "quote": "Because I'm not a fucking asshole.",
+      "povText": "POV: your philosophy essay has one honest sentence in it",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-22.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "academic",
+      "title": "A Syllabus for Women Thinkers",
+      "caption": "Open-access syllabus on women philosophers of the ancient and medieval world. Genuinely useful resource, but reads as an announcement more than a hook.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-23.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "obscure",
+      "title": "Body, Emotion, Consciousness",
+      "caption": "A bare link to a Damasio paper title with 11 likes. Beautiful topic, but there's no post here to carry it.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-24.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "contrarian",
+      "title": "Math Is An Opinion (The Wrong One)",
+      "caption": "\"Mathematics Is An Opinion (And The Wrong One).\" A title built to start an argument. Threadverse surfaced this one. Ready to defend math in the replies?",
+      "quote": "Mathematics Is An Opinion (And The Wrong One)",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-25.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "deadpan",
+      "title": "Video Essay Slop, But Make It Rigorous",
+      "caption": "The most cursed content niche imaginable: 2-hour dry analytic philosophy videos, monthly, forever. Honestly? I'd subscribe. Would you? (surfaced by Threadverse)",
+      "quote": "the most dry, technical analytic philosophy you can find",
+      "povText": "POV: you clicked a 2-hour video titled 'Modal Logic Slop #7'",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-26.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "cozy",
+      "title": "Breakfast, With a Side of Philosophy",
+      "caption": "A book of comics propped open, a warm scone, and 'a little philosophy reading' to start the day. Quietly perfect. What's your morning ritual? (via Threadverse)",
+      "quote": "Sometimes I like to start the day with a little philosophy reading.",
+      "povText": "POV: your Sunday morning is a scone and some existential dread",
+      "format": "minimal",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-27.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "yearning",
+      "title": "I Don't Want to Defend a View. I Want to Explore.",
+      "caption": "A quiet lament: philosophy that maps possibilities instead of picking a side to defend just isn't valued. But it should be. Who else feels this? (surfaced by Threadverse)",
+      "quote": "Sometimes I just want to map out the possibilities & explore the tensions",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-28.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "niche",
+      "title": "Rethinking Liberalism, With Harvey Mansfield",
+      "caption": "A précis on the genesis of modern political philosophy and an invitation to imagine a revived liberalism. Deep cut for the theory heads. (via Threadverse)",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-29.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "curious",
+      "title": "Are You Your Body?",
+      "caption": "Ibn Sina's 'Flying Man': imagine you're floating in a void, no senses, no body. Do you still know you exist? A 1000-year-old thought experiment that still bites. (via Threadverse)",
+      "quote": "Are you your body?",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "tiktok",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-30.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "provocative",
+      "title": "'There Is No Such Thing As Society'",
+      "caption": "A long piece on capitalist reality vs our reality, framed against Thatcher's infamous line. The claim: healing each other means changing everything. Agree? (via Threadverse)",
+      "quote": "There is no such thing as society.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-31.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "bookish",
+      "title": "Peter Atkins Picks His Philosophy Books",
+      "caption": "'Moral philosophy is useful; political philosophy is useful.' A chemist and prominent atheist on the books that shaped how he thinks. (via Threadverse)",
+      "quote": "Moral philosophy is useful; political philosophy is useful.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-32.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unsettling",
+      "title": "Aviation Learned From Every Crash. Nothing Else Does.",
+      "caption": "The philosophy that governs aviation but almost nothing else: catastrophic failures must be systematically studied so they never happen twice. Why don't we do this everywhere? (via Threadverse)",
+      "quote": "catastrophic failures and harm must be systematically...",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "participation"
+      ]
+    }
+  ]
+}

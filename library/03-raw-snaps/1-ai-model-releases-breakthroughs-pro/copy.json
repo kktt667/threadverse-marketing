@@ -1,0 +1,517 @@
+{
+  "feed": "1. AI model releases + breakthroughs Pro",
+  "slug": "1-ai-model-releases-breakthroughs-pro",
+  "cards": [
+    {
+      "file": "card-01.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "vague",
+      "title": "A new model every month?",
+      "caption": "Someone asked if we've hit the point where AI model releases happen every month. Turns out that was the optimistic take.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-02.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "generic",
+      "title": "Monthly frontier releases are here",
+      "caption": "The pace of AI progress is officially unbelievable. Monthly frontier releases, and somehow that's the slow lane now.",
+      "quote": "Monthly frontier model releases will push the entire industry to innovate even faster.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-03.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sharp",
+      "title": "AI isn't a race to build anymore",
+      "caption": "Best reframe of the AI race I've seen: it's no longer about who builds it. It's about who improves it faster than everyone else. Agree? Threadverse surfaced this one.",
+      "quote": "The competition is no longer about building AI, it's about improving it faster than everyone else.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "insider",
+      "title": "What I'm tracking this week",
+      "caption": "One trader's AI watchlist this week: token momentum, model releases as catalysts, and Grok 4.5 narrative plays. What's on yours?",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-05.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "spicy",
+      "title": "90% odds GPT-5.6 ships by July",
+      "caption": "Polymarket has GPT-5.6 at a 90% chance to ship by July 31, but just 1% before June 30. The market is literally betting on the release calendar now. Threadverse caught this early.",
+      "quote": "there's a 90% chance for the public release of GPT-5.6 by July 31, but only a 1% chance it'll drop before June 30.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-06.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "landmark",
+      "title": "The US-China AI gap just closed",
+      "caption": "Stanford's 2026 AI Index says the US-China frontier model gap is effectively gone, down to ~2.7% as of March. The race everyone assumed was decided isn't. Surfaced by Threadverse.",
+      "quote": "the US-China frontier model gap has effectively closed. Top models now trade leads; gap ~2.7% as of March.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-07.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "punchy",
+      "title": "AI updates now feel like deployment",
+      "caption": "Monthly frontier releases have blurred into one thing: AI doesn't get 'updated' anymore, it just continuously deploys. When did versions stop meaning anything?",
+      "quote": "AI is starting to feel like continuous deployment.",
+      "povText": "POV: your AI model updates faster than your work apps",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-08.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "curious",
+      "title": "What's OpenAI's secret sauce?",
+      "caption": "Ask HN: OpenAI's new o1 model has everyone talking, but what's actually the secret sauce behind it? The best replies get technical fast.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-09.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "underdog",
+      "title": "Same model. 11x less compute.",
+      "caption": "A Chinese lab claims it matched frontier results with 11X less compute, purely through optimization. The efficiency race is the real arms race now. Surfaced by Threadverse.",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ],
+      "quote": "Breakthroughs enabled creating model with 11X less compute",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-10.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "audacious",
+      "title": "Brain-like AI, 100x faster",
+      "caption": "China claims a brain-like AI running 100x faster than traditional models, balancing speed and accuracy. Bold if it holds up. What's your bet? Curated by Threadverse.",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ],
+      "quote": "100 times faster than traditional models",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-11.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "niche",
+      "title": "13B models verified in 15 min",
+      "caption": "ZkML breakthrough: verifying 13B-param models in 15 minutes. Big for trustless AI, but deep in the weeds. Found by Threadverse.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-12.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "empty",
+      "title": "China's new AI model [video]",
+      "caption": "A bare video link with no context. Low signal. Skipped by Threadverse's cut.",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [],
+      "quote": "",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-13.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "title": "\"The $5-6M number is bogus\"",
+      "caption": "A tech breakthrough and a security risk. This take calls the cheap-training figure bogus and floats shorting US AI stocks. Spicy. Where do you land? Via Threadverse.",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "social_currency",
+        "identity"
+      ],
+      "quote": "The $5-6M number is bogus. Shorting U.S. AI stocks...",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-14.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "ominous",
+      "title": "Govt decides who gets AI first?",
+      "caption": "OpenAI limits a new flagship after government concerns, saying who gets early access 'should not become the long-term default.' Read that twice. Surfaced by Threadverse.",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ],
+      "quote": "who gets initial access to AI models should not 'become the long-term default'",
+      "povText": "POV: the government now decides who gets the new model first"
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-15.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "foundational",
+      "title": "Matrix math just got its biggest boost",
+      "caption": "Matrix multiplication, the math under all of AI, just got its biggest speedup in over a decade. Faster, cheaper models downstream. Curated by Threadverse.",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ],
+      "quote": "the biggest boost in more than a decade",
+      "povText": ""
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-16.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "vague",
+      "title": "Quantum-inspired AI patent",
+      "caption": "A UK-patented quantum-inspired invention, but the post cuts off before the payoff. Too thin to run. Passed by Threadverse.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ],
+      "quote": "AI workloads are growing faster than the infrastructure meant to support them",
+      "povText": ""
+    },
+    {
+      "file": "card-17.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "geopolitical",
+      "title": "DeepSeek's Next Move + China Blocks Meta's $2B Deal",
+      "caption": "DeepSeek drops another breakthrough while China blocks Meta's $2B grab of AI startup Manus. The race just got messier. Surfaced by Threadverse. Who wins 2026?",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-18.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "breakthrough",
+      "title": "DeepSeek's New Training Trick Breaks Scaling",
+      "caption": "China's DeepSeek opened 2026 with a training method analysts are calling a real breakthrough for scaling. Big if it holds. Found via Threadverse. Hype or history?",
+      "quote": "",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-19.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "scientific",
+      "title": "SCIGEN: AI That Invents Real Materials",
+      "caption": "MIT's new SCIGEN tool lets researchers hard-code design rules so generative AI actually produces breakthrough materials, not hallucinations. Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-20.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "headline",
+      "title": "DeepSeek Unveils New Flagship Model",
+      "caption": "DeepSeek drops a new flagship a year after shaking Silicon Valley. Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-21.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "consequential",
+      "title": "US Greenlights Anthropic's Mythos After Export Block",
+      "caption": "The US just reversed an export block and cleared Anthropic to release its Mythos model to select orgs, after national security fears. Policy whiplash. Via Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-22.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "cryptic",
+      "title": "Previewing GPT-5.6 Sol",
+      "caption": "A next-gen GPT-5.6 preview surfaced early. Barely any detail yet. Caught by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-23.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "underdog",
+      "title": "Italy Is Building Its Own Frontier AI",
+      "caption": "Italy's Domyn will ship a fully open-source frontier model within a year, the CEO says. Europe wants in the race. Surfaced by Threadverse. Can they catch up?",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-24.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "resourceful",
+      "title": "China Trained an AI Across Data Centers",
+      "caption": "Blocked from top chips, China trained a generative model across multiple data centers and mixed GPUs. Constraints breed invention. Found via Threadverse.",
+      "quote": "Necessity is the mother of invention.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-25.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promotional",
+      "title": "One Studio To Rule The AI Feeds",
+      "caption": "A Show HN pitch for a unified AI studio. Self-promo with thin context and low engagement. Skipping this one.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-26.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "cryptic",
+      "title": "AI Grades A Made-Up Logic System",
+      "caption": "Part 2 of an AI evaluating an obscure 'Pan-Evolutionary Logic' framework. Too niche and low-context to travel. Cut.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-27.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "clever",
+      "title": "AI That Detects Cats Without Seeing Them",
+      "caption": "Encryption breakthrough for privacy-preserving AI: models run object detection on data they can't actually read. The cat photos sell it. Where's the line on private AI?",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-28.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "explosive",
+      "title": "The Government Now Picks Who Gets The AI",
+      "caption": "Trump admin reportedly hand-picking the 100+ companies allowed to use a top AI model, plus lifting access bans. Government gatekeeping frontier models. This is the fight of the decade.",
+      "quote": "government oversight of access to AI models is here",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-29.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "provocative",
+      "title": "\"We Can't Let AI Giants Eat The Economy\"",
+      "caption": "Satya Nadella's blistering take on AI power balance and who gets to earn society's permission. A frontier CEO drawing a line in the sand. Agree or overblown?",
+      "quote": "We Can't Let AI Giants Eat The Economy",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-30.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "scrappy",
+      "title": "They Built It With 11X Less Compute",
+      "caption": "A Chinese AI lab claims breakthroughs let them train a model on 11X less compute, pure low-level optimization. If real, the compute moat just cracked.",
+      "quote": "",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-31.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "bold",
+      "title": "Brain-Like AI, 100x Faster Than Normal",
+      "caption": "China claims a brain-like AI model running 100 times faster than traditional ones, balancing speed and accuracy. Huge if it holds up. Believe the number?",
+      "quote": "100 times faster than traditional models",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "technical",
+      "title": "13B Models, Verified In 15 Minutes",
+      "caption": "A zero-knowledge ML breakthrough: verifying 13B-param models in 15 minutes. Genuinely cool but too niche and thin on context for a wide audience. Cut.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    }
+  ]
+}

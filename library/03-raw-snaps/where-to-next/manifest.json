@@ -1,0 +1,78 @@
+{
+  "feed": "Where To Next",
+  "count": 8,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@zimenduh mastodon 🌍 Europe's most memorable journeys often begin far from the famous landmarks. Hidden towns, quiet mountain villages and untouched coastlines offer authentic culture, stunning scenery and a slower pace of travel. 👉 https:// paralell.eu/trip/skriti-katche ta-v-evropa-destinaczii-dalech-ot-talpite/ # Travel # Europe # HiddenGems # SlowTravel # Adventure # Tourism See more Скрити ",
+      "handle": "@zimenduh",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://paralell.eu/trip/skriti-katcheta-v-evropa-destinaczii-dalech-ot-talpite/"
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@uc@mastodon.scot mastodon Next stop Owschlag, one of those place names which seems so strange. Unless you live there. # life # travel # train # bahn # Owschlag 💬 1",
+      "handle": "@uc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.scot/@uc/116849735872065176"
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@momentummag.bsky.social bluesky More People Travel by Bicycle Than by Car in Paris. momentummag.com/more-people-... ♥ 148 💬 3",
+      "handle": "@momentummag.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://bsky.app/profile/did:plc:bwnkultixuuvsauzbveuu6qq/post/3mpjagb7jb225"
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@Econopass@flipboard.com mastodon Travel has overtaken work, university and even mutual friends as the number one place where people form meaningful new relationships, according to new research. A study of 5,000 adults aged between… # travel # travelnews # industry https://www. breakingtravelnews.com/news/ar ticle/new-study-reveals-holidays-are-the-best-way-to-make-friends/?utm_source=flipboard&ut",
+      "handle": "@Econopass",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.breakingtravelnews.com/news/article/new-study-reveals-holidays-are-the-best-way-to-make-friends/?utm_source=flipboard&utm_medium=activitypub"
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@ricksteves.bsky.social bluesky Watch Now — My Spring 2026 Trip Report: 50 Days and 50 Nights in Europe More than 3,000 travelers joined me live on Monday Night Travel as I shared photos, stories, and lessons learned from nearly two months of guidebook research across Europe. Watch a recording: www.ricksteves.com/travel-tips/... Rick’s Spring 2026 Trip Report — 50 Days and 50 Nights in Europe Enjo",
+      "handle": "@ricksteves.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.ricksteves.com/travel-tips/travel-classes/monday-night-travel/2026-spring-report"
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@mirror.co.uk@web.brid.gy mastodon UK's best city break is 'underrated' gem - not London or Manchester https:// fed.brid.gy/r/https://www.mirr or.co.uk/travel/uk-ireland/uks-best-city-break-underrated-37320470",
+      "handle": "@mirror.co.uk",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://fed.brid.gy/r/https://www.mirror.co.uk/travel/uk-ireland/uks-best-city-break-underrated-37320470"
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@indienreisen mastodon Learn the great Indian recipe. Which is mouth-melting, once you try! Travel with us and learn that too in the cooking course. # chickenanything # recipe # travel # kochen https:// youtu.be/Md0XO9kKjEk?si=0_lxOD h99U-GGguq Butter Chicken Indien - Murg Makhni - Homemade - Indische Curry Rezept mit Tandoori Hähnchen youtu.be ♥ 1",
+      "handle": "@indienreisen",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtu.be/Md0XO9kKjEk?si=0_lxODh99U-GGguq"
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@tubemapper.bsky.social bluesky I love noticing little moments of symmetry as I travel on the London Underground network. I spotted this perfect alignment at Whitechapel station. ♥ 319 💬 3",
+      "handle": "@tubemapper.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://bsky.app/profile/did:plc:6f25czjhfmalpoattgvqyva3/post/3mpngktvops2f"
+    }
+  ]
+}

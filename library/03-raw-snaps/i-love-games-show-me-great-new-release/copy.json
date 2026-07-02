@@ -1,0 +1,529 @@
+{
+  "feed": "I love games",
+  "slug": "i-love-games-show-me-great-new-release",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-01.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "esoteric",
+      "title": "The Godfather of Near-Death Studies",
+      "caption": "An interview with Raymond Moody, the man who coined 'near-death experience.' Niche but heartfelt. Surfaced from ~5,000 posts.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-02.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "snarky",
+      "title": "Cited a philosophy journal for a 'biology' argument",
+      "caption": "The kind of dunk that only lands if you saw the original. Too much missing context to fly on its own.",
+      "quote": "Lol he cited a philosophy journal to support his \"biological\" argument",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-03.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "wry",
+      "title": "The journey there is also funny",
+      "caption": "A recommendation for a dialogue on why to fund philosophy grad schools. Charming, but cryptic without the link.",
+      "quote": "The prescience of the conclusion is one thing; the journey there is also funny.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-04.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "defiant",
+      "title": "Writing well is now 'anti-intellectualism'",
+      "caption": "A John Locke quote on learning from children, plus a sharp modern read: write clearly and people call it dangerous. Which side are you on? Curated by Threadverse.",
+      "quote": "These days it's sort of dangerous to play when you write like this as people will take it as anti-intellectualism.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-05.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "savage",
+      "title": "What are you gonna DO with a philosophy degree?",
+      "caption": "Every philosophy major has heard the smug question. This is the most ruthless comeback we've seen. 361 likes and climbing. What's your answer?",
+      "quote": "provide a veneer of intellectual respectability to a nasty hate movement targeting a vulnerable minority",
+      "povText": "POV: someone just asked what you'll do with your philosophy degree",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "emotion",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-06.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "lyrical",
+      "title": "The cure for all ill is cordial speech",
+      "caption": "Emerson, quoted by a bot named after him, and it still hits. A small line worth carrying around. Threadverse kept this one.",
+      "quote": "The music that can deepest reach, And cure all ill, is cordial speech.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-07.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unbothered",
+      "title": "Reason, revelation, whatever — don't expect me to fix it",
+      "caption": "The most freeing take on faith vs reason: do what you want, just don't make me reconcile it for you. Team reason or team revelation?",
+      "quote": "Just don't expect me to reconcile those things on your behalf.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-08.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "cheeky",
+      "title": "The one field famous for name-calling",
+      "caption": "Attributed to Jerry Fodor: analytic philosophy is the one discipline with zero norm against calling people names. Accurate, and hilarious. Surfaced by Threadverse.",
+      "quote": "we are, very famously, the one field that doesn't have that norm",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social_currency",
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-09.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "analytical",
+      "title": "Why \"GORE\" Is a Design Choice",
+      "caption": "A whole design breakdown on how game genres shape everything from pacing to gore. Indie Game Clinic goes deep. Surfaced from the noise. What genre do you defend to the death?",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-10.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "curious",
+      "title": "What Really Happens at Launch?",
+      "caption": "Genuine question every gamer has wondered: is shipping a game just \"bugfixing is a nightmare\" or is there way more to it? Devs, sound off in the replies.",
+      "quote": "is it as simple as \"bugfixing is a nightmare for indie devs\" or is there more to it?",
+      "povText": "POV: you just finished a game and wonder what the devs went through",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation",
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-11.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promotional",
+      "title": "This Week's Switch Drops",
+      "caption": "A weekly eShop roundup of the newest Switch releases. Useful but generic listicle energy. Threadverse pulled it, but it's low-signal.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-12.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "encouraging",
+      "title": "How Do You Actually Start?",
+      "caption": "The scariest question in gamedev, answered. RETRODEAD's beginner guide for anyone who's ever wanted to make a game but froze at step one. Playable demos included.",
+      "quote": "",
+      "povText": "POV: you want to make a game but have no idea where to start",
+      "format": "pov",
+      "bestPlatform": "tiktok",
+      "triggers": [
+        "identity",
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-13.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "playful",
+      "title": "\"We Wanted You to Fall Asleep\"",
+      "caption": "A game literally designed to put you to sleep, from devs making indie games that matter. The chaotic thumbnail alone earned the repost. Would you play a game meant to knock you out?",
+      "quote": "We wanted you to fall asleep!",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-14.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "devlog",
+      "title": "Agents of Groove Devlog",
+      "caption": "A soundtrack-and-art-update devlog for Agents of Groove on Playdate. Nice for fans, but too niche and in-the-weeds to travel.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-15.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "provocative",
+      "title": "Big AI Chases Trillions. Indies Just Ship.",
+      "caption": "The sharpest take on AI in games this week: the giants chase infrastructure while small studios quietly punch above their weight. Agree or hype?",
+      "quote": "The biggest AI labs are chasing trillion-dollar infrastructure problems. Meanwhile, small indie studios are already using AI to punch far above their weight.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-16.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "wholesome",
+      "title": "A Sledding Game Made With Heart",
+      "caption": "New on Game Pass: a sledding game from The Sledding Corporation that's fun, funny, and clearly a labor of love. You can feel the passion. What's your latest cozy find?",
+      "quote": "it seriously looks so fun and also really funny. You can tell the dev is passionate about it and it's a heartfelt...",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-17.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "awe",
+      "title": "The Egyptian carvings are the level",
+      "caption": "An indie game called Fresco where the ancient Egyptian wall carvings ARE the playable environment. Wild art direction. What upcoming indie has your attention? Surfaced by Threadverse.",
+      "quote": "The Egyptian carvings are actually the playable environment",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-18.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "relatable",
+      "title": "It broke and nobody knows when",
+      "caption": "Every dev knows this exact horror: a part of the game that always worked suddenly doesn't, and you have no idea how long it's been broken. Threadverse found the most relatable gamedev post of the day.",
+      "quote": "you have no idea for how long it has been broken",
+      "povText": "POV: you open an old feature and it's just... gone",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-19.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "preachy",
+      "title": "Use AI for what you're bad at",
+      "caption": "A gamedev's take on the hybrid AI pipeline: use AI for what you're bad at, keep the good stuff human. Solid but wordy. Surfaced by Threadverse.",
+      "quote": "Use AI for what it's good at and use basic 3D for what it's bad at",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-20.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "nerdy",
+      "title": "What eats your Game Boy ROM?",
+      "caption": "A dev breaks down exactly what devours the most ROM space on a Game Boy game. Spoiler: it's the music. Beautiful nerd content. Threadverse pulled this from the feed.",
+      "quote": "It's always music...",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-21.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "listy",
+      "title": "July 2026 game releases",
+      "caption": "The full July 2026 video game release list. Useful, but it's a list with no payoff in the crop. Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-22.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "charming",
+      "title": "45 minutes of pure jumpscares",
+      "caption": "A tiny horror game called Midnight Prowl: 45 minutes, packed with jumpscares that made the player literally scream, gorgeous environments. Perfect spooky snack. Found by Threadverse.",
+      "quote": "packed with spooky moments and jumpscares that totally made me scream",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-23.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "curious",
+      "title": "Plant + remedy = medicine",
+      "caption": "A crafting game where Herbal Remedy + Plant = Medicine, with thousands of combos to discover. Fun hook but the crop is busy. Surfaced by Threadverse.",
+      "quote": "What do YOU think Medicine combines with?",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-24.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "title": "Nobody is watching 24/7",
+      "caption": "Devs track metrics in a spreadsheet, then Slack, then Discord, then the App Store. Nobody watches 24/7. A clean pitch for an AI analyst that does. Threadverse found the sharpest gamedev take today.",
+      "quote": "Nobody is watching 24/7.",
+      "povText": "POV: you're refreshing your Steam reviews for the 40th time today",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-25.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "vindicated",
+      "title": "AI Reviews Drop 58% For Indie Games",
+      "caption": "A stat every indie dev is quietly panicking about: AI-generated reviews can cut Steam reviews for indie games by up to 58%. Good news or the end of the honest review? Surfaced by Threadverse.",
+      "quote": "GenAI can decrease reviews for indie game on Steam by as much as 58%",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-26.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "salesy",
+      "title": "The Gap Between Shipping And Earning",
+      "caption": "Every indie dev knows the gap: shipping a game and earning from it are a dozen tasks apart. Reads like a product pitch though. Surfaced by Threadverse.",
+      "quote": "The gap between shipping a game and one that earns revenue is a dozen tasks nobody has time for.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-27.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "eerie",
+      "title": "A Horror Game Became A Movie",
+      "caption": "The Convenience Store: a short indie horror game reborn as a Japanese horror film. Does the adaptation do it justice? Curated by Threadverse.",
+      "quote": "",
+      "povText": "POV: your favorite indie horror game just became a movie",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-28.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "cutoff",
+      "title": "Running The Actual Numbers",
+      "caption": "A dev promising to crunch real player-backstory numbers, but the post cuts off mid-sentence. No payoff to share yet. Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-29.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "wholesome",
+      "title": "A Game Jam To Build Games Blind Gamers Can Play",
+      "caption": "A whole game jam dedicated to making games blind gamers can actually play. Old or new, they want devs to collaborate. This is the good internet. Curated by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-30.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "cutoff",
+      "title": "Drop Your Indie Launch In The...",
+      "caption": "A weekly indie releases roundup call, but this snap is just the truncated RT with no visuals. The fuller version exists elsewhere. Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-31.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "showcase",
+      "title": "This Week's Indie Drops, All In One Grid",
+      "caption": "Weekly indie releases, laid out like a menu of tiny worlds. Launching something soon? Drop it in the replies. Curated by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation",
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-32.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "heartfelt",
+      "title": "An Indie Game Outperforming AAA Gave Him Hope",
+      "caption": "Watching an indie game outperform recent AAA titles reminded him people care about personality over budget. What indie beat the blockbusters for you? Surfaced by Threadverse.",
+      "quote": "People care about personality of the product versus the budget of the game.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    }
+  ]
+}

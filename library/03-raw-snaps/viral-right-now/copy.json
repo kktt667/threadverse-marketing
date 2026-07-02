@@ -1,0 +1,491 @@
+{
+  "feed": "Viral Right Now",
+  "slug": "viral-right-now",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-01.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "chaotic",
+      "title": "Deltarune trended so hard it #deltaruined",
+      "caption": "Fandom joy and fandom despair are the same emotion. Deltarune trends, the timeline melts. Threadverse caught this one mid-meltdown. What game does this to you?",
+      "quote": "Deltarune is trending again #deltaruined",
+      "povText": "POV: your favorite game updates and the whole timeline loses it",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-02.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stan",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-03.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "wholesome",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-04.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "cryptic",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-05.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "deadpan",
+      "title": "Every trending celebrity, two possible reasons",
+      "caption": "The two-question flowchart everyone secretly runs when a celebrity trends. 888 people felt this in their bones. Threadverse surfaced it from the noise. Which one do YOU brace for first?",
+      "quote": "wait are they dead or are they nazis",
+      "povText": "POV: a celebrity is trending and you already know it's one of two things",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-06.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stan",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-07.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "cinematic",
+      "title": "My reaction to the top trending topic: There wolf.",
+      "caption": "Young Frankenstein energy for whatever is trending today. 'There wolf.' says everything and nothing. Threadverse pulled this gem from the pile. What's your go-to reaction gif?",
+      "quote": "There wolf.",
+      "povText": "POV: you open the trending tab and this is the only correct response",
+      "format": "pov",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-08.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "meta",
+      "title": "Today's fastest-climbing users, ranked",
+      "caption": "A leaderboard of who's trending up right now. Fun idea, but the names mean nothing without context. Threadverse saw it climb. Would you follow a 'who's rising' feed?",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-09.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "disturbing",
+      "title": "",
+      "caption": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-10.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "spam",
+      "title": "",
+      "caption": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-11.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "validating",
+      "title": "Hip dips were never a thing",
+      "caption": "Nobody had a name for it until it started trending. The internet invents insecurities for fun now. What's yours? Surfaced by Threadverse.",
+      "quote": "nobody i know has ever so much as brought up the concept of hipdips",
+      "povText": "POV: you were fine until the algorithm told you weren't",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-12.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "cryptic",
+      "title": "",
+      "caption": "",
+      "format": "banner",
+      "bestPlatform": "tiktok",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-13.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "confused",
+      "title": "",
+      "caption": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-14.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "stan-farming",
+      "title": "",
+      "caption": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-15.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "cryptic",
+      "title": "",
+      "caption": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-16.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "nostalgic",
+      "title": "",
+      "caption": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-17.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stanspam",
+      "title": "We Want Valko Back",
+      "caption": "Day 3 of a fandom trending campaign. Zero context for anyone outside it. Noise, not signal.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-18.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "deadpan",
+      "title": "Me, Looking At Trending Topics",
+      "caption": "That old-film man staring into the sea IS the mood every time you open trending. We feel this in our algorithm. Reply with your trending-tab face.",
+      "quote": "(Looks at trending topics...) Me:",
+      "povText": "POV: you open the trending tab and immediately regret it",
+      "format": "pov",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-19.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "unhinged",
+      "title": "Clicked Stephen Miller, Got Louisiana",
+      "caption": "The #1 trending topic linked to a timeline about the wrong Miller and the wrong LA entirely. Trending is broken and this is the funniest proof. One feed, zero noise beats this.",
+      "quote": "Both L.A. and LA as in Louisiana, no Miller at all.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-20.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "schedule",
+      "title": "Start Trending 9:15",
+      "caption": "A coordinated fan-account trend schedule. All logistics, no payoff for outsiders.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-21.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "kpop",
+      "title": "New #1 Trending MV",
+      "caption": "A K-pop chart-milestone RT. Big for the fandom, flat for everyone else.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-22.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "adspam",
+      "title": "Krystari Thanks Purina",
+      "caption": "A brand-tag trending push in another language. Pure campaign noise.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-23.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "schedule",
+      "title": "Start Trending 9:15",
+      "caption": "Another fan-account concert trend schedule. Same logistics-only template, no hook.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-24.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "chaotic",
+      "title": "SAMI Is Trending. Do Not Google It.",
+      "caption": "\"Trending, something about grabbing sweaty men? Sounds about right.\" The exact energy of every mystery trend nobody can explain. What trend has YOU this confused?",
+      "quote": "Apparently SAMI is trending, something to do with grabbing sweaty men? Sounds about right :3",
+      "povText": "POV: something is trending and you're terrified to find out why",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-25.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stan-spam",
+      "title": "Day 3: We Want Valko Back",
+      "caption": "A fandom on day 3 of a coordinated campaign to get a character back in a game. High energy, zero context for anyone outside the stan circle.",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-26.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "deadpan",
+      "title": "Me Looking At Trending Topics",
+      "caption": "That black-and-white gentleman staring into the void = all of us checking what's 'trending' lately. The feed knows what it did. What's the worst trend you saw this week?",
+      "quote": "(Looks at trending topics...) Me:",
+      "povText": "POV: you open the trending tab and immediately regret it",
+      "format": "pov",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-27.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "vindicated",
+      "title": "Clicked 'Stephen Miller.' Got Louisiana.",
+      "caption": "Trending links so broken that #1 'Stephen Miller' surfaced a timeline about L.A. and Louisiana with zero Miller in sight. This is exactly why we curate instead of trend-chase. Ever clicked a trend and gotten nonsense?",
+      "quote": "Both L.A. and LA as in Louisiana, no Miller at all.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-28.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stan-schedule",
+      "title": "Gawin Caskey: Start Trending 9:15",
+      "caption": "A fan-org posting exact trend-timing instructions for a GMMTV live house event. Pure coordination logistics, no hook for outsiders.",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-29.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "kpop-flex",
+      "title": "BABYMONSTER Hits #1 Worldwide",
+      "caption": "'I LIKE IT' teaser by BABYMONSTER claiming the #1 trending music video spot on YouTube worldwide. Real milestone, but it's a bare RT with a cut-off link.",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-30.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "hashtag-spam",
+      "title": "Krystari Thanks Purina",
+      "caption": "A Tagalog stan-vote RT thanking a sponsor with a campaign hashtag. Fully inside-baseball, no standalone payoff.",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-31.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stan-schedule",
+      "title": "Joss Way-Ar: Start Trending 9:15",
+      "caption": "Another GMMTV live-house trend-timing schedule post, near-identical to the Gawin one. Coordination logistics only.",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "participation",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/viral-right-now/card-32.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "unhinged",
+      "title": "'SAMI Is Trending. Something About Sweaty Men.'",
+      "caption": "The single funniest way to react to a trend you don't understand: shrug and say 'sounds about right :3'. Chaotic Bluesky energy, 1.9k likes deep. Do you even check WHY things trend anymore?",
+      "quote": "Apparently SAMI is trending, something to do with grabbing sweaty men? Sounds about right :3",
+      "povText": "POV: it's trending and you've decided not to look into it",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "social_currency",
+        "identity"
+      ]
+    }
+  ]
+}

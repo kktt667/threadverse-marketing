@@ -1,0 +1,15 @@
+# Auth session — NEVER commit (contains login cookies/tokens)
+capture/sessions/
+storage-state.json
+.env
+
+# Node
+node_modules/
+
+# Generated assets are large; keep raw out of git, commit only finals you choose
+assets/raw/
+*.log
+
+# OS
+.DS_Store
+.env.local

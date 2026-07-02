@@ -1,0 +1,139 @@
+{
+  "feed": "Where To Next",
+  "slug": "where-to-next",
+  "cards": [
+    {
+      "file": "card-01.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "wanderlust",
+      "title": "Europe's Best Trips Start Where Tourists Don't",
+      "caption": "Hidden towns, quiet mountain villages, untouched coastlines. The most memorable European journeys begin far from the famous landmarks. Where's your under-the-radar find? Surfaced by Threadverse.",
+      "quote": "Europe's most memorable journeys often begin far from the famous landmarks.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "card-02.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "obscure",
+      "title": "Next Stop: Owschlag",
+      "caption": "A place name so strange it stops you mid-scroll, unless you live there.",
+      "quote": "Next stop Owschlag, one of those place names which seems so strange. Unless you live there.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-03.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "surprising",
+      "title": "More Parisians Bike Than Drive",
+      "caption": "In Paris, more people now travel by bicycle than by car. The city quietly flipped. Would your city ever pull this off? Surfaced by Threadverse.",
+      "quote": "More People Travel by Bicycle Than by Car in Paris.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "validating",
+      "title": "Travel Beats Work For Making Friends",
+      "caption": "New study of 5,000 adults: travel has overtaken work, school, and mutual friends as the #1 place people form meaningful new relationships. Who's your best travel-made friend? Via Threadverse.",
+      "quote": "Travel has overtaken work, university and even mutual friends as the number one place where people form meaningful new relationships.",
+      "povText": "POV: your closest friend is someone you met on a trip",
+      "format": "splitProof",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-05.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "epic",
+      "title": "50 Days. 50 Nights. All Of Europe.",
+      "caption": "Rick Steves spent nearly two months researching Europe, then went live to 3,000+ travelers to share every story and lesson. The trip report is a masterclass. Surfaced by Threadverse.",
+      "quote": "50 Days and 50 Nights in Europe",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "social_currency",
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-06.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "title": "The UK's Best City Break Isn't London",
+      "caption": "Not London. Not Manchester. The UK's best city break is a place most people underrate entirely. Bold call, or dead right? Surfaced by Threadverse.",
+      "quote": "UK's best city break is 'underrated' gem - not London or Manchester",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-07.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promotional",
+      "title": "Butter Chicken, Homemade",
+      "caption": "A homemade Murg Makhni recipe, learned on a cooking course while traveling India.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-08.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "serene",
+      "title": "Perfect Symmetry At Whitechapel",
+      "caption": "Someone who notices the quiet moments most commuters rush past, a perfectly symmetrical frame on the London Underground. Travel is in the details. Surfaced by Threadverse.",
+      "quote": "I love noticing little moments of symmetry as I travel on the London Underground network.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    }
+  ]
+}

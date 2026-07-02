@@ -1,0 +1,522 @@
+{
+  "feed": "Honest founder stories",
+  "slug": "honest-founder-stories-with-engagement",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-01.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "contrarian",
+      "title": "Hey Founders: Shut Up.",
+      "caption": "\"Speak less, listen more.\" A founder's take on what journalists know that we don't. Surfaced by Threadverse from the noise. Does listening actually beat pitching?",
+      "quote": "Hey Founders: Shut Up. Speak less, listen more.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-02.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "insightful",
+      "title": "Turn your first users into distribution",
+      "caption": "\"Most solo founders stop growing after their first few users.\" The fix isn't more users, it's making the ones you have your channel. Threadverse pulled this one. Agree?",
+      "quote": "The real unlock is turning your first users into your distribution.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-03.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "dated",
+      "title": "Startup lessons from 2014",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-04.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "raw",
+      "title": "Nobody posts the version that embarrassed them",
+      "caption": "The part everyone skips telling founder stories: the embarrassing first attempt. So everyone thinks version one is supposed to be good. It's not. Threadverse found this gem.",
+      "quote": "Nobody posts the version that embarrassed them.",
+      "povText": "POV: your first attempt was supposed to be bad and nobody told you",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-05.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stale",
+      "title": "Two founders, 2013 lessons",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-06.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "obscure",
+      "title": "Five lessons from NewsTilt",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-07.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "generic",
+      "title": "Vision. Execution. Domination.",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-08.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "vulnerable",
+      "title": "Why fundraising is a terrible experience",
+      "caption": "A first-time founder on the terrible truths of raising: \"Last week we announced our seed round publically...\" Then the honest part. 80 likes, 68 replies. Threadverse surfaced it.",
+      "quote": "Why fundraising is a terrible experience for founders.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-09.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "linky",
+      "title": "Delivering Founder Happiness",
+      "caption": "A bare YouTube link with 2 likes and no story of its own. Not enough context to carry a repost. Threadverse found it, but this one stays in the feed.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-10.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "generous",
+      "title": "I told these stories so often I wrote them down",
+      "caption": "A founder kept fielding the same question from mentees, so they finally wrote the whole playbook down. How to keep it from falling over, pass the audit, scale infra without rot. What's the story you've retold 100 times? Surfaced by Threadverse.",
+      "quote": "how do you actually do it - keep it from falling over, pass the audit, scale infra without it rotting?",
+      "povText": "POV: you've answered the same founder question so many times you finally wrote the book",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "participation",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-11.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "linky",
+      "title": "Founder's Lessons: Lisha Li",
+      "caption": "Another bare YouTube link, 2 likes, no quotable hook on the card itself. Good talk, weak tile. Threadverse keeps it in the feed, not the repost pile.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-12.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "raw",
+      "title": "Hard, tough, frustrating and rewarding — possibly all at once",
+      "caption": "Evolution of a Founder, in one honest line: being a startup founder is hard, tough, frustrating and rewarding, possibly all at the same time. Which of the four hits hardest for you today? Surfaced by Threadverse.",
+      "quote": "Being a startup founder is hard, tough, frustrating and rewarding – possibly all at the same time",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-13.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "insider",
+      "title": "The most inspirational stories in fintech",
+      "caption": "A reply name-dropping Plaid and Lead Bank as fintech's best founder stories. Great if you're deep in fintech, too inside-baseball and low-context for a broad repost. Stays in the feed.",
+      "quote": "some of the most inspirational stories in fintech",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-14.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "reflective",
+      "title": "Lessons from building a dev tools company",
+      "caption": "JD Trask on the lessons of building Mindscape, a dev tools company. Written back in 2011 and still surfacing, because the hard-won founder stuff doesn't expire. Dev founders: which lesson took you longest? Found by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-15.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "proven",
+      "title": "Lessons from starting TWO B2B startups",
+      "caption": "153 likes, 31 replies: a founder breaks down sales lessons from starting two B2B startups, not one. The people who've done it twice are the ones worth reading. What's your #1 B2B sales lesson? Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "social_currency",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-16.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "brutal",
+      "title": "This. Shit. Is. Hard.",
+      "caption": "\"This. Shit. Is. Hard.\" A designer left a cushy role at one of NYC's biggest venture studios to start a company, and led with the truest founder line there is. Founders: when did it get real for you? Found by Threadverse.",
+      "quote": "This. Shit. Is. Hard.",
+      "povText": "POV: you left the cushy job to build the thing and week one taught you everything",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-17.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "underdog",
+      "title": "The 'have-not' label is dead",
+      "caption": "For decades Atlantic Canada was defined by what it lacked. New data says it now posts the most optimistic entrepreneurs in the country. Which region got wildly underrated? Surfaced by Threadverse.",
+      "quote": "The 'have-not' label is dead.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-18.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "insidery",
+      "title": "I heard about Turok weekly",
+      "caption": "Too much inside-baseball, no payoff for outsiders. Skip.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-19.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "hypey",
+      "title": "$0 raised, zero AI products",
+      "caption": "Hashtag-stuffed pitch-deck bait with a garbled '0M from ARK' hook. Low signal. Skip.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-20.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "resigned",
+      "title": "You can fight gravity. You can't beat it.",
+      "caption": "When the founder invites a VC in, then the VC decides it's time for the founder to go. One line from Micke Paqvalén still stings. Ever watched a founder get pushed out? Found via Threadverse.",
+      "quote": "You can fight gravity but cannot beat it.",
+      "povText": "POV: you gave a VC a board seat and now they're voting on your job",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-21.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "linkbait",
+      "title": "22 lessons from Oliver Samwer",
+      "caption": "Bare listicle link, no screenshot or standout line. Not enough here. Skip.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-22.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "generic",
+      "title": "Tomer Tagrin on raising money",
+      "caption": "Repeated-title link card with no hook or quotable line. Low context. Skip.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-23.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "corporate",
+      "title": "8 lessons from working at Apple",
+      "caption": "Aggregated Business Insider listicle, no founder-voice or standout line. Off-vibe for honest stories. Skip.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-24.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "candid",
+      "title": "Why thinkpanda.com failed",
+      "caption": "Fahd Butt breaks down exactly why his startup died. The failure post-mortems always teach more than the wins. What killed a company you rooted for? Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "POV: reading the failure post-mortem you wish you'd read before starting",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-25.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "reflective",
+      "title": "Today I Am 30. Here's What I Learned.",
+      "caption": "The StackAdapt founder hit 30 and wrote the lessons down. 'You still remember yourself when...' Rare kind of honest. What would your 30-year-old self tell you? Surfaced by Threadverse.",
+      "quote": "Today I am 30. Here are a few lessons I learned.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-26.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "generic",
+      "title": "Getting To Beta",
+      "caption": "Founder lessons on getting to beta. Solid, but thin on the actual story. Threadverse skims 5,000 posts so you only see the ones with teeth.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-27.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "counterintuitive",
+      "title": "Better Hiring Doesn't Start With Better Resumes",
+      "caption": "Most founders think great hiring starts with great resumes. Testlify's founder found the opposite. Focus, feedback, relentless execution. Do you read resumes or ignore them? Via Threadverse.",
+      "quote": "Most founders think better hiring starts with better resumes. He discovered the opposite.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-28.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "title": "Vertical AI Products Will Lose. Here's Why.",
+      "caption": "'Vertical AI products will lose market share to horizontal AI competitors unless...' The bitter lesson nobody building an AI wrapper wants to hear. Agree? Surfaced by Threadverse.",
+      "quote": "Vertical AI products will lose market share to horizontal AI competitors unless...",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-29.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "vague",
+      "title": "Co-Founder Lessons Learned",
+      "caption": "Lessons from a co-founders meetup. Decent buzz, but the headline is all we get. Threadverse keeps the ~50 posts that actually deliver.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-30.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "candid",
+      "title": "The Product Hunt Spike Fades. Then What?",
+      "caption": "'After the initial Product Hunt spike, there's...' Every indie hacker knows this drop. He built a whole platform around the after. What did you do post-launch? Via Threadverse.",
+      "quote": "After the initial Product Hunt spike, there's...",
+      "povText": "POV: your launch-day traffic graph on day 3",
+      "format": "pov",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-31.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "burnt-out",
+      "title": "3 Years Of Side Projects. Zero Energy Left.",
+      "caption": "'Many evenings and weekends were burnt. Yet I gained ve...' The most honest founder post this week. 41 replies of people who've been there. Have you? Surfaced by Threadverse.",
+      "quote": "Many evenings and weekends were burnt. Yet I gained ve...",
+      "povText": "POV: 3 years of nights and weekends and you're asking 'what now?'",
+      "format": "pov",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/honest-founder-stories-with-engagement/card-32.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "hard-won",
+      "title": "I Built 4 Products Before Learning This",
+      "caption": "'I built 4 products before learning the boring SaaS lesson: demand comes first.' The most expensive lesson in startups, in one line. How many did it take you? Via Threadverse.",
+      "quote": "I built 4 products before learning the boring SaaS lesson: demand comes first",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "novelty"
+      ]
+    }
+  ]
+}

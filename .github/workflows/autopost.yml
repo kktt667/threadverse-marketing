@@ -1,0 +1,69 @@
+name: autopost
+
+# Posts whatever is "due" in autopost/queue.json to X / Bluesky / Mastodon.
+# Runs on a schedule (cloud — your Mac can be off) and can be triggered manually.
+
+on:
+  schedule:
+    # Every 2 hours. Cron is UTC. The poster only sends items whose scheduled time has passed,
+    # so the effective posting times are your queue's slots (08/12/14/17/19/21/23 UTC).
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (no real posts)'
+        type: boolean
+        default: false
+      post_now:
+        description: 'Ignore schedule, post next item per platform'
+        type: boolean
+        default: false
+
+# Allow the job to push posted.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install sharp (image compression)
+        run: npm install sharp --no-save
+
+      - name: Post due items
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          POST_NOW: ${{ github.event.inputs.post_now == 'true' && '1' || '' }}
+          MAX_PER_RUN: '20'
+        run: node autopost/post.js
+
+      - name: Commit posted.json (persist what was sent)
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "autopost-bot"
+          git config user.email "autopost@users.noreply.github.com"
+          if ! git diff --quiet autopost/posted.json; then
+            git add autopost/posted.json
+            git commit -m "autopost: update posted.json [skip ci]"
+            git push
+          else
+            echo "nothing new posted"
+          fi

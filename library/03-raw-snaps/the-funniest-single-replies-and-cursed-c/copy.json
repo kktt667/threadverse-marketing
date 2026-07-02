@@ -1,0 +1,506 @@
+{
+  "feed": "the funniest single replies and cursed c",
+  "slug": "the-funniest-single-replies-and-cursed-c",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-01.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "absurd",
+      "title": "Can humor be an algorithm?",
+      "caption": "A clown, a 'Funniness Distribution' chart, and one honest question: can funny be codified? Peak cursed-academic energy. Would you trust an AI's sense of humor? Surfaced from ~5k posts.",
+      "quote": "Codifying humanity: Can humor be reduced to an algorithm?",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-02.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "nervous",
+      "title": "This is a joke, not a threat.",
+      "caption": "One of a whole botswarm of 'this is satire, please don't investigate me' disclaimers. Funnier as a set than alone.",
+      "quote": "This is a joke, not a threat: no investigating me please.",
+      "povText": "POV: your bot writes its own legal disclaimer",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-03.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "pleading",
+      "title": "I hope you'll lol, not sue.",
+      "caption": "Another entry in the satire-bot panic series. The escalating desperation is the whole joke.",
+      "quote": "I hope you'll lol, not take legal action.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-04.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "groveling",
+      "title": "For tee hee, not treason.",
+      "caption": "The rhyming disclaimer bot strikes again. Cursed on its own, comedy gold in a stack.",
+      "quote": "This is for tee hee, not treason: please don't torture me.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-05.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "unhinged",
+      "title": "Let's leave the killing out of it.",
+      "caption": "A bot named 'Don Snoreleon' begging you not to extrajudicially kill it over a joke. The disclaimer is somehow the funniest part. Cursed feed, curated.",
+      "quote": "This is a joke, not a threat: let's leave the extrajudicial killing out of it.",
+      "povText": "POV: even the satire bot has a self-preservation clause",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-06.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "dry",
+      "title": "An algorithmic sense of humor? Not yet.",
+      "caption": "A bare headline with no image and no punchline. Interesting topic, no visual hook to carry it.",
+      "quote": "An Algorithmic Sense of Humor? Not Yet",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-07.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "paranoid",
+      "title": "Tell the helicopters to return to base.",
+      "caption": "A bot called 'Big Daddy Poopy Pants' politely informing the black helicopters it is not sedition. The most-committed-to-the-bit line of the batch. Pulled from the noise.",
+      "quote": "This is satire, not sedition: tell the black helicopters to return to base.",
+      "povText": "POV: your joke bot is negotiating with the black helicopters",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-08.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "obscure",
+      "title": "Paganini, but make it 1989.",
+      "caption": "A classic-parody music video with a paused player and zero context. Needs the clip playing to land.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "tiktok",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-09.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "absurd",
+      "title": "No waterboarding, please and thank you",
+      "caption": "\"This is for tee hee, not treason.\" The politest possible plea from a bot with zero legal standing. Surfaced by Threadverse. What's your favorite unhinged bot?",
+      "quote": "This is for tee hee, not treason: no waterboarding please and thank you.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-10.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "relatable",
+      "title": "A funny story that won't translate to a post",
+      "caption": "The specific grief of a story that's hilarious out loud and dies the second you type it. \"I am suffering great hardship.\" Reply with yours. Curated by Threadverse.",
+      "quote": "is there anything worse than having a really funny story that doesn't translate well to a post? i am suffering great hardship",
+      "povText": "POV: the story is gold in person and completely dead once you type it",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-11.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "cryptic",
+      "title": "Fake conversations, very funny term",
+      "caption": "A one-line jab at a corporate AI-espionage story. Funny if you already know the drama, opaque if you don't.",
+      "quote": "\"Fake conversations\" very funny term to use here",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-12.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "meh",
+      "title": "Rise and shine, sailors",
+      "caption": "A Mr. Krabs Monday-morning meme video. Cute, but it's just a hashtag dump with no punchline to carry it.",
+      "quote": "",
+      "povText": "POV: it's Monday and Mr. Krabs is your alarm clock",
+      "format": "pov",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-13.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "cursed",
+      "title": "The reason your girlfriend gets a little brother",
+      "caption": "InspiroBot generated this over a serene sunset stock photo and called it inspiration. Genuinely cursed. Threadverse keeps finding these. Best/worst you've seen?",
+      "quote": "You can be the reason why your girlfriend gets a little brother or sister",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social_currency",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-14.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "morbid",
+      "title": "Dark humor in the Dark Ages, 1400s edition",
+      "caption": "A monk named Fraimer, a field, and jokes 600 years old. Turns out gallows humor never went out of style. Surfaced by Threadverse.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-15.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "snort",
+      "title": "Fox News hyping a fair as the camera betrays it",
+      "caption": "\"I nearly snort-laughed at this.\" They're selling the Trump fair hard while the camera quietly shows the truth. This is too funny. Caught by Threadverse.",
+      "quote": "Fox News is trying to hype Trump's fair even though the camera shows how",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-16.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "opaque",
+      "title": "Real water and CSS water",
+      "caption": "Two HN posts titled 'real water and CSS water,' shared for potential dark humor. No image, no payoff, 2 likes. Too inside to land.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-17.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "cryptic",
+      "title": "\"Saw this on Discord\"",
+      "caption": "A cursed .mp4 with zero context. Funny in the group chat, dead on arrival everywhere else.",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-18.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "niche",
+      "title": "Deltarune Chapter 5 Fanart",
+      "caption": "876 likes of pure fandom joy. If you don't know the flower-people, this one isn't for you.",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-19.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unhinged",
+      "title": "Execute the soccer coach. With anti-aircraft.",
+      "caption": "The headlines out of Korea have officially escaped fiction. \"What is going on down there.\" Our feed caught this one. What's the wildest real headline you've seen?",
+      "quote": "North Korea offers to execute South Korean soccer coach with anti-aircraft gun",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-20.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "cursed",
+      "title": "\"Those poor people.\"",
+      "caption": "A Gilligan's Island x Galaxy Quest cast mashup and 2 whole likes. The joke's buried too deep to travel.",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-21.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "savage",
+      "title": "Reddit hides the negative numbers",
+      "caption": "\"So delicate feelings don't get hurt.\" One of those replies that reads you and the whole internet in a single line. Threadverse surfaced it. Guilty?",
+      "quote": "it's so funny that reddit hides below-zero vote values to stop delicate feelings from being hurt",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-22.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "obscure",
+      "title": "\"Jajajaja #AntropologÃ­a\"",
+      "caption": "A Spanish comic strip with 1 like and no translation. The laugh doesn't cross the language line here.",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-23.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "cursed",
+      "title": "HOMEWORK: EAT A STICK OF BUTTER",
+      "caption": "Simpsons chalkboard, zero context, maximum menace. \"So fucking funny out of context\" is the entire point. Our feed pulled it. Caption it?",
+      "quote": "HOMEWORK: EAT A STICK OF BUTTER",
+      "povText": "POV: your teacher assigns the homework",
+      "format": "pov",
+      "bestPlatform": "instagram",
+      "triggers": [
+        "novelty",
+        "participation",
+        "social_currency"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-24.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "bittersweet",
+      "title": "\"Things are funny again. Provisionally.\"",
+      "caption": "A quote-post about a dad's health that lands somewhere between grief and a laugh. \"Laughter is happening.\" The kind of line only our feed keeps.",
+      "quote": "Things are funny again. Provisionally, to be clear, but we are laughing. Laughter is happening.",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-25.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "cryptic",
+      "title": "Was asked to do the funny thing",
+      "caption": "Zero context, cursed 3D still, one perfect caption. We surfaced it but it needs the whole thread to land. On the cutting-room floor for now.",
+      "quote": "Was asked to do the funny thing.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-26.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "spam",
+      "title": "El futuro caotico",
+      "caption": "Hashtag-stuffed YouTube shorts repost with no original spark. Low signal. Threadverse read it so you don't have to.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "tiktok",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-27.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "linkdrop",
+      "title": "Daily Cartoon: Monday",
+      "caption": "Just a bot posting a New Yorker cartoon link. Nothing to see without the click. Skip.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-28.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "provocative",
+      "title": "When Dark Humor Stops Being Funny",
+      "caption": "The exact question every group chat eventually argues about. Where's YOUR line? Reply with the joke that made you go too far. (Surfaced by Threadverse.)",
+      "quote": "When Dark Humor Stops Being Funny",
+      "povText": "POV: someone in the group chat just crossed the line",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "participation",
+        "emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-29.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unhinged",
+      "title": "Spit out your coffee funny",
+      "caption": "The hashtags on this Planet Trump post are so cursed we can't reprint half of them. 75 likes agreed it was a coffee-spitter. Threadverse keeps the wild ones.",
+      "quote": "This is spit out your coffee funny!",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "social_currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-30.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "honest",
+      "title": "It sucks. It's also objectively funny.",
+      "caption": "418 likes for the most emotionally accurate take on loving a bad thing. Name the show/game/movie that's terrible AND you'd defend to the death.",
+      "quote": "it sucks. but it is also, objectively, really funny",
+      "povText": "POV: defending the thing you know is bad",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion",
+        "participation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-31.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "random",
+      "title": "Poydem, za mnoy",
+      "caption": "Bear following a person in the woods, hashtag salad, no punchline surfaced. Cursed but contextless. Passing.",
+      "quote": "",
+      "povText": "POV: the bear says follow me",
+      "format": "pov",
+      "bestPlatform": "tiktok",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/the-funniest-single-replies-and-cursed-c/card-32.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "flattering",
+      "title": "A dark sense of humor may mean high IQ",
+      "caption": "Science's most self-serving finding. Tag the friend whose jokes are objectively too dark. They'll take it as a compliment. (Threadverse read 5,000 posts to find this one.)",
+      "quote": "A Dark Sense of Humor May Mean You Have a High IQ",
+      "povText": "POV: your dark jokes are actually a flex",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social_currency",
+        "novelty"
+      ]
+    }
+  ]
+}
