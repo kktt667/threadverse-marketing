@@ -25,6 +25,8 @@ const POSTED = path.join(__dirname, 'posted.json');
 const DRY = process.env.DRY_RUN === '1';
 const NOW_MODE = process.env.POST_NOW === '1';
 const MAX = parseInt(process.env.MAX_PER_RUN || '20', 10);
+// Cap posts PER PLATFORM per run so a backlog of overdue items drips instead of dumping.
+const MAX_PER_PLATFORM = parseInt(process.env.MAX_PER_PLATFORM || '1', 10);
 
 const nowISO = () => new Date().toISOString();
 
@@ -146,11 +148,14 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
   let due = queue.filter(q => !doneKey.has(q.tile + '|' + q.platform))
     .filter(q => NOW_MODE || new Date(`${q.date}T${q.timeUTC}:00.000Z`) <= now);
   due.sort((a, b) => (a.date + a.timeUTC).localeCompare(b.date + b.timeUTC));
-  if (NOW_MODE) {
-    // one per platform when forcing "now"
-    const seen = new Set();
-    due = due.filter(q => (seen.has(q.platform) ? false : seen.add(q.platform)));
-  }
+  // Cap per platform (drip, don't dump). Keeps chronological order within each platform.
+  const perPlat = {};
+  due = due.filter(q => {
+    perPlat[q.platform] = (perPlat[q.platform] || 0);
+    if (perPlat[q.platform] >= MAX_PER_PLATFORM) return false;
+    perPlat[q.platform]++;
+    return true;
+  });
   due = due.slice(0, MAX);
 
   console.log(`${DRY ? 'DRY RUN — ' : ''}${due.length} due at ${now.toISOString()}`);

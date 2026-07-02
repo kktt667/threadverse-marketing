@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/crypto-card-16-tabloid.png",
@@ -10,222 +10,6 @@
     "topic": "crypto",
     "priority": 0,
     "sourceUrl": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "08:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/ai-card-28-tabloid.png",
-    "caption": "Trump admin reportedly hand-picking the 100+ companies allowed to use a top AI model, plus lifting access bans. Government gatekeeping frontier models. This is the fight of the decade.\n\n#threadverse #AI #MachineLearning #LLM #tech #feeds",
-    "title": "The Government Now Picks Who Gets The AI",
-    "format": "tabloid",
-    "topic": "ai",
-    "priority": 0,
-    "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "08:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/drama-card-24-tabloid.png",
-    "caption": "A dev turned a data leak into theater: 'Someone at BrowserStack is committing the most heinous crime imaginable: leaking email addresses!' Because he uses a unique email per signup and caught them red-handed. Chef's kiss.\n\n#Threadverse #InternetDrama #Trending #HotTake #Tech",
-    "title": "BrowserStack Leaked The Emails",
-    "format": "tabloid",
-    "topic": "drama",
-    "priority": 0,
-    "sourceUrl": "https://bsky.app/profile/did:plc:sfvpv6dfrug3rnjewn7gyx62/post/3k3jufpul5v2e"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "12:00",
-    "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-32-tabloid.png",
-    "caption": "OMG it escalated. Nebraska and Georgia won't schedule ANY games vs Texas Tech, and now the Big Ten's meeting to remove them entirely. This is getting messy. Caught early by Threadverse. #Threadverse #InternetDrama",
-    "title": "Two States Blackballed Texas Tech",
-    "format": "tabloid",
-    "topic": "drama",
-    "priority": 0,
-    "sourceUrl": "https://bsky.app/profile/did:plc:erqwpimsmwnzohwoiojsy22z/post/3mowf7i2psk2n"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "12:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/funny-card-15-tabloid.png",
-    "caption": "\"I nearly snort-laughed at this.\" They're selling the Trump fair hard while the camera quietly shows the truth. This is too funny. Caught by Threadverse.\n\n#threadverse #Humor #Funny #Comedy #tech #feeds",
-    "title": "Fox News hyping a fair as the camera betrays it",
-    "format": "tabloid",
-    "topic": "funny",
-    "priority": 0,
-    "sourceUrl": "https://bsky.app/profile/did:plc:zufhnfs3q5koqy75ht7mb3ad/post/3mpfsqn23tc2c"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "12:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/goodnews-card-13-banner.png",
-    "caption": "Ghana's multidimensional poverty rate just fell for the third consecutive quarter. Real, measurable progress. The kind of headline that never trends but should.\n\n#Threadverse #GoodNews #Positivity #Hope #Tech",
-    "title": "Ghana's poverty rate drops 3 quarters straight",
-    "format": "banner",
-    "topic": "goodnews",
-    "priority": 1,
-    "sourceUrl": "https://www.socialprogress.org/social-progress-index"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "14:00",
-    "platform": "x",
-    "tile": "library/01-content-cards/x/truecrime-card-08-tabloid.png",
-    "caption": "Nassau County investigators cracked a 41-year-old case using DNA off a discarded smoothie cup. Your trash can testify. What would YOU refuse to throw away now? Surfaced by Threadverse. #Threadverse #TrueCrime",
-    "title": "Caught After 41 Years. By a Smoothie Cup.",
-    "format": "tabloid",
-    "topic": "truecrime",
-    "priority": 0,
-    "sourceUrl": "https://youtube.com/watch?v=ghxNEWpjPpY"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "14:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/goodnews-card-10-splitProof.png",
-    "caption": "\"I know what happens when science gets attacked.\" A research scientist is running to bring a science voice to Congress. Surfaced this one from the noise. Root for her?\n\n#threadverse #GoodNews #Positivity #Hope #tech #feeds",
-    "title": "A scientist is running for Congress",
-    "format": "splitProof",
-    "topic": "goodnews",
-    "priority": 1,
-    "sourceUrl": "https://masto.ai/@haritulsidas/115243695455551186"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "14:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/gaming-card-04-splitProof.png",
-    "caption": "A John Locke quote on learning from children, plus a sharp modern read: write clearly and people call it dangerous. Which side are you on? Curated by Threadverse.\n\n#Threadverse #Gaming #IndieGames #GameDev #Tech",
-    "title": "Writing well is now 'anti-intellectualism'",
-    "format": "splitProof",
-    "topic": "gaming",
-    "priority": 2,
-    "sourceUrl": "https://youtube.com/watch?v=KtOuHE0srNc"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "17:00",
-    "platform": "x",
-    "tile": "library/01-content-cards/x/wildlife-card-02-tabloid.png",
-    "caption": "Siberia in 4K: the world's most ferocious predators, one frame. A lone tiger squaring off against a wolf pack. Who's your money on? Pulled from the noise by Threadverse. #Threadverse #Wildlife",
-    "title": "One Tiger vs A Wolf Pack",
-    "format": "tabloid",
-    "topic": "wildlife",
-    "priority": 0,
-    "sourceUrl": "https://youtube.com/watch?v=S39pKr0zDkc"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "17:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/drama-card-27-splitProof.png",
-    "caption": "Forget the algorithm. Bluesky's newest crisis is apparently... waffles. A 'waffle-centric controversy' is real user tension now. The internet never disappoints.\n\n#threadverse #InternetDrama #Trending #HotTake #tech #feeds",
-    "title": "Bluesky's Waffle Civil War",
-    "format": "splitProof",
-    "topic": "drama",
-    "priority": 1,
-    "sourceUrl": "https://bsky.app/profile/did:plc:2dv4enaklqwhdswno3iurehp/post/3mntdmsqzt223"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "17:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/philosophy-card-24-splitProof.png",
-    "caption": "\"Mathematics Is An Opinion (And The Wrong One).\" A title built to start an argument. Threadverse surfaced this one. Ready to defend math in the replies?\n\n#Threadverse #Philosophy #DeepThoughts #Thinking #Tech",
-    "title": "Math Is An Opinion (The Wrong One)",
-    "format": "splitProof",
-    "topic": "philosophy",
-    "priority": 2,
-    "sourceUrl": "https://mastodon.social/@kalokagathia/116829675350781537"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "19:00",
-    "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-15-tabloid.png",
-    "caption": "David Baszucki fired off a tweet his team wrote for him and forgot to delete the part that gave it away. The internet noticed instantly. Caught early by Threadverse. #Threadverse #InternetDrama",
-    "title": "Roblox CEO Forgot to Delete This",
-    "format": "tabloid",
-    "topic": "drama",
-    "priority": 0,
-    "sourceUrl": "https://youtube.com/watch?v=pN96-eoVZ0w"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "19:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/truecrime-card-07-splitProof.png",
-    "caption": "A 1956 double homicide—cracked open by DNA in 2024. The killer was hiding in plain sight the whole time. Justice, finally served. How long is too long to wait? Found via Threadverse.\n\n#threadverse #TrueCrime #Mystery #Crime #tech #feeds",
-    "title": "Hiding in Plain Sight for 68 Years",
-    "format": "splitProof",
-    "topic": "truecrime",
-    "priority": 1,
-    "sourceUrl": "https://bsky.app/profile/did:plc:fop2pdrq6ihkkybtkbvix4pa/post/3liafvbhng22x"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "19:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/goodnews-card-12-bigStat.png",
-    "caption": "Canada ranks 15th globally on the Social Progress Index (USA sits 29th). 13 years of data behind it. Where did your country land?\n\n#Threadverse #GoodNews #Positivity #Hope #Tech",
-    "title": "Canada: 15th in the world for social progress",
-    "format": "bigStat",
-    "topic": "goodnews",
-    "priority": 1,
-    "sourceUrl": "https://mastodon.social/@proutistuniversal/116200426095424290"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "21:00",
-    "platform": "x",
-    "tile": "library/01-content-cards/x/truecrime-card-22-tabloid.png",
-    "caption": "A child abduction case went cold for four decades. An arrest finally came, caught on body cam, as the daughter speaks out. Some cases never really close. Found via Threadverse. #Threadverse #TrueCrime",
-    "title": "Cold for 40 Years. Then Her Daughter Spoke.",
-    "format": "tabloid",
-    "topic": "truecrime",
-    "priority": 0,
-    "sourceUrl": "https://youtube.com/watch?v=QRYrZyDA53g"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "21:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/goodnews-card-02-splitProof.png",
-    "caption": "Kids get both parents. Japan approves joint custody after divorce for the first time — genuine good news. What law would you want passed next? (Surfaced by Threadverse.)\n\n#threadverse #GoodNews #Positivity #Hope #tech #feeds",
-    "title": "Japan just OK'd joint custody after divorce",
-    "format": "splitProof",
-    "topic": "goodnews",
-    "priority": 1,
-    "sourceUrl": "https://mas.to/@outer/111896695347998146"
-  },
-  {
-    "date": "2026-07-02",
-    "timeUTC": "21:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/gaming-card-20-bigStat.png",
-    "caption": "A dev breaks down exactly what devours the most ROM space on a Game Boy game. Spoiler: it's the music. Beautiful nerd content. Threadverse pulled this from the feed.\n\n#Threadverse #Gaming #IndieGames #GameDev #Tech",
-    "title": "What eats your Game Boy ROM?",
-    "format": "bigStat",
-    "topic": "gaming",
-    "priority": 2,
-    "sourceUrl": "https://x.com/ComixBlade/status/2072009771604119845"
-  },
-  {
-    "date": "2026-07-03",
-    "timeUTC": "08:00",
-    "platform": "x",
-    "tile": "library/01-content-cards/x/wildlife-card-19-tabloid.png",
-    "caption": "Two tourists narrowly outran a charging wild elephant on Highway 766 through Bandipur. This is your reminder that they are NOT a photo op. Caught early in our feed. #Threadverse #Wildlife",
-    "title": "Tourists Run From Charging Elephant",
-    "format": "tabloid",
-    "topic": "wildlife",
-    "priority": 0,
-    "sourceUrl": "https://youtube.com/watch?v=28pxQH8uyBs"
   },
   {
     "date": "2026-07-03",
@@ -243,25 +27,25 @@
     "date": "2026-07-03",
     "timeUTC": "08:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/philosophy-card-30-splitProof.png",
-    "caption": "A long piece on capitalist reality vs our reality, framed against Thatcher's infamous line. The claim: healing each other means changing everything. Agree? (via Threadverse)\n\n#Threadverse #Philosophy #DeepThoughts #Thinking #Tech",
-    "title": "'There Is No Such Thing As Society'",
-    "format": "splitProof",
-    "topic": "philosophy",
-    "priority": 2,
-    "sourceUrl": "https://www.tandfonline.com/doi/full/10.1080/09608788.2026.2680960"
+    "tile": "library/01-content-cards/mastodon/goodnews-card-09-quote.png",
+    "caption": "We assume progress moves in a steady line. Research says we mostly just perceive it that way, even when the data disagrees. What progress felt slower than it was?\n\n#Threadverse #GoodNews #Positivity #Hope #Tech",
+    "title": "Progress isn't a straight line",
+    "format": "quote",
+    "topic": "goodnews",
+    "priority": 1,
+    "sourceUrl": "https://www.theguardian.com/environment/article/2024/aug/27/what-is-degrowth-can-it-save-planet"
   },
   {
     "date": "2026-07-03",
     "timeUTC": "12:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-26-tabloid.png",
-    "caption": "College sports drama is spilling off the field. The Big 12 crying foul over Texas Tech and now it's a legal fight. Who wins this one? Surfaced by Threadverse. #Threadverse #InternetDrama",
-    "title": "Local Judges vs Big 12",
+    "tile": "library/01-content-cards/x/drama-card-32-tabloid.png",
+    "caption": "OMG it escalated. Nebraska and Georgia won't schedule ANY games vs Texas Tech, and now the Big Ten's meeting to remove them entirely. This is getting messy. Caught early by Threadverse. #Threadverse #InternetDrama",
+    "title": "Two States Blackballed Texas Tech",
     "format": "tabloid",
     "topic": "drama",
     "priority": 0,
-    "sourceUrl": "https://x.com/CL4Y0VERS/status/2072133765372215788"
+    "sourceUrl": "https://bsky.app/profile/did:plc:erqwpimsmwnzohwoiojsy22z/post/3mowf7i2psk2n"
   },
   {
     "date": "2026-07-03",
@@ -279,25 +63,25 @@
     "date": "2026-07-03",
     "timeUTC": "12:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/goodnews-card-09-quote.png",
-    "caption": "We assume progress moves in a steady line. Research says we mostly just perceive it that way, even when the data disagrees. What progress felt slower than it was?\n\n#Threadverse #GoodNews #Positivity #Hope #Tech",
-    "title": "Progress isn't a straight line",
-    "format": "quote",
-    "topic": "goodnews",
-    "priority": 1,
-    "sourceUrl": "https://www.theguardian.com/environment/article/2024/aug/27/what-is-degrowth-can-it-save-planet"
+    "tile": "library/01-content-cards/mastodon/philosophy-card-30-splitProof.png",
+    "caption": "A long piece on capitalist reality vs our reality, framed against Thatcher's infamous line. The claim: healing each other means changing everything. Agree? (via Threadverse)\n\n#Threadverse #Philosophy #DeepThoughts #Thinking #Tech",
+    "title": "'There Is No Such Thing As Society'",
+    "format": "splitProof",
+    "topic": "philosophy",
+    "priority": 2,
+    "sourceUrl": "https://www.tandfonline.com/doi/full/10.1080/09608788.2026.2680960"
   },
   {
     "date": "2026-07-03",
     "timeUTC": "14:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/goodnews-card-08-splitProof.png",
-    "caption": "GDP counts teargas the same as affordable housing. Degrowth asks: what are we actually measuring? A line that reframes everything — Threadverse found it. Does GDP still mean anything? #Threadverse #GoodNews",
-    "title": "£1m of teargas = £1m of housing to GDP",
-    "format": "splitProof",
-    "topic": "goodnews",
-    "priority": 1,
-    "sourceUrl": "https://journa.host/@africa/115531954132897283"
+    "tile": "library/01-content-cards/x/truecrime-card-08-tabloid.png",
+    "caption": "Nassau County investigators cracked a 41-year-old case using DNA off a discarded smoothie cup. Your trash can testify. What would YOU refuse to throw away now? Surfaced by Threadverse. #Threadverse #TrueCrime",
+    "title": "Caught After 41 Years. By a Smoothie Cup.",
+    "format": "tabloid",
+    "topic": "truecrime",
+    "priority": 0,
+    "sourceUrl": "https://youtube.com/watch?v=ghxNEWpjPpY"
   },
   {
     "date": "2026-07-03",
@@ -327,13 +111,13 @@
     "date": "2026-07-03",
     "timeUTC": "17:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/viral-card-11-quote.png",
-    "caption": "Nobody had a name for it until it started trending. The internet invents insecurities for fun now. What's yours? Surfaced by Threadverse. #Threadverse #Viral",
-    "title": "Hip dips were never a thing",
-    "format": "quote",
-    "topic": "viral",
-    "priority": 1,
-    "sourceUrl": "https://x.com/S4MUR41D0L/status/2072622431735628225"
+    "tile": "library/01-content-cards/x/wildlife-card-02-tabloid.png",
+    "caption": "Siberia in 4K: the world's most ferocious predators, one frame. A lone tiger squaring off against a wolf pack. Who's your money on? Pulled from the noise by Threadverse. #Threadverse #Wildlife",
+    "title": "One Tiger vs A Wolf Pack",
+    "format": "tabloid",
+    "topic": "wildlife",
+    "priority": 0,
+    "sourceUrl": "https://youtube.com/watch?v=S39pKr0zDkc"
   },
   {
     "date": "2026-07-03",
@@ -363,13 +147,13 @@
     "date": "2026-07-03",
     "timeUTC": "19:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-12-bigStat.png",
-    "caption": "No fashion background. Just a smart niche and stubborn hustle. A $1M sock company built the quiet way. What niche is hiding in plain sight? Surfaced by Threadverse. #Threadverse #InternetDrama",
-    "title": "Wedding Socks to $1,000,000",
-    "format": "bigStat",
+    "tile": "library/01-content-cards/x/drama-card-15-tabloid.png",
+    "caption": "David Baszucki fired off a tweet his team wrote for him and forgot to delete the part that gave it away. The internet noticed instantly. Caught early by Threadverse. #Threadverse #InternetDrama",
+    "title": "Roblox CEO Forgot to Delete This",
+    "format": "tabloid",
     "topic": "drama",
-    "priority": 1,
-    "sourceUrl": "https://youtube.com/watch?v=bUe3pia2Ofs"
+    "priority": 0,
+    "sourceUrl": "https://youtube.com/watch?v=pN96-eoVZ0w"
   },
   {
     "date": "2026-07-03",
@@ -399,13 +183,13 @@
     "date": "2026-07-03",
     "timeUTC": "21:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-06-bigStat.png",
-    "caption": "Stanford's 2026 AI Index says the US-China frontier model gap is effectively gone, down to ~2.7% as of March. The race everyone assumed was decided isn't. Surfaced by Threadverse. #Threadverse #AI",
-    "title": "The US-China AI gap just closed",
-    "format": "bigStat",
-    "topic": "ai",
-    "priority": 2,
-    "sourceUrl": "https://x.com/grok/status/2071338402411118888"
+    "tile": "library/01-content-cards/x/truecrime-card-22-tabloid.png",
+    "caption": "A child abduction case went cold for four decades. An arrest finally came, caught on body cam, as the daughter speaks out. Some cases never really close. Found via Threadverse. #Threadverse #TrueCrime",
+    "title": "Cold for 40 Years. Then Her Daughter Spoke.",
+    "format": "tabloid",
+    "topic": "truecrime",
+    "priority": 0,
+    "sourceUrl": "https://youtube.com/watch?v=QRYrZyDA53g"
   },
   {
     "date": "2026-07-03",
@@ -435,13 +219,13 @@
     "date": "2026-07-04",
     "timeUTC": "08:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/crypto-card-18-bigStat.png",
-    "caption": "$584M on-chain vs $422M across ALL centralized exchanges. A 138% ratio. BTC sits at 0.53%. The chart nobody's talking about yet. Real reply: bullish or blip? #Threadverse #Crypto",
-    "title": "Solana > Every CEX Combined",
-    "format": "bigStat",
-    "topic": "crypto",
-    "priority": 2,
-    "sourceUrl": "https://bsky.app/profile/did:plc:lpzldkj4wxlyisf2znvhs4fp/post/3mosfzqtjfc2n"
+    "tile": "library/01-content-cards/x/wildlife-card-19-tabloid.png",
+    "caption": "Two tourists narrowly outran a charging wild elephant on Highway 766 through Bandipur. This is your reminder that they are NOT a photo op. Caught early in our feed. #Threadverse #Wildlife",
+    "title": "Tourists Run From Charging Elephant",
+    "format": "tabloid",
+    "topic": "wildlife",
+    "priority": 0,
+    "sourceUrl": "https://youtube.com/watch?v=28pxQH8uyBs"
   },
   {
     "date": "2026-07-04",
@@ -471,13 +255,13 @@
     "date": "2026-07-04",
     "timeUTC": "12:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-18-quote.png",
-    "caption": "Someone diagnosed the entire internet in one reply: tech spaces are 'addicted to performative confrontation and constant public signaling.' Guilty? Threadverse keeps the signal, drops the loops. #Threadverse #InternetDrama",
-    "title": "Outrage, Engagement, Loops, Cycles",
-    "format": "quote",
+    "tile": "library/01-content-cards/x/drama-card-26-tabloid.png",
+    "caption": "College sports drama is spilling off the field. The Big 12 crying foul over Texas Tech and now it's a legal fight. Who wins this one? Surfaced by Threadverse. #Threadverse #InternetDrama",
+    "title": "Local Judges vs Big 12",
+    "format": "tabloid",
     "topic": "drama",
-    "priority": 1,
-    "sourceUrl": "https://youtube.com/watch?v=7vSWJCB5B3c"
+    "priority": 0,
+    "sourceUrl": "https://x.com/CL4Y0VERS/status/2072133765372215788"
   },
   {
     "date": "2026-07-04",
@@ -507,13 +291,13 @@
     "date": "2026-07-04",
     "timeUTC": "14:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-05-splitProof.png",
-    "caption": "Polymarket has GPT-5.6 at a 90% chance to ship by July 31, but just 1% before June 30. The market is literally betting on the release calendar now. Threadverse caught this early. #Threadverse #AI",
-    "title": "90% odds GPT-5.6 ships by July",
+    "tile": "library/01-content-cards/x/goodnews-card-08-splitProof.png",
+    "caption": "GDP counts teargas the same as affordable housing. Degrowth asks: what are we actually measuring? A line that reframes everything — Threadverse found it. Does GDP still mean anything? #Threadverse #GoodNews",
+    "title": "£1m of teargas = £1m of housing to GDP",
     "format": "splitProof",
-    "topic": "ai",
-    "priority": 2,
-    "sourceUrl": "https://x.com/buildwithhassan/status/2071343402126299326"
+    "topic": "goodnews",
+    "priority": 1,
+    "sourceUrl": "https://journa.host/@africa/115531954132897283"
   },
   {
     "date": "2026-07-04",
@@ -543,13 +327,13 @@
     "date": "2026-07-04",
     "timeUTC": "17:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/crypto-card-31-bigStat.png",
-    "caption": "Aave just processed $8.45 billion in withdrawals without freezing a single fund. It survived the stress test. But the questions it raised didn't go away. Found in the Threadverse feed. #Threadverse #Crypto",
-    "title": "$8.45B pulled. Nothing froze.",
-    "format": "bigStat",
-    "topic": "crypto",
-    "priority": 2,
-    "sourceUrl": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk"
+    "tile": "library/01-content-cards/x/viral-card-11-quote.png",
+    "caption": "Nobody had a name for it until it started trending. The internet invents insecurities for fun now. What's yours? Surfaced by Threadverse. #Threadverse #Viral",
+    "title": "Hip dips were never a thing",
+    "format": "quote",
+    "topic": "viral",
+    "priority": 1,
+    "sourceUrl": "https://x.com/S4MUR41D0L/status/2072622431735628225"
   },
   {
     "date": "2026-07-04",
@@ -579,13 +363,13 @@
     "date": "2026-07-04",
     "timeUTC": "19:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-13-quote.png",
-    "caption": "The AI founder's bitter lesson: vertical AI products lose market share to horizontal competitors unless they do one thing. Agree or cope? Found in the Threadverse feed. #Threadverse #InternetDrama",
-    "title": "Vertical AI Will Lose to Horizontal",
-    "format": "quote",
+    "tile": "library/01-content-cards/x/drama-card-12-bigStat.png",
+    "caption": "No fashion background. Just a smart niche and stubborn hustle. A $1M sock company built the quiet way. What niche is hiding in plain sight? Surfaced by Threadverse. #Threadverse #InternetDrama",
+    "title": "Wedding Socks to $1,000,000",
+    "format": "bigStat",
     "topic": "drama",
     "priority": 1,
-    "sourceUrl": "https://x.com/Moh56889/status/2072183048032960809"
+    "sourceUrl": "https://youtube.com/watch?v=bUe3pia2Ofs"
   },
   {
     "date": "2026-07-04",
@@ -615,13 +399,13 @@
     "date": "2026-07-04",
     "timeUTC": "21:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-09-splitProof.png",
-    "caption": "A Chinese lab claims it matched frontier results with 11X less compute, purely through optimization. The efficiency race is the real arms race now. Surfaced by Threadverse. #Threadverse #AI",
-    "title": "Same model. 11x less compute.",
-    "format": "splitProof",
+    "tile": "library/01-content-cards/x/ai-card-06-bigStat.png",
+    "caption": "Stanford's 2026 AI Index says the US-China frontier model gap is effectively gone, down to ~2.7% as of March. The race everyone assumed was decided isn't. Surfaced by Threadverse. #Threadverse #AI",
+    "title": "The US-China AI gap just closed",
+    "format": "bigStat",
     "topic": "ai",
     "priority": 2,
-    "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-company-says-breakthroughs-enabled-creating-a-leading-edge-ai-model-with-11x-less-compute-deepseeks-optimizations-highlight-limits-of-us-sanctions"
+    "sourceUrl": "https://x.com/grok/status/2071338402411118888"
   },
   {
     "date": "2026-07-04",
@@ -651,13 +435,13 @@
     "date": "2026-07-05",
     "timeUTC": "08:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/founders-card-15-bigStat.png",
-    "caption": "153 likes, 31 replies: a founder breaks down sales lessons from starting two B2B startups, not one. The people who've done it twice are the ones worth reading. What's your #1 B2B sales lesson? Surfaced by Threadverse. #Threadverse #Startup",
-    "title": "Lessons from starting TWO B2B startups",
+    "tile": "library/01-content-cards/x/crypto-card-18-bigStat.png",
+    "caption": "$584M on-chain vs $422M across ALL centralized exchanges. A 138% ratio. BTC sits at 0.53%. The chart nobody's talking about yet. Real reply: bullish or blip? #Threadverse #Crypto",
+    "title": "Solana > Every CEX Combined",
     "format": "bigStat",
-    "topic": "founders",
+    "topic": "crypto",
     "priority": 2,
-    "sourceUrl": "https://x.com/PedroGuiti/status/2071311098033144214"
+    "sourceUrl": "https://bsky.app/profile/did:plc:lpzldkj4wxlyisf2znvhs4fp/post/3mosfzqtjfc2n"
   },
   {
     "date": "2026-07-05",
@@ -687,13 +471,13 @@
     "date": "2026-07-05",
     "timeUTC": "12:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/drama-card-31-pov.png",
-    "caption": "Fandom accountability war going nuclear. Jimin vs Jennie, shady tech, and a full 'stop projecting your victim card' takedown. K-pop stans don't miss. #Threadverse #InternetDrama",
-    "title": "Stop Projecting Your Victim Card",
-    "format": "pov",
+    "tile": "library/01-content-cards/x/drama-card-18-quote.png",
+    "caption": "Someone diagnosed the entire internet in one reply: tech spaces are 'addicted to performative confrontation and constant public signaling.' Guilty? Threadverse keeps the signal, drops the loops. #Threadverse #InternetDrama",
+    "title": "Outrage, Engagement, Loops, Cycles",
+    "format": "quote",
     "topic": "drama",
     "priority": 1,
-    "sourceUrl": "https://bsky.app/profile/did:plc:2dv4enaklqwhdswno3iurehp/post/3mof32bw4hc2l"
+    "sourceUrl": "https://youtube.com/watch?v=7vSWJCB5B3c"
   },
   {
     "date": "2026-07-05",
@@ -723,13 +507,13 @@
     "date": "2026-07-05",
     "timeUTC": "14:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-13-splitProof.png",
-    "caption": "A tech breakthrough and a security risk. This take calls the cheap-training figure bogus and floats shorting US AI stocks. Spicy. Where do you land? Via Threadverse. #Threadverse #AI",
-    "title": "\"The $5-6M number is bogus\"",
+    "tile": "library/01-content-cards/x/ai-card-05-splitProof.png",
+    "caption": "Polymarket has GPT-5.6 at a 90% chance to ship by July 31, but just 1% before June 30. The market is literally betting on the release calendar now. Threadverse caught this early. #Threadverse #AI",
+    "title": "90% odds GPT-5.6 ships by July",
     "format": "splitProof",
     "topic": "ai",
     "priority": 2,
-    "sourceUrl": "https://semking.com/deepseek-china-ai-model-breakthrough-security-risk/"
+    "sourceUrl": "https://x.com/buildwithhassan/status/2071343402126299326"
   },
   {
     "date": "2026-07-05",
@@ -747,13 +531,13 @@
     "date": "2026-07-05",
     "timeUTC": "17:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/gaming-card-15-splitProof.png",
-    "caption": "The sharpest take on AI in games this week: the giants chase infrastructure while small studios quietly punch above their weight. Agree or hype? #Threadverse #Gaming",
-    "title": "Big AI Chases Trillions. Indies Just Ship.",
-    "format": "splitProof",
-    "topic": "gaming",
+    "tile": "library/01-content-cards/x/crypto-card-31-bigStat.png",
+    "caption": "Aave just processed $8.45 billion in withdrawals without freezing a single fund. It survived the stress test. But the questions it raised didn't go away. Found in the Threadverse feed. #Threadverse #Crypto",
+    "title": "$8.45B pulled. Nothing froze.",
+    "format": "bigStat",
+    "topic": "crypto",
     "priority": 2,
-    "sourceUrl": "https://mastodon.social/@Steenbergen_apps/116849561360019935"
+    "sourceUrl": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk"
   },
   {
     "date": "2026-07-05",
@@ -771,13 +555,13 @@
     "date": "2026-07-05",
     "timeUTC": "19:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/funny-card-19-splitProof.png",
-    "caption": "The headlines out of Korea have officially escaped fiction. \"What is going on down there.\" Our feed caught this one. What's the wildest real headline you've seen? #Threadverse #Humor",
-    "title": "Execute the soccer coach. With anti-aircraft.",
-    "format": "splitProof",
-    "topic": "funny",
-    "priority": 2,
-    "sourceUrl": "https://bsky.app/profile/did:plc:qfwinostecndnbvwwunsmihi/post/3mpfe6es6t22a"
+    "tile": "library/01-content-cards/x/drama-card-13-quote.png",
+    "caption": "The AI founder's bitter lesson: vertical AI products lose market share to horizontal competitors unless they do one thing. Agree or cope? Found in the Threadverse feed. #Threadverse #InternetDrama",
+    "title": "Vertical AI Will Lose to Horizontal",
+    "format": "quote",
+    "topic": "drama",
+    "priority": 1,
+    "sourceUrl": "https://x.com/Moh56889/status/2072183048032960809"
   },
   {
     "date": "2026-07-05",
@@ -795,9 +579,9 @@
     "date": "2026-07-05",
     "timeUTC": "21:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-31-splitProof.png",
-    "caption": "China claims a brain-like AI model running 100 times faster than traditional ones, balancing speed and accuracy. Huge if it holds up. Believe the number? #Threadverse #AI",
-    "title": "Brain-Like AI, 100x Faster Than Normal",
+    "tile": "library/01-content-cards/x/ai-card-09-splitProof.png",
+    "caption": "A Chinese lab claims it matched frontier results with 11X less compute, purely through optimization. The efficiency race is the real arms race now. Surfaced by Threadverse. #Threadverse #AI",
+    "title": "Same model. 11x less compute.",
     "format": "splitProof",
     "topic": "ai",
     "priority": 2,
@@ -819,13 +603,13 @@
     "date": "2026-07-06",
     "timeUTC": "08:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/travel-card-03-splitProof.png",
-    "caption": "In Paris, more people now travel by bicycle than by car. The city quietly flipped. Would your city ever pull this off? Surfaced by Threadverse. #Threadverse #Travel",
-    "title": "More Parisians Bike Than Drive",
-    "format": "splitProof",
-    "topic": "travel",
+    "tile": "library/01-content-cards/x/founders-card-15-bigStat.png",
+    "caption": "153 likes, 31 replies: a founder breaks down sales lessons from starting two B2B startups, not one. The people who've done it twice are the ones worth reading. What's your #1 B2B sales lesson? Surfaced by Threadverse. #Threadverse #Startup",
+    "title": "Lessons from starting TWO B2B startups",
+    "format": "bigStat",
+    "topic": "founders",
     "priority": 2,
-    "sourceUrl": "https://bsky.app/profile/did:plc:bwnkultixuuvsauzbveuu6qq/post/3mpjagb7jb225"
+    "sourceUrl": "https://x.com/PedroGuiti/status/2071311098033144214"
   },
   {
     "date": "2026-07-06",
@@ -843,13 +627,13 @@
     "date": "2026-07-06",
     "timeUTC": "12:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/wildlife-card-14-splitProof.png",
-    "caption": "A full-grown lion strolling past a kid on a suburban patio. Kangaroos on porches, gators on golf courses — nature's forgetting the property line. Where's the wildest sighting you've heard of? #Threadverse #Wildlife",
-    "title": "A Lion In The Backyard",
-    "format": "splitProof",
-    "topic": "wildlife",
-    "priority": 2,
-    "sourceUrl": "https://youtube.com/watch?v=Y7paF72Gu0M"
+    "tile": "library/01-content-cards/x/drama-card-31-pov.png",
+    "caption": "Fandom accountability war going nuclear. Jimin vs Jennie, shady tech, and a full 'stop projecting your victim card' takedown. K-pop stans don't miss. #Threadverse #InternetDrama",
+    "title": "Stop Projecting Your Victim Card",
+    "format": "pov",
+    "topic": "drama",
+    "priority": 1,
+    "sourceUrl": "https://bsky.app/profile/did:plc:2dv4enaklqwhdswno3iurehp/post/3mof32bw4hc2l"
   },
   {
     "date": "2026-07-06",
@@ -867,13 +651,13 @@
     "date": "2026-07-06",
     "timeUTC": "14:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-18-splitProof.png",
-    "caption": "China's DeepSeek opened 2026 with a training method analysts are calling a real breakthrough for scaling. Big if it holds. Found via Threadverse. Hype or history? #Threadverse #AI",
-    "title": "DeepSeek's New Training Trick Breaks Scaling",
+    "tile": "library/01-content-cards/x/ai-card-13-splitProof.png",
+    "caption": "A tech breakthrough and a security risk. This take calls the cheap-training figure bogus and floats shorting US AI stocks. Spicy. Where do you land? Via Threadverse. #Threadverse #AI",
+    "title": "\"The $5-6M number is bogus\"",
     "format": "splitProof",
     "topic": "ai",
     "priority": 2,
-    "sourceUrl": "https://www.businessinsider.com/deepseek-new-ai-training-models-scale-manifold-constrained-analysts-china-2026-1"
+    "sourceUrl": "https://semking.com/deepseek-china-ai-model-breakthrough-security-risk/"
   },
   {
     "date": "2026-07-06",
@@ -891,13 +675,13 @@
     "date": "2026-07-06",
     "timeUTC": "17:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/crypto-card-21-splitProof.png",
-    "caption": "ARCA's CIO names the 4 horsemen killing crypto: exchanges, market makers, VCs, token issuers. Not regulators. Insiders. Who'd you add to the list? #Threadverse #Crypto",
-    "title": "Crypto's Real Enemy Is Itself",
+    "tile": "library/01-content-cards/x/gaming-card-15-splitProof.png",
+    "caption": "The sharpest take on AI in games this week: the giants chase infrastructure while small studios quietly punch above their weight. Agree or hype? #Threadverse #Gaming",
+    "title": "Big AI Chases Trillions. Indies Just Ship.",
     "format": "splitProof",
-    "topic": "crypto",
+    "topic": "gaming",
     "priority": 2,
-    "sourceUrl": "https://coinpedia.org/news/four-horsemen-destroying-crypto-according-to-one-of-wall-streets-top-digital-asset-investors/"
+    "sourceUrl": "https://mastodon.social/@Steenbergen_apps/116849561360019935"
   },
   {
     "date": "2026-07-06",
@@ -915,13 +699,13 @@
     "date": "2026-07-06",
     "timeUTC": "19:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/founders-card-02-splitProof.png",
-    "caption": "\"Most solo founders stop growing after their first few users.\" The fix isn't more users, it's making the ones you have your channel. Threadverse pulled this one. Agree? #Threadverse #Startup",
-    "title": "Turn your first users into distribution",
+    "tile": "library/01-content-cards/x/funny-card-19-splitProof.png",
+    "caption": "The headlines out of Korea have officially escaped fiction. \"What is going on down there.\" Our feed caught this one. What's the wildest real headline you've seen? #Threadverse #Humor",
+    "title": "Execute the soccer coach. With anti-aircraft.",
     "format": "splitProof",
-    "topic": "founders",
+    "topic": "funny",
     "priority": 2,
-    "sourceUrl": "https://www.youtube.com/watch?v=LREoTUoM-rU"
+    "sourceUrl": "https://bsky.app/profile/did:plc:qfwinostecndnbvwwunsmihi/post/3mpfe6es6t22a"
   },
   {
     "date": "2026-07-06",
@@ -939,13 +723,13 @@
     "date": "2026-07-06",
     "timeUTC": "21:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/ai-card-30-splitProof.png",
-    "caption": "A Chinese AI lab claims breakthroughs let them train a model on 11X less compute, pure low-level optimization. If real, the compute moat just cracked. #Threadverse #AI",
-    "title": "They Built It With 11X Less Compute",
+    "tile": "library/01-content-cards/x/ai-card-31-splitProof.png",
+    "caption": "China claims a brain-like AI model running 100 times faster than traditional ones, balancing speed and accuracy. Huge if it holds up. Believe the number? #Threadverse #AI",
+    "title": "Brain-Like AI, 100x Faster Than Normal",
     "format": "splitProof",
     "topic": "ai",
     "priority": 2,
-    "sourceUrl": "https://www.dbreunig.com/2024/02/01/pursuing-quiet-ai.html"
+    "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-company-says-breakthroughs-enabled-creating-a-leading-edge-ai-model-with-11x-less-compute-deepseeks-optimizations-highlight-limits-of-us-sanctions"
   },
   {
     "date": "2026-07-06",
@@ -963,13 +747,13 @@
     "date": "2026-07-07",
     "timeUTC": "08:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/crypto-card-28-splitProof.png",
-    "caption": "One protocol captured 80.7% of DeFi lending's retained earnings this year. ~$43.3M. Everyone else split the scraps. Threadverse surfaced the receipts. Moat or bubble? #Threadverse #Crypto",
-    "title": "Aave took 80.7% of DeFi lending profit",
+    "tile": "library/01-content-cards/x/travel-card-03-splitProof.png",
+    "caption": "In Paris, more people now travel by bicycle than by car. The city quietly flipped. Would your city ever pull this off? Surfaced by Threadverse. #Threadverse #Travel",
+    "title": "More Parisians Bike Than Drive",
     "format": "splitProof",
-    "topic": "crypto",
+    "topic": "travel",
     "priority": 2,
-    "sourceUrl": "https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mor3lshqlw2t"
+    "sourceUrl": "https://bsky.app/profile/did:plc:bwnkultixuuvsauzbveuu6qq/post/3mpjagb7jb225"
   },
   {
     "date": "2026-07-07",
@@ -987,13 +771,13 @@
     "date": "2026-07-07",
     "timeUTC": "12:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/founders-card-12-splitProof.png",
-    "caption": "Evolution of a Founder, in one honest line: being a startup founder is hard, tough, frustrating and rewarding, possibly all at the same time. Which of the four hits hardest for you today? Surfaced by Threadverse. #Threadverse #Startup",
-    "title": "Hard, tough, frustrating and rewarding — possibly all at once",
+    "tile": "library/01-content-cards/x/wildlife-card-14-splitProof.png",
+    "caption": "A full-grown lion strolling past a kid on a suburban patio. Kangaroos on porches, gators on golf courses — nature's forgetting the property line. Where's the wildest sighting you've heard of? #Threadverse #Wildlife",
+    "title": "A Lion In The Backyard",
     "format": "splitProof",
-    "topic": "founders",
+    "topic": "wildlife",
     "priority": 2,
-    "sourceUrl": "https://solutionsuggest.com/brand-stories/how-we-built-1-million-sock-company-matt-mcnamara-co-founder-no-cold-feet/"
+    "sourceUrl": "https://youtube.com/watch?v=Y7paF72Gu0M"
   },
   {
     "date": "2026-07-07",
@@ -1011,13 +795,13 @@
     "date": "2026-07-07",
     "timeUTC": "14:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/gaming-card-25-bigStat.png",
-    "caption": "A stat every indie dev is quietly panicking about: AI-generated reviews can cut Steam reviews for indie games by up to 58%. Good news or the end of the honest review? Surfaced by Threadverse. #Threadverse #Gaming",
-    "title": "AI Reviews Drop 58% For Indie Games",
-    "format": "bigStat",
-    "topic": "gaming",
+    "tile": "library/01-content-cards/x/ai-card-18-splitProof.png",
+    "caption": "China's DeepSeek opened 2026 with a training method analysts are calling a real breakthrough for scaling. Big if it holds. Found via Threadverse. Hype or history? #Threadverse #AI",
+    "title": "DeepSeek's New Training Trick Breaks Scaling",
+    "format": "splitProof",
+    "topic": "ai",
     "priority": 2,
-    "sourceUrl": "https://youtube.com/watch?v=wBfc80Uvi_Q"
+    "sourceUrl": "https://www.businessinsider.com/deepseek-new-ai-training-models-scale-manifold-constrained-analysts-china-2026-1"
   },
   {
     "date": "2026-07-07",
@@ -1035,13 +819,13 @@
     "date": "2026-07-07",
     "timeUTC": "17:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/philosophy-card-15-splitProof.png",
-    "caption": "A philosopher and scientist square off: is agnosticism a rigorous moral duty or an intellectual cop-out? Huxley vs Russell's teapot. Where do you land? Via Threadverse. #Threadverse #Philosophy",
-    "title": "Is Doubt a Duty or a Cop-Out?",
+    "tile": "library/01-content-cards/x/crypto-card-21-splitProof.png",
+    "caption": "ARCA's CIO names the 4 horsemen killing crypto: exchanges, market makers, VCs, token issuers. Not regulators. Insiders. Who'd you add to the list? #Threadverse #Crypto",
+    "title": "Crypto's Real Enemy Is Itself",
     "format": "splitProof",
-    "topic": "philosophy",
+    "topic": "crypto",
     "priority": 2,
-    "sourceUrl": "https://plato.stanford.edu/entries/innateness-language/"
+    "sourceUrl": "https://coinpedia.org/news/four-horsemen-destroying-crypto-according-to-one-of-wall-streets-top-digital-asset-investors/"
   },
   {
     "date": "2026-07-07",
@@ -1059,13 +843,13 @@
     "date": "2026-07-07",
     "timeUTC": "19:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/founders-card-27-splitProof.png",
-    "caption": "Most founders think great hiring starts with great resumes. Testlify's founder found the opposite. Focus, feedback, relentless execution. Do you read resumes or ignore them? Via Threadverse. #Threadverse #Startup",
-    "title": "Better Hiring Doesn't Start With Better Resumes",
+    "tile": "library/01-content-cards/x/founders-card-02-splitProof.png",
+    "caption": "\"Most solo founders stop growing after their first few users.\" The fix isn't more users, it's making the ones you have your channel. Threadverse pulled this one. Agree? #Threadverse #Startup",
+    "title": "Turn your first users into distribution",
     "format": "splitProof",
     "topic": "founders",
     "priority": 2,
-    "sourceUrl": "http://philstrazzulla.com/2020/04/06/tips-for-founders-sales-lessons-from-starting-two-b2b-startups/"
+    "sourceUrl": "https://www.youtube.com/watch?v=LREoTUoM-rU"
   },
   {
     "date": "2026-07-07",
@@ -1083,13 +867,13 @@
     "date": "2026-07-07",
     "timeUTC": "21:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/funny-card-28-splitProof.png",
-    "caption": "The exact question every group chat eventually argues about. Where's YOUR line? Reply with the joke that made you go too far. (Surfaced by Threadverse.) #Threadverse #Humor",
-    "title": "When Dark Humor Stops Being Funny",
+    "tile": "library/01-content-cards/x/ai-card-30-splitProof.png",
+    "caption": "A Chinese AI lab claims breakthroughs let them train a model on 11X less compute, pure low-level optimization. If real, the compute moat just cracked. #Threadverse #AI",
+    "title": "They Built It With 11X Less Compute",
     "format": "splitProof",
-    "topic": "funny",
+    "topic": "ai",
     "priority": 2,
-    "sourceUrl": "http://nautil.us/blog/when-dark-humor-stops-being-funny"
+    "sourceUrl": "https://www.dbreunig.com/2024/02/01/pursuing-quiet-ai.html"
   },
   {
     "date": "2026-07-07",
@@ -1107,13 +891,13 @@
     "date": "2026-07-08",
     "timeUTC": "08:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/travel-card-06-splitProof.png",
-    "caption": "Not London. Not Manchester. The UK's best city break is a place most people underrate entirely. Bold call, or dead right? Surfaced by Threadverse. #Threadverse #Travel",
-    "title": "The UK's Best City Break Isn't London",
+    "tile": "library/01-content-cards/x/crypto-card-28-splitProof.png",
+    "caption": "One protocol captured 80.7% of DeFi lending's retained earnings this year. ~$43.3M. Everyone else split the scraps. Threadverse surfaced the receipts. Moat or bubble? #Threadverse #Crypto",
+    "title": "Aave took 80.7% of DeFi lending profit",
     "format": "splitProof",
-    "topic": "travel",
+    "topic": "crypto",
     "priority": 2,
-    "sourceUrl": "https://fed.brid.gy/r/https://www.mirror.co.uk/travel/uk-ireland/uks-best-city-break-underrated-37320470"
+    "sourceUrl": "https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mor3lshqlw2t"
   },
   {
     "date": "2026-07-08",
@@ -1131,13 +915,13 @@
     "date": "2026-07-08",
     "timeUTC": "12:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/founders-card-28-splitProof.png",
-    "caption": "'Vertical AI products will lose market share to horizontal AI competitors unless...' The bitter lesson nobody building an AI wrapper wants to hear. Agree? Surfaced by Threadverse. #Threadverse #Startup",
-    "title": "Vertical AI Products Will Lose. Here's Why.",
+    "tile": "library/01-content-cards/x/founders-card-12-splitProof.png",
+    "caption": "Evolution of a Founder, in one honest line: being a startup founder is hard, tough, frustrating and rewarding, possibly all at the same time. Which of the four hits hardest for you today? Surfaced by Threadverse. #Threadverse #Startup",
+    "title": "Hard, tough, frustrating and rewarding — possibly all at once",
     "format": "splitProof",
     "topic": "founders",
     "priority": 2,
-    "sourceUrl": "https://news.ycombinator.com/item?id=25755640"
+    "sourceUrl": "https://solutionsuggest.com/brand-stories/how-we-built-1-million-sock-company-matt-mcnamara-co-founder-no-cold-feet/"
   },
   {
     "date": "2026-07-08",
@@ -1155,13 +939,13 @@
     "date": "2026-07-08",
     "timeUTC": "14:00",
     "platform": "x",
-    "tile": "library/01-content-cards/x/funny-card-32-splitProof.png",
-    "caption": "Science's most self-serving finding. Tag the friend whose jokes are objectively too dark. They'll take it as a compliment. (Threadverse read 5,000 posts to find this one.) #Threadverse #Humor",
-    "title": "A dark sense of humor may mean high IQ",
-    "format": "splitProof",
-    "topic": "funny",
+    "tile": "library/01-content-cards/x/gaming-card-25-bigStat.png",
+    "caption": "A stat every indie dev is quietly panicking about: AI-generated reviews can cut Steam reviews for indie games by up to 58%. Good news or the end of the honest review? Surfaced by Threadverse. #Threadverse #Gaming",
+    "title": "AI Reviews Drop 58% For Indie Games",
+    "format": "bigStat",
+    "topic": "gaming",
     "priority": 2,
-    "sourceUrl": "https://www.discoveryplus.com/"
+    "sourceUrl": "https://youtube.com/watch?v=wBfc80Uvi_Q"
   },
   {
     "date": "2026-07-08",
@@ -1179,6 +963,78 @@
     "date": "2026-07-08",
     "timeUTC": "17:00",
     "platform": "x",
+    "tile": "library/01-content-cards/x/philosophy-card-15-splitProof.png",
+    "caption": "A philosopher and scientist square off: is agnosticism a rigorous moral duty or an intellectual cop-out? Huxley vs Russell's teapot. Where do you land? Via Threadverse. #Threadverse #Philosophy",
+    "title": "Is Doubt a Duty or a Cop-Out?",
+    "format": "splitProof",
+    "topic": "philosophy",
+    "priority": 2,
+    "sourceUrl": "https://plato.stanford.edu/entries/innateness-language/"
+  },
+  {
+    "date": "2026-07-08",
+    "timeUTC": "19:00",
+    "platform": "x",
+    "tile": "library/01-content-cards/x/founders-card-27-splitProof.png",
+    "caption": "Most founders think great hiring starts with great resumes. Testlify's founder found the opposite. Focus, feedback, relentless execution. Do you read resumes or ignore them? Via Threadverse. #Threadverse #Startup",
+    "title": "Better Hiring Doesn't Start With Better Resumes",
+    "format": "splitProof",
+    "topic": "founders",
+    "priority": 2,
+    "sourceUrl": "http://philstrazzulla.com/2020/04/06/tips-for-founders-sales-lessons-from-starting-two-b2b-startups/"
+  },
+  {
+    "date": "2026-07-08",
+    "timeUTC": "21:00",
+    "platform": "x",
+    "tile": "library/01-content-cards/x/funny-card-28-splitProof.png",
+    "caption": "The exact question every group chat eventually argues about. Where's YOUR line? Reply with the joke that made you go too far. (Surfaced by Threadverse.) #Threadverse #Humor",
+    "title": "When Dark Humor Stops Being Funny",
+    "format": "splitProof",
+    "topic": "funny",
+    "priority": 2,
+    "sourceUrl": "http://nautil.us/blog/when-dark-humor-stops-being-funny"
+  },
+  {
+    "date": "2026-07-09",
+    "timeUTC": "08:00",
+    "platform": "x",
+    "tile": "library/01-content-cards/x/travel-card-06-splitProof.png",
+    "caption": "Not London. Not Manchester. The UK's best city break is a place most people underrate entirely. Bold call, or dead right? Surfaced by Threadverse. #Threadverse #Travel",
+    "title": "The UK's Best City Break Isn't London",
+    "format": "splitProof",
+    "topic": "travel",
+    "priority": 2,
+    "sourceUrl": "https://fed.brid.gy/r/https://www.mirror.co.uk/travel/uk-ireland/uks-best-city-break-underrated-37320470"
+  },
+  {
+    "date": "2026-07-09",
+    "timeUTC": "12:00",
+    "platform": "x",
+    "tile": "library/01-content-cards/x/founders-card-28-splitProof.png",
+    "caption": "'Vertical AI products will lose market share to horizontal AI competitors unless...' The bitter lesson nobody building an AI wrapper wants to hear. Agree? Surfaced by Threadverse. #Threadverse #Startup",
+    "title": "Vertical AI Products Will Lose. Here's Why.",
+    "format": "splitProof",
+    "topic": "founders",
+    "priority": 2,
+    "sourceUrl": "https://news.ycombinator.com/item?id=25755640"
+  },
+  {
+    "date": "2026-07-09",
+    "timeUTC": "14:00",
+    "platform": "x",
+    "tile": "library/01-content-cards/x/funny-card-32-splitProof.png",
+    "caption": "Science's most self-serving finding. Tag the friend whose jokes are objectively too dark. They'll take it as a compliment. (Threadverse read 5,000 posts to find this one.) #Threadverse #Humor",
+    "title": "A dark sense of humor may mean high IQ",
+    "format": "splitProof",
+    "topic": "funny",
+    "priority": 2,
+    "sourceUrl": "https://www.discoveryplus.com/"
+  },
+  {
+    "date": "2026-07-09",
+    "timeUTC": "17:00",
+    "platform": "x",
     "tile": "library/01-content-cards/x/wildlife-card-23-splitProof.png",
     "caption": "Lions, hyenas, cubs in the crossfire: win or die, no second place. The savanna doesn't do participation trophies. Which team are you rooting for? Surfaced by Threadverse. #Threadverse #Wildlife",
     "title": "Deadliest Battles For Survival",
@@ -1188,7 +1044,7 @@
     "sourceUrl": "https://youtube.com/watch?v=qprNraWQZF4"
   },
   {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/crypto-card-10-splitProof.png",
@@ -1200,7 +1056,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:oep3fan37rbecwrogkdgze5j/post/3moq4sdrbrp2e"
   },
   {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-phone-hero-phone-hero-1.png",
@@ -1212,7 +1068,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-08-banner.png",
@@ -1224,7 +1080,7 @@
     "sourceUrl": "https://mastodon.social/@JSquared_Elevate_Consulting/115301155130301090"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-15-banner.png",
@@ -1236,7 +1092,7 @@
     "sourceUrl": "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-phone-hero-phone-hero-2.png",
@@ -1248,7 +1104,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/funny-card-01-banner.png",
@@ -1260,7 +1116,7 @@
     "sourceUrl": "https://thenextweb.com/news/codifying-humanity-can-humor-reduced-algorithm"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-10-banner.png",
@@ -1272,7 +1128,7 @@
     "sourceUrl": "https://www.independent.co.uk/news/science/ai-brain-model-breakthrough-china-b2823709.html"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-phone-hero-phone-hero-3.png",
@@ -1284,7 +1140,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/youtube-card-08-banner.png",
@@ -1296,7 +1152,7 @@
     "sourceUrl": "https://youtube.com/watch?v=9oMjHAb7osc"
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-27-banner.png",
@@ -1308,7 +1164,7 @@
     "sourceUrl": "https://engineering.nyu.edu/news/encryption-breakthrough-lays-groundwork-privacy-preserving-ai-models"
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-platform-web-platform-web-1.png",
@@ -1320,7 +1176,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/gaming-card-31-banner.png",
@@ -1332,7 +1188,7 @@
     "sourceUrl": "https://mastodon.gamedev.place/@HexagonNico/116829446237217685"
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/funny-card-13-banner.png",
@@ -1344,7 +1200,7 @@
     "sourceUrl": "https://rockosbasilisk.com/@inspirobot/116832998940215685"
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-prompt-to-feed-prompt-to-feed-1.png",
@@ -1356,7 +1212,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-17-banner.png",
@@ -1368,7 +1224,7 @@
     "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-14-banner.png",
@@ -1380,7 +1236,7 @@
     "sourceUrl": "http://www.foundread.com/view/hey-founders-shut-up"
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-prompt-to-feed-prompt-to-feed-2.png",
@@ -1392,7 +1248,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-14-quote.png",
@@ -1404,7 +1260,7 @@
     "sourceUrl": "https://x.com/Anto150919/status/2071375089136714169"
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-24-banner.png",
@@ -1416,7 +1272,7 @@
     "sourceUrl": "https://www.youtube.com/watch?v=wW886JJEQes"
   },
   {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-prompt-to-feed-prompt-to-feed-3.png",
@@ -1428,7 +1284,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-29-quote.png",
@@ -1440,7 +1296,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:z6rujpf4u56jfie7aqic2nfg/post/3mouvw7ycus2s"
   },
   {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-16-quote.png",
@@ -1452,7 +1308,7 @@
     "sourceUrl": "https://medium.com/@maxlynch/startup-lessons-learned-2014-edition-b5e9afa59883"
   },
   {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-split-compare-split-compare-1.png",
@@ -1464,7 +1320,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-24-quote.png",
@@ -1476,7 +1332,7 @@
     "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-makes-ai-breakthrough-reportedly-trains-generative-ai-model-across-multiple-data-centers-and-gpu-architectures"
   },
   {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/wholesome-card-24-quote.png",
@@ -1488,7 +1344,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:2ye7g4ckzlgc2atcuwypooma/post/3mp5ozni4g22m"
   },
   {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-stat-on-feed-stat-on-feed-1.png",
@@ -1500,7 +1356,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-04-quote.png",
@@ -1512,7 +1368,7 @@
     "sourceUrl": "https://www.youtube.com/watch?v=xj7SULFcv3o"
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/gaming-card-24-quote.png",
@@ -1524,7 +1380,7 @@
     "sourceUrl": "https://x.com/qalb_hr/status/2070325082875129925"
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-stat-on-feed-stat-on-feed-2.png",
@@ -1536,7 +1392,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-31-pov.png",
@@ -1548,7 +1404,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:ebzux6irmjdrgt4hw5ieqbqy/post/3mozyfsq5hv2e"
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/gaming-card-32-quote.png",
@@ -1560,7 +1416,7 @@
     "sourceUrl": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:b5uem672ci23lqrcz6j6bs2c/post/3mpeifoo57s2y"
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/product/product-stat-on-feed-stat-on-feed-3.png",
@@ -1572,7 +1428,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/philosophy-card-32-quote.png",
@@ -1584,7 +1440,7 @@
     "sourceUrl": "https://epochemagazine.org/88/mathematics-is-an-opinion-and-the-wrong-one/"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/funny-card-21-quote.png",
@@ -1596,7 +1452,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:lsunldkgvjvutojjgmf6rh5z/post/3mpcomfmz222o"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-03-quote.png",
@@ -1608,7 +1464,7 @@
     "sourceUrl": "https://x.com/Sayyadiweb3/status/2071324208093897172"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/wholesome-card-23-quote.png",
@@ -1620,7 +1476,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:n4yjvadw6hg3vp4yp5hltci3/post/3mpgu4d37ec22"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-10-quote.png",
@@ -1632,7 +1488,7 @@
     "sourceUrl": "https://www.youtube.com/watch?v=zXshP-jHuYI"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/ai-card-07-quote.png",
@@ -1644,7 +1500,7 @@
     "sourceUrl": "https://x.com/Elongivaway58/status/2071360571451089022"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/gaming-card-10-quote.png",
@@ -1656,7 +1512,7 @@
     "sourceUrl": "https://x.com/Operation_N313/status/2072386845502054451"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "12:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-20-quote.png",
@@ -1668,7 +1524,7 @@
     "sourceUrl": "https://supremefounder.com/index.html"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "14:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/philosophy-card-11-quote.png",
@@ -1680,7 +1536,7 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi3ond5lk2b"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "17:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-32-quote.png",
@@ -1692,7 +1548,7 @@
     "sourceUrl": "https://www.youtube.com/watch?v=OR_6EGRFWZ8"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "19:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-01-quote.png",
@@ -1704,7 +1560,7 @@
     "sourceUrl": "https://mastodon.social/@JSquared_Elevate_Consulting/115295492818388102"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "21:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-25-quote.png",
@@ -1716,7 +1572,7 @@
     "sourceUrl": "https://x.com/defyneric/status/2071327928911122761"
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "08:00",
     "platform": "x",
     "tile": "library/01-content-cards/x/founders-card-30-pov.png",
