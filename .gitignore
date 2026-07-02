@@ -13,3 +13,6 @@ assets/raw/
 # OS
 .DS_Store
 .env.local
+x-session.json
+.x-profile/
+x-error.png

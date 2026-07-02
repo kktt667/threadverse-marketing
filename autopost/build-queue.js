@@ -17,7 +17,8 @@ const { withHashtags } = require('./hashtags');
 const ROOT = path.resolve(__dirname, '..');
 const arg = (n, d = null) => { const i = process.argv.indexOf(`--${n}`); if (i === -1) return d; const v = process.argv[i + 1]; return (!v || v.startsWith('--')) ? true : v; };
 
-const PLATFORMS = (arg('platforms', 'x,bluesky,mastodon')).split(',').map(s => s.trim());
+// Default: Bluesky + Mastodon (X dropped — no free API + blocks automation). Override with --platforms.
+const PLATFORMS = (arg('platforms', 'bluesky,mastodon')).split(',').map(s => s.trim());
 const PER_DAY = +(arg('per-day', 6));
 const DAYS = +(arg('days', 20));
 const START = arg('start', '2026-07-02');

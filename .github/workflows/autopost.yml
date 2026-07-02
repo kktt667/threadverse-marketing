@@ -42,14 +42,11 @@ jobs:
 
       - name: Post due items
         env:
+          # Bluesky + Mastodon only. (X dropped — no free API, and X blocks browser automation.)
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
           MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           POST_NOW: ${{ github.event.inputs.post_now == 'true' && '1' || '' }}
           MAX_PER_RUN: '20'
