@@ -1,176 +1,5 @@
 [
   {
-    "platform": "x",
-    "topic": "ai",
-    "format": "quote",
-    "score": 7,
-    "vibe": "sharp",
-    "tile": "library/01-content-cards/x/ai-card-03-quote.png",
-    "title": "AI isn't a race to build anymore",
-    "caption": "Best reframe of the AI race I've seen: it's no longer about who builds it. It's about who improves it faster than everyone else. Agree? Threadverse surfaced this one.",
-    "triggers": [
-      "novelty",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://x.com/Sayyadiweb3/status/2071324208093897172"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "spicy",
-    "tile": "library/01-content-cards/x/ai-card-05-splitProof.png",
-    "title": "90% odds GPT-5.6 ships by July",
-    "caption": "Polymarket has GPT-5.6 at a 90% chance to ship by July 31, but just 1% before June 30. The market is literally betting on the release calendar now. Threadverse caught this early.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://x.com/buildwithhassan/status/2071343402126299326"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "bigStat",
-    "score": 9,
-    "vibe": "landmark",
-    "tile": "library/01-content-cards/x/ai-card-06-bigStat.png",
-    "title": "The US-China AI gap just closed",
-    "caption": "Stanford's 2026 AI Index says the US-China frontier model gap is effectively gone, down to ~2.7% as of March. The race everyone assumed was decided isn't. Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://x.com/grok/status/2071338402411118888"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "quote",
-    "score": 7,
-    "vibe": "punchy",
-    "tile": "library/01-content-cards/x/ai-card-07-quote.png",
-    "title": "AI updates now feel like deployment",
-    "caption": "Monthly frontier releases have blurred into one thing: AI doesn't get 'updated' anymore, it just continuously deploys. When did versions stop meaning anything?",
-    "triggers": [
-      "novelty",
-      "identity",
-      "emotion"
-    ],
-    "sourceUrl": "https://x.com/Elongivaway58/status/2071360571451089022"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "underdog",
-    "tile": "library/01-content-cards/x/ai-card-09-splitProof.png",
-    "title": "Same model. 11x less compute.",
-    "caption": "A Chinese lab claims it matched frontier results with 11X less compute, purely through optimization. The efficiency race is the real arms race now. Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-company-says-breakthroughs-enabled-creating-a-leading-edge-ai-model-with-11x-less-compute-deepseeks-optimizations-highlight-limits-of-us-sanctions"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "banner",
-    "score": 7,
-    "vibe": "audacious",
-    "tile": "library/01-content-cards/x/ai-card-10-banner.png",
-    "title": "Brain-like AI, 100x faster",
-    "caption": "China claims a brain-like AI running 100x faster than traditional models, balancing speed and accuracy. Bold if it holds up. What's your bet? Curated by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.independent.co.uk/news/science/ai-brain-model-breakthrough-china-b2823709.html"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "contrarian",
-    "tile": "library/01-content-cards/x/ai-card-13-splitProof.png",
-    "title": "\"The $5-6M number is bogus\"",
-    "caption": "A tech breakthrough and a security risk. This take calls the cheap-training figure bogus and floats shorting US AI stocks. Spicy. Where do you land? Via Threadverse.",
-    "triggers": [
-      "emotion",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://semking.com/deepseek-china-ai-model-breakthrough-security-risk/"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "quote",
-    "score": 9,
-    "vibe": "ominous",
-    "tile": "library/01-content-cards/x/ai-card-14-quote.png",
-    "title": "Govt decides who gets AI first?",
-    "caption": "OpenAI limits a new flagship after government concerns, saying who gets early access 'should not become the long-term default.' Read that twice. Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://x.com/Anto150919/status/2071375089136714169"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "banner",
-    "score": 8,
-    "vibe": "foundational",
-    "tile": "library/01-content-cards/x/ai-card-15-banner.png",
-    "title": "Matrix math just got its biggest boost",
-    "caption": "Matrix multiplication, the math under all of AI, just got its biggest speedup in over a decade. Faster, cheaper models downstream. Curated by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "banner",
-    "score": 6,
-    "vibe": "geopolitical",
-    "tile": "library/01-content-cards/x/ai-card-17-banner.png",
-    "title": "DeepSeek's Next Move + China Blocks Meta's $2B Deal",
-    "caption": "DeepSeek drops another breakthrough while China blocks Meta's $2B grab of AI startup Manus. The race just got messier. Surfaced by Threadverse. Who wins 2026?",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "breakthrough",
-    "tile": "library/01-content-cards/x/ai-card-18-splitProof.png",
-    "title": "DeepSeek's New Training Trick Breaks Scaling",
-    "caption": "China's DeepSeek opened 2026 with a training method analysts are calling a real breakthrough for scaling. Big if it holds. Found via Threadverse. Hype or history?",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.businessinsider.com/deepseek-new-ai-training-models-scale-manifold-constrained-analysts-china-2026-1"
-  },
-  {
     "platform": "mastodon",
     "topic": "ai",
     "format": "banner",
@@ -217,37 +46,6 @@
     "sourceUrl": "https://reut.rs/3R3a3rF"
   },
   {
-    "platform": "x",
-    "topic": "ai",
-    "format": "quote",
-    "score": 8,
-    "vibe": "resourceful",
-    "tile": "library/01-content-cards/x/ai-card-24-quote.png",
-    "title": "China Trained an AI Across Data Centers",
-    "caption": "Blocked from top chips, China trained a generative model across multiple data centers and mixed GPUs. Constraints breed invention. Found via Threadverse.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-makes-ai-breakthrough-reportedly-trains-generative-ai-model-across-multiple-data-centers-and-gpu-architectures"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "banner",
-    "score": 7,
-    "vibe": "clever",
-    "tile": "library/01-content-cards/x/ai-card-27-banner.png",
-    "title": "AI That Detects Cats Without Seeing Them",
-    "caption": "Encryption breakthrough for privacy-preserving AI: models run object detection on data they can't actually read. The cat photos sell it. Where's the line on private AI?",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://engineering.nyu.edu/news/encryption-breakthrough-lays-groundwork-privacy-preserving-ai-models"
-  },
-  {
     "platform": "bluesky",
     "topic": "ai",
     "format": "tabloid",
@@ -262,150 +60,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "quote",
-    "score": 9,
-    "vibe": "provocative",
-    "tile": "library/01-content-cards/x/ai-card-29-quote.png",
-    "title": "\"We Can't Let AI Giants Eat The Economy\"",
-    "caption": "Satya Nadella's blistering take on AI power balance and who gets to earn society's permission. A frontier CEO drawing a line in the sand. Agree or overblown?",
-    "triggers": [
-      "identity",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:z6rujpf4u56jfie7aqic2nfg/post/3mouvw7ycus2s"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "scrappy",
-    "tile": "library/01-content-cards/x/ai-card-30-splitProof.png",
-    "title": "They Built It With 11X Less Compute",
-    "caption": "A Chinese AI lab claims breakthroughs let them train a model on 11X less compute, pure low-level optimization. If real, the compute moat just cracked.",
-    "triggers": [
-      "novelty",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.dbreunig.com/2024/02/01/pursuing-quiet-ai.html"
-  },
-  {
-    "platform": "x",
-    "topic": "ai",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "bold",
-    "tile": "library/01-content-cards/x/ai-card-31-splitProof.png",
-    "title": "Brain-Like AI, 100x Faster Than Normal",
-    "caption": "China claims a brain-like AI model running 100 times faster than traditional ones, balancing speed and accuracy. Huge if it holds up. Believe the number?",
-    "triggers": [
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-company-says-breakthroughs-enabled-creating-a-leading-edge-ai-model-with-11x-less-compute-deepseeks-optimizations-highlight-limits-of-us-sanctions"
-  },
-  {
-    "platform": "x",
-    "topic": "crypto",
-    "format": "splitProof",
-    "score": 6,
-    "vibe": "ominous",
-    "tile": "library/01-content-cards/x/crypto-card-10-splitProof.png",
-    "title": "One whale dumped 30M XRP",
-    "caption": "A single whale offloaded 30M XRP and the price bled 4%. The retail lesson never changes: someone always sees the exit first. What's your read?",
-    "triggers": [
-      "emotion",
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:oep3fan37rbecwrogkdgze5j/post/3moq4sdrbrp2e"
-  },
-  {
-    "platform": "x",
-    "topic": "crypto",
-    "format": "tabloid",
-    "score": 9,
-    "vibe": "poetic-justice",
-    "tile": "library/01-content-cards/x/crypto-card-16-tabloid.png",
-    "title": "The bot that ate 70% of MEV got drained",
-    "caption": "Ethereum's top sandwich bot got counter-exploited for $7.5M via 66 fake approval traps. No code bug, the logic itself was the hole. Best crypto story the feed pulled today.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot"
-  },
-  {
-    "platform": "x",
-    "topic": "crypto",
-    "format": "bigStat",
-    "score": 8,
-    "vibe": "staggering",
-    "tile": "library/01-content-cards/x/crypto-card-18-bigStat.png",
-    "title": "Solana > Every CEX Combined",
-    "caption": "$584M on-chain vs $422M across ALL centralized exchanges. A 138% ratio. BTC sits at 0.53%. The chart nobody's talking about yet. Real reply: bullish or blip?",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:lpzldkj4wxlyisf2znvhs4fp/post/3mosfzqtjfc2n"
-  },
-  {
-    "platform": "x",
-    "topic": "crypto",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "provocative",
-    "tile": "library/01-content-cards/x/crypto-card-21-splitProof.png",
-    "title": "Crypto's Real Enemy Is Itself",
-    "caption": "ARCA's CIO names the 4 horsemen killing crypto: exchanges, market makers, VCs, token issuers. Not regulators. Insiders. Who'd you add to the list?",
-    "triggers": [
-      "identity",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://coinpedia.org/news/four-horsemen-destroying-crypto-according-to-one-of-wall-streets-top-digital-asset-investors/"
-  },
-  {
-    "platform": "x",
-    "topic": "crypto",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "dominant",
-    "tile": "library/01-content-cards/x/crypto-card-28-splitProof.png",
-    "title": "Aave took 80.7% of DeFi lending profit",
-    "caption": "One protocol captured 80.7% of DeFi lending's retained earnings this year. ~$43.3M. Everyone else split the scraps. Threadverse surfaced the receipts. Moat or bubble?",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mor3lshqlw2t"
-  },
-  {
-    "platform": "x",
-    "topic": "crypto",
-    "format": "bigStat",
-    "score": 8,
-    "vibe": "resilient",
-    "tile": "library/01-content-cards/x/crypto-card-31-bigStat.png",
-    "title": "$8.45B pulled. Nothing froze.",
-    "caption": "Aave just processed $8.45 billion in withdrawals without freezing a single fund. It survived the stress test. But the questions it raised didn't go away. Found in the Threadverse feed.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk"
   },
   {
     "platform": "bluesky",
@@ -567,38 +221,6 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:dvi7gfuw2uqa3ktisesnwafq/post/3mp3kjaz4rs2y"
   },
   {
-    "platform": "x",
-    "topic": "wholesome",
-    "format": "quote",
-    "score": 7,
-    "vibe": "thoughtful",
-    "tile": "library/01-content-cards/x/wholesome-card-23-quote.png",
-    "title": "Empathy isn't the point. Kindness is.",
-    "caption": "\"Empathy can lead to kindness, but it doesn't have to.\" A quiet reframe that stuck with me. Agree or push back? Surfaced by Threadverse.",
-    "triggers": [
-      "identity",
-      "participation",
-      "social_currency"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:n4yjvadw6hg3vp4yp5hltci3/post/3mpgu4d37ec22"
-  },
-  {
-    "platform": "x",
-    "topic": "wholesome",
-    "format": "quote",
-    "score": 8,
-    "vibe": "contagious",
-    "tile": "library/01-content-cards/x/wholesome-card-24-quote.png",
-    "title": "Kindness is an addiction. And it's free.",
-    "caption": "\"Once you see the smile on a face after an act of kindness, you tend to want more of that.\" Best habit you can pick up. Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:2ye7g4ckzlgc2atcuwypooma/post/3mp5ozni4g22m"
-  },
-  {
     "platform": "instagram",
     "topic": "wholesome",
     "format": "quote",
@@ -722,22 +344,6 @@
     "sourceUrl": "https://youtube.com/watch?v=lVKyPt2mZ1k"
   },
   {
-    "platform": "x",
-    "topic": "youtube",
-    "format": "banner",
-    "score": 7,
-    "vibe": "wholesome-chaos",
-    "tile": "library/01-content-cards/x/youtube-card-08-banner.png",
-    "title": "Flying Porta Potties. Yes, Really.",
-    "caption": "Best fails of the decade in one video: a mattress off a car, a parasailing gone wide, a porta potty for takeoff. This survived our 5,000-post cull. Wildest one wins.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=9oMjHAb7osc"
-  },
-  {
     "platform": "bluesky",
     "topic": "goodnews",
     "format": "splitProof",
@@ -768,23 +374,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://mastodon.social/@purpllelite/113600920194660348"
-  },
-  {
-    "platform": "x",
-    "topic": "goodnews",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "provocative",
-    "tile": "library/01-content-cards/x/goodnews-card-08-splitProof.png",
-    "title": "£1m of teargas = £1m of housing to GDP",
-    "caption": "GDP counts teargas the same as affordable housing. Degrowth asks: what are we actually measuring? A line that reframes everything — Threadverse found it. Does GDP still mean anything?",
-    "triggers": [
-      "novelty",
-      "identity",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://journa.host/@africa/115531954132897283"
   },
   {
     "platform": "mastodon",
@@ -866,150 +455,6 @@
     "sourceUrl": "https://respublicae.eu/@meugeniarpalop/111331729693596105"
   },
   {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 6,
-    "vibe": "contrarian",
-    "tile": "library/01-content-cards/x/founders-card-01-quote.png",
-    "title": "Hey Founders: Shut Up.",
-    "caption": "\"Speak less, listen more.\" A founder's take on what journalists know that we don't. Surfaced by Threadverse from the noise. Does listening actually beat pitching?",
-    "triggers": [
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://mastodon.social/@JSquared_Elevate_Consulting/115295492818388102"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "insightful",
-    "tile": "library/01-content-cards/x/founders-card-02-splitProof.png",
-    "title": "Turn your first users into distribution",
-    "caption": "\"Most solo founders stop growing after their first few users.\" The fix isn't more users, it's making the ones you have your channel. Threadverse pulled this one. Agree?",
-    "triggers": [
-      "identity",
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.youtube.com/watch?v=LREoTUoM-rU"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 8,
-    "vibe": "raw",
-    "tile": "library/01-content-cards/x/founders-card-04-quote.png",
-    "title": "Nobody posts the version that embarrassed them",
-    "caption": "The part everyone skips telling founder stories: the embarrassing first attempt. So everyone thinks version one is supposed to be good. It's not. Threadverse found this gem.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.youtube.com/watch?v=xj7SULFcv3o"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "banner",
-    "score": 9,
-    "vibe": "vulnerable",
-    "tile": "library/01-content-cards/x/founders-card-08-banner.png",
-    "title": "Why fundraising is a terrible experience",
-    "caption": "A first-time founder on the terrible truths of raising: \"Last week we announced our seed round publically...\" Then the honest part. 80 likes, 68 replies. Threadverse surfaced it.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://mastodon.social/@JSquared_Elevate_Consulting/115301155130301090"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 7,
-    "vibe": "generous",
-    "tile": "library/01-content-cards/x/founders-card-10-quote.png",
-    "title": "I told these stories so often I wrote them down",
-    "caption": "A founder kept fielding the same question from mentees, so they finally wrote the whole playbook down. How to keep it from falling over, pass the audit, scale infra without rot. What's the story you've retold 100 times? Surfaced by Threadverse.",
-    "triggers": [
-      "identity",
-      "participation",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.youtube.com/watch?v=zXshP-jHuYI"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "raw",
-    "tile": "library/01-content-cards/x/founders-card-12-splitProof.png",
-    "title": "Hard, tough, frustrating and rewarding — possibly all at once",
-    "caption": "Evolution of a Founder, in one honest line: being a startup founder is hard, tough, frustrating and rewarding, possibly all at the same time. Which of the four hits hardest for you today? Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://solutionsuggest.com/brand-stories/how-we-built-1-million-sock-company-matt-mcnamara-co-founder-no-cold-feet/"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "banner",
-    "score": 6,
-    "vibe": "reflective",
-    "tile": "library/01-content-cards/x/founders-card-14-banner.png",
-    "title": "Lessons from building a dev tools company",
-    "caption": "JD Trask on the lessons of building Mindscape, a dev tools company. Written back in 2011 and still surfacing, because the hard-won founder stuff doesn't expire. Dev founders: which lesson took you longest? Found by Threadverse.",
-    "triggers": [
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "http://www.foundread.com/view/hey-founders-shut-up"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "bigStat",
-    "score": 8,
-    "vibe": "proven",
-    "tile": "library/01-content-cards/x/founders-card-15-bigStat.png",
-    "title": "Lessons from starting TWO B2B startups",
-    "caption": "153 likes, 31 replies: a founder breaks down sales lessons from starting two B2B startups, not one. The people who've done it twice are the ones worth reading. What's your #1 B2B sales lesson? Surfaced by Threadverse.",
-    "triggers": [
-      "social_currency",
-      "identity",
-      "participation"
-    ],
-    "sourceUrl": "https://x.com/PedroGuiti/status/2071311098033144214"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 9,
-    "vibe": "brutal",
-    "tile": "library/01-content-cards/x/founders-card-16-quote.png",
-    "title": "This. Shit. Is. Hard.",
-    "caption": "\"This. Shit. Is. Hard.\" A designer left a cushy role at one of NYC's biggest venture studios to start a company, and led with the truest founder line there is. Founders: when did it get real for you? Found by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://medium.com/@maxlynch/startup-lessons-learned-2014-edition-b5e9afa59883"
-  },
-  {
     "platform": "bluesky",
     "topic": "founders",
     "format": "splitProof",
@@ -1024,133 +469,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://x.com/ItIsRaymo/status/2071296080344760585"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 7,
-    "vibe": "resigned",
-    "tile": "library/01-content-cards/x/founders-card-20-quote.png",
-    "title": "You can fight gravity. You can't beat it.",
-    "caption": "When the founder invites a VC in, then the VC decides it's time for the founder to go. One line from Micke Paqvalén still stings. Ever watched a founder get pushed out? Found via Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://supremefounder.com/index.html"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "banner",
-    "score": 6,
-    "vibe": "candid",
-    "tile": "library/01-content-cards/x/founders-card-24-banner.png",
-    "title": "Why thinkpanda.com failed",
-    "caption": "Fahd Butt breaks down exactly why his startup died. The failure post-mortems always teach more than the wins. What killed a company you rooted for? Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://www.youtube.com/watch?v=wW886JJEQes"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 6,
-    "vibe": "reflective",
-    "tile": "library/01-content-cards/x/founders-card-25-quote.png",
-    "title": "Today I Am 30. Here's What I Learned.",
-    "caption": "The StackAdapt founder hit 30 and wrote the lessons down. 'You still remember yourself when...' Rare kind of honest. What would your 30-year-old self tell you? Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity"
-    ],
-    "sourceUrl": "https://x.com/defyneric/status/2071327928911122761"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "counterintuitive",
-    "tile": "library/01-content-cards/x/founders-card-27-splitProof.png",
-    "title": "Better Hiring Doesn't Start With Better Resumes",
-    "caption": "Most founders think great hiring starts with great resumes. Testlify's founder found the opposite. Focus, feedback, relentless execution. Do you read resumes or ignore them? Via Threadverse.",
-    "triggers": [
-      "novelty",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "http://philstrazzulla.com/2020/04/06/tips-for-founders-sales-lessons-from-starting-two-b2b-startups/"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "contrarian",
-    "tile": "library/01-content-cards/x/founders-card-28-splitProof.png",
-    "title": "Vertical AI Products Will Lose. Here's Why.",
-    "caption": "'Vertical AI products will lose market share to horizontal AI competitors unless...' The bitter lesson nobody building an AI wrapper wants to hear. Agree? Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://news.ycombinator.com/item?id=25755640"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "pov",
-    "score": 6,
-    "vibe": "candid",
-    "tile": "library/01-content-cards/x/founders-card-30-pov.png",
-    "title": "The Product Hunt Spike Fades. Then What?",
-    "caption": "'After the initial Product Hunt spike, there's...' Every indie hacker knows this drop. He built a whole platform around the after. What did you do post-launch? Via Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "participation"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:zfqlqydl4itla4jftmi3mdt7/post/3mnltnkbnl22u"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "pov",
-    "score": 8,
-    "vibe": "burnt-out",
-    "tile": "library/01-content-cards/x/founders-card-31-pov.png",
-    "title": "3 Years Of Side Projects. Zero Energy Left.",
-    "caption": "'Many evenings and weekends were burnt. Yet I gained ve...' The most honest founder post this week. 41 replies of people who've been there. Have you? Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "participation"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:ebzux6irmjdrgt4hw5ieqbqy/post/3mozyfsq5hv2e"
-  },
-  {
-    "platform": "x",
-    "topic": "founders",
-    "format": "quote",
-    "score": 7,
-    "vibe": "hard-won",
-    "tile": "library/01-content-cards/x/founders-card-32-quote.png",
-    "title": "I Built 4 Products Before Learning This",
-    "caption": "'I built 4 products before learning the boring SaaS lesson: demand comes first.' The most expensive lesson in startups, in one line. How many did it take you? Via Threadverse.",
-    "triggers": [
-      "identity",
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": "https://www.youtube.com/watch?v=OR_6EGRFWZ8"
   },
   {
     "platform": "mastodon",
@@ -1199,22 +517,6 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:lsjo5pnx6byjoo27omtcoyly/post/3mpm3esmfhc26"
   },
   {
-    "platform": "x",
-    "topic": "gaming",
-    "format": "quote",
-    "score": 7,
-    "vibe": "curious",
-    "tile": "library/01-content-cards/x/gaming-card-10-quote.png",
-    "title": "What Really Happens at Launch?",
-    "caption": "Genuine question every gamer has wondered: is shipping a game just \"bugfixing is a nightmare\" or is there way more to it? Devs, sound off in the replies.",
-    "triggers": [
-      "participation",
-      "identity",
-      "emotion"
-    ],
-    "sourceUrl": "https://x.com/Operation_N313/status/2072386845502054451"
-  },
-  {
     "platform": "tiktok",
     "topic": "gaming",
     "format": "pov",
@@ -1245,22 +547,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://x.com/SPlayalot/status/2072443517398553023"
-  },
-  {
-    "platform": "x",
-    "topic": "gaming",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "provocative",
-    "tile": "library/01-content-cards/x/gaming-card-15-splitProof.png",
-    "title": "Big AI Chases Trillions. Indies Just Ship.",
-    "caption": "The sharpest take on AI in games this week: the giants chase infrastructure while small studios quietly punch above their weight. Agree or hype?",
-    "triggers": [
-      "identity",
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": "https://mastodon.social/@Steenbergen_apps/116849561360019935"
   },
   {
     "platform": "instagram",
@@ -1327,38 +613,6 @@
     "sourceUrl": "https://youtube.com/watch?v=3KJbYdNP5js"
   },
   {
-    "platform": "x",
-    "topic": "gaming",
-    "format": "quote",
-    "score": 8,
-    "vibe": "sharp",
-    "tile": "library/01-content-cards/x/gaming-card-24-quote.png",
-    "title": "Nobody is watching 24/7",
-    "caption": "Devs track metrics in a spreadsheet, then Slack, then Discord, then the App Store. Nobody watches 24/7. A clean pitch for an AI analyst that does. Threadverse found the sharpest gamedev take today.",
-    "triggers": [
-      "identity",
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://x.com/qalb_hr/status/2070325082875129925"
-  },
-  {
-    "platform": "x",
-    "topic": "gaming",
-    "format": "bigStat",
-    "score": 7,
-    "vibe": "vindicated",
-    "tile": "library/01-content-cards/x/gaming-card-25-bigStat.png",
-    "title": "AI Reviews Drop 58% For Indie Games",
-    "caption": "A stat every indie dev is quietly panicking about: AI-generated reviews can cut Steam reviews for indie games by up to 58%. Good news or the end of the honest review? Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=wBfc80Uvi_Q"
-  },
-  {
     "platform": "instagram",
     "topic": "gaming",
     "format": "banner",
@@ -1391,38 +645,6 @@
     "sourceUrl": "https://x.com/KamuraTyy/status/2070312816846966945"
   },
   {
-    "platform": "x",
-    "topic": "gaming",
-    "format": "banner",
-    "score": 7,
-    "vibe": "showcase",
-    "tile": "library/01-content-cards/x/gaming-card-31-banner.png",
-    "title": "This Week's Indie Drops, All In One Grid",
-    "caption": "Weekly indie releases, laid out like a menu of tiny worlds. Launching something soon? Drop it in the replies. Curated by Threadverse.",
-    "triggers": [
-      "participation",
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://mastodon.gamedev.place/@HexagonNico/116829446237217685"
-  },
-  {
-    "platform": "x",
-    "topic": "gaming",
-    "format": "quote",
-    "score": 8,
-    "vibe": "heartfelt",
-    "tile": "library/01-content-cards/x/gaming-card-32-quote.png",
-    "title": "An Indie Game Outperforming AAA Gave Him Hope",
-    "caption": "Watching an indie game outperform recent AAA titles reminded him people care about personality over budget. What indie beat the blockbusters for you? Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:b5uem672ci23lqrcz6j6bs2c/post/3mpeifoo57s2y"
-  },
-  {
     "platform": "instagram",
     "topic": "drama",
     "format": "quote",
@@ -1437,38 +659,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://bsky.app/profile/did:plc:nvpxw3eyzcfofsbzqaj6x6j4/post/3mpgs6w3g222u"
-  },
-  {
-    "platform": "x",
-    "topic": "drama",
-    "format": "bigStat",
-    "score": 7,
-    "vibe": "underdog",
-    "tile": "library/01-content-cards/x/drama-card-12-bigStat.png",
-    "title": "Wedding Socks to $1,000,000",
-    "caption": "No fashion background. Just a smart niche and stubborn hustle. A $1M sock company built the quiet way. What niche is hiding in plain sight? Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=bUe3pia2Ofs"
-  },
-  {
-    "platform": "x",
-    "topic": "drama",
-    "format": "quote",
-    "score": 6,
-    "vibe": "contrarian",
-    "tile": "library/01-content-cards/x/drama-card-13-quote.png",
-    "title": "Vertical AI Will Lose to Horizontal",
-    "caption": "The AI founder's bitter lesson: vertical AI products lose market share to horizontal competitors unless they do one thing. Agree or cope? Found in the Threadverse feed.",
-    "triggers": [
-      "novelty",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://x.com/Moh56889/status/2072183048032960809"
   },
   {
     "platform": "bluesky",
@@ -1487,22 +677,6 @@
     "sourceUrl": "https://youtube.com/watch?v=OYDnNPm2Jrs"
   },
   {
-    "platform": "x",
-    "topic": "drama",
-    "format": "tabloid",
-    "score": 8,
-    "vibe": "caught",
-    "tile": "library/01-content-cards/x/drama-card-15-tabloid.png",
-    "title": "Roblox CEO Forgot to Delete This",
-    "caption": "David Baszucki fired off a tweet his team wrote for him and forgot to delete the part that gave it away. The internet noticed instantly. Caught early by Threadverse.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=pN96-eoVZ0w"
-  },
-  {
     "platform": "tiktok",
     "topic": "drama",
     "format": "tabloid",
@@ -1517,22 +691,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://x.com/Akashxxxsteve/status/2072075459471299017"
-  },
-  {
-    "platform": "x",
-    "topic": "drama",
-    "format": "quote",
-    "score": 7,
-    "vibe": "self-aware",
-    "tile": "library/01-content-cards/x/drama-card-18-quote.png",
-    "title": "Outrage, Engagement, Loops, Cycles",
-    "caption": "Someone diagnosed the entire internet in one reply: tech spaces are 'addicted to performative confrontation and constant public signaling.' Guilty? Threadverse keeps the signal, drops the loops.",
-    "triggers": [
-      "identity",
-      "social_currency",
-      "emotion"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=7vSWJCB5B3c"
   },
   {
     "platform": "tiktok",
@@ -1599,22 +757,6 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:sfvpv6dfrug3rnjewn7gyx62/post/3k3jufpul5v2e"
   },
   {
-    "platform": "x",
-    "topic": "drama",
-    "format": "tabloid",
-    "score": 7,
-    "vibe": "scandal",
-    "tile": "library/01-content-cards/x/drama-card-26-tabloid.png",
-    "title": "Local Judges vs Big 12",
-    "caption": "College sports drama is spilling off the field. The Big 12 crying foul over Texas Tech and now it's a legal fight. Who wins this one? Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://x.com/CL4Y0VERS/status/2072133765372215788"
-  },
-  {
     "platform": "bluesky",
     "topic": "drama",
     "format": "splitProof",
@@ -1645,39 +787,6 @@
       "emotion"
     ],
     "sourceUrl": "https://bsky.app/profile/did:plc:hbq3eeeb7omv6jwozvz7frm7/post/3kes77htvv227"
-  },
-  {
-    "platform": "x",
-    "topic": "drama",
-    "format": "pov",
-    "score": 6,
-    "vibe": "callout",
-    "tile": "library/01-content-cards/x/drama-card-31-pov.png",
-    "title": "Stop Projecting Your Victim Card",
-    "caption": "Fandom accountability war going nuclear. Jimin vs Jennie, shady tech, and a full 'stop projecting your victim card' takedown. K-pop stans don't miss.",
-    "triggers": [
-      "emotion",
-      "identity",
-      "social_currency"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:2dv4enaklqwhdswno3iurehp/post/3mof32bw4hc2l"
-  },
-  {
-    "platform": "x",
-    "topic": "drama",
-    "format": "tabloid",
-    "score": 9,
-    "vibe": "escalating",
-    "tile": "library/01-content-cards/x/drama-card-32-tabloid.png",
-    "title": "Two States Blackballed Texas Tech",
-    "caption": "OMG it escalated. Nebraska and Georgia won't schedule ANY games vs Texas Tech, and now the Big Ten's meeting to remove them entirely. This is getting messy. Caught early by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "emotion",
-      "identity"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:erqwpimsmwnzohwoiojsy22z/post/3mowf7i2psk2n"
   },
   {
     "platform": "mastodon",
@@ -1729,22 +838,6 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi47qdo4k2b"
   },
   {
-    "platform": "x",
-    "topic": "philosophy",
-    "format": "quote",
-    "score": 6,
-    "vibe": "self-aware",
-    "tile": "library/01-content-cards/x/philosophy-card-11-quote.png",
-    "title": "\"I Think I Think Too Much\"",
-    "caption": "The most philosopher sentence ever posted. Filed under #CriticalThinking, of course. Do you think too much? Surfaced by Threadverse.",
-    "triggers": [
-      "identity",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi3ond5lk2b"
-  },
-  {
     "platform": "instagram",
     "topic": "philosophy",
     "format": "banner",
@@ -1792,22 +885,6 @@
       "participation"
     ],
     "sourceUrl": "https://epochemagazine.org/28/bringing-people-closer-cicero-hierocles-and-cosmopolitanism/"
-  },
-  {
-    "platform": "x",
-    "topic": "philosophy",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "provocative",
-    "tile": "library/01-content-cards/x/philosophy-card-15-splitProof.png",
-    "title": "Is Doubt a Duty or a Cop-Out?",
-    "caption": "A philosopher and scientist square off: is agnosticism a rigorous moral duty or an intellectual cop-out? Huxley vs Russell's teapot. Where do you land? Via Threadverse.",
-    "triggers": [
-      "participation",
-      "identity",
-      "novelty"
-    ],
-    "sourceUrl": "https://plato.stanford.edu/entries/innateness-language/"
   },
   {
     "platform": "bluesky",
@@ -1904,38 +981,6 @@
     "sourceUrl": "https://www.tandfonline.com/doi/full/10.1080/09608788.2026.2680960"
   },
   {
-    "platform": "x",
-    "topic": "philosophy",
-    "format": "quote",
-    "score": 8,
-    "vibe": "unsettling",
-    "tile": "library/01-content-cards/x/philosophy-card-32-quote.png",
-    "title": "Aviation Learned From Every Crash. Nothing Else Does.",
-    "caption": "The philosophy that governs aviation but almost nothing else: catastrophic failures must be systematically studied so they never happen twice. Why don't we do this everywhere? (via Threadverse)",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://epochemagazine.org/88/mathematics-is-an-opinion-and-the-wrong-one/"
-  },
-  {
-    "platform": "x",
-    "topic": "funny",
-    "format": "banner",
-    "score": 8,
-    "vibe": "absurd",
-    "tile": "library/01-content-cards/x/funny-card-01-banner.png",
-    "title": "Can humor be an algorithm?",
-    "caption": "A clown, a 'Funniness Distribution' chart, and one honest question: can funny be codified? Peak cursed-academic energy. Would you trust an AI's sense of humor? Surfaced from ~5k posts.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://thenextweb.com/news/codifying-humanity-can-humor-reduced-algorithm"
-  },
-  {
     "platform": "mastodon",
     "topic": "funny",
     "format": "quote",
@@ -1950,22 +995,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://mastodon.social/@45names/116833832340331870"
-  },
-  {
-    "platform": "x",
-    "topic": "funny",
-    "format": "banner",
-    "score": 7,
-    "vibe": "cursed",
-    "tile": "library/01-content-cards/x/funny-card-13-banner.png",
-    "title": "The reason your girlfriend gets a little brother",
-    "caption": "InspiroBot generated this over a serene sunset stock photo and called it inspiration. Genuinely cursed. Threadverse keeps finding these. Best/worst you've seen?",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "emotion"
-    ],
-    "sourceUrl": "https://rockosbasilisk.com/@inspirobot/116832998940215685"
   },
   {
     "platform": "mastodon",
@@ -1999,38 +1028,6 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:zufhnfs3q5koqy75ht7mb3ad/post/3mpfsqn23tc2c"
   },
   {
-    "platform": "x",
-    "topic": "funny",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "unhinged",
-    "tile": "library/01-content-cards/x/funny-card-19-splitProof.png",
-    "title": "Execute the soccer coach. With anti-aircraft.",
-    "caption": "The headlines out of Korea have officially escaped fiction. \"What is going on down there.\" Our feed caught this one. What's the wildest real headline you've seen?",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:qfwinostecndnbvwwunsmihi/post/3mpfe6es6t22a"
-  },
-  {
-    "platform": "x",
-    "topic": "funny",
-    "format": "quote",
-    "score": 8,
-    "vibe": "savage",
-    "tile": "library/01-content-cards/x/funny-card-21-quote.png",
-    "title": "Reddit hides the negative numbers",
-    "caption": "\"So delicate feelings don't get hurt.\" One of those replies that reads you and the whole internet in a single line. Threadverse surfaced it. Guilty?",
-    "triggers": [
-      "identity",
-      "social_currency",
-      "emotion"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:lsunldkgvjvutojjgmf6rh5z/post/3mpcomfmz222o"
-  },
-  {
     "platform": "instagram",
     "topic": "funny",
     "format": "pov",
@@ -2060,38 +1057,6 @@
       "identity"
     ],
     "sourceUrl": "https://bsky.app/profile/did:plc:j4ot6uzegham4ntzr5d4rws4/post/3mpepfaaots2e"
-  },
-  {
-    "platform": "x",
-    "topic": "funny",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "provocative",
-    "tile": "library/01-content-cards/x/funny-card-28-splitProof.png",
-    "title": "When Dark Humor Stops Being Funny",
-    "caption": "The exact question every group chat eventually argues about. Where's YOUR line? Reply with the joke that made you go too far. (Surfaced by Threadverse.)",
-    "triggers": [
-      "identity",
-      "participation",
-      "emotion"
-    ],
-    "sourceUrl": "http://nautil.us/blog/when-dark-humor-stops-being-funny"
-  },
-  {
-    "platform": "x",
-    "topic": "funny",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "flattering",
-    "tile": "library/01-content-cards/x/funny-card-32-splitProof.png",
-    "title": "A dark sense of humor may mean high IQ",
-    "caption": "Science's most self-serving finding. Tag the friend whose jokes are objectively too dark. They'll take it as a compliment. (Threadverse read 5,000 posts to find this one.)",
-    "triggers": [
-      "identity",
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": "https://www.discoveryplus.com/"
   },
   {
     "platform": "tiktok",
@@ -2172,23 +1137,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://bsky.app/profile/did:plc:fop2pdrq6ihkkybtkbvix4pa/post/3liafvbhng22x"
-  },
-  {
-    "platform": "x",
-    "topic": "truecrime",
-    "format": "tabloid",
-    "score": 9,
-    "vibe": "unbelievable",
-    "tile": "library/01-content-cards/x/truecrime-card-08-tabloid.png",
-    "title": "Caught After 41 Years. By a Smoothie Cup.",
-    "caption": "Nassau County investigators cracked a 41-year-old case using DNA off a discarded smoothie cup. Your trash can testify. What would YOU refuse to throw away now? Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=ghxNEWpjPpY"
   },
   {
     "platform": "tiktok",
@@ -2351,22 +1299,6 @@
     "sourceUrl": "https://youtu.be/c5b_pWreoQc?si=pxrnthauP4OfYMRF"
   },
   {
-    "platform": "x",
-    "topic": "truecrime",
-    "format": "tabloid",
-    "score": 8,
-    "vibe": "shocking",
-    "tile": "library/01-content-cards/x/truecrime-card-22-tabloid.png",
-    "title": "Cold for 40 Years. Then Her Daughter Spoke.",
-    "caption": "A child abduction case went cold for four decades. An arrest finally came, caught on body cam, as the daughter speaks out. Some cases never really close. Found via Threadverse.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=QRYrZyDA53g"
-  },
-  {
     "platform": "instagram",
     "topic": "truecrime",
     "format": "banner",
@@ -2430,22 +1362,6 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:bacymjtv5jc2ehhd5hlzfzp5/post/3mpgk54jwv22i"
   },
   {
-    "platform": "x",
-    "topic": "viral",
-    "format": "quote",
-    "score": 8,
-    "vibe": "validating",
-    "tile": "library/01-content-cards/x/viral-card-11-quote.png",
-    "title": "Hip dips were never a thing",
-    "caption": "Nobody had a name for it until it started trending. The internet invents insecurities for fun now. What's yours? Surfaced by Threadverse.",
-    "triggers": [
-      "identity",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://x.com/S4MUR41D0L/status/2072622431735628225"
-  },
-  {
     "platform": "instagram",
     "topic": "viral",
     "format": "pov",
@@ -2494,22 +1410,6 @@
     "sourceUrl": "https://paralell.eu/trip/skriti-katcheta-v-evropa-destinaczii-dalech-ot-talpite/"
   },
   {
-    "platform": "x",
-    "topic": "travel",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "surprising",
-    "tile": "library/01-content-cards/x/travel-card-03-splitProof.png",
-    "title": "More Parisians Bike Than Drive",
-    "caption": "In Paris, more people now travel by bicycle than by car. The city quietly flipped. Would your city ever pull this off? Surfaced by Threadverse.",
-    "triggers": [
-      "novelty",
-      "social_currency",
-      "identity"
-    ],
-    "sourceUrl": "https://bsky.app/profile/did:plc:bwnkultixuuvsauzbveuu6qq/post/3mpjagb7jb225"
-  },
-  {
     "platform": "instagram",
     "topic": "travel",
     "format": "splitProof",
@@ -2543,22 +1443,6 @@
     "sourceUrl": "https://www.ricksteves.com/travel-tips/travel-classes/monday-night-travel/2026-spring-report"
   },
   {
-    "platform": "x",
-    "topic": "travel",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "contrarian",
-    "tile": "library/01-content-cards/x/travel-card-06-splitProof.png",
-    "title": "The UK's Best City Break Isn't London",
-    "caption": "Not London. Not Manchester. The UK's best city break is a place most people underrate entirely. Bold call, or dead right? Surfaced by Threadverse.",
-    "triggers": [
-      "identity",
-      "social_currency",
-      "participation"
-    ],
-    "sourceUrl": "https://fed.brid.gy/r/https://www.mirror.co.uk/travel/uk-ireland/uks-best-city-break-underrated-37320470"
-  },
-  {
     "platform": "bluesky",
     "topic": "travel",
     "format": "minimal",
@@ -2589,22 +1473,6 @@
       "social_currency"
     ],
     "sourceUrl": "https://youtube.com/watch?v=JV7r8yV_eGg"
-  },
-  {
-    "platform": "x",
-    "topic": "wildlife",
-    "format": "tabloid",
-    "score": 8,
-    "vibe": "ferocious",
-    "tile": "library/01-content-cards/x/wildlife-card-02-tabloid.png",
-    "title": "One Tiger vs A Wolf Pack",
-    "caption": "Siberia in 4K: the world's most ferocious predators, one frame. A lone tiger squaring off against a wolf pack. Who's your money on? Pulled from the noise by Threadverse.",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "participation"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=S39pKr0zDkc"
   },
   {
     "platform": "instagram",
@@ -2718,22 +1586,6 @@
     "sourceUrl": "https://youtube.com/watch?v=9qhDWt0tzVQ"
   },
   {
-    "platform": "x",
-    "topic": "wildlife",
-    "format": "splitProof",
-    "score": 8,
-    "vibe": "surreal",
-    "tile": "library/01-content-cards/x/wildlife-card-14-splitProof.png",
-    "title": "A Lion In The Backyard",
-    "caption": "A full-grown lion strolling past a kid on a suburban patio. Kangaroos on porches, gators on golf courses — nature's forgetting the property line. Where's the wildest sighting you've heard of?",
-    "triggers": [
-      "novelty",
-      "emotion",
-      "social_currency"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=Y7paF72Gu0M"
-  },
-  {
     "platform": "tiktok",
     "topic": "wildlife",
     "format": "minimal",
@@ -2782,22 +1634,6 @@
     "sourceUrl": "https://youtube.com/watch?v=FDaUKN39GOM"
   },
   {
-    "platform": "x",
-    "topic": "wildlife",
-    "format": "tabloid",
-    "score": 8,
-    "vibe": "terrifying",
-    "tile": "library/01-content-cards/x/wildlife-card-19-tabloid.png",
-    "title": "Tourists Run From Charging Elephant",
-    "caption": "Two tourists narrowly outran a charging wild elephant on Highway 766 through Bandipur. This is your reminder that they are NOT a photo op. Caught early in our feed.",
-    "triggers": [
-      "emotion",
-      "novelty",
-      "social_currency"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=28pxQH8uyBs"
-  },
-  {
     "platform": "instagram",
     "topic": "wildlife",
     "format": "banner",
@@ -2827,22 +1663,6 @@
       "identity"
     ],
     "sourceUrl": "https://youtube.com/watch?v=XrOVBHlnfhA"
-  },
-  {
-    "platform": "x",
-    "topic": "wildlife",
-    "format": "splitProof",
-    "score": 7,
-    "vibe": "brutal",
-    "tile": "library/01-content-cards/x/wildlife-card-23-splitProof.png",
-    "title": "Deadliest Battles For Survival",
-    "caption": "Lions, hyenas, cubs in the crossfire: win or die, no second place. The savanna doesn't do participation trophies. Which team are you rooting for? Surfaced by Threadverse.",
-    "triggers": [
-      "emotion",
-      "novelty",
-      "participation"
-    ],
-    "sourceUrl": "https://youtube.com/watch?v=qprNraWQZF4"
   },
   {
     "platform": "instagram",
@@ -3000,22 +1820,6 @@
   },
   {
     "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "phone-hero",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-phone-hero-phone-hero-1.png",
-    "title": "phone hero",
-    "caption": "This is what a feed looks like when an AI reads 5,000 posts and keeps the 50 you actually want. One feed, every platform, zero noise. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
     "platform": "bluesky",
     "topic": "product",
     "format": "phone-hero",
@@ -3054,22 +1858,6 @@
     "score": 8,
     "vibe": "product",
     "tile": "library/01-content-cards/tiktok/product/product-phone-hero-phone-hero-1.png",
-    "title": "phone hero",
-    "caption": "This is what a feed looks like when an AI reads 5,000 posts and keeps the 50 you actually want. One feed, every platform, zero noise. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "phone-hero",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-phone-hero-phone-hero-2.png",
     "title": "phone hero",
     "caption": "This is what a feed looks like when an AI reads 5,000 posts and keeps the 50 you actually want. One feed, every platform, zero noise. → threadverse.ai",
     "triggers": [
@@ -3128,22 +1916,6 @@
   },
   {
     "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "phone-hero",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-phone-hero-phone-hero-3.png",
-    "title": "phone hero",
-    "caption": "This is what a feed looks like when an AI reads 5,000 posts and keeps the 50 you actually want. One feed, every platform, zero noise. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
     "platform": "bluesky",
     "topic": "product",
     "format": "phone-hero",
@@ -3192,22 +1964,6 @@
   },
   {
     "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "platform-web",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-platform-web-platform-web-1.png",
-    "title": "platform web",
-    "caption": "Hacker News, X, YouTube, Bluesky & Mastodon — read together, filtered to one clean feed. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
     "platform": "bluesky",
     "topic": "product",
     "format": "platform-web",
@@ -3248,22 +2004,6 @@
     "tile": "library/01-content-cards/instagram/product/product-platform-web-platform-web-1.png",
     "title": "platform web",
     "caption": "Hacker News, X, YouTube, Bluesky & Mastodon — read together, filtered to one clean feed. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "prompt-to-feed",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-prompt-to-feed-prompt-to-feed-1.png",
-    "title": "prompt to feed",
-    "caption": "You describe your feed in plain English — no keywords, no algorithm — and Threadverse returns exactly this. → threadverse.ai",
     "triggers": [
       "social_currency",
       "novelty"
@@ -3326,22 +2066,6 @@
     "score": 8,
     "vibe": "product",
     "tile": "library/01-content-cards/mastodon/product/product-prompt-to-feed-prompt-to-feed-1.png",
-    "title": "prompt to feed",
-    "caption": "You describe your feed in plain English — no keywords, no algorithm — and Threadverse returns exactly this. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "prompt-to-feed",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-prompt-to-feed-prompt-to-feed-2.png",
     "title": "prompt to feed",
     "caption": "You describe your feed in plain English — no keywords, no algorithm — and Threadverse returns exactly this. → threadverse.ai",
     "triggers": [
@@ -3416,22 +2140,6 @@
   },
   {
     "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "prompt-to-feed",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-prompt-to-feed-prompt-to-feed-3.png",
-    "title": "prompt to feed",
-    "caption": "You describe your feed in plain English — no keywords, no algorithm — and Threadverse returns exactly this. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
     "platform": "bluesky",
     "topic": "product",
     "format": "prompt-to-feed",
@@ -3488,22 +2196,6 @@
     "tile": "library/01-content-cards/mastodon/product/product-prompt-to-feed-prompt-to-feed-3.png",
     "title": "prompt to feed",
     "caption": "You describe your feed in plain English — no keywords, no algorithm — and Threadverse returns exactly this. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "split-compare",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-split-compare-split-compare-1.png",
-    "title": "split compare",
-    "caption": "Left: what your feed shows you. Right: what you actually asked for. Threadverse throws out the noise. → threadverse.ai",
     "triggers": [
       "social_currency",
       "novelty"
@@ -3576,22 +2268,6 @@
   },
   {
     "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "stat-on-feed",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-stat-on-feed-stat-on-feed-1.png",
-    "title": "stat on feed",
-    "caption": "94% of your feed is noise. That is why doomscrolling feels bad. Threadverse keeps the 5% worth your time. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
     "platform": "bluesky",
     "topic": "product",
     "format": "stat-on-feed",
@@ -3640,22 +2316,6 @@
   },
   {
     "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "stat-on-feed",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-stat-on-feed-stat-on-feed-2.png",
-    "title": "stat on feed",
-    "caption": "94% of your feed is noise. That is why doomscrolling feels bad. Threadverse keeps the 5% worth your time. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
     "platform": "bluesky",
     "topic": "product",
     "format": "stat-on-feed",
@@ -3694,22 +2354,6 @@
     "score": 8,
     "vibe": "product",
     "tile": "library/01-content-cards/tiktok/product/product-stat-on-feed-stat-on-feed-2.png",
-    "title": "stat on feed",
-    "caption": "94% of your feed is noise. That is why doomscrolling feels bad. Threadverse keeps the 5% worth your time. → threadverse.ai",
-    "triggers": [
-      "social_currency",
-      "novelty"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "category": "product-card",
-    "platform": "x",
-    "topic": "product",
-    "format": "stat-on-feed",
-    "score": 8,
-    "vibe": "product",
-    "tile": "library/01-content-cards/x/product/product-stat-on-feed-stat-on-feed-3.png",
     "title": "stat on feed",
     "caption": "94% of your feed is noise. That is why doomscrolling feels bad. Threadverse keeps the 5% worth your time. → threadverse.ai",
     "triggers": [
