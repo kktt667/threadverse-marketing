@@ -110,6 +110,7 @@ async function stats() {
 const TRANS = [
   { t: 'BEFORE', c: RED }, { t: 'AFTER', c: GREEN }, { t: 'wait…', c: BRAND.fg }, { t: 'watch', c: BRAND.fg },
   { t: 'noise', c: RED }, { t: 'signal', c: GREEN }, { t: 'vs', c: YEL }, { t: 'nope.', c: RED }, { t: 'this.', c: GREEN },
+  { t: 'IS', c: GREEN }, { t: 'now', c: BRAND.fg }, { t: 'gone.', c: RED }, { t: 'yep.', c: GREEN },
 ];
 async function transitions() {
   for (let i = 0; i < TRANS.length; i++) {
