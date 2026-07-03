@@ -82,5 +82,17 @@
     "platform": "mastodon",
     "at": "2026-07-03T10:40:37.548Z",
     "url": "https://mastodon.social/@threadverse/116855619118477792"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/truecrime-card-17-splitProof.png",
+    "platform": "bluesky",
+    "at": "2026-07-03T14:16:24.656Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mpqqcymcfd2o"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/philosophy-card-30-splitProof.png",
+    "platform": "mastodon",
+    "at": "2026-07-03T14:16:24.656Z",
+    "url": "https://mastodon.social/@threadverse/116856467628718191"
   }
 ]
