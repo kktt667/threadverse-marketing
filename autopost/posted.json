@@ -244,5 +244,11 @@
     "platform": "bluesky",
     "at": "2026-07-05T15:16:22.586Z",
     "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mpvum3gai624"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/ai-card-23-banner.png",
+    "platform": "bluesky",
+    "at": "2026-07-05T17:16:24.380Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mpw3cpash626"
   }
 ]
