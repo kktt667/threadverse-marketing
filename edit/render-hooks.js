@@ -42,39 +42,72 @@ async function render(card, outPath) {
     bg = await sharp(Buffer.from(`<svg width="${W}" height="${H}"><defs><radialGradient id="g" cx="50%" cy="20%" r="100%"><stop offset="0%" stop-color="#18181C"/><stop offset="100%" stop-color="${BRAND.bg}"/></radialGradient></defs><rect width="${W}" height="${H}" fill="url(#g)"/></svg>`)).png().toBuffer();
   }
 
-  // 2. Scrim: top+bottom darken so hook + footer read; center a touch lighter to show the image.
+  // 2. Scrim: stronger overall darken so the card + text POP over the photo.
   const scrim = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
     <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#000" stop-opacity="0.8"/>
-      <stop offset="30%" stop-color="#000" stop-opacity="0.35"/>
-      <stop offset="70%" stop-color="#000" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.88"/>
-    </linearGradient></defs><rect width="${W}" height="${H}" fill="url(#s)"/></svg>`;
+      <stop offset="0%" stop-color="#000" stop-opacity="0.9"/>
+      <stop offset="28%" stop-color="#000" stop-opacity="0.62"/>
+      <stop offset="60%" stop-color="#000" stop-opacity="0.68"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.94"/>
+    </linearGradient></defs>
+    <rect width="${W}" height="${H}" fill="url(#s)"/>
+    <rect width="${W}" height="${H}" fill="#000" opacity="0.15"/></svg>`;
 
-  // 3. Hook headline (top).
-  const hookLines = wrap(card.hook, 24, 3);
-  const hookSize = hookLines.length >= 3 ? 56 : 64;
+  // 3. Hook headline — auto-size so it ALWAYS fits fully (never ellipsis / never cut).
+  //    Try sizes from big→small until it fits in <=4 lines within the header band.
+  const HEADER_TOP = 96, HEADER_MAXH = 340, TEXT_W = 30; // TEXT_W ~ chars/line budget
+  let hookLines, hookSize;
+  for (hookSize of [70, 64, 58, 52, 46, 42]) {
+    const cpl = Math.floor((W - 120) / (hookSize * 0.5));   // rough chars-per-line at this size
+    hookLines = wrapFull(card.hook, cpl, 5);                 // wrapFull never adds "…"
+    const blockH = hookLines.length * (hookSize + 8);
+    if (blockH <= HEADER_MAXH && hookLines.length <= 4) break;
+  }
+  const hookBottom = HEADER_TOP + hookLines.length * (hookSize + 8);
 
-  // 4. Real product card (center-lower, as proof).
-  const rc = await roundedCard(cardImgPath, 560);
-  const maxCardH = 470;
-  const cardBuf = rc.h > maxCardH ? await sharp(rc.buf).extract({ left: 0, top: 0, width: rc.w, height: maxCardH }).png().toBuffer() : rc.buf;
-  const cardH = Math.min(rc.h, maxCardH);
-  const cardY = H - cardH - 150;
+  // 4. Real product card — scale to FIT its slot (never crop). Slot = between hook and footer.
+  const footerTop = H - 150;               // reserve for attribution + wordmark
+  const slotTop = hookBottom + 46;         // below hook + accent line
+  const slotH = footerTop - slotTop;
+  const rc = await fitCard(cardImgPath, 620, slotH);   // fits WITHIN slot, no crop
+  const cardY = slotTop + Math.round((slotH - rc.h) / 2);
 
   const fg = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
-    ${textBlock(hookLines, { x: 60, y: 120, size: hookSize, lineHeight: hookSize + 8, weight: 800 })}
-    <rect x="60" y="${120 + hookLines.length * (hookSize + 8) + 6}" width="120" height="6" fill="${accent}"/>
-    <text x="60" y="${cardY - 24}" font-family="${BRAND.bodyFont}" font-size="24" fill="#D8D8DC" letter-spacing="1">via ${esc(card.source || 'the feed')} · kept by Threadverse</text>
-    <text x="60" y="${H - 54}" font-family="${BRAND.displayFont}" font-size="30" font-weight="800" fill="#FFF" letter-spacing="2">THREADVERSE</text>
-    <text x="${W - 60}" y="${H - 54}" font-family="${BRAND.bodyFont}" font-size="26" fill="#B8B8BE" text-anchor="end">threadverse.ai</text>
+    ${textBlock(hookLines, { x: 60, y: HEADER_TOP, size: hookSize, lineHeight: hookSize + 8, weight: 800 })}
+    <rect x="60" y="${hookBottom + 10}" width="110" height="6" fill="${accent}"/>
+    <text x="60" y="${footerTop + 18}" font-family="${BRAND.bodyFont}" font-size="23" fill="#CFCFD4" letter-spacing="1">via ${esc(card.source || 'the feed')} · kept by Threadverse</text>
+    <text x="60" y="${H - 50}" font-family="${BRAND.displayFont}" font-size="30" font-weight="800" fill="#FFF" letter-spacing="2">THREADVERSE</text>
+    <text x="${W - 60}" y="${H - 50}" font-family="${BRAND.bodyFont}" font-size="26" fill="#B8B8BE" text-anchor="end">threadverse.ai</text>
   </svg>`;
 
   await sharp(bg).composite([
     { input: Buffer.from(scrim), top: 0, left: 0 },
-    { input: cardBuf, top: cardY, left: Math.round((W - rc.w) / 2) },
+    { input: rc.buf, top: cardY, left: Math.round((W - rc.w) / 2) },
     { input: Buffer.from(fg), top: 0, left: 0 },
   ]).png().toFile(outPath);
+}
+
+// Word-wrap that NEVER truncates (no ellipsis) — used for hooks so full title always shows.
+function wrapFull(text, maxChars, maxLines) {
+  const words = String(text || '').replace(/…$/, '').split(/\s+/);
+  const lines = []; let cur = '';
+  for (const w of words) {
+    if ((cur + ' ' + w).trim().length > maxChars && cur) { lines.push(cur); cur = w; }
+    else cur = (cur + ' ' + w).trim();
+  }
+  if (cur) lines.push(cur);
+  return lines.slice(0, maxLines);   // if it somehow exceeds, the size loop shrinks font first
+}
+
+// Scale an image to FIT inside (maxW x maxH) with rounded corners — never crops.
+async function fitCard(imgPath, maxW, maxH) {
+  const meta = await sharp(imgPath).metadata();
+  const scale = Math.min(maxW / meta.width, maxH / meta.height);
+  const w = Math.max(1, Math.round(meta.width * scale));
+  const h = Math.max(1, Math.round(meta.height * scale));
+  const resized = await sharp(imgPath).resize(w, h, { fit: 'fill' }).ensureAlpha().png().toBuffer();
+  const mask = Buffer.from(`<svg width="${w}" height="${h}"><rect width="${w}" height="${h}" rx="20" ry="20" fill="#fff"/></svg>`);
+  return { buf: await sharp(resized).composite([{ input: mask, blend: 'dest-in' }]).png().toBuffer(), w, h };
 }
 
 (async () => {
