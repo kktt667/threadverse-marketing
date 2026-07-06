@@ -1,11 +1,11 @@
 # X — Manual Posting Schedule
 
-70 posts · 4/day · time-sensitive first (tabloid/drama/viral), then evergreen.
+70 posts · 3/day · time-sensitive first (tabloid/drama/viral), then evergreen.
 Each morning: open that day's images, copy the caption, attach the image, post.
 > Tip: put **threadverse.ai** in your X bio + a pinned comment; keep captions link-free for max reach.
 
 
-## 2026-07-05  (4 posts)
+## 2026-07-05  (3 posts)
 
 **#1** · 9/10 · tabloid · ai
 
@@ -41,6 +41,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-06  (3 posts)
+
 **#4** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/004-ai-tabloid.png`
@@ -52,8 +54,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:bvdrfwiamgi5leqs63q2duro/post/3mptecgya5k2u
 
 ---
-
-## 2026-07-06  (4 posts)
 
 **#5** · 7/10 · tabloid · gaming
 
@@ -76,6 +76,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 > CERN reports a new form of quantum superposition — one thing in two states at once, for real. Your intuition breaks, the math doesn't. The stuff my feed keeps over the memes. #Threadverse #Feedreader
 
 ---
+
+## 2026-07-07  (3 posts)
 
 **#7** · 8/10 · tabloid · ai
 
@@ -101,8 +103,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-07  (4 posts)
-
 **#9** · 6/10 · tabloid · crypto
 
 🖼️ `x-manual/images/009-crypto-tabloid.png`
@@ -112,6 +112,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 > Apple aside, the antitrust case says Amazon, Facebook and Google are (almost) all guilty. The platforms you build on are the ones on trial. Found before the timeline caught it. #Threadverse #Crypto
 
 ---
+
+## 2026-07-08  (3 posts)
 
 **#10** · 8/10 · tabloid · ai
 
@@ -147,7 +149,7 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-08  (4 posts)
+## 2026-07-09  (3 posts)
 
 **#13** · 8/10 · tabloid · ai
 
@@ -181,6 +183,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-10  (3 posts)
+
 **#16** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/016-ai-tabloid.png`
@@ -192,8 +196,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://youtube.com/watch?v=lUHQIwrqo-8
 
 ---
-
-## 2026-07-09  (4 posts)
 
 **#17** · 9/10 · bigStat · science
 
@@ -217,6 +219,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-11  (3 posts)
+
 **#19** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/019-ai-tabloid.png`
@@ -239,8 +243,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-10  (4 posts)
-
 **#21** · 8/10 · bigStat · crypto
 
 🖼️ `x-manual/images/021-crypto-bigStat.png`
@@ -252,6 +254,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mpntcbh5bq2z
 
 ---
+
+## 2026-07-12  (3 posts)
 
 **#22** · 8/10 · tabloid · ai
 
@@ -287,7 +291,7 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-11  (4 posts)
+## 2026-07-13  (3 posts)
 
 **#25** · 8/10 · tabloid · ai
 
@@ -325,6 +329,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-14  (3 posts)
+
 **#28** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/028-ai-tabloid.png`
@@ -336,8 +342,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://youtube.com/watch?v=i1dkkxLWaWg
 
 ---
-
-## 2026-07-12  (4 posts)
 
 **#29** · 7/10 · bigStat · gaming
 
@@ -362,6 +366,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://www.coindesk.com/defi-protocol-easyfi-reports-hack
 
 ---
+
+## 2026-07-15  (3 posts)
 
 **#31** · 8/10 · tabloid · ai
 
@@ -389,8 +395,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-13  (4 posts)
-
 **#33** · 8/10 · quote · philosophy
 
 🖼️ `x-manual/images/033-philosophy-quote.png`
@@ -402,6 +406,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpvvkyqz4s2d
 
 ---
+
+## 2026-07-16  (3 posts)
 
 **#34** · 8/10 · tabloid · ai
 
@@ -439,7 +445,7 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-14  (4 posts)
+## 2026-07-17  (3 posts)
 
 **#37** · 7/10 · tabloid · ai
 
@@ -475,6 +481,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-18  (3 posts)
+
 **#40** · 7/10 · tabloid · ai
 
 🖼️ `x-manual/images/040-ai-tabloid.png`
@@ -486,8 +494,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mps4xss2uc2t
 
 ---
-
-## 2026-07-15  (4 posts)
 
 **#41** · 7/10 · quote · philosophy
 
@@ -513,6 +519,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-19  (3 posts)
+
 **#43** · 7/10 · tabloid · ai
 
 🖼️ `x-manual/images/043-ai-tabloid.png`
@@ -537,8 +545,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-16  (4 posts)
-
 **#45** · 6/10 · quote · philosophy
 
 🖼️ `x-manual/images/045-philosophy-quote.png`
@@ -550,6 +556,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://mastodon.social/@CuratedPlato/116872958691380996
 
 ---
+
+## 2026-07-20  (3 posts)
 
 **#46** · 7/10 · tabloid · ai
 
@@ -585,7 +593,7 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-17  (4 posts)
+## 2026-07-21  (3 posts)
 
 **#49** · 7/10 · tabloid · ai
 
@@ -625,6 +633,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-22  (3 posts)
+
 **#52** · 7/10 · tabloid · ai
 
 🖼️ `x-manual/images/052-ai-tabloid.png`
@@ -634,8 +644,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 > 92 likes, 107 replies: while the US stalls, the EU pushes ahead on Big Tech antitrust. The giants you build on are getting reined in overseas first. Caught before the timeline. #Threadverse #AI
 
 ---
-
-## 2026-07-18  (4 posts)
 
 **#53** · 6/10 · tabloid · ai
 
@@ -661,6 +669,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-23  (3 posts)
+
 **#55** · 8/10 · bigStat · ai
 
 🖼️ `x-manual/images/055-ai-bigStat.png`
@@ -685,8 +695,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-19  (4 posts)
-
 **#57** · 8/10 · splitProof · ai
 
 🖼️ `x-manual/images/057-ai-splitProof.png`
@@ -696,6 +704,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 > Inflection, Adept, Character — all gone the same way. Big Tech skips the merger and just takes the founders. A quiet new playbook my feed caught early. #Threadverse #AI
 
 ---
+
+## 2026-07-24  (3 posts)
 
 **#58** · 8/10 · splitProof · ai
 
@@ -727,7 +737,7 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-20  (4 posts)
+## 2026-07-25  (3 posts)
 
 **#61** · 6/10 · splitProof · ai
 
@@ -759,6 +769,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
+## 2026-07-26  (3 posts)
+
 **#64** · 8/10 · banner · ai
 
 🖼️ `x-manual/images/064-ai-banner.png`
@@ -768,8 +780,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 > Amazon and Microsoft already wrote the playbook for consolidating the AI industry. The startups you cheer for are exit strategies. Found before the timeline caught it. #Threadverse #AI
 
 ---
-
-## 2026-07-21  (4 posts)
 
 **#65** · 7/10 · banner · ai
 
@@ -792,6 +802,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://x.com/jon_durbin/status/2074169183835685351
 
 ---
+
+## 2026-07-27  (3 posts)
 
 **#67** · 7/10 · quote · ai
 
@@ -817,8 +829,6 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 ---
 
-## 2026-07-22  (2 posts)
-
 **#69** · 6/10 · quote · ai
 
 🖼️ `x-manual/images/069-ai-quote.png`
@@ -830,6 +840,8 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:vcepp6trx4vpe5ourxso4tjl/post/3mpj6rqsjvs2d
 
 ---
+
+## 2026-07-28  (1 posts)
 
 **#70** · 6/10 · minimal · ai
 

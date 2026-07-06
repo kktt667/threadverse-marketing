@@ -22,7 +22,8 @@ const PLATFORMS = (arg('platforms', 'bluesky,mastodon')).split(',').map(s => s.t
 const PER_DAY = +(arg('per-day', 6));
 const DAYS = +(arg('days', 20));
 const START = arg('start', '2026-07-02');
-const SLOTS = ['08:00', '12:00', '14:00', '17:00', '19:00', '21:00', '23:00'];
+// 6 slots/day at EVEN UTC hours so the 2-hourly cron fires them promptly (no delay).
+const SLOTS = ['08:00', '12:00', '14:00', '18:00', '20:00', '22:00'];
 
 function priority(item) {
   const f = item.format, t = (item.topic || '').toLowerCase();
