@@ -20,9 +20,13 @@ The algorithm rewards consistency — batch a whole lane, post it out, then move
 ## How to use each script
 - Beats are tagged: **HOOK / STAKES / BIG-Q / HEAD FAKE / REHOOK**, with a `[V: …]` visual cue per beat.
 - `[V: screen-record …]` = film the app — use the **pro session** (sanitized, no admin dashboard).
-- Keep the hook in the first **2 seconds**. Record VO or talk-to-camera.
-- Product is named **≤ once** and shown in frame. The **CTA is the bio** (+ pinned comment) — so put `threadverse.ai` in every bio.
+- Product is named **≤ once** and shown in frame. The **CTA is the bio** (+ pinned comment) — put `threadverse.ai` in every bio.
 - Mid-video reusable assets if useful: `library/07-cut-cards/` (hooks, transitions, THREADVERSE wave card), `library/08-meme-cards/`, `library/05-video-assets/` (b-roll, end-cards).
+
+## Text on screen — TWO layers (do both in CapCut)
+1. **Auto-captions** (CapCut → Auto captions) — your **full spoken words**, word-by-word, running the WHOLE video. This is for the majority who scroll **sound-off** — they read everything. Style them big + high-contrast.
+2. **The hook overlay** = each script's `[TEXT ON SCREEN: "…"]` line — ONE big bold line, bigger than the captions, shown only in the **first 1–2s**, then it drops away. This is the glanceable *promise* that stops the scroll before they even start reading the captions. (It's a condensed version of the spoken hook, not the full sentence.)
+- Stack in frame 1: moving visual + big hook overlay + captions starting + your voice. Keep the hook in the first **2 seconds**.
 
 ## Before you film
 - **Fact-check the dated scripts** (Dario "100% of code", DeepSeek, Gemini Nano, $34B tokenized stocks, Metroid leak) — news moves; swap any that went stale.

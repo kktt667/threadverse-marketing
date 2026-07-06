@@ -1,13 +1,16 @@
 # Meta / product-truth — indie, honest, anti-engagement
 
-4 scripts. Batch this whole lane before moving to the next (algorithm rewards consistency).
-Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: screen-record ...]` = film the app (pro session).
+4 scripts. Batch this whole lane before the next (algorithm rewards consistency).
+Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s.
+
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big bold line for the first 1-2s (stops sound-off scrollers). Separate from auto-captions (which show your full spoken words the whole video — turn those on in CapCut too). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
 ## Script 47 — Built to lose you · lane: meta · ~15s
 *Type: V · Delete test: "a tool whose incentive is to be closed, not opened" is a genuine design-ethics point that stands on its own.*
 **[HOOK]** "You've never used a tech product that actively wanted you to leave — because the money's always in keeping you there."
+**[TEXT ON SCREEN: “a product that wants you to leave”]**
 `[V: a session-time counter ticking up, ominous]`
 **[STAKES+BIG-Q]** "Every free app you touch is one person's growth chart. More minutes, more ads, more you. So what does a tool look like when nobody's getting paid to trap you?"
 `[V: a dashboard labelled 'time on app: up and to the right']`
@@ -21,6 +24,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 48 — The honest math · lane: meta · ~16s
 *Type: V · Delete test: the reframe — you already pay for signal, just badly — is a standalone spending-audit insight.*
 **[HOOK]** "You're already paying for a better feed — ChatGPT, X Premium, whatever — you're just paying to make the noise slightly more tolerable."
+**[TEXT ON SCREEN: “you already pay for a better feed”]**
 `[V: a subscriptions list, monthly totals stacking up]`
 **[STAKES+BIG-Q]** "Add it up: twenty for the AI, eight or so for the blue check to see less garbage. So why does 'staying informed' cost more every year and somehow feel worse?"
 `[V: text — a running total climbing past £30/mo]`
@@ -35,6 +39,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 49 — Thirty seconds, then gone · lane: meta · ~14s
 *Type: S · Delete test: "catch up on a whole lane in 30 seconds then quit" is a real workflow anyone could copy manually — the value survives without the product.*
 **[HOOK]** "You don't need to be on X all day to keep up — you need thirty seconds in the right lane, then you're allowed to leave."
+**[TEXT ON SCREEN: “30 seconds, then you're allowed to leave”]**
 `[V: a phone timer set to 0:30, feed behind it]`
 **[STAKES+BIG-Q]** "The dread is falling behind. But being 'caught up' was never 500 posts — it's the five that actually moved your field today. So why do we scroll the 500?"
 `[V: a giant feed collapsing down to five items]`
@@ -48,6 +53,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 50 — We want you to close the app · lane: meta · ~15s
 *Type: V · Delete test: "a product asking you to leave" is a genuine, arresting anti-engagement stance that stands entirely on its own.*
 **[HOOK]** "You've never heard a product say this out loud: we want you to close the app."
+**[TEXT ON SCREEN: “we want you to close the app”]**
 `[V: text on black — 'please leave' — deadpan]`
 **[STAKES+BIG-Q]** "Every other feed measures success in minutes stolen from you. So what's it even mean to build one that measures success in minutes given back?"
 `[V: two dashboards — 'time on app' vs 'time saved']`

@@ -14,6 +14,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 01 — [VALUE] The caching insight · lane: ai · ~15s
 *Delete test: still a genuinely sharp systems observation.*
 **[HOOK]** "You and a million other people run the same expensive query every morning — reading the same 5,000 posts to find the same 50 good ones. As an engineer, that should bug you."
+**[TEXT ON SCREEN: “the query you re-run every day”]**
 `[V: grid of identical phones scrolling the same feed]`
 **[BIG-Q]** "Anyone who's built anything sees the bug instantly. You'd cache it. Compute once, serve many. So why has nobody done that to a *feed*?"
 `[V: text: "compute once, serve many?"]`
@@ -28,6 +29,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 02 — [STORY] Two days early · lane: ai · ~15s
 *Delete test: still a relatable "how am I always early" story.*
 **[HOOK]** "You know that dread when someone drops 'breaking' news in standup and you're nodding like you knew? I read today's big AI story two days ago — and I'm not more online than you."
+**[TEXT ON SCREEN: “how i read the news 2 days early”]**
 `[V: a standup, everyone reacting to 'news' you already knew]`
 **[STAKES+BIG-Q]** "Being last to know is the quiet dread of working in tech. So how do you end up early without living in the feed?"
 `[V: a Slack channel lighting up late]`
@@ -41,6 +43,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 03 — [VALUE] The reject pile is the tell · lane: ai · ~16s
 *Delete test: still a real point about ranking systems + bias.*
 **[HOOK]** "Every feed you use hides what it decided you shouldn't see — and you never get to check its work. One I use does the opposite, and the reject pile is the most interesting part."
+**[TEXT ON SCREEN: “the feed that shows what it hides”]**
 `[V: a black box labeled "ranking", nothing visible]`
 **[BIG-Q]** "It threw out 4,950 posts to show me 50 — and it *shows you* the 4,950. You'd expect pure spam in there, right?"
 `[V: "REJECTED (4,950)" counter]`
@@ -54,6 +57,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 04 — [STORY] Four redundant apps · lane: gaming · ~14s
 *Delete test: still a relatable morning-routine story.*
 **[HOOK]** "You open five apps every morning to keep up with games. I counted mine — four of them were showing me the exact same trailer."
+**[TEXT ON SCREEN: “4 of your 5 apps are redundant”]**
 `[V: same trailer appearing across 4 apps]`
 **[STAKES+BIG-Q]** "Twenty minutes gone, same news four times, and I'd still miss the one indie thing worth playing. Why isn't there just one feed that pulls the signal?"
 `[V: five apps open, exhausted scroll]`
@@ -67,6 +71,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 05 — [VALUE] Muting words is the wrong tool · lane: ai · ~14s
 *Delete test: still a legit UX/tooling critique.*
 **[HOOK]** "If your feed is still noise after muting 200 words, you're not bad at it — muting words was always the wrong tool."
+**[TEXT ON SCREEN: “muting words was always wrong”]**
 `[V: an endless mute-list, noisy feed behind it]`
 **[BIG-Q]** "A blocklist matches *strings*. It has no idea what a post actually *means*. So what would filtering by meaning even look like?"
 `[V: text: "meaning, not keywords?"]`
@@ -80,6 +85,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 06 — [VALUE] Feeds have no input box · lane: ai · ~14s
 *Delete test: still a sharp interface observation.*
 **[HOOK]** "Here's something that'll annoy you once you notice it: you've used feeds your entire life and not one of them has an input box. You've never *told* a feed what you want."
+**[TEXT ON SCREEN: “your feed has no input box”]**
 `[V: years of feeds flashing by, none with a text field]`
 **[STAKES+BIG-Q]** "You 'train' it by scrolling past stuff and hoping it infers — programming by side effect. What if you could just declare it, like a spec?"
 `[V: someone scrolling, a model mis-learning]`
@@ -92,6 +98,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 07 — [STORY] The feed that ends · lane: philosophy · ~15s
 *Delete test: still a real story about focus + a surprising product behavior.*
 **[HOOK]** "Your feed is designed to never end — that's the whole trap. So when mine actually stopped this morning after four minutes, I genuinely thought it was broken."
+**[TEXT ON SCREEN: “the feed that actually ends”]**
 `[V: a short feed that stops; empty space below]`
 **[STAKES+BIG-Q]** "I check feeds compulsively because I'm scared of missing something — and infinite scroll is *built* around that fear. So what happens when a feed refuses to be infinite?"
 `[V: a deep-work timer that keeps resetting from 'quick checks']`
@@ -105,6 +112,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 08 — [VALUE] You configure everything but this · lane: ai · ~14s
 *Delete test: still a real point about config culture.*
 **[HOOK]** "You've got dotfiles for your editor, your shell, your whole terminal. But the interface you touch 100 times a day — your feed — you run on someone else's defaults."
+**[TEXT ON SCREEN: “you configure everything but this”]**
 `[V: a dotfiles screen, then a feed with no settings]`
 **[BIG-Q]** "Every tool you respect is configurable. So why does the feed only have an algorithm's defaults, tuned for *their* metrics?"
 `[V: a settings page with one useless toggle]`
@@ -118,6 +126,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 09 — [STORY] The exploit nobody amplified · lane: crypto · ~16s
 *Delete test: still a genuinely wild crypto-mechanism story.*
 **[HOOK]** "A bot that ran 70% of on-chain sandwich attacks got counter-drained for seven and a half million dollars — 66 fake approval traps, the hunter became the hunted. And barely anyone was talking about it."
+**[TEXT ON SCREEN: “the $7.5M exploit nobody amplified”]**
 `[V: "$7.5M" counter, a bot getting drained]`
 **[STAKES+BIG-Q]** "You don't have to trade to love this stuff — it's adversarial systems and incentives. But the good breakdown was buried under price-chasing noise. How do you catch the *engineering* story without the casino?"
 `[V: a sharp technical thread drowning under quote-tweets]`
@@ -131,6 +140,7 @@ Mix: ~60% story-first, ~40% value-first. ~12–18s. Product named ≤ once + in 
 ## Script 10 — [STORY] The double-take · lane: gaming · ~13s
 *Delete test: still a relatable "my feed used to be good" moment.*
 **[HOOK]** "When's the last time you opened your feed and it was actually *good*? Mine made me double-take today — no ads, no rage-bait, just stuff I'd genuinely want."
+**[TEXT ON SCREEN: “when was your feed last good?”]**
 `[V: before/after slider — noise wall → clean feed]`
 **[STAKES+BIG-Q]** "Your feed used to be useful; now it's a slot machine of outrage you keep pulling hoping for a good post. What if you could just delete the 95% that's noise?"
 `[V: the noisy 'before' side]`

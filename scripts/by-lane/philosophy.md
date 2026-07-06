@@ -1,13 +1,16 @@
 # Philosophy — how to think, attention, focus
 
-6 scripts. Batch this whole lane before moving to the next (algorithm rewards consistency).
-Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: screen-record ...]` = film the app (pro session).
+6 scripts. Batch this whole lane before the next (algorithm rewards consistency).
+Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s.
+
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big bold line for the first 1-2s (stops sound-off scrollers). Separate from auto-captions (which show your full spoken words the whole video — turn those on in CapCut too). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
 ## Script 07 — [STORY] The feed that ends · lane: philosophy · ~15s
 *Delete test: still a real story about focus + a surprising product behavior.*
 **[HOOK]** "Your feed is designed to never end — that's the whole trap. So when mine actually stopped this morning after four minutes, I genuinely thought it was broken."
+**[TEXT ON SCREEN: “the feed that actually ends”]**
 `[V: a short feed that stops; empty space below]`
 **[STAKES+BIG-Q]** "I check feeds compulsively because I'm scared of missing something — and infinite scroll is *built* around that fear. So what happens when a feed refuses to be infinite?"
 `[V: a deep-work timer that keeps resetting from 'quick checks']`
@@ -21,6 +24,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 42 — The For You page isn't for you · lane: philosophy · ~15s
 *Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the optimizer optimizes for.*
 **[HOOK]** "Your For You page isn't for you — and you don't need a conspiracy to see it, just the loss function."
+**[TEXT ON SCREEN: “your For You page isn't for you”]**
 `[V: a "For You" tab, then a diagram of an objective being maximized]`
 **[BIG-Q]** "It's not evil, it's optimized — for watch time, which is theirs, not attention well spent, which is yours. So what would a feed optimized for YOUR stated goal actually do differently?"
 `[V: text: "whose objective is it?"]`
@@ -34,6 +38,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 43 — The philosophy take that reframed my week · lane: philosophy · ~15s
 *Type: S · Delete test: the Chesterton's-fence reframe is genuinely useful on its own — a real idea that changes how you kill things.*
 **[HOOK]** "You've deleted a process, a meeting, a whole feature because it looked useless — a 100-year-old line I read this week says that's exactly when you shouldn't."
+**[TEXT ON SCREEN: “don't delete the thing that looks useless”]**
 `[V: a PR deleting a big block of 'dead' code]`
 **[STAKES+BIG-Q]** "It's Chesterton's fence: don't remove the fence until you know why it was put up. In a codebase, in a life, the useless-looking thing is usually load-bearing. So how'd a dead philosopher end up in my week?"
 `[V: text: "why is the fence there?"]`
@@ -47,6 +52,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 44 — Attention is the scarce resource · lane: philosophy · ~15s
 *Type: V · Delete test: holds up as an economics-of-attention argument — the one budget you can't top up, spent on slop.*
 **[HOOK]** "You'll guard a £25 charge and hand a stranger six hours of attention for free — and attention's the one budget that doesn't refill."
+**[TEXT ON SCREEN: “attention is the budget that never refills”]**
 `[V: a bank alert dismissed, then a screen-time report ignored]`
 **[BIG-Q]** "Compute you can buy, money you can earn back, attention just burns. So why do we spend the scarce one on slop and hoard the ones we can replace?"
 `[V: text: "which resource actually refills?"]`
@@ -60,6 +66,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 45 — The Anna Karenina answer · lane: philosophy · ~15s
 *Type: S · Delete test: the Anna Karenina principle applied to systems is a real, sharp idea that stands with no product attached.*
 **[HOOK]** "You keep asking why your side project failed — the sharpest answer I read this week is that it's the wrong question."
+**[TEXT ON SCREEN: “you're asking the wrong question”]**
 `[V: a graveyard of dead GitHub repos]`
 **[STAKES+BIG-Q]** "Anna Karenina principle: 'all happy families are alike; every unhappy one is unhappy in its own way.' Success needs every factor right; failure needs just one wrong. So which lens were you using on your own dead repos?"
 `[V: text: "one missing factor, not one cause"]`
@@ -73,6 +80,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 46 — The tax you can't see · lane: philosophy · ~16s
 *Type: V · Delete test: the 23-minute context-switch cost is a real, standalone insight about deep work — no product needed to land it.*
 **[HOOK]** "If you can't get into deep work anymore, it's not your attention span — every time you check the feed it costs you 23 minutes to climb back."
+**[TEXT ON SCREEN: “every feed check costs you 23 minutes”]**
 `[V: a timer snapping from 'flow' back to zero, over and over]`
 **[STAKES+BIG-Q]** "That's the University of California number — one glance, 23 minutes to reload the whole mental stack. So the question isn't willpower. It's: what keeps pulling you out in the first place?"
 `[V: text overlay '1 glance = 23 min', a paused code editor behind it]`

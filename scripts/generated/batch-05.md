@@ -1,6 +1,7 @@
 ## Script 22 — Lab result my timeline ignored · lane: science · ~15s
 *Type: S · Delete test: a boring-looking bio result quietly predicting a year-out breakthrough is a real "watch this space" story on its own.*
 **[HOOK]** "You'll see this one on your timeline in about a year — I read it last week, buried, zero reactions."
+**[TEXT ON SCREEN: “you'll see this in a year”]**
 `[V: a paper with 3 likes, scroll blowing past it]`
 **[STAKES+BIG-Q]** "It was a quiet lab result: a protein-folding model predicting a structure nobody could crystallize. Nothing went viral. So how does the thing that changes a field always land as a shrug first?"
 `[V: a dense figure, one unremarkable timestamp]`
@@ -12,6 +13,7 @@
 ## Script 23 — Curiosity as a query · lane: science · ~16s
 *Type: V · Delete test: "describe the kind of idea that rewires you and go find exactly that" is a genuinely different way to read science, product aside.*
 **[HOOK]** "Your feed feeds you what's popular in science. You never once told it what would actually change how you think."
+**[TEXT ON SCREEN: “your feed never asked what you think”]**
 `[V: trending-science tiles, all noise]`
 **[BIG-Q]** "Keywords give you 'quantum' and 'black hole' clickbait. But what if you could ask for the shape of an idea — 'findings that overturn something I assumed was settled'?"
 `[V: text: "overturns an assumption" typed slowly]`
@@ -23,6 +25,7 @@
 ## Script 24 — Frontier finding minus the hype cycle · lane: science · ~15s
 *Type: S · Delete test: "read the source paper, not the 40 hot takes stacked on it" is evergreen advice that stands with no product at all.*
 **[HOOK]** "You didn't read the paper. You read the guy quote-tweeting the guy who misread the paper."
+**[TEXT ON SCREEN: “you didn't read the paper”]**
 `[V: a QT chain, each summary drifting further off]`
 **[STAKES+BIG-Q]** "A frontier result drops and within an hour it's fifty takes deep — half wrong, all confident. So how do you get to the actual finding before the telephone game rewrites it?"
 `[V: same claim mutating down a thread]`
@@ -34,6 +37,7 @@
 ## Script 27 — Ratings-board leak · lane: gaming · ~14s
 *Type: S · Delete test: a ratings-board filing spoiling a game before its official reveal is a real, fun leak-culture story on its own.*
 **[HOOK]** "You'll watch the big reveal trailer next month. A ratings board already spoiled the whole game — weeks ago, in a PDF."
+**[TEXT ON SCREEN: “a PDF spoiled the whole game”]**
 `[V: a dry classification listing, title half-blurred]`
 **[STAKES+BIG-Q]** "Studios guard reveals like state secrets, then a compliance filing drops the title, platforms, sometimes the plot. So why does the leak always beat the marketing?"
 `[V: a ratings entry, timestamp weeks before the trailer]`
@@ -45,6 +49,7 @@
 ## Script 28 — Read less about games, play more · lane: gaming · ~16s
 *Type: V · Delete test: "gaming media makes you consume more talk and play fewer games" is a sharp real paradox worth stating with no product involved.*
 **[HOOK]** "You spend more time reading about games than playing them — and gaming media is designed to keep it that way."
+**[TEXT ON SCREEN: “you read about games more than you play”]**
 `[V: 20 open tabs of reviews, one unlaunched game]`
 **[BIG-Q]** "Every outlet wants hours of your attention on hype, drama, and roadmaps. But what if you only wanted the two things that actually change what you'll play tonight?"
 `[V: text: "just tell me what matters"]`

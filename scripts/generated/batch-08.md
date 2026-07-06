@@ -1,6 +1,7 @@
 ## Script 40 — Renting your own attention · lane: crypto · ~15s
 *Type: V · Delete test: without the product it's still a sharp reframe on who owns your feed — the engineer's answer to "self-custody your attention."*
 **[HOOK]** "You self-custody your keys but you rent your attention from a company that sells it — and you call the keys the important part."
+**[TEXT ON SCREEN: “you rent your own attention”]**
 `[V: a hardware wallet next to a phone, feed scrolling on the phone]`
 **[STAKES+BIG-Q]** "Same logic that made you leave your coins on an exchange feel dumb applies to your feed: someone else decides what you see, for their upside. So what does self-custody of attention even look like?"
 `[V: text overlay: "not your algo, not your attention"]`
@@ -12,6 +13,7 @@
 ## Script 42 — The For You page isn't for you · lane: philosophy · ~15s
 *Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the optimizer optimizes for.*
 **[HOOK]** "Your For You page isn't for you — and you don't need a conspiracy to see it, just the loss function."
+**[TEXT ON SCREEN: “your For You page isn't for you”]**
 `[V: a "For You" tab, then a diagram of an objective being maximized]`
 **[BIG-Q]** "It's not evil, it's optimized — for watch time, which is theirs, not attention well spent, which is yours. So what would a feed optimized for YOUR stated goal actually do differently?"
 `[V: text: "whose objective is it?"]`
@@ -23,6 +25,7 @@
 ## Script 43 — The philosophy take that reframed my week · lane: philosophy · ~15s
 *Type: S · Delete test: the Chesterton's-fence reframe is genuinely useful on its own — a real idea that changes how you kill things.*
 **[HOOK]** "You've deleted a process, a meeting, a whole feature because it looked useless — a 100-year-old line I read this week says that's exactly when you shouldn't."
+**[TEXT ON SCREEN: “don't delete the thing that looks useless”]**
 `[V: a PR deleting a big block of 'dead' code]`
 **[STAKES+BIG-Q]** "It's Chesterton's fence: don't remove the fence until you know why it was put up. In a codebase, in a life, the useless-looking thing is usually load-bearing. So how'd a dead philosopher end up in my week?"
 `[V: text: "why is the fence there?"]`
@@ -34,6 +37,7 @@
 ## Script 44 — Attention is the scarce resource · lane: philosophy · ~15s
 *Type: V · Delete test: holds up as an economics-of-attention argument — the one budget you can't top up, spent on slop.*
 **[HOOK]** "You'll guard a £25 charge and hand a stranger six hours of attention for free — and attention's the one budget that doesn't refill."
+**[TEXT ON SCREEN: “attention is the budget that never refills”]**
 `[V: a bank alert dismissed, then a screen-time report ignored]`
 **[BIG-Q]** "Compute you can buy, money you can earn back, attention just burns. So why do we spend the scarce one on slop and hoard the ones we can replace?"
 `[V: text: "which resource actually refills?"]`
@@ -45,6 +49,7 @@
 ## Script 45 — The Anna Karenina answer · lane: philosophy · ~15s
 *Type: S · Delete test: the Anna Karenina principle applied to systems is a real, sharp idea that stands with no product attached.*
 **[HOOK]** "You keep asking why your side project failed — the sharpest answer I read this week is that it's the wrong question."
+**[TEXT ON SCREEN: “you're asking the wrong question”]**
 `[V: a graveyard of dead GitHub repos]`
 **[STAKES+BIG-Q]** "Anna Karenina principle: 'all happy families are alike; every unhappy one is unhappy in its own way.' Success needs every factor right; failure needs just one wrong. So which lens were you using on your own dead repos?"
 `[V: text: "one missing factor, not one cause"]`

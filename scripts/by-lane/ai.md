@@ -1,13 +1,16 @@
 # AI — model releases, breakthroughs, the discourse
 
-15 scripts. Batch this whole lane before moving to the next (algorithm rewards consistency).
-Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: screen-record ...]` = film the app (pro session).
+15 scripts. Batch this whole lane before the next (algorithm rewards consistency).
+Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s.
+
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big bold line for the first 1-2s (stops sound-off scrollers). Separate from auto-captions (which show your full spoken words the whole video — turn those on in CapCut too). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
 ## Script 01 — [VALUE] The caching insight · lane: ai · ~15s
 *Delete test: still a genuinely sharp systems observation.*
 **[HOOK]** "You and a million other people run the same expensive query every morning — reading the same 5,000 posts to find the same 50 good ones. As an engineer, that should bug you."
+**[TEXT ON SCREEN: “the query you re-run every day”]**
 `[V: grid of identical phones scrolling the same feed]`
 **[BIG-Q]** "Anyone who's built anything sees the bug instantly. You'd cache it. Compute once, serve many. So why has nobody done that to a *feed*?"
 `[V: text: "compute once, serve many?"]`
@@ -22,6 +25,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 02 — [STORY] Two days early · lane: ai · ~15s
 *Delete test: still a relatable "how am I always early" story.*
 **[HOOK]** "You know that dread when someone drops 'breaking' news in standup and you're nodding like you knew? I read today's big AI story two days ago — and I'm not more online than you."
+**[TEXT ON SCREEN: “how i read the news 2 days early”]**
 `[V: a standup, everyone reacting to 'news' you already knew]`
 **[STAKES+BIG-Q]** "Being last to know is the quiet dread of working in tech. So how do you end up early without living in the feed?"
 `[V: a Slack channel lighting up late]`
@@ -35,6 +39,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 03 — [VALUE] The reject pile is the tell · lane: ai · ~16s
 *Delete test: still a real point about ranking systems + bias.*
 **[HOOK]** "Every feed you use hides what it decided you shouldn't see — and you never get to check its work. One I use does the opposite, and the reject pile is the most interesting part."
+**[TEXT ON SCREEN: “the feed that shows what it hides”]**
 `[V: a black box labeled "ranking", nothing visible]`
 **[BIG-Q]** "It threw out 4,950 posts to show me 50 — and it *shows you* the 4,950. You'd expect pure spam in there, right?"
 `[V: "REJECTED (4,950)" counter]`
@@ -48,6 +53,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 05 — [VALUE] Muting words is the wrong tool · lane: ai · ~14s
 *Delete test: still a legit UX/tooling critique.*
 **[HOOK]** "If your feed is still noise after muting 200 words, you're not bad at it — muting words was always the wrong tool."
+**[TEXT ON SCREEN: “muting words was always wrong”]**
 `[V: an endless mute-list, noisy feed behind it]`
 **[BIG-Q]** "A blocklist matches *strings*. It has no idea what a post actually *means*. So what would filtering by meaning even look like?"
 `[V: text: "meaning, not keywords?"]`
@@ -61,6 +67,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 06 — [VALUE] Feeds have no input box · lane: ai · ~14s
 *Delete test: still a sharp interface observation.*
 **[HOOK]** "Here's something that'll annoy you once you notice it: you've used feeds your entire life and not one of them has an input box. You've never *told* a feed what you want."
+**[TEXT ON SCREEN: “your feed has no input box”]**
 `[V: years of feeds flashing by, none with a text field]`
 **[STAKES+BIG-Q]** "You 'train' it by scrolling past stuff and hoping it infers — programming by side effect. What if you could just declare it, like a spec?"
 `[V: someone scrolling, a model mis-learning]`
@@ -73,6 +80,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 7 — The model I almost missed · lane: ai · ~15s
 *Type: S · Delete test: a huge release getting buried under a louder launch's hype is a real, relatable "the best thing isn't the loudest thing" story on its own.*
 **[HOOK]** "You almost missed the best model of the month — and not because you're slacking. It dropped the same week as a louder launch and just got buried."
+**[TEXT ON SCREEN: “the best model got buried”]**
 `[V: a release note scrolling past, drowned by a wall of hype posts]`
 **[STAKES+BIG-Q]** "The good stuff doesn't always trend — sometimes the thing that changes your workflow ships quiet while everyone's dunking on the flashy one. So how do you catch the release that matters, not the one that's loud?"
 `[V: two launches side by side, one screaming, one silent]`
@@ -86,6 +94,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 08 — [VALUE] You configure everything but this · lane: ai · ~14s
 *Delete test: still a real point about config culture.*
 **[HOOK]** "You've got dotfiles for your editor, your shell, your whole terminal. But the interface you touch 100 times a day — your feed — you run on someone else's defaults."
+**[TEXT ON SCREEN: “you configure everything but this”]**
 `[V: a dotfiles screen, then a feed with no settings]`
 **[BIG-Q]** "Every tool you respect is configurable. So why does the feed only have an algorithm's defaults, tuned for *their* metrics?"
 `[V: a settings page with one useless toggle]`
@@ -99,6 +108,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 8 — 100% of the code · lane: ai · ~16s
 *Type: V · Delete test: the Dario "AI writes all the code in a year" claim and what it actually means for a working dev is a genuine discourse worth chewing on with no product attached.*
 **[HOOK]** "If a headline told you AI would write 100% of your code within a year, your gut said 'no chance' — and you're half right, but the half you're wrong about is the scary one."
+**[TEXT ON SCREEN: “AI writes 100% of your code?”]**
 `[V: the Dario claim as a big pull-quote, dev squinting at it]`
 **[BIG-Q]** "Dario said it. Everyone screenshotted the number and skipped the sentence around it. So what did he actually mean — replace you, or move you up a level?"
 `[V: text: "100%… of what, exactly?"]`
@@ -112,6 +122,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 9 — The paper everyone suddenly cites · lane: ai · ~15s
 *Type: S · Delete test: the phenomenon of a research paper going from zero to cited-everywhere overnight, and the edge of reading it early, stands completely on its own.*
 **[HOOK]** "You've seen this — a paper nobody mentioned on Monday is suddenly in every thread by Friday, and everyone's quoting it like they read it. I actually read it a week early, by accident."
+**[TEXT ON SCREEN: “i read it a week early”]**
 `[V: the same arXiv title reposted across a dozen threads]`
 **[STAKES+BIG-Q]** "Being late to the paper everyone's citing is its own quiet tax — you argue from the abstract while others argue from page 7. So how do you find the one that's about to blow up before it does?"
 `[V: a citation count going vertical]`
@@ -125,6 +136,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 10 — 95% noise is a filter gap · lane: ai · ~16s
 *Type: V · Delete test: the idea that a noisy feed is a filtering failure, not an inevitable law of the internet, is a genuinely reframing thought with no product needed.*
 **[HOOK]** "You keep treating your feed being 95% noise like weather — something that just happens to you. It's not weather. It's a filter you never built."
+**[TEXT ON SCREEN: “95% noise isn't weather”]**
 `[V: a feed scrolling, 19 junk posts for every 1 good one]`
 **[BIG-Q]** "We accepted 'most of the feed is garbage' as a law of physics. But signal-to-noise is a solvable number — so why did nobody try to solve it instead of just muting harder?"
 `[V: text: "noise = law, or gap?"]`
@@ -138,6 +150,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 11 — On-device AI moment · lane: ai · ~15s
 *Type: S · Delete test: the real shift of a capable model running locally on your phone with nothing leaving the device — and why the hot-takes missed the point — is a solid tech story alone.*
 **[HOOK]** "You saw 'Gemini Nano runs on your phone' and scrolled past it as a spec bump. It's the opposite of small — it's the moment inference stopped needing the cloud."
+**[TEXT ON SCREEN: “AI just left the cloud”]**
 `[V: a phone running a model fully offline, airplane mode on]`
 **[STAKES+BIG-Q]** "The hot-takes went straight to 'it's slower than the big one' and missed it entirely. So what actually changes when the model lives on-device and nothing you type ever leaves it?"
 `[V: a network monitor showing zero outbound while the model works]`
@@ -151,6 +164,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 12 — Too powerful to release · lane: ai · ~16s
 *Type: V · Delete test: The pattern "we can't show you the scary thing, trust us" being a marketing move works as media literacy on its own.*
 **[HOOK]** "If a lab says a model is 'too dangerous to release,' your first reaction shouldn't be fear — it should be: that's a great ad."
+**[TEXT ON SCREEN: “'too dangerous to release' = an ad”]**
 `[V: text on screen — "too dangerous to release" with a little price tag sticker on it]`
 **[STAKES+BIG-Q]** "Every few months someone hints they're sitting on something too powerful to show you. You can't verify it, you can't test it — so who does that line actually serve?"
 `[V: a blurred-out demo, "REDACTED" over the interesting part]`
@@ -164,6 +178,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 13 — The one time I was behind · lane: ai · ~16s
 *Type: S · Delete test: "The last time I was genuinely behind, it was because I was reading takes instead of primary sources" is a real, transferable lesson.*
 **[HOOK]** "You've been the sharp one in the room enough that being behind stings — so here's the one time I got blindsided, and what I changed after."
+**[TEXT ON SCREEN: “the one time i got blindsided”]**
 `[V: me, mid-standup, that half-second face when you realize you missed something]`
 **[STAKES+BIG-Q]** "A model dropped, my whole feed had hot takes on it, and I confidently repeated one that turned out to be wrong. Everyone had an opinion; nobody had read the actual thing. So how do you stop mistaking volume for knowing?"
 `[V: a wall of quote-tweets, all reacting, none linking the source]`
@@ -177,6 +192,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 14 — Following isn't knowing · lane: ai · ~15s
 *Type: V · Delete test: "You followed people hoping for ideas and got a personality feed instead" is a sharp standalone observation about how follow-graphs actually work.*
 **[HOOK]** "You didn't follow 800 people because you love them — you followed them hoping for ideas. And that's exactly why your feed is useless now."
+**[TEXT ON SCREEN: “following 800 people ruined your feed”]**
 `[V: a following count spinning up past 800, feed getting noisier behind it]`
 **[BIG-Q]** "Following is a bet on a person staying interesting forever. But you don't want people — you want the good idea, wherever it shows up. So why is the whole system built around who, not what?"
 `[V: text — "who ≠ what"]`
@@ -190,6 +206,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 15 — The buried benchmark · lane: ai · ~16s
 *Type: S · Delete test: "The model that quietly beat the benchmark got ignored while the one with the launch video got headlines" is a real critique of how AI news is driven by marketing, not results.*
 **[HOOK]** "You saw the model with the launch video and the keynote. You didn't see the one that quietly beat it on the benchmark last week — and that's the whole problem."
+**[TEXT ON SCREEN: “the model that quietly won”]**
 `[V: a flashy launch trailer next to a plain GitHub release with no fanfare]`
 **[STAKES+BIG-Q]** "The best result and the loudest result are almost never the same thing. A model posted numbers that beat the headline one — no thread, no hype, buried on HN page two. So how many actual wins die because nobody made a video?"
 `[V: HN page two, a benchmark post sitting at 6 points]`

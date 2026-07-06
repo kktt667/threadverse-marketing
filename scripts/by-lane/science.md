@@ -1,13 +1,16 @@
 # Science — wait-what findings, research, depth
 
-9 scripts. Batch this whole lane before moving to the next (algorithm rewards consistency).
-Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: screen-record ...]` = film the app (pro session).
+9 scripts. Batch this whole lane before the next (algorithm rewards consistency).
+Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s.
+
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big bold line for the first 1-2s (stops sound-off scrollers). Separate from auto-captions (which show your full spoken words the whole video — turn those on in CapCut too). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
 ## Script 16 — Quantum experiment at home · lane: science · ~17s
 *Type: S · Delete test: "Someone reproduced a real quantum interference effect on a kitchen table for under a hundred quid" is a genuinely cool science story with zero product needed.*
 **[HOOK]** "You assume quantum stuff needs a lab the size of a building and a grant to match. Someone just did a real interference experiment on a kitchen table for under a hundred quid."
+**[TEXT ON SCREEN: “a quantum experiment for £100”]**
 `[V: a cluttered kitchen table with a cheap laser, a razor blade, a wall]`
 **[STAKES+BIG-Q]** "The coolest thing I read this week wasn't a model launch — it was a writeup of single-particle interference done at home, the result that broke everyone's intuition about reality. So how does the best thing on the internet end up buried on HN page three?"
 `[V: HN, the post sitting low with a quiet comment thread]`
@@ -21,6 +24,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 17 — Science never trends · lane: science · ~15s
 *Type: V · Delete test: the media-incentive point — rage-bait wins the algorithm, real findings die in the feed — is a true observation that stands on its own.*
 **[HOOK]** "If a real breakthrough dropped in your feed today, you'd never see it — it loses to the guy who's angry about a coffee study."
+**[TEXT ON SCREEN: “why science never trends”]**
 `[V: a calm findings post buried under three shouting quote-tweets]`
 **[STAKES+BIG-Q]** "Feeds reward heat, not truth. A careful result gets zero engagement; a bad-faith hot take gets a million. So how does anything with actual signal ever reach you?"
 `[V: engagement counter — 12 vs 900k]`
@@ -34,6 +38,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 18 — The result that broke a textbook · lane: science · ~16s
 *Type: S · Delete test: a genuine 'a new result overturned a thing I was taught as settled' story — that's a real intellectual jolt with no product needed.*
 **[HOOK]** "You learned something in school as flat fact — and a paper quietly overturned it while nobody was looking. I read one this week that broke a textbook I trusted."
+**[TEXT ON SCREEN: “a paper just broke a textbook”]**
 `[V: a textbook page with a line crossed out]`
 **[STAKES+BIG-Q]** "The scary part isn't being wrong — it's not knowing you're out of date. So how long had that result been sitting there before I found it?"
 `[V: a paper timestamp, weeks old]`
@@ -47,6 +52,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 19 — A feed of only wait-what · lane: science · ~14s
 *Type: V · Delete test: 'you can ask for only the genuinely surprising findings and skip the incremental noise' is a real idea about how to read science — valuable regardless of tool.*
 **[HOOK]** "You don't actually want more science in your feed — you want the wait, that's real? ones, and nothing else."
+**[TEXT ON SCREEN: “a feed of only 'wait, that's real?'”]**
 `[V: a wall of papers, one lighting up]`
 **[BIG-Q]** "Ninety percent of published findings are incremental and fine and forgettable. So what if you could filter for only the ones that make you sit up?"
 `[V: text: "surprising only"]`
@@ -60,6 +66,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 20 — I had it in spring · lane: science · ~15s
 *Type: S · Delete test: the 'the thing going viral now is months old and the timeline is always late' observation is a true, slightly smug truth about how discovery works.*
 **[HOOK]** "You know that study everyone's suddenly quote-tweeting today? I read it in spring — and I'm not more plugged in than you are."
+**[TEXT ON SCREEN: “i read it in spring”]**
 `[V: a trending post, timestamped today]`
 **[STAKES+BIG-Q]** "Being six months behind and calling it 'breaking' is the default state of the timeline. So how does a real finding sit unseen that long before it blows up?"
 `[V: a spring calendar vs today's date]`
@@ -73,6 +80,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 21 — The best science is slow · lane: science · ~17s
 *Type: V · Delete test: the structural mismatch — good science is slow and careful, feeds reward fast and loud — is a sharp true insight that lands with no product attached.*
 **[HOOK]** "The best science is slow — years of careful work. Your feed rewards whatever's fastest and loudest. Those two things will never line up."
+**[TEXT ON SCREEN: “good science is too slow to trend”]**
 `[V: a slow-filling beaker next to a blur of scrolling]`
 **[STAKES+BIG-Q]** "So the deepest work is structurally invisible to the thing you read it on. How do you catch the slow stuff without watching the feed all day?"
 `[V: a careful result scrolling past, unnoticed]`
@@ -86,6 +94,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 22 — Lab result my timeline ignored · lane: science · ~15s
 *Type: S · Delete test: a boring-looking bio result quietly predicting a year-out breakthrough is a real "watch this space" story on its own.*
 **[HOOK]** "You'll see this one on your timeline in about a year — I read it last week, buried, zero reactions."
+**[TEXT ON SCREEN: “you'll see this in a year”]**
 `[V: a paper with 3 likes, scroll blowing past it]`
 **[STAKES+BIG-Q]** "It was a quiet lab result: a protein-folding model predicting a structure nobody could crystallize. Nothing went viral. So how does the thing that changes a field always land as a shrug first?"
 `[V: a dense figure, one unremarkable timestamp]`
@@ -99,6 +108,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 23 — Curiosity as a query · lane: science · ~16s
 *Type: V · Delete test: "describe the kind of idea that rewires you and go find exactly that" is a genuinely different way to read science, product aside.*
 **[HOOK]** "Your feed feeds you what's popular in science. You never once told it what would actually change how you think."
+**[TEXT ON SCREEN: “your feed never asked what you think”]**
 `[V: trending-science tiles, all noise]`
 **[BIG-Q]** "Keywords give you 'quantum' and 'black hole' clickbait. But what if you could ask for the shape of an idea — 'findings that overturn something I assumed was settled'?"
 `[V: text: "overturns an assumption" typed slowly]`
@@ -112,6 +122,7 @@ Each passes the 6-gate SCRIPT-CHECKLIST. ~12-18s. `[V: ...]` = visual cue; `[V: 
 ## Script 24 — Frontier finding minus the hype cycle · lane: science · ~15s
 *Type: S · Delete test: "read the source paper, not the 40 hot takes stacked on it" is evergreen advice that stands with no product at all.*
 **[HOOK]** "You didn't read the paper. You read the guy quote-tweeting the guy who misread the paper."
+**[TEXT ON SCREEN: “you didn't read the paper”]**
 `[V: a QT chain, each summary drifting further off]`
 **[STAKES+BIG-Q]** "A frontier result drops and within an hour it's fifty takes deep — half wrong, all confident. So how do you get to the actual finding before the telephone game rewrites it?"
 `[V: same claim mutating down a thread]`
