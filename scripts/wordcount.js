@@ -8,7 +8,8 @@
 const fs = require('fs');
 const path = require('path');
 const arg = (n, d = null) => { const i = process.argv.indexOf(`--${n}`); return i === -1 ? d : process.argv[i + 1]; };
-const RATE = 2.5;
+const RATE = 2.8;   // measured from the user's actual voice (~100 words = 36s)
+// Target band: aim 56-70 words (~20-25s). Hard max ~84 words (~30s).
 const DIR = path.join(__dirname, 'generated');
 const BEAT = /^\*\*\[(HOOK|STAKES|BIG-?Q|HEAD FAKE|REHOOK|CTA)/i;
 
