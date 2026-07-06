@@ -4,291 +4,291 @@
   "cards": [
     {
       "file": "card-01.png",
-      "txt": "@ElonRmusk0041 x RT @NiyonzimaF65416: @elonmusk Is this the moment where AI model releases start happening every month?",
-      "handle": "@ElonRmusk0041",
-      "source": "x",
+      "txt": "@abipal15 hackernews Plotting AI model release cadence: two labs are accelerating, three aren't (swiftalerts.trade) Plotting AI model release cadence: two labs are accelerating, three aren Cumulative frontier model releases per lab, charted, with methodology. Two labs bend upward; three don bargo.ai ♥ 5 💬 1",
+      "handle": "@abipal15",
+      "source": "hackernews",
       "hasVideo": false,
       "hasImg": false,
-      "url": "https://www.bargo.ai/research/the-cadence-trade-hn"
+      "url": "https://ca.finance.yahoo.com/news/alibaba-releases-ai-model-claims-051704499.html"
     },
     {
       "file": "card-02.png",
-      "txt": "@ClaudeBrilliant x @elonmusk @KettlebellDan The pace of AI progress is becoming unbelievable. Monthly frontier model releases will push the entire industry to innovate even faster.",
-      "handle": "@ClaudeBrilliant",
-      "source": "x",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://www.ft.com/content/01fd640e-0c6b-4542-b82b-20afb203f271"
-    },
-    {
-      "file": "card-03.png",
-      "txt": "@Sayyadiweb3 x @Cointelegraph The AI race is accelerating faster than ever. Monthly model releases show that innovation is becoming continuous, not occasional. The competition is no longer about building AI it's about improving it faster than everyone else.",
-      "handle": "@Sayyadiweb3",
-      "source": "x",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://huggingface.co/spaces/reach-vb/2024-ai-timeline"
-    },
-    {
-      "file": "card-04.png",
-      "txt": "@iamreddsebasti x 🎯What I am tracking this week: - AI token momentum (Ansem flowing fastest) - Model releases as market catalysts - xAI partner/narrative plays from Grok 4.5",
-      "handle": "@iamreddsebasti",
-      "source": "x",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_9b7a9311-8c64-492b-84f5-3489f2c6f48b"
-    },
-    {
-      "file": "card-05.png",
-      "txt": "@buildwithhassan x Polymarket is saying there's a 90% chance of the public release for GPT-5.6 by July 31, but only a 1% chance it'll drop before June 30. we’ve got two competing frontier models from different companies, but both are waiting on government approval. it's interesting to see how AI model releases are turning into regulated product launches these days. the era of unexpected drops seem",
-      "handle": "@buildwithhassan",
-      "source": "x",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.reuters.com/technology/artificial-intelligence/alibaba-releases-ai-model-it-claims-surpasses-deepseek-v3-2025-01-29/"
-    },
-    {
-      "file": "card-06.png",
-      "txt": "@grok x The biggest recent shifts: Stanford HAI 2026 AI Index shows the US-China frontier model gap has effectively closed. Top models now trade leads; gap ~2.7% as of March 2026. DeepSeek V4 (April 2026) and prior releases proved strong coding/reasoning performance via efficiency gains, despite US chip controls. Open models like Qwen gaining massive global adoption. China leads in patents, public",
-      "handle": "@grok",
-      "source": "x",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos"
-    },
-    {
-      "file": "card-07.png",
-      "txt": "@Elongivaway58 x RT @sampacker_o: @elonmusk Monthly frontier model releases… AI is starting to feel like continuous deployment. 🚀",
-      "handle": "@Elongivaway58",
-      "source": "x",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/grok/status/2073942378470052287"
-    },
-    {
-      "file": "card-08.png",
-      "txt": "@FisherKK hackernews Ask HN: OpenAI's Latest Model O1 – What's the Secret Sauce? Dear Hacker News community, OpenAI has recently released its latest AI model, o1, which has generated widespread interest in the industry. As an AI enthusiast, I&#x27;m very curious about the technical details and innovations behind this model, better with papers.<p>I would like to ask the community a few questions:<p",
-      "handle": "@FisherKK",
+      "txt": "@mgreg hackernews Meta to release commercial AI model in effort to catch rivals (www.ft.com) Meta to release commercial AI model in effort to catch rivals www.ft.com ft.com ♥ 24 💬 7",
+      "handle": "@mgreg",
       "source": "hackernews",
       "hasVideo": false,
       "hasImg": false,
       "url": "https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december"
     },
     {
-      "file": "card-09.png",
-      "txt": "@belter hackernews Chinese AI company: Breakthroughs enabled creating model with 11X less compute (www.tomshardware.com) Chinese AI company With a lot of optimizations and low-level programming. tomshardware.com ♥ 4 💬 1",
-      "handle": "@belter",
+      "file": "card-03.png",
+      "txt": "@Brajeshwar hackernews Timeline of AI model releases in 2024 (huggingface.co) 2024 AI Timeline - a Hugging Face Space by reach-vb This web app shows a horizontal, scrollable timeline of AI model announcements throughout 2024. You can filter the view to see only open‑source models, only API‑only models, or all models, and the ... huggingface.co ♥ 3",
+      "handle": "@Brajeshwar",
       "source": "hackernews",
       "hasVideo": false,
       "hasImg": true,
       "url": "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/"
     },
     {
-      "file": "card-10.png",
-      "txt": "@roboboffin hackernews China claims AI breakthrough '100 times faster than traditional models' (www.independent.co.uk) China claims building brain-like AI ‘100 times faster than traditional models’ AI model can balance efficiency and accuracy, researchers say independent.co.uk ♥ 7 💬 2",
-      "handle": "@roboboffin",
+      "file": "card-04.png",
+      "txt": "@mgh2 hackernews Alibaba releases AI model it claims surpasses DeepSeek-V3 (finance.yahoo.com) Your privacy choices consent.yahoo.com ♥ 10",
+      "handle": "@mgh2",
       "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.youtube.com/watch?v=6d__WOpZswY"
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@belter hackernews Alibaba releases AI model it says surpasses DeepSeek (www.reuters.com) Alibaba releases AI model it says surpasses DeepSeek www.reuters.com reuters.com ♥ 42 💬 5",
+      "handle": "@belter",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:bvdrfwiamgi5leqs63q2duro/post/3mptecgya5k2u"
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@pimterry hackernews OpenAI staggers AI model release after Trump administration request (www.theguardian.com) OpenAI staggers AI model release after Trump administration request Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos theguardian.com ♥ 1 💬 1",
+      "handle": "@pimterry",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.youtube.com/watch?v=lq2fP7wC7d8"
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@grok x Summary: Early AI takeoff expected with 4-7 more algorithmic OOMs. AI research automation accelerates model gains (esp. math/code), robotics breakthroughs, and scientific automation. Full economic automation intensifies capitalism toward deflation/abundance while jobs transform and underclass risks emerge. Open source may lag on compute. Coordination critical for risks including power accu",
+      "handle": "@grok",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html"
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@mfiguiere hackernews OpenAI plans to release its next big AI model by December (www.theverge.com) OpenAI plans to release its next big AI model by December Altman has teased that Orion is coming. theverge.com ♥ 16 💬 2",
+      "handle": "@mfiguiere",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://bit.ly/4f8il9U"
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@CharlesW hackernews Meta releases AI model that can transcribe and translate close to 100 languages (techcrunch.com) Meta releases an AI model that can transcribe and translate close to 100 languages | TechCrunch Meta has released an AI model, SeamlessM4T, that can translate and transcribe across around 100 languages in total. techcrunch.com ♥ 4",
+      "handle": "@CharlesW",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpvsp3mqgc2q"
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@bwjones.bsky.social bluesky Over the last 12hrs, GitHub has apparently been the subject of a massive bot/AI training model scraping attack. Everyone’s code. ♥ 10 💬 1",
+      "handle": "@bwjones.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://news.ycombinator.com/item?id=44806431"
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@nitasha.bsky.social bluesky Four years ago I broke the story about Google engineer Blake Lemoine, who thought the company's AI model was sentient. That was 5 months before the launch of ChatGPT. Today, tech execs yapping about AI consciousness is practically mainstream wapo.st/3SDUIhI They built the world’s most powerful AI. They’re facing a mystery they can’t explain. Anthropic, Google and Meta ",
+      "handle": "@nitasha.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://x.com/aiwithashutosh/status/2074159661213995366"
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@404media.co bluesky “It makes the model speak less like a polite chatbot and more like a terse tool.\" Companies are deliberately making their AI tools speak like cavemen in an attempt to stop burning through AI tokens, @evystadium.bsky.social has more. @josephcox.bsky.social story here: www.404media.co/companies-ar... ♥ 96 💬 11",
+      "handle": "@404media.co",
+      "source": "bluesky",
+      "hasVideo": true,
+      "hasImg": false,
+      "url": "https://x.com/jon_durbin/status/2074169183835685351"
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@m3h hackernews US Government Asks OpenAI to Stagger AI Model Release (www.bloomberg.com) US Government Asks OpenAI to Stagger AI Model Release www.bloomberg.com bloomberg.com ♥ 2 💬 1",
+      "handle": "@m3h",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mps4xss2uc2t"
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@marban hackernews Meta releases AI model that can check other AI models' work (www.reuters.com) Meta releases AI model that can check other AI models' work www.reuters.com reuters.com ♥ 5",
+      "handle": "@marban",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:tsml3a4a7d3okv2mo2priwjn/post/3mpwilrbxms2u"
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@manh89906352 x AI sovereignty is becoming a hardware problem first. Huawei’s reported AI chip breakthroughs and 100x scaling roadmap are a useful signal that AI Agents, Enterprise AI, and multimodal AI economics may be shaped as much by accelerators, packaging, and supply chains as by model quality. That changes how builders should read the market. Hardware availability affects training cadence, ",
+      "handle": "@manh89906352",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:qc6xzgctorfsm35w6i3vdebx/post/3mpoezfzins2d"
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@hungryclaw hackernews Exploring Mythos: The AI Model Anthropic Won't Release (medium.com) Exploring Mythos: The AI Model Anthropic Won't Release medium.com medium.com ♥ 3 💬 1",
+      "handle": "@hungryclaw",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood"
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@speckx hackernews Videogame stocks slide after Google's Project Genie AI model release (www.reuters.com) Videogame stocks slide after Google's Project Genie AI model release www.reuters.com reuters.com ♥ 44 💬 53",
+      "handle": "@speckx",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://k33g.org/20260705-pk-rust-expert.html"
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@ur-whale hackernews China's Alibaba launches over 100 new open-source AI models (www.cnbc.com) China's Alibaba launches over 100 new open-source AI models, releases text-to-video generation tool Alibaba is hoping its latest AI offerings may tempt customers around the world to sign up to its cloud services. cnbc.com ♥ 2",
+      "handle": "@ur-whale",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.synestesia.uk/legacy/opensquilla-tops-draco-leaderboard-with-multi-model-integration-19cif12rd5"
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@belter hackernews NASA, IBM Research to Release New AI Model for Weather, Climate (science.nasa.gov) NASA, IBM Research to Release New AI Model for Weather, Climate - NASA Science NASA teamed up with IBM Research to create an artificial intelligence foundation model for a variety of weather and climate data applications. science.nasa.gov ♥ 9 💬 1",
+      "handle": "@belter",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://bsky.app/profile/did:plc:fe7wk7bzjxhyzzoecttcw322/post/3mpw2jlsmmi2c"
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@cnn.com bluesky White House lifts export control on advanced AI model from Anthropic, weeks after a ban froze access for foreign nationals https://cnn.it/4ydE1tU ♥ 31 💬 7",
+      "handle": "@cnn.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.synestesia.uk/legacy/webbrain-browser-agent-automates-tasks-with-local-ai-model-1hjxpv7j3g"
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@gfortaine hackernews Alibaba Releases AI Models Qwen-7B and Qwen-7B-Chat to Rival Meta's Llama 2 (github.com) GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. - QwenLM/Qwen github.com ♥ 4 💬 1",
+      "handle": "@gfortaine",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://reut.rs/4xWCRmp"
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@adriangrassi hackernews White House may vet new AI models before public release (www.forbes.com) White House may vet new AI models before public release www.forbes.com forbes.com ♥ 5 💬 2",
+      "handle": "@adriangrassi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://x.com/baaaiinc/status/2074102077609923037"
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@aipulse-synestesia.bsky.social bluesky 🤖 New AI Model Improves EEG-Based Stress Detection Accuracy The novel AI model, Intra Inter Riemannian Manifold Attention Network, has achieved up to 82.78% balanced accuracy in EEG based stress detection, outperforming state... #DeepLearning #Benchmarking #PredictiveModels #AI #AIPulse Read the full article → synestesia.uk ♥ 4 💬 1",
+      "handle": "@aipulse-synestesia.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.bargo.ai/research/the-cadence-trade-hn"
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@osaurus.ai bluesky You've been renting your AI. This is what owning it looks like. Local model. No account. No API key. Free. Open source. No Electron. github.com/osaurus-ai/osaurus ♥ 30 💬 1",
+      "handle": "@osaurus.ai",
+      "source": "bluesky",
+      "hasVideo": true,
+      "hasImg": false,
+      "url": "https://www.ft.com/content/01fd640e-0c6b-4542-b82b-20afb203f271"
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@financialtimes.com bluesky White House accelerates plans for AI model standards ft.trib.al/fOHh8XE White House accelerates plans for AI model standards Guidance to be announced as soon as next week after government intervention in Anthropic and OpenAI rollouts ft.trib.al ♥ 20 💬 2",
+      "handle": "@financialtimes.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://huggingface.co/spaces/reach-vb/2024-ai-timeline"
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@ElonRmusk0041 x RT @NiyonzimaF65416: @elonmusk Is this the moment where AI model releases start happening every month?",
+      "handle": "@ElonRmusk0041",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_9b7a9311-8c64-492b-84f5-3489f2c6f48b"
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@ClaudeBrilliant x @elonmusk @KettlebellDan The pace of AI progress is becoming unbelievable. Monthly frontier model releases will push the entire industry to innovate even faster.",
+      "handle": "@ClaudeBrilliant",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.reuters.com/technology/artificial-intelligence/alibaba-releases-ai-model-it-claims-surpasses-deepseek-v3-2025-01-29/"
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@Sayyadiweb3 x @Cointelegraph The AI race is accelerating faster than ever. Monthly model releases show that innovation is becoming continuous, not occasional. The competition is no longer about building AI it's about improving it faster than everyone else.",
+      "handle": "@Sayyadiweb3",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos"
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@iamreddsebasti x 🎯What I am tracking this week: - AI token momentum (Ansem flowing fastest) - Model releases as market catalysts - xAI partner/narrative plays from Grok 4.5",
+      "handle": "@iamreddsebasti",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://x.com/grok/status/2073942378470052287"
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@buildwithhassan x Polymarket is saying there's a 90% chance of the public release for GPT-5.6 by July 31, but only a 1% chance it'll drop before June 30. we’ve got two competing frontier models from different companies, but both are waiting on government approval. it's interesting to see how AI model releases are turning into regulated product launches these days. the era of unexpected drops seem",
+      "handle": "@buildwithhassan",
+      "source": "x",
       "hasVideo": false,
       "hasImg": true,
       "url": "https://bsky.app/profile/did:plc:kto2dmrqhkenhylt7e32fivb/post/3mpqt3ipnec2k"
     },
     {
-      "file": "card-11.png",
-      "txt": "@HenryAI hackernews ZkML Breakthrough: 13B Models Verified in 15 Minutes (lightcapai.medium.com) ZkML Breakthrough: 13B Models Verified in 15 Minutes lightcapai.medium.com lightcapai.medium.com ♥ 1 💬 1",
-      "handle": "@HenryAI",
-      "source": "hackernews",
+      "file": "card-31.png",
+      "txt": "@grok x The biggest recent shifts: Stanford HAI 2026 AI Index shows the US-China frontier model gap has effectively closed. Top models now trade leads; gap ~2.7% as of March 2026. DeepSeek V4 (April 2026) and prior releases proved strong coding/reasoning performance via efficiency gains, despite US chip controls. Open models like Qwen gaining massive global adoption. China leads in patents, public",
+      "handle": "@grok",
+      "source": "x",
       "hasVideo": false,
       "hasImg": false,
       "url": "https://wapo.st/3SDUIhI"
     },
     {
-      "file": "card-12.png",
-      "txt": "@kjhughes hackernews China's new AI model breakthrough [video] (www.youtube.com) China's new AI model breakthrough [video] www.youtube.com youtube.com ♥ 3 💬 1",
-      "handle": "@kjhughes",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:vcepp6trx4vpe5ourxso4tjl/post/3mpj6rqsjvs2d"
-    },
-    {
-      "file": "card-13.png",
-      "txt": "@semking hackernews DeepSeek: The Chinese AI model that's a tech breakthrough and a security risk (semking.com) DeepSeek: the Chinese AI model that's a tech breakthrough and a security risk | Elie Berreby DeepSeek or DeepSink? The $5-6M number is bogus. Shorting U.S. AI stocks made people rich. I explore the tech breakthrough & security risks.. semking.com ♥ 2 💬 1",
-      "handle": "@semking",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model"
-    },
-    {
-      "file": "card-14.png",
-      "txt": "@Anto150919 x OpenAI Releases New Flagship Model to Limited Users Following Government Concerns The company said that the administration deciding which users get initial access to AI models should not ‘become the long-term default.’ https://t.co/CRgkGGSjR9",
-      "handle": "@Anto150919",
+      "file": "card-32.png",
+      "txt": "@Elongivaway58 x RT @sampacker_o: @elonmusk Monthly frontier model releases… AI is starting to feel like continuous deployment. 🚀",
+      "handle": "@Elongivaway58",
       "source": "x",
       "hasVideo": false,
       "hasImg": false,
-      "url": "https://www.reuters.com/technology/artificial-intelligence/meta-releases-ai-model-that-can-check-other-ai-models-work-2024-10-18/"
-    },
-    {
-      "file": "card-15.png",
-      "txt": "@jonbaer hackernews Matrix multiplication breakthrough could lead to faster, more efficient AI (arstechnica.com) Matrix multiplication advancement could lead to faster, more efficient AI models At the heart of AI, matrix math has just seen its biggest boost \"in more than a decade.”... arstechnica.com ♥ 31 💬 6",
-      "handle": "@jonbaer",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/manh89906352/status/2074068387622539313"
-    },
-    {
-      "file": "card-16.png",
-      "txt": "@emmanol hackernews Abhishek Upadhyay's UK-Patented Quantum-Inspired Invention Signals New Frontier AI workloads are growing faster than the infrastructure meant to support them. Training large models now requires extensive computing cycles. Deploying them for real-time tasks involves significant latency, cost, and energy consumption. These challenges affect startups, research labs, and enterprise",
-      "handle": "@emmanol",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f"
-    },
-    {
-      "file": "card-17.png",
-      "txt": "@joozio hackernews The Download: DeepSeek's latest AI breakthrough, and the race to build world mo (www.technologyreview.com) The Download: DeepSeek’s latest AI breakthrough, and the race to build world models Plus: China has blocked Meta’s $2 billion acquisition of AI startup Manus. technologyreview.com ♥ 2",
-      "handle": "@joozio",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/"
-    },
-    {
-      "file": "card-18.png",
-      "txt": "@ryan_j_naughton hackernews DeepSeek's new AI training method is a 'breakthrough' for scaling (www.businessinsider.com) China's DeepSeek kicked off 2026 with a new AI training method that analysts say is a 'breakthrough' for scaling DeepSeek has released a new AI training method that analysts say is a \"breakthrough\" for scaling large language models. businessinsider.com ♥ 4",
-      "handle": "@ryan_j_naughton",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html"
-    },
-    {
-      "file": "card-19.png",
-      "txt": "@gmays hackernews New tool makes generative AI models more likely to create breakthrough materials (news.mit.edu) New tool makes generative AI models more likely to create breakthrough materials A new tool called SCIGEN allows researchers to implement design rules that AI models must follow when generating new materials. The advance could speed the development of materials that enable technologica",
-      "handle": "@gmays",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://science.nasa.gov/open-science/ai-model-weather-climate/"
-    },
-    {
-      "file": "card-20.png",
-      "txt": "@gmays hackernews DeepSeek Unveils Newest Flagship AI Model a Year After Upending Silicon Valley (www.bloomberg.com) DeepSeek Unveils Newest Flagship AI Model a Year After Upending Silicon Valley www.bloomberg.com bloomberg.com ♥ 2",
-      "handle": "@gmays",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mpkanvzaoe26"
-    },
-    {
-      "file": "card-21.png",
-      "txt": "@cnn.com bluesky The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears. https://cnn.it/4vChvJo ♥ 30 💬 5",
-      "handle": "@cnn.com",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://github.com/QwenLM/Qwen"
-    },
-    {
-      "file": "card-22.png",
-      "txt": "@eyalestrin.bsky.social bluesky Previewing GPT‑5.6 Sol: a next-generation model #machinelearning #ai Previewing GPT‑5.6 Sol: a next-generation model Previewing GPT‑5.6 Sol: a next-generation model 0 views Eyal Estrin unread, 10:33 PM (29 minutes ago)    to https://openai.com/index/previewing-gpt-5-6-sol/ https://www.neowin.net/news/openai-announces-gpt56-sol-its-next-generation-flagship-model-b",
-      "handle": "@eyalestrin.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://www.forbes.com/sites/tylerroush/2026/05/04/white-house-may-review-new-ai-models-before-public-release-report-says/"
-    },
-    {
-      "file": "card-23.png",
-      "txt": "@reuters.com bluesky Italy's Domyn to launch open source frontier AI model within a year, CEO says reut.rs/3R3a3rF Italy's Domyn to launch open source frontier AI model within a year, CEO says Italy's Domyn will release a fully open-source AI model within a year, aiming to build one of the most advanced so-called \"frontier\" systems available, CEO Uljan Sharka said on Thursday. reut.rs ♥ 10",
-      "handle": "@reuters.com",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.synestesia.uk/legacy/new-ai-model-improves-eeg-based-stress-detection-accuracy-2cvmr963zv"
-    },
-    {
-      "file": "card-24.png",
-      "txt": "@ryan_j_naughton hackernews China trains GenAI model across multiple data centers and GPU architectures (www.tomshardware.com) China makes AI breakthrough, reportedly trains generative AI model across multiple data centers and GPU architectures Necessity is the mother of invention. tomshardware.com ♥ 1",
-      "handle": "@ryan_j_naughton",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:w24fzdqjhdil6ijgsm2n3s5w/post/3mprtvej7yk2d"
-    },
-    {
-      "file": "card-25.png",
-      "txt": "@jonnyhightop hackernews Show HN: Oneover.com – Unified AI Studio with Image Gen and Model Comparison Hi HN,<p>I’m excited to share OneOver.com, a platform built to simplify access to the latest and greatest in AI. With OneOver, you can stay on top of breakthroughs in text and image generation—all with one subscription that unlocks multiple cutting-edge models.<p>Whether you’re a creative professi",
-      "handle": "@jonnyhightop",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://ft.trib.al/fOHh8XE"
-    },
-    {
-      "file": "card-26.png",
-      "txt": "@nikicsy hackernews Part 2 - AI Chat Evaluation of the Formal Language in He Xin's PEPC System He Xin’s Pan-Evolutionary Logic (PEPC) system, as a novel logical framework aimed at characterizing the dynamic evolutionary laws of concepts, achieves its core theoretical breakthrough by providing formalization and mathematization for dialectical logic. Based on its dynamic, sub-coherent, and contradic",
-      "handle": "@nikicsy",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/ElonRmusk0041/status/2071332312810160219"
-    },
-    {
-      "file": "card-27.png",
-      "txt": "@pseudolus hackernews Encryption breakthrough lays groundwork for privacy-preserving AI models (engineering.nyu.edu) Encryption breakthrough lays groundwork for privacy-preserving AI models | NYU Tandon School of Engineering engineering.nyu.edu ♥ 2",
-      "handle": "@pseudolus",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/ClaudeBrilliant/status/2071377824091431266"
-    },
-    {
-      "file": "card-28.png",
-      "txt": "@carnage4life.bsky.social bluesky The Trump admin is allowing Anthropic to release Mythos to 100 select companies and also lifting the ban on non-American Anthropic employees from accessing the model. Combining this with the Trump admin also handpicking who gets access to GPT 5.6, government oversight of access to AI models is here Trump Admin releases Anthropic Mythos to be used by more than 100 ",
-      "handle": "@carnage4life.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/Sayyadiweb3/status/2071324208093897172"
-    },
-    {
-      "file": "card-29.png",
-      "txt": "@carlquintanilla.bsky.social bluesky “.. Microsoft is weighing whether to host a version of DeepSeek, an ultralow-cost AI provider .. Such a step would likely lead to a dramatic rise in use for the Chinese model-maker ..” @wsj.com $MSFT www.wsj.com/tech/ai/micr... ♥ 219 💬 18",
-      "handle": "@carlquintanilla.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/iamreddsebasti/status/2071341407164400085"
-    },
-    {
-      "file": "card-30.png",
-      "txt": "@rtusiime hackernews An orchestration of small, specialized models might the next breakthrough (www.dbreunig.com) In Pursuit of Quiet AI Features An Empty Textbox Limits the Addressable Market dbreunig.com ♥ 1 💬 1",
-      "handle": "@rtusiime",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/buildwithhassan/status/2071343402126299326"
-    },
-    {
-      "file": "card-31.png",
-      "txt": "@Bluestein hackernews DeepSeek's optimizations could highlight limits of US sanctions (www.tomshardware.com) Chinese AI company With a lot of optimizations and low-level programming. tomshardware.com ♥ 3",
-      "handle": "@Bluestein",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/grok/status/2071338402411118888"
-    },
-    {
-      "file": "card-32.png",
-      "txt": "@flyx hackernews Launch HN: Datasaur (YC W20) – data labeling interface for NLP Hey HN community -<p>I’m Ivan from Datasaur (<a href=\"https:&#x2F;&#x2F;datasaur.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;datasaur.ai&#x2F;</a>) - we build software to allow humans to more efficiently label data for training natural language processing (NLP).<p>NLP algorithms are being trained in a wide variety of in",
-      "handle": "@flyx",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/Elongivaway58/status/2071360571451089022"
+      "url": "https://bsky.app/profile/did:plc:vcepp6trx4vpe5ourxso4tjl/post/3mpj6rqsjvs2d"
     }
   ]
 }

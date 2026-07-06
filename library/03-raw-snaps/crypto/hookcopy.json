@@ -3,366 +3,369 @@
   "slug": "crypto",
   "cards": [
     {
-      "file": "card-01.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-01.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "crypto",
-      "hook": "Working in crypto but ashamed to admit it?",
-      "caption": "Working in crypto but too embarrassed to say it out loud? A DeFi dev since 2021 asks HN the question nobody posts. The honest thread my feed kept while the timeline hyped coins.",
-      "stance": "The most interesting people in crypto are the ones quietly questioning it.",
+      "hook": "You're a DeFi dev who no longer believes in crypto.",
+      "caption": "You're a DeFi dev who no longer believes in crypto. Now what? The quiet crisis every token builder feels but won't post about. The honest stuff my feed keeps.",
+      "stance": "The people building crypto stopped believing in it before you did.",
       "bestPlatform": "x",
       "format": "quote",
       "triggers": [
-        "identity",
-        "mild-outrage",
-        "relatable"
+        "identity crisis",
+        "insider doubt",
+        "relatable painpoint"
       ]
     },
     {
-      "file": "card-02.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-02.png",
       "keep": false,
-      "score": 3,
-      "lane": "crypto",
-      "hook": "Here's what happened in crypto today",
-      "caption": "Generic daily crypto roundup with no actual story or number — pure filler. Rejected: no hook, no contrast, nothing my feed would keep.",
+      "score": 2,
+      "lane": "reject",
+      "hook": "Here's what happened in crypto today.",
+      "caption": "Generic daily-news roundup with no angle or contrast. Filler, not signal.",
       "stance": "",
-      "bestPlatform": "x",
+      "bestPlatform": "mastodon",
       "format": "minimal",
       "triggers": []
     },
     {
-      "file": "card-03.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-03.png",
       "keep": true,
       "score": 8,
       "lane": "crypto",
-      "hook": "Tokenized stocks just hit $34B/month — up 40x in a year.",
-      "caption": "Tokenized stocks are doing $34B/month, up 40x in 13 months. Nvidia, Tesla, Micron now trade as RWAs on-chain. TradFi is quietly moving to DeFi rails. Found before the timeline noticed.",
-      "stance": "RWAs are the real crypto adoption story — not another memecoin.",
-      "bestPlatform": "mastodon",
+      "hook": "Tokenized stocks just did $34B/month — up 40x in a year.",
+      "caption": "Tokenized stocks hit $34B/month, up 40x in 13 months. Nvidia, Tesla, Micron now trade on-chain 24/7. TradFi is quietly moving to DeFi rails. The signal my feed caught early.",
+      "stance": "The RWA wave will eat the stock market before it eats banks.",
+      "bestPlatform": "x",
       "format": "bigStat",
       "triggers": [
-        "big-number",
-        "surprise",
-        "named-entities"
+        "big number",
+        "40x growth",
+        "named entities Nvidia Tesla"
       ]
     },
     {
-      "file": "card-04.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-04.png",
       "keep": false,
-      "score": 2,
+      "score": 3,
       "lane": "reject",
-      "hook": "Weekly gamedev update: cleaning up code this week",
-      "caption": "Personal gamedev housekeeping log — no showcase, no hook, off-context for a crypto feed. Rejected.",
+      "hook": "Same card, same checkout, different rails.",
+      "caption": "Reads as a Trust Wallet Card ad, not curated signal. Hashtag-stuffed promo with no contrarian edge.",
       "stance": "",
       "bestPlatform": "bluesky",
       "format": "minimal",
       "triggers": []
     },
     {
-      "file": "card-05.png",
-      "keep": false,
-      "score": 2,
-      "lane": "reject",
-      "hook": "Help me pick a game idea to build",
-      "caption": "Personal help-request post, no curated value, off-niche for this feed. Rejected.",
-      "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
-      "triggers": []
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-05.png",
+      "keep": true,
+      "score": 7,
+      "lane": "crypto",
+      "hook": "Knowing how to code won't save you from the new scams.",
+      "caption": "Technical scams evolved past your defenses. Devs assume their skills protect them, but the newest attacks target exactly that confidence. The stuff my feed keeps before you get hit.",
+      "stance": "Your dev instincts are now the attack surface.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "security",
+        "false confidence",
+        "developer painpoint"
+      ]
     },
     {
-      "file": "card-06.png",
-      "keep": false,
-      "score": 2,
-      "lane": "reject",
-      "hook": "Resetting Xbox — link and hashtags",
-      "caption": "Bare link dump with hashtag spam, no substance. Rejected.",
-      "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
-      "triggers": []
-    },
-    {
-      "file": "card-07.png",
-      "keep": false,
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-06.png",
+      "keep": true,
       "score": 8,
       "lane": "crypto",
-      "hook": "Working in crypto but ashamed to admit it?",
-      "caption": "Duplicate of card-01 (same Ask HN crypto-shame thread). Keeping card-01 instead to avoid reposting the same content.",
-      "stance": "",
+      "hook": "A monarch's inheritance gets more scrutiny than your DeFi yields.",
+      "caption": "A French dev did the math: a king's estate faces more audits than his on-chain yields. Decentralization as the last tax escape? The sharp take my feed surfaced.",
+      "stance": "DeFi's real product isn't yield — it's invisibility from the state.",
       "bestPlatform": "x",
       "format": "quote",
       "triggers": [
-        "duplicate"
+        "tax",
+        "contrarian framing",
+        "monarch vs dev contrast"
       ]
     },
     {
-      "file": "card-08.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-07.png",
+      "keep": true,
+      "score": 6,
+      "lane": "crypto",
+      "hook": "DeFi hacks are turning high yields into a hidden tax.",
+      "caption": "That fat APY? Part of it silently pays for the next protocol hack. DeFi's high yields are becoming a hidden liquidity tax. BTC $58,517 and bearish. Found before the timeline.",
+      "stance": "Your yield is just other people's stolen funds routed back to you.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "hidden cost",
+        "hacks",
+        "yield reframe"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-08.png",
+      "keep": true,
+      "score": 8,
+      "lane": "crypto",
+      "hook": "One programming blunder just torched $661K on Solana.",
+      "caption": "Solana DeFi protocol OptiFi accidentally burned $661K to a code bug. Not a hack, not a rug, just a typo-tier mistake. The wild stuff my feed keeps before it trends.",
+      "stance": "In DeFi, a bad line of code costs more than any hacker ever will.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "disaster",
+        "big loss number",
+        "named entity Solana"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-09.png",
+      "keep": true,
+      "score": 7,
+      "lane": "crypto",
+      "hook": "Banks are quietly moving real assets onto blockchains",
+      "caption": "Banks are quietly moving real assets onto blockchains. Tokenized RWAs are the bet that fuels the next DeFi wave, per one big bank. Found this before the timeline caught it.",
+      "stance": "The next DeFi cycle won't be memecoins, it'll be tokenized bonds and real estate.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "RWA tokenization",
+        "DeFi growth",
+        "bank endorsement"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-10.png",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "bluesky",
+      "format": "minimal",
+      "triggers": [
+        "off-niche personal chatter",
+        "no tech substance"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-11.png",
       "keep": true,
       "score": 6,
       "lane": "gaming",
-      "hook": "A retro survival-horror demo where the nightmare shifts as you play.",
-      "caption": "Scarlet Lake: a retro survival-horror demo where detective Ben Murphy digs into a town that keeps changing on him. Playable now. The indie gem my feed surfaced before the hype.",
-      "stance": "",
+      "hook": "Your game engine has no idea what beer is",
+      "caption": "Your game engine has no idea what beer is. A solo dev's devlog on teaching a simulation game the logic behind brewing, from scratch. The build-in-public stuff my feed keeps.",
+      "stance": "The hard part of sim games isn't graphics, it's modeling systems the engine knows nothing about.",
       "bestPlatform": "bluesky",
       "format": "banner",
       "triggers": [
-        "curiosity",
-        "indie-cult",
-        "playable-now"
+        "solo dev devlog",
+        "simulation architecture",
+        "build in public"
       ]
     },
     {
-      "file": "card-09.png",
-      "keep": false,
-      "score": 2,
-      "lane": "reject",
-      "hook": "Here's what happened in crypto today",
-      "caption": "Generic daily-roundup filler with no angle, hook, or contrarian edge — pure aggregator noise.",
-      "bestPlatform": "x",
-      "format": "minimal",
-      "triggers": [
-        "generic roundup",
-        "no stance",
-        "filler"
-      ],
-      "stance": ""
-    },
-    {
-      "file": "card-10.png",
-      "keep": true,
-      "score": 8,
-      "lane": "crypto",
-      "hook": "Tokenized stocks: $34B/month, up 40x in 13 months",
-      "caption": "Tokenized stocks: $34B/month, up 40x in a year. Nvidia, Tesla, AI names now trade on-chain. TradFi is quietly moving onto DeFi rails. The signal my feed keeps before the timeline notices.",
-      "bestPlatform": "mastodon",
-      "format": "bigStat",
-      "triggers": [
-        "40x growth",
-        "named stocks",
-        "TradFi meets DeFi"
-      ],
-      "stance": "RWAs, not memecoins, are the real bridge between Wall Street and crypto."
-    },
-    {
-      "file": "card-11.png",
-      "keep": false,
-      "score": 4,
-      "lane": "crypto",
-      "hook": "Same card, same checkout, different rails underneath",
-      "caption": "On-topic but reads as a Trust Wallet Card ad, not a curated insight — thin, promotional, no proof.",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
-      "triggers": [
-        "branded card",
-        "promo",
-        "thin"
-      ],
-      "stance": ""
-    },
-    {
-      "file": "card-12.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-12.png",
       "keep": true,
       "score": 7,
-      "lane": "crypto",
-      "hook": "Knowing how to code won't save you from these scams",
-      "caption": "Knowing how to code won't save you from these scams. Technical scams now target the devs who think they're too smart to fall for them. Read this before you sign the next transaction.",
+      "lane": "gaming",
+      "hook": "Ex-Rocksteady leads reveal why Suicide Squad flopped",
+      "caption": "Ex-Rocksteady leads reveal why Suicide Squad flopped. The people who built the Arkham games break down what went wrong on Kill the Justice League. The dev drama my feed surfaces first.",
+      "stance": "Live-service mandates killed one of the best single-player studios in gaming.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "Rocksteady",
+        "Suicide Squad post-mortem",
+        "studio insider"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-13.png",
+      "keep": true,
+      "score": 7,
+      "lane": "gaming",
+      "hook": "One-man studio hit with 55k refunds for a 2-hour game",
+      "caption": "One dev, a finished game, and 55k refunds because Steam's 2-hour rule let players beat it and refund it. Players even left positive reviews while cashing out. The indie stories my feed keeps.",
+      "stance": "Steam's refund window quietly punishes short, complete indie games for being short and complete.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "55k refunds",
+        "Steam refund policy",
+        "solo indie dev"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-14.png",
+      "keep": true,
+      "score": 6,
+      "lane": "gaming",
+      "hook": "Godot 4.8 Dev1 just dropped a sneak peek",
+      "caption": "Godot 4.8 Dev1 just dropped, and it's an early look at what's landing in the next release. If you build in the open-source engine devs actually love, this is your heads-up. Found before the timeline.",
+      "stance": "Godot is quietly becoming the engine indies pick first, not the fallback.",
       "bestPlatform": "mastodon",
       "format": "banner",
       "triggers": [
-        "developers targeted",
-        "false confidence",
-        "scam evolution"
-      ],
-      "stance": "The most exploitable person in crypto is the engineer who's sure they can't be fooled."
+        "Godot 4.8",
+        "open-source engine",
+        "FOSS gamedev"
+      ]
     },
     {
-      "file": "card-13.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-15.png",
       "keep": true,
-      "score": 8,
-      "lane": "crypto",
-      "hook": "A monarch's inheritance gets more scrutiny than your DeFi yields",
-      "caption": "A French dev's take: a king's inheritance faces more scrutiny than your DeFi yields. Decentralization as the only real escape from the audit. The spicy takes my feed keeps.",
+      "score": 6,
+      "lane": "gaming",
+      "hook": "Studios earn twice as much from digital vs physical sales",
+      "caption": "Studios earn twice as much from digital sales, says the Lords of the Fallen CEO. The economics behind why physical game copies are quietly dying. The numbers my feed pulls out for you.",
+      "stance": "Physical game sales are done, and studios have known it for years.",
       "bestPlatform": "x",
-      "format": "quote",
+      "format": "bigStat",
       "triggers": [
-        "tax vs DeFi",
-        "monarch comparison",
-        "decentralization escape"
-      ],
-      "stance": "DeFi's real product isn't yield — it's exit from the surveillance state."
+        "digital vs physical",
+        "CEO revenue claim",
+        "game economics"
+      ]
     },
     {
-      "file": "card-14.png",
-      "keep": true,
-      "score": 7,
-      "lane": "crypto",
-      "hook": "DeFi hacks are becoming a hidden tax on your yield",
-      "caption": "DeFi hacks are turning high yields into a hidden liquidity tax — you're funding the exploits. BTC's at $58.5K and bearish. The uncomfortable read my feed surfaces early.",
-      "bestPlatform": "x",
-      "format": "splitProof",
-      "triggers": [
-        "hidden tax",
-        "hacks",
-        "bearish BTC"
-      ],
-      "stance": "Your 'high APY' is just pre-paid exploit insurance you never agreed to."
-    },
-    {
-      "file": "card-15.png",
-      "keep": true,
-      "score": 8,
-      "lane": "crypto",
-      "hook": "A Solana DeFi protocol torched $661K with one code bug",
-      "caption": "A Solana DeFi protocol lost $661K to a single programming blunder — not a hack, a typo-level mistake. This is why you read the audit. Found before the timeline piled on.",
-      "bestPlatform": "mastodon",
-      "format": "tabloid",
-      "triggers": [
-        "$661K loss",
-        "code bug not hack",
-        "Solana"
-      ],
-      "stance": "Most DeFi losses aren't hacks — they're self-inflicted by unaudited code."
-    },
-    {
-      "file": "card-16.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-16.png",
       "keep": false,
       "score": 3,
       "lane": "reject",
-      "hook": "Banks credit optimism to RWA tokenization",
-      "caption": "Mid-thread fragment with no standalone hook — dry, contextless, and overlaps card-10's stronger RWA angle.",
-      "bestPlatform": "mastodon",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "bluesky",
       "format": "minimal",
       "triggers": [
-        "thread fragment",
-        "no hook",
-        "dry"
-      ],
-      "stance": ""
+        "low-context self-promo",
+        "no standalone tech hook"
+      ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-17.png",
       "keep": true,
       "score": 7,
       "lane": "crypto",
-      "hook": "Crypto's next phase isn't scarcity — it's yield.",
-      "caption": "Crypto's next phase isn't scarcity — it's cashflow. Protocols like AAVE now act like yield-bearing equities, not lottery tickets. The shift my feed caught before the timeline did.",
-      "stance": "The store-of-value era is ending; DeFi is quietly becoming investment-grade.",
-      "bestPlatform": "x",
+      "hook": "A DeFi dev in since 2021 now feels bad about crypto",
+      "caption": "A DeFi dev who joined in 2021 is asking if he should feel bad about working in crypto. The identity crisis nobody tweets about. Found before the timeline buried it.",
+      "stance": "The people building crypto are more skeptical of it than the people memeing it.",
+      "bestPlatform": "bluesky",
       "format": "quote",
       "triggers": [
-        "contrarian stance",
-        "names AAVE",
-        "painpoint reframe"
+        "mild-outrage",
+        "reply-inviting",
+        "insider-confession"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-18.png",
-      "keep": true,
-      "score": 6,
-      "lane": "crypto",
-      "hook": "DeFi has huge brand awareness — and almost zero users.",
-      "caption": "DeFi has massive brand awareness and almost zero real usage. Everyone's heard of it; few actually touch it. The gap nobody wants to admit — surfaced from my curated feed.",
-      "stance": "DeFi's hype-to-usage ratio is the real bubble.",
-      "bestPlatform": "mastodon",
-      "format": "bigStat",
-      "triggers": [
-        "contrast gap",
-        "mild outrage",
-        "reframe"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-19.png",
       "keep": false,
-      "score": 3,
-      "lane": "crypto",
-      "hook": "What's the real return on 10 DeFi protocols?",
-      "caption": "A plain-text medium link with no data preview or payoff — weak visual, no hook. Skipping.",
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
       "stance": "",
       "bestPlatform": "mastodon",
       "format": "minimal",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-19.png",
+      "keep": true,
+      "score": 8,
+      "lane": "crypto",
+      "hook": "Tokenized stock volume just went up 40x in 13 months",
+      "caption": "Tokenized stock trading is up 40x in 13 months to $34B/month. Nvidia, Tesla, Micron up 17x. TradFi is quietly moving onto crypto rails. The signal my feed kept.",
+      "stance": "The real crypto adoption story isn't coins — it's stocks migrating onto the chain.",
+      "bestPlatform": "x",
+      "format": "bigStat",
       "triggers": [
-        "low information",
-        "no visual"
+        "big-number",
+        "surprise",
+        "cult-entities"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-20.png",
       "keep": false,
       "score": 3,
-      "lane": "crypto",
-      "hook": "Crowdfunding meets DeFi rewards for creators.",
-      "caption": "A truncated Show HN pitch with no payoff or proof — reads like an unfinished ask. Not strong enough to repost. Skipping.",
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
+      "bestPlatform": "bluesky",
       "format": "minimal",
-      "triggers": [
-        "truncated",
-        "no payoff"
-      ]
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-21.png",
-      "keep": false,
-      "score": 3,
+      "keep": true,
+      "score": 7,
       "lane": "crypto",
-      "hook": "Terra becomes the second-largest DeFi chain.",
-      "caption": "This is a 2022-era Terra headline before the collapse — reposting it now reads as tone-deaf or misleading. Skipping.",
-      "stance": "",
-      "bestPlatform": "x",
-      "format": "tabloid",
+      "hook": "Your dev knowledge won't save you from the new scams",
+      "caption": "Technical scams evolved past knowing how the code works. Developers assume their expertise protects them — it doesn't anymore. The security read my feed surfaced early.",
+      "stance": "The best targets for modern crypto scams are the engineers who think they're too smart to fall for one.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
       "triggers": [
-        "stale news",
-        "reputational risk"
+        "painpoint",
+        "you-framing",
+        "surprise"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-22.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "crypto",
-      "hook": "DeFi hacks are now a $780M hidden tax on your yield.",
-      "caption": "DeFi hacks cost investors $780M in Q2 alone — bridge exploits and key failures quietly eat your returns as a security tax. The risk your APY chart never shows you.",
-      "stance": "Your DeFi yield isn't yield until you subtract the exploit tax.",
+      "hook": "A blockchain dev pays less scrutiny than a French king",
+      "caption": "A French DeFi dev read the King's tax bill and realized his crypto yields get less scrutiny than a monarch's inheritance. Decentralization as the last audit loophole. Kept for the take.",
+      "stance": "Decentralization's real product isn't freedom — it's escaping the audit.",
       "bestPlatform": "x",
-      "format": "bigStat",
+      "format": "quote",
       "triggers": [
-        "hard number",
-        "painpoint agitation",
-        "surprise reframe"
+        "mild-outrage",
+        "contrarian",
+        "surprise"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-23.png",
       "keep": true,
-      "score": 6,
+      "score": 7,
       "lane": "crypto",
-      "hook": "See the real historical yield of every DeFi protocol.",
-      "caption": "Stop trusting the advertised APY — this tool plots the actual realized yield of DeFi protocols side by side. The receipts your dashboard hides. Found before the timeline.",
-      "stance": "Advertised APY is marketing; realized yield is the truth.",
-      "bestPlatform": "mastodon",
+      "hook": "DeFi hacks are becoming a hidden tax on your yield",
+      "caption": "High DeFi yields are quietly funding the hacks that drain them — a hidden liquidity tax you pay without seeing it. BTC's at $58.5K and bearish. The read my feed kept.",
+      "stance": "Your APY isn't yield — it's a hack subsidy waiting to be claimed.",
+      "bestPlatform": "x",
       "format": "splitProof",
       "triggers": [
-        "proof tool",
         "painpoint",
-        "contrast"
+        "you-framing",
+        "big-stat"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-24.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "crypto",
-      "hook": "Aave is going after a $4.6T market TradFi thought was safe.",
-      "caption": "Aave's V4 is bridging TradFi and DeFi — targeting a $4.6T tokenized-securities market and automating buybacks via Aavenomics. The move my feed flagged early.",
-      "stance": "Tokenized securities, not memecoins, are DeFi's real endgame.",
-      "bestPlatform": "x",
-      "format": "bigStat",
+      "hook": "A Solana DeFi protocol burned $661K on one code bug",
+      "caption": "A Solana-based DeFi protocol, OptiFi, accidentally torched $661K in a single programming blunder. One bad line, six figures gone. The receipt my feed caught before the timeline.",
+      "stance": "In DeFi, a typo isn't a bug ticket — it's a funeral.",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
       "triggers": [
-        "big number",
-        "names Aave",
-        "TradFi contrast"
+        "big-number",
+        "mild-outrage",
+        "cult-entities"
       ]
     },
     {
@@ -370,127 +373,127 @@
       "keep": true,
       "score": 6,
       "lane": "crypto",
-      "hook": "Another DeFi protocol just got hit. Do you know which?",
-      "caption": "Another DeFi protocol got hit by a new security exploit. If you hold anything on-chain, the gap between the breach and the headline is where you get liquidated. Surfaced before the timeline knew.",
-      "stance": "\"Audited\" means nothing — DeFi ships bugs to prod with your money as the test suite.",
+      "hook": "Banks are tokenizing real assets and putting them on-chain",
+      "caption": "Banks are tokenizing real-world assets and moving them on-chain to fuel DeFi. Wall Street quietly building on the rails they mocked. The signal my feed keeps before the timeline notices.",
+      "stance": "The 'crypto is fake' crowd will own tokenized T-bills and not even know it.",
       "bestPlatform": "mastodon",
-      "format": "tabloid",
+      "format": "banner",
       "triggers": [
-        "mild outrage",
-        "painpoint agitation",
-        "you/your"
+        "RWA tokenization",
+        "TradFi entering DeFi",
+        "contrarian institutional signal"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-26.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "crypto",
-      "hook": "Aave, Uniswap and Balancer just started banning users.",
-      "caption": "Aave, Uniswap and Balancer are blocking Tornado Cash wallets. \"Permissionless\" DeFi just picked a side. If you thought DeFi couldn't ban you, read this. The signal my feed keeps.",
-      "stance": "Frontends that block wallets prove DeFi is only as decentralized as its most scared team.",
+      "hook": "Crypto is shifting from scarcity to real yield-bearing cashflows",
+      "caption": "Crypto is shifting from 'number go up' scarcity to protocols that throw off real cashflow. AAVE is becoming an investment-grade primitive. The thesis my feed surfaced before the timeline.",
+      "stance": "Scarcity was the pitch. Yield is the product. AAVE already made the jump.",
       "bestPlatform": "x",
-      "format": "tabloid",
+      "format": "splitProof",
       "triggers": [
-        "hard stance",
-        "named cult entities",
-        "contrast"
+        "AAVE named",
+        "yield over scarcity thesis",
+        "DeFi maturing to investment-grade"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-27.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "crypto",
-      "hook": "A tokenized Google stock got inflated 7,700% — and drained $403K.",
-      "caption": "An exploit pumped a tokenized Google stock to 78x its worth, leaving $403K in bad debt — and Chainlink oracles missed it. Tokenized stocks are only as safe as the price feed. Found before the timeline.",
-      "stance": "Tokenized equities inherit every oracle bug crypto never fixed.",
+      "hook": "DeFi has huge brand awareness and almost zero actual usage",
+      "caption": "DeFi's problem in one line: everyone's heard of it, almost nobody uses it. 694 people surveyed, the gap is brutal. The uncomfortable data my feed keeps over the hype.",
+      "stance": "DeFi's real bottleneck isn't tech. It's that awareness never converted to usage.",
       "bestPlatform": "mastodon",
       "format": "bigStat",
       "triggers": [
-        "surprise",
-        "named cult entities",
-        "bigStat"
+        "awareness vs usage gap",
+        "contrarian on hype",
+        "survey data"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-28.png",
-      "keep": true,
-      "score": 8,
+      "keep": false,
+      "score": 3,
       "lane": "crypto",
-      "hook": "Euler just lost nearly $200M in four transactions.",
-      "caption": "The Euler DeFi protocol got drained for ~$185M across four transactions in DAI and wrapped BTC. One flash-loan flaw, nine figures gone. This is the risk nobody prices in. Surfaced before the panic.",
-      "stance": "Every DeFi \"blue chip\" is one clever transaction away from zero.",
-      "bestPlatform": "x",
-      "format": "bigStat",
+      "hook": "What's the real return on investing in 10 DeFi protocols?",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "minimal",
       "triggers": [
-        "awe",
-        "bigStat",
-        "painpoint agitation"
+        "bare link post",
+        "no substance in card",
+        "weak hook"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-29.png",
-      "keep": true,
-      "score": 7,
+      "keep": false,
+      "score": 3,
       "lane": "crypto",
-      "hook": "Attackers minted 40 quintillion tokens out of thin air.",
-      "caption": "The Cover protocol got exploited — attackers minted at least 40 quintillion tokens and nuked the price to zero. Infinite mint bugs are the DeFi nightmare nobody stress-tests for. The stuff my feed keeps.",
-      "stance": "An infinite-mint bug turns your token into confetti in one block.",
-      "bestPlatform": "mastodon",
-      "format": "bigStat",
+      "hook": "Someone's building crowdfunding with DeFi creator rewards",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "bluesky",
+      "format": "minimal",
       "triggers": [
-        "surprise",
-        "bigStat",
-        "mild outrage"
+        "generic Show HN pitch",
+        "no proof or payoff",
+        "truncated"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-30.png",
-      "keep": true,
-      "score": 6,
+      "keep": false,
+      "score": 3,
       "lane": "crypto",
-      "hook": "The EU just voted to regulate your DeFi, staking and NFTs.",
-      "caption": "The European Parliament advanced a resolution to assess DeFi, staking and NFTs — full plenary vote is scheduled. If you're on-chain in the EU, this shapes what's still legal. Found before the timeline.",
-      "stance": "Regulators don't need to ban DeFi — they just regulate the fiat on-ramps you depend on.",
-      "bestPlatform": "mastodon",
+      "hook": "Terra became the second-largest DeFi chain — then imploded",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "x",
       "format": "tabloid",
       "triggers": [
-        "painpoint agitation",
-        "you/your",
-        "news"
+        "Terra collapse hindsight",
+        "toxic association",
+        "dated news poorly aged"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-31.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "crypto",
-      "hook": "MetaMask now pays you up to 4% APY on stablecoins.",
-      "caption": "MetaMask (30M+ users) launched a self-custody Money Account: yield, payments and trading in one wallet, up to 4% on stablecoins. The wallet just became a bank you actually hold the keys to. The signal my feed keeps.",
-      "stance": "Self-custody yield beats any exchange that can freeze you at 4%.",
+      "hook": "DeFi hacks cost users $780M this quarter — a hidden yield tax",
+      "caption": "DeFi hacks bled $780M in Q2 2026. Bridges and key failures are now a silent tax on every yield you earn. The risk math my feed catches before the timeline cheers the APY.",
+      "stance": "That juicy APY is quietly funding a $780M/quarter exploit tax. Price it in.",
       "bestPlatform": "x",
-      "format": "splitProof",
+      "format": "bigStat",
       "triggers": [
-        "named cult entities",
-        "contrast",
-        "you/your"
+        "$780M hack figure",
+        "hidden-cost reframe",
+        "mild outrage / risk"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/crypto/card-32.png",
-      "keep": true,
-      "score": 6,
+      "keep": false,
+      "score": 4,
       "lane": "crypto",
-      "hook": "The paradox of DeFi: the more \"decentralized,\" the more fragile.",
-      "caption": "A new SSRN paper maps the paradox of DeFi — the features that make it trustless are the same ones that make it exploitable. If you build or invest on-chain, read the risk model. The stuff my feed keeps.",
-      "stance": "DeFi's decentralization isn't a safety feature — it's an attack surface nobody can patch fast enough.",
+      "hook": "A tool that plots real historical yield across DeFi protocols",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "mastodon",
-      "format": "quote",
+      "format": "minimal",
       "triggers": [
-        "contrast",
-        "hard stance",
-        "research"
+        "Show HN tool promo",
+        "utility not a hook",
+        "no standalone payoff"
       ]
     }
   ]

@@ -3,260 +3,252 @@
   "slug": "random-philosophy",
   "cards": [
     {
-      "file": "card-01.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-01.png",
       "keep": true,
-      "score": 6,
+      "score": 8,
       "lane": "philosophy",
-      "hook": "The \"Godfather of NDEs\" built a rational case for the afterlife",
-      "caption": "The \"Godfather of NDEs\" built a rational worldview from near-death experiences, science, and philosophy. Fringe, or frontier? Weird-but-rigorous is exactly the stuff my feed keeps.",
-      "stance": "The line between fringe metaphysics and real science is thinner than academics admit.",
-      "bestPlatform": "mastodon",
+      "hook": "\"Women aren't even shallow\" — Nietzsche's cruelest line",
+      "caption": "\"Women are considered profound. Why? Because we never fathom their depths. But women aren't even shallow.\" Nietzsche at his most savage. The line my feed pulled before the doomscroll buried it.",
+      "stance": "Half of Nietzsche's edgelord bangers are just him losing an argument with himself.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "triggers": [
+        "cult-loved thinker",
+        "mild outrage",
+        "surprise"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-02.png",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "He defended a master's thesis on whether Calvin & Hobbes is philosophy",
+      "caption": "Someone defended a Tilburg master's thesis arguing a comic book can BE philosophy — and won. Asking the question is answering it. The kind of gem my feed keeps and the timeline never surfaces.",
+      "stance": "Calvin & Hobbes did more real epistemology than most intro-to-philosophy syllabi.",
+      "bestPlatform": "bluesky",
       "format": "banner",
       "triggers": [
-        "awe",
-        "contrarian",
-        "named-entity"
-      ]
-    },
-    {
-      "file": "card-02.png",
-      "keep": false,
-      "score": 3,
-      "lane": "reject",
-      "hook": "",
-      "caption": "",
-      "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
-      "triggers": []
-    },
-    {
-      "file": "card-03.png",
-      "keep": false,
-      "score": 3,
-      "lane": "reject",
-      "hook": "",
-      "caption": "",
-      "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
-      "triggers": []
-    },
-    {
-      "file": "card-04.png",
-      "keep": true,
-      "score": 6,
-      "lane": "philosophy",
-      "hook": "Locke: kids learn more from a child's questions than a scholar's lectures",
-      "caption": "Locke argued a curious child's questions teach more than educated men's borrowed opinions. Writing like this now gets called anti-intellectual. Old ideas, freshly dangerous. Found before the timeline.",
-      "stance": "We started mistaking credentials for thinking, and Locke saw it coming.",
-      "bestPlatform": "mastodon",
-      "format": "quote",
-      "triggers": [
-        "contrarian",
-        "named-entity",
-        "mild-outrage"
-      ]
-    },
-    {
-      "file": "card-05.png",
-      "keep": true,
-      "score": 7,
-      "lane": "philosophy",
-      "hook": "\"What will you do with a philosophy degree?\" Here's the savage answer",
-      "caption": "Someone's reply to \"what'll you do with a philosophy degree\": provide a veneer of intellectual respectability to a nasty hate movement. Brutal, funny, true. The stuff my feed keeps.",
-      "stance": "Philosophy's real job market is laundering bad ideas into respectable ones.",
-      "bestPlatform": "bluesky",
-      "format": "quote",
-      "triggers": [
-        "mild-outrage",
         "surprise",
-        "contrarian"
+        "named entity",
+        "reply-inviting"
       ]
     },
     {
-      "file": "card-06.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-03.png",
+      "keep": true,
+      "score": 6,
+      "lane": "philosophy",
+      "hook": "Marcus Aurelius on why you keep misreading people",
+      "caption": "\"Direct thy attention to what is said. Let thy understanding enter into the things that are doing.\" Marcus Aurelius on actually paying attention. Stoicism the feed kept before it scrolled past.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "triggers": [
+        "cult-loved thinker"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-04.png",
       "keep": false,
-      "score": 4,
+      "score": 3,
       "lane": "reject",
       "hook": "",
       "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "quote",
-      "triggers": []
-    },
-    {
-      "file": "card-07.png",
-      "keep": true,
-      "score": 6,
-      "lane": "philosophy",
-      "hook": "Reason or revelation, pick one. Just don't ask me to merge them.",
-      "caption": "Reason or revelation, pick either. Just don't expect anyone to reconcile them for you. The cleanest take on faith vs logic I've seen all week. Found before the timeline.",
-      "stance": "The demand to reconcile faith and reason is the trap, not the goal.",
-      "bestPlatform": "mastodon",
+      "bestPlatform": "bluesky",
       "format": "quote",
       "triggers": [
-        "contrarian",
-        "reply-invite"
+        "inside-baseball academic drama, low clarity, no standalone value"
       ]
     },
     {
-      "file": "card-08.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-05.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "philosophy",
-      "hook": "Analytic philosophy is the one field with no norm against name-calling",
-      "caption": "Fodor's dig: analytic philosophy is famously the one field with no norm against calling each other names. Insider shade that actually lands. The stuff my feed keeps.",
-      "stance": "The most rigorous field in the humanities is also the rudest, and it's proud of it.",
+      "hook": "\"What are you gonna do with that?\" Ask a philosophy major",
+      "caption": "The comeback for smug \"what will you do with a philosophy degree?\" people: \"dress up marketing for AI firms as profound philosophy ahead of their IPOs.\" Brutal. The take my feed saved from the scroll.",
+      "stance": "Every AI lab's mission statement is a philosophy BA's revenge on the people who mocked them.",
       "bestPlatform": "x",
       "format": "quote",
       "triggers": [
+        "hard stance",
+        "AI entity",
+        "mild outrage"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-06.png",
+      "keep": true,
+      "score": 6,
+      "lane": "philosophy",
+      "hook": "Studying philosophy turned out to be absurdly useful",
+      "caption": "\"Studying philosophy turned out to be consistently, ridiculously useful for me.\" Not the pitch you were sold about the useless degree. The quiet contrarian take my feed kept for you.",
+      "stance": "Philosophy is the most practical degree nobody will admit is practical.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "triggers": [
+        "contrast",
+        "relatable painpoint"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-07.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "triggers": [
+        "no context, references a speech not shown, zero standalone clarity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-08.png",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "Hannah Arendt: you don't actually want truth, you want to stop not-knowing",
+      "caption": "\"To expect truth to come from thinking signifies that we mistake the need to think with the urge to know.\" Arendt on why your brain conflates the two. The line my feed kept before it vanished.",
+      "stance": "Most of what people call 'seeking truth' is just discomfort with open questions.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "triggers": [
+        "cult-loved thinker",
         "surprise",
-        "named-entity",
-        "contrarian"
+        "reframe"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-09.png",
       "keep": true,
-      "score": 6,
+      "score": 7,
       "lane": "philosophy",
-      "hook": "Want to understand AI minds? Start with animal minds.",
-      "caption": "Want to understand AI minds? Start with animal minds. A philosophy-of-mind syllabus that runs from behaviourism to consciousness. The heady stuff my feed keeps.",
-      "stance": "You can't reason about machine consciousness without first reasoning about the animal kind.",
-      "bestPlatform": "mastodon",
-      "format": "banner",
+      "hook": "Philosophy runs on far-fetched scenarios — with a straight face.",
+      "caption": "Philosophy runs on far-fetched thought experiments, told with a straight face. The absurd hypotheticals are the method, not a bug. The stuff my feed keeps before the timeline buries it.",
+      "stance": "The weirdest thought experiments do the most real philosophical work.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
       "triggers": [
-        "ai",
-        "consciousness",
-        "philosophy of mind"
+        "contrast",
+        "cult-topic"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-10.png",
-      "keep": true,
-      "score": 6,
-      "lane": "philosophy",
-      "hook": "2,000 years of Chinese political thought in one chart.",
-      "caption": "2,000 years of Chinese political thought in one hand-drawn chart. Daoism, Legalism, and every confusion you had, cleared up. Found before the timeline buried it.",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "A veganism debate got heated on YouTube.",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "banner",
-      "triggers": [
-        "history",
-        "chinese philosophy",
-        "chart"
-      ]
+      "bestPlatform": "bluesky",
+      "format": "minimal",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-11.png",
       "keep": true,
-      "score": 7,
+      "score": 9,
       "lane": "philosophy",
-      "hook": "The entire history of philosophy of mind, in one paragraph.",
-      "caption": "The entire history of philosophy of mind, in one paragraph: dualism, behaviourism, functionalism, then consciousness breaks everything. The end. The stuff my feed keeps.",
-      "stance": "Every theory of mind eventually crashes into the hard problem and stops.",
+      "hook": "Hire the problem solver — you can't teach that later.",
+      "caption": "This game dev hires for one thing: thoughtful problem solvers. Technical skills you can teach anyone. Analytical thinking you can't. 162 likes agree. The takes my feed keeps before the timeline buries them.",
+      "stance": "Skills are trainable; judgment isn't — hire for the thing you can't install.",
       "bestPlatform": "bluesky",
       "format": "quote",
       "triggers": [
-        "philosophy of mind",
-        "consciousness",
-        "functionalism"
+        "you-framing",
+        "contrast",
+        "strong-signal"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-12.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "philosophy",
-      "hook": "AI companies are quietly buying the philosophy of AI.",
-      "caption": "AI companies are quietly buying the philosophy of AI, and the field has zero rules on disclosing it. A petition wants that fixed. Found before the timeline.",
-      "stance": "Philosophy is the one discipline with no conflict-of-interest standards, right as AI money floods in.",
-      "bestPlatform": "x",
-      "format": "splitProof",
+      "hook": "There's a phenomenology of lying — banal vs non-banal.",
+      "caption": "A free philosophy journal breaks down 'narrative breakdown' — a full phenomenology of banal and non-banal lying. The niche gems my feed surfaces before the timeline ever shows them.",
+      "stance": "Not all lies are equal — some are structurally worse than others.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
       "triggers": [
-        "ai",
-        "conflict of interest",
-        "philosophy funding"
+        "curiosity",
+        "niche"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-13.png",
       "keep": false,
-      "score": 4,
-      "lane": "philosophy",
-      "hook": "AI money is capturing the philosophers who judge AI.",
-      "caption": "AI money is capturing the philosophers who judge it. Same open letter, worth signing. The stuff my feed keeps.",
+      "score": 3,
+      "lane": "reject",
+      "hook": "The philosophy behind 'all men are created equal.'",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "x",
-      "format": "tabloid",
-      "triggers": [
-        "ai",
-        "philosophy funding"
-      ]
+      "bestPlatform": "bluesky",
+      "format": "minimal",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-14.png",
       "keep": false,
-      "score": 3,
+      "score": 2,
       "lane": "reject",
-      "hook": "",
+      "hook": "Socialist philosophy, yes please.",
       "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
+      "bestPlatform": "bluesky",
       "format": "minimal",
-      "triggers": [
-        "stoicism",
-        "cosmopolitanism"
-      ]
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-15.png",
       "keep": true,
-      "score": 5,
+      "score": 7,
       "lane": "philosophy",
-      "hook": "Is language innate or learned? Stanford just settled the state of the debate.",
-      "caption": "Is language innate or learned? A fresh Stanford Encyclopedia entry maps the whole debate, and it hits different in the LLM era. Found before the timeline.",
-      "stance": "The innateness question stopped being abstract the second LLMs learned grammar from raw text.",
+      "hook": "\"We are strong so our burdens stay light.\" — Stoicism.",
+      "caption": "Seneca: strength exists so your burdens feel light. The whole Stoic move in one line — you build capacity for the weight you'll carry. The quiet gems my feed keeps before the timeline scrolls past.",
+      "stance": "Stoicism isn't about avoiding hardship — it's about outgrowing it.",
       "bestPlatform": "mastodon",
-      "format": "banner",
+      "format": "quote",
       "triggers": [
-        "language",
-        "innateness",
-        "linguistics"
+        "cult-thinker",
+        "you-framing"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-16.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "philosophy",
-      "hook": "\"Thinking is for poor people.\" This is where AI is taking us.",
-      "caption": "\"I don't know if anyone needs to think anymore. It's AI now, thinking is for poor people.\" Cognitive surrender, sold as convenience. The stuff my feed keeps.",
-      "stance": "Outsourcing your thinking to AI isn't efficiency, it's cognitive surrender dressed up as convenience.",
-      "bestPlatform": "x",
-      "format": "quote",
+      "hook": "The city you walk shapes how you think.",
+      "caption": "Psychogeography: the psychological impact of urban space on your mind. Merlin Coverley's book, reviewed. Where philosophy meets the streets you actually live in. The stuff my feed keeps before the timeline buries it.",
+      "stance": "Your environment edits your thoughts more than you notice.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
       "triggers": [
-        "ai",
-        "cognitive surrender",
-        "hot take"
+        "you-framing",
+        "curiosity"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-17.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "philosophy",
-      "hook": "You're a symphony of a trillion chemical reactions.",
-      "caption": "You're a symphony of a trillion chemical reactions, writing your life in symbols older than the Bronze Age. Consciousness never stops being strange. The kind of line my feed keeps.",
-      "stance": "\"Just chemistry\" isn't a downgrade of the mind — it's the most staggering thing about it.",
-      "bestPlatform": "mastodon",
+      "hook": "Want to write well? Epictetus gave the whole method.",
+      "caption": "Want to write well? Epictetus: \"If you would be a good reader, read; if a writer, write.\" No hack. Just the loop. Stoic gold my feed keeps.",
+      "stance": "Every writing course is a footnote to one Stoic line.",
+      "bestPlatform": "bluesky",
       "format": "quote",
       "triggers": [
-        "awe",
-        "identity",
-        "poetic framing"
+        "names Epictetus",
+        "actionable stoicism",
+        "identity: writers"
       ]
     },
     {
@@ -264,27 +256,29 @@
       "keep": false,
       "score": 3,
       "lane": "reject",
-      "hook": "",
+      "hook": "Philosophy is important. But it's okay.",
       "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
+      "bestPlatform": "bluesky",
       "format": "minimal",
-      "triggers": []
+      "triggers": [
+        "low context",
+        "no real claim"
+      ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-19.png",
-      "keep": true,
-      "score": 6,
-      "lane": "philosophy",
-      "hook": "\"I think I think too much.\"",
-      "caption": "\"I think I think too much.\" Six words that name the overthinker's trap: the mind auditing itself into paralysis. Small line, deep cut. The stuff my feed keeps.",
-      "stance": "Overthinking isn't deep thinking — it's thinking that never ships.",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "god bless cow vtubers for explaining philosophy",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "quote",
+      "format": "minimal",
       "triggers": [
-        "relatable",
-        "self-reference",
-        "overthinking"
+        "in-joke",
+        "no standalone value"
       ]
     },
     {
@@ -292,15 +286,15 @@
       "keep": true,
       "score": 7,
       "lane": "philosophy",
-      "hook": "Monty Python turned philosophy into a football match.",
-      "caption": "Monty Python put Socrates, Kant and Nietzsche on a football pitch — and it teaches more epistemology than most 101 lectures. Comedy as the best gateway drug to philosophy. Found before the timeline buried it.",
-      "stance": "The funniest take on philosophy is also one of the most accurate.",
+      "hook": "You quote the isms — but have you ever practiced them?",
+      "caption": "You quote the isms. But have you practiced them in the purest form? \"Reading is fundamental. When did we stop pushing that idea?\" The take my feed kept.",
+      "stance": "Naming a philosophy isn't the same as living it.",
       "bestPlatform": "bluesky",
-      "format": "banner",
+      "format": "quote",
       "triggers": [
-        "cult classic",
-        "humor",
-        "nostalgia"
+        "hard contrarian stance",
+        "calls out the reader",
+        "reply-inviting question"
       ]
     },
     {
@@ -308,191 +302,184 @@
       "keep": true,
       "score": 7,
       "lane": "philosophy",
-      "hook": "\"Reason is immortal, all else mortal.\" — Pythagoras",
-      "caption": "\"Reason is immortal, all else mortal.\" Pythagoras bet logic outlives the body — the same wager behind every mind-independent math argument today. 2,500 years, still unsettled. The stuff my feed keeps.",
-      "stance": "Do logical truths exist without minds? Pythagoras already picked a side.",
-      "bestPlatform": "mastodon",
+      "hook": "Marcus Aurelius: stop imagining, stop pulling your own strings.",
+      "caption": "Marcus Aurelius: \"Wipe out the imagination. Stop pulling the strings. Confine thyself to the present.\" 2,000 years old, still the cure for spiraling. Stoic gold my feed keeps.",
+      "stance": "Half your anxiety is imagination pretending to be planning.",
+      "bestPlatform": "x",
       "format": "quote",
       "triggers": [
-        "ancient wisdom",
-        "big question",
-        "logic"
+        "names Marcus Aurelius",
+        "present-moment stoicism",
+        "emotion: calm/awe"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-22.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "philosophy",
-      "hook": "Reading Kant with no internet = an ogre reading Ulysses.",
-      "caption": "Someone nailed pre-internet Kant: an ogre grinding through Ulysses, catching the surface, missing \"remorse of conscience\" entirely. We forget how hard dense texts were before explainers existed. Found before the timeline.",
-      "stance": "The internet didn't make us dumber — it made the hardest books finally readable.",
-      "bestPlatform": "bluesky",
-      "format": "banner",
+      "hook": "The Declaration of Independence is applied philosophy.",
+      "caption": "The Founders were steeped in one question: defining Natural Law. That's why the DOI matters — inalienable rights and consent of the governed are Enlightenment principles. Found before the timeline.",
+      "stance": "The DOI is a philosophy paper that happened to found a country.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
       "triggers": [
-        "relatable",
-        "meme",
-        "mild outrage at Kant"
+        "political philosophy",
+        "Enlightenment",
+        "named concept: Natural Law"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-23.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "philosophy",
-      "hook": "Is agnosticism a moral duty — or an intellectual cop-out?",
-      "caption": "Is agnosticism a rigorous moral duty or a cop-out? A philosopher and scientist go 21 minutes on it — Huxley's survival tactic, Russell's teapot, the ethics of permanent doubt. The kind of debate my feed keeps.",
-      "stance": "\"I don't know\" is either the most honest position or the laziest one — pick.",
+      "hook": "Plato: obsessing over health blocks the practice of virtue.",
+      "caption": "Plato: \"Attention to health is a great obstacle to the practice of virtue.\" A shot at wellness culture 2,400 years early. The take my feed kept.",
+      "stance": "Optimizing your body can become a way to avoid improving your character.",
       "bestPlatform": "x",
-      "format": "splitProof",
+      "format": "quote",
       "triggers": [
-        "debate bait",
-        "belief",
-        "reply-inviting question"
+        "names Plato",
+        "contrarian vs wellness culture",
+        "surprise"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-24.png",
-      "keep": true,
-      "score": 7,
-      "lane": "philosophy",
-      "hook": "Voltaire wrote \"illusion\" — but did he mean \"delusion\"?",
-      "caption": "One reader argues Voltaire's \"the first of all pleasures\" makes more sense as delusion, not illusion — and that word choice flips the whole meaning. Translation is philosophy in miniature. The stuff my feed keeps.",
-      "stance": "One mistranslated word can quietly rewrite a thinker's entire point.",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "Raymond Moody on NDEs, science and philosophy",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "mastodon",
-      "format": "quote",
+      "format": "banner",
       "triggers": [
-        "Voltaire",
-        "language nuance",
-        "interpretation"
+        "near-death/paranormal",
+        "off-niche for tech audience",
+        "truncated"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-25.png",
-      "keep": true,
-      "score": 6,
-      "lane": "philosophy",
-      "hook": "De Beauvoir built an ethics with no rulebook",
-      "caption": "De Beauvoir built an ethics with no rulebook — freedom without a safety net. If existentialism ever felt cold, this is the human read. The stuff my feed keeps.",
-      "stance": "Existentialism isn't nihilism — it's the most demanding ethics there is.",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "quote",
-      "triggers": [
-        "de Beauvoir",
-        "existentialism",
-        "ethics"
-      ]
+      "format": "minimal",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-26.png",
-      "keep": true,
-      "score": 7,
-      "lane": "philosophy",
-      "hook": "Philosophy isn't science in a lab coat",
-      "caption": "Philosophy isn't just \"soft science\" — Mary Midgley says treating it that way guts what it's for. If you think STEM ate everything, read her. Found before the timeline.",
-      "stance": "Reducing philosophy to a science department is how a university loses its mind.",
-      "bestPlatform": "bluesky",
-      "format": "banner",
-      "triggers": [
-        "Midgley",
-        "philosophy",
-        "science"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-27.png",
       "keep": false,
       "score": 3,
       "lane": "reject",
       "hook": "",
       "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
+      "bestPlatform": "bluesky",
       "format": "minimal",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-27.png",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "Writing like John Locke now reads as anti-intellectual",
+      "caption": "Writing like John Locke now reads as \"anti-intellectual.\" Careful thinking got recast as elitism, and that should bother you. A Locke passage my feed surfaced before the timeline buried it.",
+      "stance": "We started calling depth pretentious and mistook that for progress.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
       "triggers": [
-        "hashtag list",
-        "no argument",
-        "identity label"
+        "John Locke",
+        "anti-intellectualism",
+        "mild outrage"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-28.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "philosophy",
-      "hook": "If AI writes our papers, philosophy gets better",
-      "caption": "Hot take: if AI takes over citation-stuffed research, philosophy goes back to actually thinking hard — like the 1950s. Fewer footnotes, more ideas. The stuff my feed keeps.",
-      "stance": "AI killing literature-review busywork could save real philosophy.",
-      "bestPlatform": "x",
+      "hook": "\"The music that can deepest reach is cordial speech.\"",
+      "caption": "\"The music that can deepest reach, and cure all ill, is cordial speech.\" Emerson, on why kind words outlast every argument you'll win online. One line my feed kept out of the noise.",
+      "stance": "",
+      "bestPlatform": "bluesky",
       "format": "quote",
       "triggers": [
-        "AI",
-        "philosophy papers",
-        "1950s"
+        "Emerson",
+        "one-liner"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-29.png",
       "keep": true,
-      "score": 9,
+      "score": 7,
       "lane": "philosophy",
-      "hook": "Why care about a fictional character's fate?",
-      "caption": "\"If Anna Karenina is fictional, why care what happens to her?\" The honest answer: because you're not a heartless asshole. Best philosophy exam answer ever. Found before the timeline.",
-      "stance": "Caring about fiction isn't irrational — it's the whole point of being human.",
-      "bestPlatform": "bluesky",
+      "hook": "Reason or revelation, pick one — just don't fake reconciling them",
+      "caption": "Reason or revelation: pick your ground and stand on it. What you can't do is fake reconciling both and call it rigor. A sharp take on faith vs reason my feed surfaced first.",
+      "stance": "Most \"faith and reason in harmony\" arguments are just refusing to pick.",
+      "bestPlatform": "mastodon",
       "format": "quote",
       "triggers": [
-        "Anna Karenina",
-        "fiction",
-        "emotion"
+        "theology vs reason",
+        "contrarian stance",
+        "faith"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-30.png",
-      "keep": false,
-      "score": 4,
+      "keep": true,
+      "score": 8,
       "lane": "philosophy",
-      "hook": "The women thinkers your philosophy class skipped",
-      "caption": "Open-access syllabus on women philosophers of the ancient and medieval world — the canon your class quietly skipped. Real gap, real fix. The stuff my feed keeps.",
-      "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "minimal",
+      "hook": "Analytic philosophy: the one field with no norm against name-calling",
+      "caption": "Analytic philosophy is famously the one field with no norm against just calling colleagues wrong by name. Fodor on why that's a feature, not a bug. The kind of hot take my feed keeps.",
+      "stance": "A discipline that tolerates being told you're plainly wrong stays honest longer.",
+      "bestPlatform": "x",
+      "format": "quote",
       "triggers": [
-        "syllabus",
-        "women philosophers",
-        "open access"
+        "Jerry Fodor",
+        "analytic philosophy",
+        "contrarian"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-31.png",
-      "keep": false,
-      "score": 3,
-      "lane": "reject",
-      "hook": "",
-      "caption": "",
-      "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "The philosophy syllabus that starts with animal and AI minds",
+      "caption": "A philosophy of mind course that opens with animal minds, artificial minds, and how the brain actually computes. This is where consciousness meets AI. The kind of thread my feed surfaces first.",
+      "stance": "Philosophy of mind and AI research are the same question wearing two badges.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
       "triggers": [
-        "bare link",
-        "no argument",
-        "hashtag list"
+        "artificial minds",
+        "consciousness",
+        "philosophy of mind",
+        "AI"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/random-philosophy/card-32.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "philosophy",
-      "hook": "\"Mathematics is an opinion — and the wrong one\"",
-      "caption": "A philosopher argues math is an opinion, and the wrong one. Infuriating? Good — now try to prove him wrong. This is the fight platonists have dodged for centuries. Found before the timeline.",
-      "stance": "Math might be invented, not discovered — and that should scare you a little.",
-      "bestPlatform": "x",
-      "format": "quote",
+      "hook": "All of ancient Chinese political thought in one messy chart",
+      "caption": "Daoism, Legalism, and the rest of ancient Chinese political thought mapped in one gloriously messy hand-drawn chart. Confusion cleared. A gem my feed pulled out of 5,000 posts.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "banner",
       "triggers": [
-        "mathematics",
-        "opinion",
-        "contrarian"
+        "Daoism",
+        "Legalism",
+        "Chinese philosophy",
+        "visual"
       ]
     }
   ]

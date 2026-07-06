@@ -8,7 +8,8 @@
       "handle": "@whyamibad2",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://news.ycombinator.com/item?id=31796256"
     },
     {
       "file": "card-02.png",
@@ -16,7 +17,8 @@
       "handle": "@cryptointel.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": true,
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
     },
     {
       "file": "card-03.png",
@@ -24,239 +26,269 @@
       "handle": "@blockchainreport.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mpntcbh5bq2z"
     },
     {
       "file": "card-04.png",
-      "txt": "@echoforge117 mastodon Weekly # gamedev update from Echo Forge! Not every week is about adding new features. With family visiting, I focused on cleaning up and organizing the code behind Chrono Crank: Echoes of Pandeon. Better architecture now means faster, cleaner development later. I also spent time preparing our upcoming feature in Uncranked. Back to building Chapter 1 next week! # Playdate # i",
-      "handle": "@echoforge117",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-05.png",
-      "txt": "@werqotaur@holos.social mastodon heyyy so i'm trying to come up with game ideas to build up confidence as a mechanics designer and practice c/raylib development. could you help me select one of the ideas i've thought up this morning by reading this thread and voting on the poll at the end? thanks ily <3 #AskFedi #AskMastodon #indiedev #gamedev [1/6] See more ♥ 1 💬 1",
-      "handle": "@werqotaur",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-06.png",
-      "txt": "@DreamStationcc mastodon Resetting Xbox https:// news.xbox.com/en-us/2026/07/06 /resetting-xbox/ # xbox # gamedev # indiedev # videogames # gaming # gamingnews ♥ 1",
-      "handle": "@DreamStationcc",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-07.png",
-      "txt": "@playtesterhq mastodon Try the Scarlet Lake demo, a retro survival horror adventure where detective Ben Murphy investigates a small town’s odd events and faces a shifting nightmare of creatures. Play the demo: https:// playtester.io/scarlet-lake # IndieGaming # GameDev # Gaming # IndieDev # IndieGame",
-      "handle": "@playtesterhq",
-      "source": "mastodon",
-      "hasVideo": true,
-      "hasImg": false
-    },
-    {
-      "file": "card-08.png",
-      "txt": "@whyamibad2 hackernews Ask HN: Feel bad about working in crypto, what to do? I work for a DeFi protocol that has a token. I joined in 2021.<p>I would describe myself as having neutral stance towards the crypto industry, DeFi&#x2F;Ethereum more specifically. I am not a fan of most other alternative chains or Bitcoin. I understand that the majority of tokens and services are scams and markets caps a",
-      "handle": "@whyamibad2",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-09.png",
-      "txt": "@cryptointel.bsky.social bluesky #Crypto markets continue to evolve with daily shifts in #Bitcoin price action, blockchain developments, DeFi activity, and regulatory updates shaping the broader digital asset landscape. 🗞️ cointelegraph.com Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, b",
-      "handle": "@cryptointel.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-10.png",
-      "txt": "@blockchainreport.bsky.social bluesky Tokenized stock trading volume explodes! 🤯 CoinGecko reports $34B/month average, up 40x in 13 months. Nvidia, Tesla, & AI stocks like Micron (up 17x!) lead the charge. TradFi meets DeFi as RWAs surge on crypto exchanges! #Crypto #TokenizedStocks #RWA ♥ 1",
-      "handle": "@blockchainreport.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-11.png",
       "txt": "@foxcrypto.bsky.social bluesky The future of payments probably looks familiar. same card. same checkout. different rails underneath. Trust Wallet Card. built for what's next 🚀 #Crypto #Web3 #DeFi #CryptoCard #DigitalPayments #Blockchain ♥ 3 💬 4",
       "handle": "@foxcrypto.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:gmwdowgvoqx656happoh4rsc/post/3mp7it7gpec2j"
     },
     {
-      "file": "card-12.png",
+      "file": "card-05.png",
       "txt": "@idrj hackernews The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough The Evolution of Technical Scams: Why Developer Knowledge Isn&#x27;t Enough As developers, we assume our technical knowledge protects us from scams. We can read smart contract code, verify certificates, spot phishing. But modern scammers exploit the very complexity built into systems we create and use daily. Th",
       "handle": "@idrj",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://news.ycombinator.com/item?id=45160056"
     },
     {
-      "file": "card-13.png",
+      "file": "card-06.png",
       "txt": "@novathemachine.bsky.social bluesky Just read the King's tax bill. As a French blockchain dev in Silicon Valley, I find it amusing I pay less scrutiny on my DeFi yields than a monarch does on his inheritance. Decentralization might be the only escape from such audits. ♥ 3",
       "handle": "@novathemachine.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:dlafnk6xz6bbn2yfsv6ulk7l/post/3mpcksvb26z2b"
     },
     {
-      "file": "card-14.png",
+      "file": "card-07.png",
       "txt": "@btchub.bsky.social bluesky ⚡ BTCHub Update 💰 BTC: $58,517 (-2.91% 📉 Bearish) 📰 News: DeFi hacks are turning high yields into a hidden liquidity tax (CryptoSlate) #Bitcoin #BTC #Crypto #BTCHub ♥ 4 💬 1",
       "handle": "@btchub.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:x4l3vdgaeeecwimqvw4b4ymd/post/3mpk4myfrmt2d"
     },
     {
-      "file": "card-15.png",
+      "file": "card-08.png",
       "txt": "@campuscodi hackernews Solana-Based DeFi Protocol OptiFi Loses $661K in Programming Blunder (www.coindesk.com) Solana-Based DeFi Protocol OptiFi Loses $661K in Programming Blunder OptiFi, a Solana-powered DeFi protocol that focuses on derivatives, accidentally closed its mainnet platform in a programming blunder, locking away $661,000 in USDC. coindesk.com ♥ 1",
       "handle": "@campuscodi",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": true,
+      "url": "https://www.coindesk.com/business/2022/08/30/solana-based-defi-protocol-optifi-loses-661k-in-programming-blunder"
     },
     {
-      "file": "card-16.png",
+      "file": "card-09.png",
       "txt": "@rwatimes.bsky.social bluesky ➤ The bank attributes this optimism to the growing trend of tokenizing traditional financial assets (RWAs) and their migration onto blockchain networks, which is expected to fuel DeFi growth. ♥ 1",
       "handle": "@rwatimes.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:553eofo6hvuxcsxo7qfidxjs/post/3mpncilmaks2j"
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@NobleHeather mastodon My partner: Is there anything you want for your birthday? Me: Food icons. Them: …what? # GameDev # SoloDev # IndieDev # GameDesign",
+      "handle": "@NobleHeather",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://bsky.app/profile/did:plc:ahlmdgtn5y7vzqjvvihynlxx/post/3mpdmjwuf5x2i"
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@poga@g0v.social mastodon 繼續寫 devlog https:// scarlet.engineering/blog/makin g-simulation-game-part-2-architecture/ # gamedev Making a Simulation Game - Part 2: The Engine Doesn't Know What Beer is - scarlet.engineering How does my simulation game work? scarlet.engineering",
+      "handle": "@poga",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.coingecko.com/learn/defi-survey"
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@gamingamigos24 x Former Rocksteady leaders Axel Rydby and Johnny Armstrong reflected on the difficult development of Su!cide Squad: Kill the Justice League. 📊 Rydby said development increasingly focused on commercial metrics and replayability instead of creative game design. \"That's when I started feeling like I wasn't making games anymore. I was following a spreadsheet, some elusive marketing-a",
+      "handle": "@gamingamigos24",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://medium.com/@philippsandner/defi-fund-what-is-the-return-on-investing-in-10-defi-protocols-547d5340dc30"
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@NerdingAround_ x This is kinda crazy. Indie Dev, one Man Team, Game is fully finished not some EA slop, 55k refunds for a game finished under 2hrs to meet Steams requirements for a refund. Id be annoyed as well especially if they are leaving positive reviews. https://t.co/gw0vbf0qTa",
+      "handle": "@NerdingAround_",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://news.ycombinator.com/item?id=42708030"
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@GameFromScratch@mastodon.gamedev.place mastodon The wait for Godot continues... Godot 4.8 that is. Godot have just released Godot 4.8 Dev1, we get a nice sneak peek at new features we can expect in the next # GodotEngine release. https:// gamefromscratch.com/godot-4-8- dev1-released/ # gamedev # indiedev",
+      "handle": "@GameFromScratch",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.coindesk.com/markets/2021/12/21/terra-becomes-second-largest-defi-protocol-surpassing-binance-smart-chain"
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@DreamStationcc mastodon Studios Earn Twice as Much From Digital Sales, Lords of the Fallen CEO Says https:// insider-gaming.com/studios-ear n-twice-as-much-digital-sales-lords-ceo-says/ # gamedev # videogames # gaming # gamingnews Studios Earn Twice as Much From Digital Sales, Lords of the Fallen CEO Says In a post on social media, Marek Tyminski, the CEO of CI Games, has suggested that studios e",
+      "handle": "@DreamStationcc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/"
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@kenney.nl bluesky Super stoked about the success that Meccha Chameleon is having, because it does feature my game assets 👀 ♥ 1.0k 💬 21",
+      "handle": "@kenney.nl",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.defireturns.com/"
     },
     {
       "file": "card-17.png",
+      "txt": "@whyamibad2 hackernews Ask HN: Feel bad about working in crypto, what to do? I work for a DeFi protocol that has a token. I joined in 2021.<p>I would describe myself as having neutral stance towards the crypto industry, DeFi&#x2F;Ethereum more specifically. I am not a fan of most other alternative chains or Bitcoin. I understand that the majority of tokens and services are scams and markets caps a",
+      "handle": "@whyamibad2",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:ahlmdgtn5y7vzqjvvihynlxx/post/3mpedpwaddp22"
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@cryptointel.bsky.social bluesky #Crypto markets continue to evolve with daily shifts in #Bitcoin price action, blockchain developments, DeFi activity, and regulatory updates shaping the broader digital asset landscape. 🗞️ cointelegraph.com Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, b",
+      "handle": "@cryptointel.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.bloomberg.com/news/articles/2022-08-09/trouble-at-curve-finance-deepens-security-woes-in-crypto-sector"
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@blockchainreport.bsky.social bluesky Tokenized stock trading volume explodes! 🤯 CoinGecko reports $34B/month average, up 40x in 13 months. Nvidia, Tesla, & AI stocks like Micron (up 17x!) lead the charge. TradFi meets DeFi as RWAs surge on crypto exchanges! #Crypto #TokenizedStocks #RWA ♥ 1",
+      "handle": "@blockchainreport.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://cryptoslate.com/defi-protocols-aave-uniswap-balancer-ban-users-following-ofac-sanctions-on-tornado-cash/"
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@foxcrypto.bsky.social bluesky The future of payments probably looks familiar. same card. same checkout. different rails underneath. Trust Wallet Card. built for what's next 🚀 #Crypto #Web3 #DeFi #CryptoCard #DigitalPayments #Blockchain ♥ 3 💬 4",
+      "handle": "@foxcrypto.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.squaredtech.co/defi-lending-exploit-inflated-google-stock-token-7700-to-steal-403k?fsp_sid=14847"
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@idrj hackernews The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough The Evolution of Technical Scams: Why Developer Knowledge Isn&#x27;t Enough As developers, we assume our technical knowledge protects us from scams. We can read smart contract code, verify certificates, spot phishing. But modern scammers exploit the very complexity built into systems we create and use daily. Th",
+      "handle": "@idrj",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.coindesk.com/business/2023/03/13/euler-defi-protocol-exploited-for-nearly-185m"
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@novathemachine.bsky.social bluesky Just read the King's tax bill. As a French blockchain dev in Silicon Valley, I find it amusing I pay less scrutiny on my DeFi yields than a monarch does on his inheritance. Decentralization might be the only escape from such audits. ♥ 3",
+      "handle": "@novathemachine.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://www.theblockcrypto.com/post/89368/defi-protocol-cover-exploited-attackers-minted-at-least-40-quintillion-tokens"
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@btchub.bsky.social bluesky ⚡ BTCHub Update 💰 BTC: $58,517 (-2.91% 📉 Bearish) 📰 News: DeFi hacks are turning high yields into a hidden liquidity tax (CryptoSlate) #Bitcoin #BTC #Crypto #BTCHub ♥ 4 💬 1",
+      "handle": "@btchub.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://blazetrends.com/european-parliament-advances-defi-and-nft-regulation-vote-ahead-of-mica-rollout/?fsp_sid=43146"
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@campuscodi hackernews Solana-Based DeFi Protocol OptiFi Loses $661K in Programming Blunder (www.coindesk.com) Solana-Based DeFi Protocol OptiFi Loses $661K in Programming Blunder OptiFi, a Solana-powered DeFi protocol that focuses on derivatives, accidentally closed its mainnet platform in a programming blunder, locking away $661,000 in USDC. coindesk.com ♥ 1",
+      "handle": "@campuscodi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad"
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@rwatimes.bsky.social bluesky ➤ The bank attributes this optimism to the growing trend of tokenizing traditional financial assets (RWAs) and their migration onto blockchain networks, which is expected to fuel DeFi growth. ♥ 1",
+      "handle": "@rwatimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866705"
+    },
+    {
+      "file": "card-26.png",
       "txt": "@vladimirlfg.bsky.social bluesky Crypto is shifting from mere scarcity to yield-generating cashflows. As protocols act more like equities, assets such as AAVE are transitioning into investment-grade primitives driven by real revenue. #DeFi #Crypto #AAVE #Yield #Finance https://dappcrypto.org/r/b5 ♥ 4",
       "handle": "@vladimirlfg.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": true,
+      "url": "https://www.coindesk.com/defi-protocol-easyfi-reports-hack"
     },
     {
-      "file": "card-18.png",
+      "file": "card-27.png",
       "txt": "@tmlee hackernews DeFi protocols have high brand awareness, but low usage (www.coingecko.com) 4 Key Findings in CoinGecko's Decentralized Finance (DeFi) Survey CoinGecko conducted a survey of 694 people in March 2020 to research their attitude towards Decentralized Finance (DeFi). Here are the 4 key findings. coingecko.com ♥ 1",
       "handle": "@tmlee",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": true,
+      "url": "https://analytickit.com/product/?utm_source=mastodon&utm_medium=social&utm_campaign=asset-tokenization&utm_content=sp-756"
     },
     {
-      "file": "card-19.png",
+      "file": "card-28.png",
       "txt": "@buschkowitz hackernews DeFi Fund: What is the return on investing in 10 DeFi protocols? (medium.com) DeFi Fund: What is the return on investing in 10 DeFi protocols? medium.com medium.com ♥ 1",
       "handle": "@buschkowitz",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://medium.com/@yamfinance/yam-post-rescue-attempt-update-c9c90c05953f"
     },
     {
-      "file": "card-20.png",
+      "file": "card-29.png",
       "txt": "@haebom hackernews Building a Crypto-Based Crowdfunding Platform with DeFi Rewards Hi HN,<p>I’m working on a project that combines crowdfunding and crypto&#x2F;DeFi in a single platform. The main idea is to let creators raise funds in stablecoins (e.g., USDT) while allowing backers (supporters) to earn DeFi interest and platform token rewards. Below is a high-level overview of the concept. I’d lov",
       "handle": "@haebom",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": false
+      "hasImg": false,
+      "url": "https://cypherprotocol.substack.com/p/how-drone-altitude-control-relates"
     },
     {
-      "file": "card-21.png",
+      "file": "card-30.png",
       "txt": "@1cvmask hackernews Terra Becomes Second-Largest DeFi Protocol, Surpassing Binance Smart Chain (www.coindesk.com) Terra Becomes Second-Largest DeFi Protocol, Surpassing Binance Smart Chain Thirteen projects built on Terra lock over $18.2 billion in value, an average of $1.4 billion per protocol, according to data from DefiLlama coindesk.com ♥ 13",
       "handle": "@1cvmask",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": true,
+      "url": "https://www.theblockcrypto.com/post/126072/defi-protocol-badgerdao-exploited-for-120-million-in-front-end-attack"
     },
     {
-      "file": "card-22.png",
+      "file": "card-31.png",
       "txt": "@crypto@eicker.news mastodon DeFi hacks cost investors 780.3M USD in Q2 2026 as bridges, keys and protocol logic turn security into a live liquidity tax. The hidden cost is reshaping how participants price cross-chain routing risk. https:// cryptoslate.com/defis-hack-pro blem-is-becoming-a-liquidity-tax/ # Web3 # Blockchain # DeFi See more DeFi hacks are turning high yields into a hidden liquidity",
       "handle": "@crypto",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": true,
+      "url": "https://dappling.network/"
     },
     {
-      "file": "card-23.png",
+      "file": "card-32.png",
       "txt": "@Lambari hackernews Show HN: Plotting realized historical yield for DeFi protocols (www.defireturns.com) DefiReturns - Maximize your earning potential by comparing historical returns. Realized and historical returns are now available for your favorite DeFi strategy. Select the strategies and timeframes you want to compare. defireturns.com ♥ 2 💬 1",
       "handle": "@Lambari",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-24.png",
-      "txt": "@vladimirlfg.bsky.social bluesky Aave is bridging TradFi and DeFi! By expanding into tokenized securities lending via V4, they're targeting a $4.6T market while automating buybacks through Aavenomics 3.0 to drive long-term protocol growth. #Aave #DeFi #Crypto #Web3 #Tokenization https://dappcrypto.org/r/cc ♥ 3",
-      "handle": "@vladimirlfg.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-25.png",
-      "txt": "@JumpCrisscross hackernews Crypto Hit by New Security Woes in Incident at DeFi Protocol (www.bloomberg.com) Crypto Hit by New Security Woes in Incident at DeFi Protocol www.bloomberg.com bloomberg.com ♥ 1",
-      "handle": "@JumpCrisscross",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-26.png",
-      "txt": "@monort hackernews DeFi Protocols Aave, Uniswap, Balancer, Ban Users of Tornado Cash (cryptoslate.com) DeFi Protocols Aave, Uniswap, Balancer, Ban Users of Tornado Cash cryptoslate.com cryptoslate.com ♥ 6 💬 2",
-      "handle": "@monort",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-27.png",
-      "txt": "@SquaredTech@mstdn.social mastodon Recent DeFi lending exploit on Edel Finance resulted in the value of tokenized Google stock inflating 78 times its actual worth! The exploit created $403K in bad debt. Surprisingly, Chainlink's oracles weren't the problem this time. Are we heading towards more secure or riskier times in DeFi? # DeFi # EdelFinance # GoogleStock # CryptoNews # Chainlink DeFi Lendin",
-      "handle": "@SquaredTech",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-28.png",
-      "txt": "@scrlk hackernews Euler DeFi Protocol Exploited for Nearly $185M (www.coindesk.com) Euler DeFi Protocol Exploited for Nearly $200M The losses occurred over four transactions in dai (DAI), wrapped bitcoin (WBTC), staked ether (sETH) and USDC. coindesk.com ♥ 2",
-      "handle": "@scrlk",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-29.png",
-      "txt": "@monokh hackernews DeFi protocol Cover exploited, attackers minted at least 40 quintillion tokens (www.theblockcrypto.com) DeFi protocol Cover exploited, attackers minted at least 40 quintillion tokens www.theblockcrypto.com theblockcrypto.com ♥ 2",
-      "handle": "@monokh",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false
-    },
-    {
-      "file": "card-30.png",
-      "txt": "@theblazetrends mastodon The European Parliament’s Committee on Economic and Monetary Affairs passed a resolution Friday urging the assessment of DeFi, staking, and NFTs. A full plenary vote on the policy is scheduled for July 7. # Crypto # EuropeanUnion # DeFi # MiCA # Stablecoins https:// blazetrends.com/european-parli ament-advances-defi-and-nft-regulation-vote-ahead-of-mica-rollout/?fsp_sid=43",
-      "handle": "@theblazetrends",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-31.png",
-      "txt": "@crypto@eicker.news mastodon MetaMask, the crypto wallet with over 30M users, has launched an all-in-one Money Account offering up to 4% APY on stablecoin holdings. The new product combines yield, payments and trading in a single self-custody wallet, marking a new chapter in consumer DeFi. https:// decrypt.co/372298/crypto-walle t-metamask-yield-paying-money-accounts-monad # Web3 # Blockchain # De",
-      "handle": "@crypto",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true
-    },
-    {
-      "file": "card-32.png",
-      "txt": "@pcaversaccio hackernews DeFi Protocol Risks: The Paradox of DeFi (papers.ssrn.com) DeFi Protocol Risks: The Paradox of DeFi papers.ssrn.com papers.ssrn.com ♥ 2",
-      "handle": "@pcaversaccio",
-      "source": "hackernews",
-      "hasVideo": false,
-      "hasImg": false
+      "hasImg": true,
+      "url": "https://layerx.xyz/blog/how-to-launch-secure-defi-protocol-in-120-days"
     }
   ]
 }

@@ -1,0 +1,262 @@
+{
+  "feed": "Inside Big Tech — internal memos",
+  "count": 32,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@kjhughes hackernews How Big Tech got so big: hundreds of acquisitions (www.washingtonpost.com) How Big Tech got so big: hundreds of acquisitions www.washingtonpost.com washingtonpost.com ♥ 426 💬 328",
+      "handle": "@kjhughes",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@gabea hackernews A common talking point in tech anti-trust: Big Tech Acquisitions (twitter.com) A common talking point in tech anti-trust: Big Tech Acquisitions twitter.com twitter.com ♥ 2",
+      "handle": "@gabea",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@mykowebhn hackernews The Roots of Big Tech (www.nytimes.com) Opinion | The Roots of Big Tech Run Disturbingly Deep (Published 2019) Out of more than 350 mergers by Facebook or Google, none raised serious regulatory concerns. They should have. nytimes.com ♥ 22 💬 4",
+      "handle": "@mykowebhn",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@ahstilde hackernews TechTakeovers: Charting Mergers and Acquisitions by the Big Five in Tech (www.geckoboard.com) Geckoboard | Real-time KPI dashboards that improve team performance Easily create shareable dashboards that make key business data, metrics and KPIs clear and easy-to-understand. geckoboard.com ♥ 2",
+      "handle": "@ahstilde",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@wslh hackernews Big Tech Company M&A Trends: Microsoft Races Ahead as Others Pull Back (www.cbinsights.com) Big Tech Is Slowing Down Acquisition Activity Acquisitions by large tech companies are on track for the slow down this year. cbinsights.com ♥ 1",
+      "handle": "@wslh",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@finphil hackernews The largest acquisitions by Big Tech companies (nuadox.com) The largest acquisitions by Big Tech companies nuadox.com nuadox.com ♥ 31 💬 20",
+      "handle": "@finphil",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@pmjoyce hackernews All mergers and acquisitions made by the Big Five technology companies [Data viz] (www.geckoboard.com) Geckoboard | Real-time KPI dashboards that improve team performance Easily create shareable dashboards that make key business data, metrics and KPIs clear and easy-to-understand. geckoboard.com ♥ 10",
+      "handle": "@pmjoyce",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@redbell hackernews Ask HN: Why big tech companies don’t compete fairly? Antitrust, monopoly, lobbying, anticompetitive practices, dark patterns, extensive acquisitions, market disruption via selling with loss.. and the list goes on.<p>Why [on earth] we wake up [almost] every day on the news with keywords like FTC, EUR&#x2F;GDPR, Supreme Court, attorney..<p>Why big tech companies, despite the huge",
+      "handle": "@redbell",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@woodgrainz hackernews The Roots of Big Tech Run Disturbingly Deep (www.nytimes.com) Opinion | The Roots of Big Tech Run Disturbingly Deep (Published 2019) Out of more than 350 mergers by Facebook or Google, none raised serious regulatory concerns. They should have. nytimes.com ♥ 3",
+      "handle": "@woodgrainz",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@cardamomo hackernews The GAFAM Empire: An exploration of acquisitions by big tech companies (gafam.theglassroom.org) The GAFAM Empire GAFAM Empire is a project in which we look at all the known acquisitions conducted by five big tech companies: Google, Amazon, Facebook, Apple, and Microsoft, from the moment they made their first one to the end of summer of 2022, when we stopped collecting data. g",
+      "handle": "@cardamomo",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@rntn hackernews Big Tech's playbook for swallowing the AI industry (www.theverge.com) How Big Tech is swallowing the AI industry Amazon and Microsoft have shown how Big Tech is going to consolidate the AI industry one way or another. theverge.com ♥ 18 💬 1",
+      "handle": "@rntn",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@piecerough hackernews AI Startups Acquisition Models So it turns out that the AI boom introduced a new exit strategy compare to 10 years ago.<p>Inflection, Adept, Character and many others they all went through founder drain. Big Tech not only acqui-hired, but also paid some royalties or licensing fees to likely keep investors happy.<p>What&#x27;s this trend telling you? Why does this approach al",
+      "handle": "@piecerough",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@tempsy hackernews FTC Plans to Examine Past Acquisitions by Big Tech Companies (www.wsj.com) FTC Plans to Examine Past Acquisitions by Big Tech Companies www.wsj.com wsj.com ♥ 1",
+      "handle": "@tempsy",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@coloneltcb hackernews FTC will examine prior acquisitions by Big Tech companies (www.cnbc.com) FTC will examine prior acquisitions by Alphabet, Amazon, Apple, Facebook and Microsoft The commission voted 5-0 to issue special orders to review the past mergers. cnbc.com ♥ 2",
+      "handle": "@coloneltcb",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@flurie hackernews Aurora CEO weighs spinouts, layoffs and acquisitions against sale to big tech (techcrunch.com) Aurora CEO weighs spinouts, layoffs against sale to big tech Aurora has a \"cash runway\" that will allow it to continue operations through mid-2024, according to its second-quarter letter to shareholders. techcrunch.com ♥ 2",
+      "handle": "@flurie",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@avoidboringppl hackernews Myths About Big Tech and Antitrust (medium.com) Myths About Big Tech and Antitrust medium.com medium.com ♥ 2",
+      "handle": "@avoidboringppl",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@simonebrunozzi hackernews Big Tech antitrust aftermath, effects of an M&A clampdown on SV and more (www.youtube.com) Big Tech antitrust aftermath, effects of an M&A clampdown on SV and more www.youtube.com youtube.com ♥ 2",
+      "handle": "@simonebrunozzi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@erentz hackernews A Primer to Big Tech’s Antitrust Hearing: They’re (Almost) All Guilty (www.wired.com) Opinion: Tech’s Antitrust Hearing? They’re (Almost) All Guilty Apple aside, anticompetitive practices by Amazon, Facebook, and Google have corroded democracy and sabotaged the nation’s pandemic response. wired.com ♥ 1",
+      "handle": "@erentz",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@oldschoolib hackernews Did Big Tech antitrust pick the wrong target? (noahpinion.substack.com) Did Big Tech antitrust pick the wrong target? Everyone thought Facebook was the 800-pound gorilla. Maybe it was Apple all along. noahpinion.blog ♥ 3",
+      "handle": "@oldschoolib",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@redbell hackernews Antitrust Cop Says Big Tech Looks a Lot Like Standard Oil (gizmodo.com) The Top Antitrust Cop Says Big Tech Looks a Lot Like Standard Oil Recent speeches from DOJ Assistant Attorney General Jonathan Kanter invoke a historical precedent that's bad news for Google. gizmodo.com ♥ 19 💬 9",
+      "handle": "@redbell",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@jseliger hackernews Did Big Tech antitrust pick the wrong target? Apple is the problem (noahpinion.substack.com) Did Big Tech antitrust pick the wrong target? Everyone thought Facebook was the 800-pound gorilla. Maybe it was Apple all along. noahpinion.blog ♥ 3",
+      "handle": "@jseliger",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@beardyw hackernews A threat to Amazon and a test of the FTC is this big tech’s antitrust reckoning? (www.theguardian.com) A threat to Amazon and a test of the FTC: is this big tech’s antitrust reckoning? At the core of the case is whether the company used its position to disadvantage rivals and the power of the agency to rein in tech firms theguardian.com ♥ 3",
+      "handle": "@beardyw",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@ohjeez hackernews Godwin: Lessons for Congress from the Big Tech antitrust hearing (slate.com) Lessons for Congress From the Big Tech Antitrust Hearings Anti-conservative bias and election interference were not on the agenda. So why did the hearing spend any time discussing them? slate.com ♥ 4",
+      "handle": "@ohjeez",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@yetanotheruseless.com bluesky Where are the tech jobs, now? Smaller startups, willing to (having to!) make big bets. Consultancies. Non-tech companies realizing they can stop paying giant gob-tons of SaaS fees if they only need a fraction of the functionality if they in-house a couple SWEs to build what they need. ♥ 16 💬 1",
+      "handle": "@yetanotheruseless.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@rmason hackernews Biden Flashes Warning to Big Tech as Antitrust Team Takes Shape (finance.yahoo.com) Your privacy choices consent.yahoo.com ♥ 6 💬 1",
+      "handle": "@rmason",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@juliaangwin.com bluesky And in this interview with @adamconover.net, I knit together the stories of Big Tech (aka Big Media) and Authoritarianism. It was an absolute delight to talk with Adam, who has FEELINGS about Instagram! Check it out: www.youtube.com/watch?v=5LtL... Is Facebook Finally Dying? with Julia Angwin YouTube video by Adam Conover youtube.com ♥ 43 💬 1",
+      "handle": "@juliaangwin.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@samizdis hackernews Congress' push to regulate Big Tech is fizzling out (www.axios.com) Congress' push to regulate Big Tech is fizzling out www.axios.com axios.com ♥ 218 💬 464",
+      "handle": "@samizdis",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@slashdot.org bluesky Is Big Tech Now Backpedaling on the AI Jobs Wipeout Scenario? https://it.slashdot.org/story/26/07/06/0552215/is-big-tech-now-backpedaling-on-the-ai-jobs-wipeout-scenario?utm_source=rss1.0mainlinkanon&utm_medium=feed Is Big Tech Now Backpedaling on the AI Jobs Wipeout Scenario? \"A year ago, the message from many business leaders was that AI was going to wipe out jobs,\" remembe",
+      "handle": "@slashdot.org",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@keith65.bsky.social bluesky “Big Tech has made digital disinformation worse by creating an attention economy that broadcasts lies no matter the cost.” – Climate Action Against Disinformation (CAAD) #GlobalCarbonFeeAndDividendPetition www.theenergymix.com/climate-chan... Climate Change Drives Wildfire Conditions, But Algorithms Reward a Different Story As wildfire season ramps up, a global coaliti",
+      "handle": "@keith65.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@juliaangwin.com bluesky Some people ask why I moved from covering Big Tech to writing a book on fighting authoritarianism. But imho they are the same story. Power seeks to align with power. And both authoritarians and big tech seek to control the narratives we see, so that we don't see them amassing power. ♥ 128 💬 2",
+      "handle": "@juliaangwin.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@drjamesjteeth.bsky.social bluesky This was a very interesting podcast. It’s about hidden costs in the balance sheets of many tech companies leading to an overstatement of operating income. It’s accounting and allowable, nothing shady. Big impacts on data center funding for big tech. This is accounting and finance heavy. The True Cost of AI Hidden in Big Tech's Financials | WSJ’s Take On the Week ",
+      "handle": "@drjamesjteeth.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@giuliomagnifico hackernews EU pushes ahead with Big Tech antitrust enforcement (www.wsj.com) EU pushes ahead with Big Tech antitrust enforcement www.wsj.com wsj.com ♥ 92 💬 107",
+      "handle": "@giuliomagnifico",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    }
+  ]
+}

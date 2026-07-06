@@ -4,6 +4,213 @@
   "cards": [
     {
       "file": "card-01.png",
+      "txt": "@CuratedNietzsche mastodon \"Women are considered profound. Why? Because we never fathom their depths. But women aren't even shallow.\" # philosophy 💬 1",
+      "handle": "@CuratedNietzsche",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedNietzsche/116871465253561737"
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@MSchilder@pixelfed.social mastodon Succesfully defended my Master Thesis @ Tilburg University: Philosophical progress goes Boink! Can a comic book be philosophy? Asking the question, is answering it 😊 Of course it can, and especially is that comic is Calvin and Hobbes ❤️ #calvinandhobbes #billwatterson #masterthesis #comics #philosophy #tilburguniversity See more",
+      "handle": "@MSchilder",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://pixelfed.social/p/MSchilder/979652778726850689"
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@CuratedMarcusAurelius mastodon \"Direct thy attention to what is said. Let thy understanding enter into the things that are doing and the things which do them.\" # philosophy # stoicism",
+      "handle": "@CuratedMarcusAurelius",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedMarcusAurelius/116872958471099015"
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@samthielman.com bluesky I don’t think the weird anti-human tendencies of the tech plutocrats says much about education generally but I do think it ought to make any decent person look askance specifically at philosophy BAs. ♥ 39 💬 1",
+      "handle": "@samthielman.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:qjzrpzlcmir3bkss4b5nh6ox/post/3mpy6rpm4v222"
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@noamchompers.bsky.social bluesky A lot of jerks will smugly ask undergraduate philosophy majors ‘what are you gonna do with that?’ and it can be hard to know how to respond. One option, though, is ‘dress up marketing for AI firms as profound philosophy ahead of their IPOs’ ♥ 81 💬 3",
+      "handle": "@noamchompers.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpvvkyqz4s2d"
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@andymasley.bsky.social bluesky Studying philosophy turned out to be consistently just so ridiculously useful for me ♥ 58 💬 6",
+      "handle": "@andymasley.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3mpr7dfdlyk2e"
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@sjjphd.bsky.social bluesky *nerd posters note that this is not the full speech, which everyone should read in full because it does so much political and moral philosophy in one document and is such a mic drop you’ll be yelling* ♥ 134 💬 1",
+      "handle": "@sjjphd.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:5khesvavvttyuygvncdhfjge/post/3mprargvkqs2b"
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@CuratedHannahArendt mastodon \"To expect truth to come from thinking signifies that we mistake the need to think with the urge to know.\" # philosophy",
+      "handle": "@CuratedHannahArendt",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedHannahArendt/116871541917047768"
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@jowolff.bsky.social bluesky There’s a Philosophy journal where we discuss this sort of far-fetched thought experiment with a straight face. REPOSTED @prchovanec.bsky.social Let's invent fantastical scenarios as a basis for policy. ♥ 24 💬 3",
+      "handle": "@jowolff.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:givg3amslsq46o3f25ga5esh/post/3mptcijlahc2g"
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@justiceforall.bsky.social bluesky Debate follow up #Jubilee #JackSymes #philosophy #AnimalRights #HumanRights #climate Looks like someone in that room was rightly convinced veganism is a moral obligation (hint: it was the host 😎 🙌) www.youtube.com/watch?v=I-mQ... REPOSTED @justiceforall.bsky.social The wilful disregard of incontrovertible facts & rude behaviour on display throughout this debate",
+      "handle": "@justiceforall.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:js6yfyuoohoenjpkvqgdjjng/post/3mpvu4pjhxs27"
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@zoomba.bsky.social bluesky I have a similar phrase/philosophy when hiring in game dev... I can teach almost anyone the technical skills needed to do the job. However, I can not teach them how to be thoughtful and analytical problem solvers. I look for the problem solvers first and foremost. The rest I can teach. ♥ 162 💬 2",
+      "handle": "@zoomba.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:lwauicadopgnlbwc3rrub2iu/post/3mpvq7xbw622j"
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@epochemagazine@zirk.us mastodon From the archive: \"Narrative ‘breakdown’, a phenomenology of banal and non-banal lying \", by Ignacio Gonzalez-Martinez https:// epochemagazine.org/90/narrativ e-breakdown-a-phenomenology-of-banal-and-non-banal-lying/ # Philosophy Narrative ‘breakdown’, a phenomenology of banal and non-banal lying | Epoché Magazine A free online philosophy magazine, delivered monthl",
+      "handle": "@epochemagazine",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://epochemagazine.org/90/narrative-breakdown-a-phenomenology-of-banal-and-non-banal-lying/"
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@hcrhq.bsky.social bluesky Relevant Laws and Philosophy Behind the Declaration of Independence | Explainer from yesterday’s Politics Chat with @hcrichardson.bsky.social Watch here: https://www.youtube.com/watch?v=DAm8_XHA2w0 Relevant Laws and Philosophy Behind the Declaration of Independence | Explainer In which I try to answer your questions about modern politics....From Politics Chat, July 2nd, ",
+      "handle": "@hcrhq.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.youtube.com/watch?v=DAm8_XHA2w0"
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@bstnboy.bsky.social bluesky Socialist philosophy. YES, PLEASE!! REPOSTED @atrupar.com Mamdani: \"Those who led through exclusion & isolation have tried to win power & enrich themselves by turning us against one another ... today, too many of our leaders do not believe in a vision of this nation as an asylum for the persecuted, but rather as one that persecutes those seeking asylum\" ♥ 12",
+      "handle": "@bstnboy.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:gnmvwraq2ktahom4kyqmzhcw/post/3mprnjqurds2p"
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@CuratedSeneca mastodon \"Is it for this purpose that we are strong—that we may have light burdens to bear?\" # philosophy # stoicism",
+      "handle": "@CuratedSeneca",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedSeneca/116872996917167524"
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@boycott mastodon A review of Merlin Coverley's \"Psychogeography\" https:// recipe4.life/blog/psychogeogra phy # philosophy # psychology # existentialism # books Drifting Through the World: An Existential Look at Psychogeography | Recipe for Life Exploring the psychological impact of our urban environments through the lens of Merlin Coverley's Psychogeography, contrasting the subversive tactics of ",
+      "handle": "@boycott",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://recipe4.life/blog/psychogeography"
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@CuratedEpictetus mastodon \"If you would be a good reader, read; if a writer, write.\" # philosophy # stoicism",
+      "handle": "@CuratedEpictetus",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedEpictetus/116871542301701016"
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@scenarist.bsky.social bluesky Hey now that hurts. Philosophy is important. But it’s okay. #FrightClub ♥ 7",
+      "handle": "@scenarist.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:cm3j34jq6iieewxnvzkvxgnj/post/3mpryskf6ss2g"
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@mariathaldore.bsky.social bluesky god bless cow vtubers for explaining philosophy to me ♥ 21",
+      "handle": "@mariathaldore.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:s6j6vek3gjrbomqfvdtoiug7/post/3mpo5shvaks2z"
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@beckbeckaboo.bsky.social bluesky I don't engage with anyone who doesn't know the isms are philosophy, and they are never practiced in the purest form because people are gonna people. Reading is fundamental. When did we stop pushing that idea? ♥ 41 💬 3",
+      "handle": "@beckbeckaboo.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:asna5j4mo255ca7l45v2iz7u/post/3mpwu2pazx227"
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@CuratedMarcusAurelius mastodon \"Wipe out the imagination. Stop pulling the strings. Confine thyself to the present. ...Divide and distribute every object into the causal [formal] and the material. ...Let the wrong which is done by a man stay there where the wrong was done.\" # philosophy # stoicism",
+      "handle": "@CuratedMarcusAurelius",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedMarcusAurelius/116871465316612608"
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@pykeredrock.bsky.social bluesky Yup. The big question of philosophy that the Founders and Framers were steeped in was defining Natural Law/the State of Nature. That’s why DOI is such an important product of the Enlightenment period—inalienable rights and government by consent are Natural Law principles. ♥ 98 💬 1",
+      "handle": "@pykeredrock.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://bsky.app/profile/did:plc:w7rcmuq3t7lrkp7nxlxqkusz/post/3mpwyiyx2j227"
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@CuratedPlato mastodon \"Attention to health is a great obstacle to the practice of virtue and improvement in [life].\" # philosophy",
+      "handle": "@CuratedPlato",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://mastodon.social/@CuratedPlato/116872958691380996"
+    },
+    {
+      "file": "card-24.png",
       "txt": "@KilleansRow@mastodon.online mastodon 1/2 # RaymondMoody has in some ways been the one to describe a positive progressive rational worldview regarding # NDE ’s , # Science and # Philosophy . This interview distills much of that… We asked the Godfather of NDE’s 22 Questions About Death, Reality and The Afterlife https:// youtu.be/aKfS2KtISE4?si=QVKREB uTlt6BaUaU Still there is some difficulty -a di",
       "handle": "@KilleansRow",
       "source": "mastodon",
@@ -12,7 +219,7 @@
       "url": "https://mastodon.online/@KilleansRow/116849225192687035"
     },
     {
-      "file": "card-02.png",
+      "file": "card-25.png",
       "txt": "@rabblerous.bsky.social bluesky Lol he cited a philosophy journal to support his \"biological\" argument ♥ 30",
       "handle": "@rabblerous.bsky.social",
       "source": "bluesky",
@@ -21,7 +228,7 @@
       "url": "https://bsky.app/profile/did:plc:uwznf72qerfkxkb764jycpdd/post/3mpj6oj5pac2b"
     },
     {
-      "file": "card-03.png",
+      "file": "card-26.png",
       "txt": "@valoisdubins.bsky.social bluesky The prescience of the conclusion is one thing; the journey there is also funny. Worth a read if you’ve ever done philosophy 😝 REPOSTED @lastpositivist.bsky.social I once wrote a dialogue on why fund philosophy grad schools (sootyempiric.blogspot.com/2025/07/dial...), the set up for which was that their department was under threat from a new right wing government ",
       "handle": "@valoisdubins.bsky.social",
       "source": "bluesky",
@@ -30,7 +237,7 @@
       "url": "https://bsky.app/profile/did:plc:7nf3vqbvea5gpbet3kmibxpm/post/3mpllnkvw2c27"
     },
     {
-      "file": "card-04.png",
+      "file": "card-27.png",
       "txt": "@kalokagathia mastodon These days it's sort of dangerous to play when you write like this as people will take it as anti-intellectualism. # philosophy # quotes # CivilSimian # UniversalHumanism",
       "handle": "@kalokagathia",
       "source": "mastodon",
@@ -39,16 +246,7 @@
       "url": "https://mastodon.social/@kalokagathia/116849601980271529"
     },
     {
-      "file": "card-05.png",
-      "txt": "@noamchompers.bsky.social bluesky A lot of jerks will smugly ask undergraduate philosophy majors ‘what are you gonna do with that?’ and it can be hard to know how to respond. One option, though, is ‘provide a veneer of intellectual respectability to a nasty hate movement targeting a vulnerable minority’ ♥ 361 💬 6",
-      "handle": "@noamchompers.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpjg6uz3722d"
-    },
-    {
-      "file": "card-06.png",
+      "file": "card-28.png",
       "txt": "@CuratedRalphWaldoEmerson mastodon \"The music that can deepest reach, And cure all ill, is cordial speech.\" # philosophy",
       "handle": "@CuratedRalphWaldoEmerson",
       "source": "mastodon",
@@ -57,7 +255,7 @@
       "url": "https://mastodon.social/@CuratedRalphWaldoEmerson/116849562941512920"
     },
     {
-      "file": "card-07.png",
+      "file": "card-29.png",
       "txt": "@paninid@mastodon.world mastodon If you wanna be a secular-philosopher relying on reason, do that. If you wanna rely on revelation, do that. If you wanna make it more complicated, do that. Just don’t expect me to reconcile those things on your behalf 🤷🏻‍♂️ # theology # reason # faith # philosophy ♥ 1 💬 2",
       "handle": "@paninid",
       "source": "mastodon",
@@ -66,7 +264,7 @@
       "url": "https://mastodon.world/@paninid/116848708001082758"
     },
     {
-      "file": "card-08.png",
+      "file": "card-30.png",
       "txt": "@oldjerryfodor.bsky.social bluesky I'm sorry, but it's just completely false that analytic philosophy (of all places!) has a norm that we shouldn't call each other names. Maybe we should have that norm. But we are, very famously, the one field that doesn't have that norm ♥ 20 💬 3",
       "handle": "@oldjerryfodor.bsky.social",
       "source": "bluesky",
@@ -75,7 +273,7 @@
       "url": "https://bsky.app/profile/did:plc:5zgber5npxagnqr3hg4fm4zv/post/3mpmmurkx7s2w"
     },
     {
-      "file": "card-09.png",
+      "file": "card-31.png",
       "txt": "@timcrane.bsky.social bluesky An empirically engaged philosophy of mind course could start with (e.g.) questions about animal minds, artificial minds, psychological methods (behaviourism could come in here), computational theories of mind, how the brain actually works, the explanation of consciousness etc. ♥ 18 💬 1",
       "handle": "@timcrane.bsky.social",
       "source": "bluesky",
@@ -84,211 +282,13 @@
       "url": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi47qdo4k2b"
     },
     {
-      "file": "card-10.png",
+      "file": "card-32.png",
       "txt": "@0xabad1dea@infosec.exchange mastodon I have clarified any and all confusions you may have had about ancient Chinese political thought in one convenient chart. # history # politics # classicalchinese # philosophy ♥ 29 💬 3",
       "handle": "@0xabad1dea",
       "source": "mastodon",
       "hasVideo": false,
       "hasImg": true,
       "url": "https://infosec.exchange/@0xabad1dea/116838151292083076"
-    },
-    {
-      "file": "card-11.png",
-      "txt": "@timcrane.bsky.social bluesky There is a standard format for general philosophy of mind courses which goes: first there was dualism, then (300 years later) behaviourism (quickly refuted by Putnam) then identity theory (ditto) then functionalism then the problem of consciousness, and maybe intentionality. The end. ♥ 35 💬 5",
-      "handle": "@timcrane.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi3ond5lk2b"
-    },
-    {
-      "file": "card-12.png",
-      "txt": "@bayesianboy.bsky.social bluesky As philosophy rushes to claim expertise on AI, AI companies rush to control the philosophical narrative. Unlike other disciplines, philosophy has no standards for reporting conflicts of interest. This petition endeavors to change that: docs.google.com/forms/d/e/1F... Open Letter about Industry Funding and Disclosure in Philosophy *For full list of signatories, upda",
-      "handle": "@bayesianboy.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSf9TjX10ol44FrXR0dc1azlyzlbQqwiSL6R7DAUAFxhZ03cFg/viewform"
-    },
-    {
-      "file": "card-13.png",
-      "txt": "@yoginho@spore.social mastodon *** Sign this petition! Via Mel Andrews (@bayesianboy.bsky.social): \"As # philosophy rushes to claim expertise on AI, AI companies rush to control the philosophical narrative. Unlike other disciplines, philosophy has no standards for reporting conflicts of interest. This petition endeavors to change that:\" https:// docs.google.com/forms/d/e/1FAI pQLSf9TjX10ol44FrXR0d",
-      "handle": "@yoginho",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSf9TjX10ol44FrXR0dc1azlyzlbQqwiSL6R7DAUAFxhZ03cFg/viewform"
-    },
-    {
-      "file": "card-14.png",
-      "txt": "@epochemagazine@zirk.us mastodon From the archive: \"Bringing People Closer: Cicero, Hierocles, and Cosmopolitanism\", by Will Johncock https:// epochemagazine.org/28/bringing -people-closer-cicero-hierocles-and-cosmopolitanism/ # Philosophy Bringing People Closer: Cicero, Hierocles, and Cosmopolitanism | Epoché Magazine A free online philosophy magazine, delivered monthly epochemagazine.org",
-      "handle": "@epochemagazine",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://epochemagazine.org/28/bringing-people-closer-cicero-hierocles-and-cosmopolitanism/"
-    },
-    {
-      "file": "card-15.png",
-      "txt": "@zoedrayson.bsky.social bluesky There's a new 'Innateness and Language' entry in the Stanford Encyclopedia of Philosophy by my colleague Gabe Dupre plato.stanford.edu/entries/inna... Innateness and Language (Stanford Encyclopedia of Philosophy) plato.stanford.edu ♥ 26 💬 1",
-      "handle": "@zoedrayson.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://plato.stanford.edu/entries/innateness-language/"
-    },
-    {
-      "file": "card-16.png",
-      "txt": "@alephblackram.bsky.social bluesky This is what people who do not understand philosophy, or \"AI\", or \"quantum computing\" think about thinking. This is the outcome of the practice of philosophy going into retrograde within \"society\" at large. Cognitive surrender, encouraged by capitalist marketing, is its logical conclusion. REPOSTED @carnage4life.bsky.social “I don’t know if anyone needs to think ",
-      "handle": "@alephblackram.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:x5ba2cm5nwrmkwkdhsbdfoay/post/3mpgwk25d7s2e"
-    },
-    {
-      "file": "card-17.png",
-      "txt": "@appassionato mastodon @ emeraldmuse 3/ We are a walking symphony of trillions of chemical reactions, entirely dependent on a shape-shifting liquid, writing our lives using symbols that encoded this cosmic poetry before the Bronze Age even collapsed. Beats staring at the ceiling! ☕ # Kanji # Physics # Philosophy # FlowState See more ♥ 4 💬 1",
-      "handle": "@appassionato",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.social/@appassionato/116834830410884369"
-    },
-    {
-      "file": "card-18.png",
-      "txt": "@wsj_opinion@robot.villas mastodon It's the 'Pursuit' That Matters https://www.wsj.com/opinion/its-the-pursuit-that-matters-a1dd5fca # Opinion # Commentary # Philosophy",
-      "handle": "@wsj_opinion",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://www.wsj.com/opinion/its-the-pursuit-that-matters-a1dd5fca"
-    },
-    {
-      "file": "card-19.png",
-      "txt": "@paracelsusgroup mastodon And I think I think too much # CriticalThinking # Psychology # Philosophy",
-      "handle": "@paracelsusgroup",
-      "source": "mastodon",
-      "hasVideo": true,
-      "hasImg": false,
-      "url": "https://mastodon.social/@paracelsusgroup/116830650670806474"
-    },
-    {
-      "file": "card-20.png",
-      "txt": "@dalfen@mstdn.social mastodon The Philosopher's Football Match (\"International Philosophy\") Socrates is my fave in the video 😆👏⚽️ # random # philosophy # MontyPython # humor # lol --- https://www. youtube.com/watch?app=desktop& v=LfduUFF_i1A&ra=m Monty Python Philosophy Football youtube.com ♥ 1 💬 1",
-      "handle": "@dalfen",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.youtube.com/watch?app=desktop&v=LfduUFF_i1A&ra=m"
-    },
-    {
-      "file": "card-21.png",
-      "txt": "@kalokagathia mastodon Maybe...logic forms are mind independent would be better modern framing.... # philosophy # quotes # CivilSimian # UniversalHumanism",
-      "handle": "@kalokagathia",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.social/@kalokagathia/116830813562372219"
-    },
-    {
-      "file": "card-22.png",
-      "txt": "@brynntannehill.bsky.social bluesky I felt like this trying to make sense of Kant's extraordinarily dense writing in Philosophy 101 before the days of the internet explaining everything. I came away from it retaining nothing other than a dislike for Kant, and thinking that natural law (Aquinas, Augustine) was sophomoric. ♥ 41 💬 4",
-      "handle": "@brynntannehill.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:p3flfra5fhvqhwrm5jirb267/post/3mpfb6laopc2k"
-    },
-    {
-      "file": "card-23.png",
-      "txt": "@appassionato mastodon Is agnosticism a rigorous moral duty or an intellectual cop-out? ⚖️🔬 In this 21-minute debate, a Philosopher and a Scientist square off over the ethics of permanent doubt. Covered: • Huxley's 1869 survival tactic • Russell's teapot & garage dragons • Fine-tuning vs. Multiverse math • Game theory & secular ethics Like the early cartographers: leave the map open and resist dr",
-      "handle": "@appassionato",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtu.be/Er0wVxJaodE"
-    },
-    {
-      "file": "card-24.png",
-      "txt": "@kalokagathia mastodon I struggled with this. To me this makes more sense as \"delusion\" rather than \"illusion\". \"Delusion\" was an option at the time, so he actually chose \"illusion\" which makes less sense to me. # philosophy # quotes # CivilSimian # UniversalHumanism ♥ 1",
-      "handle": "@kalokagathia",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.social/@kalokagathia/116829675350781537"
-    },
-    {
-      "file": "card-25.png",
-      "txt": "@boycott mastodon A review of Simone de Beauvoir's \"The Ethics of Ambiguity\" https:// recipe4.life/blog/ethics-of-am biguity # philosophy # psychology # books # existentialism Navigating the Grey, Reading Simone de Beauvoir on the Ethics of Ambiguity | Recipe for Life A review of Simone de Beauvoir \"The Ethics of Ambiguity\", exploring how Beauvoir and Jean-Paul Sartre illuminate our profound relat",
-      "handle": "@boycott",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://recipe4.life/blog/ethics-of-ambiguity"
-    },
-    {
-      "file": "card-26.png",
-      "txt": "@amytaggart.bsky.social bluesky Feels important. Because #philosophy is actually not another way of doing science. Nor is it simply “an important part of a university’s ‘science offering.’” #philsky #booksky ♥ 56 💬 3",
-      "handle": "@amytaggart.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:tz5xuugi5oipifdit2mrsbai/post/3mpefretpy22h"
-    },
-    {
-      "file": "card-27.png",
-      "txt": "@libertyoftheforest0 mastodon I'm not a materialist, physicalist, or naturalist but a relationalist. # philosophy # communism # socialism # anarchism # science",
-      "handle": "@libertyoftheforest0",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.social/@libertyoftheforest0/116830087828604981"
-    },
-    {
-      "file": "card-28.png",
-      "txt": "@jowolff.bsky.social bluesky Remember those Philosophy papers from the 1950s and 60s, where people just said what they had been thinking hard about, with few references or footnotes? If AI takes over literature-based research then maybe humans need to go back to the old ways. I, for one, would much welcome that. ♥ 65 💬 6",
-      "handle": "@jowolff.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:givg3amslsq46o3f25ga5esh/post/3mpdiynb3xs2c"
-    },
-    {
-      "file": "card-29.png",
-      "txt": "@swin24.bsky.social bluesky I recall a question we all had to address in a paper or something in a philosophy class and it was simply “if Anna Karenina is fictional, why do we care what happens to her” and I was tempted to just write “Because I’m not a fucking asshole,” and just submit that ♥ 176 💬 5",
-      "handle": "@swin24.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:jp6kosbeb3bkbadjr2ttznbu/post/3mpc3mt6rks2l"
-    },
-    {
-      "file": "card-30.png",
-      "txt": "@histphilosophy.bsky.social bluesky Here is an #OpenAccess article in which I describe and explain a syllabus on women thinkers in ancient and medieval philosophy; this is based on a class I teach for King's College London: www.tandfonline.com/doi/full/10.... The whole issue is on teaching women philosophers. #philsky #philosophy Women of the world: teaching women thinkers in pre-modern global phi",
-      "handle": "@histphilosophy.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.tandfonline.com/doi/full/10.1080/09608788.2026.2680960"
-    },
-    {
-      "file": "card-31.png",
-      "txt": "@anitaleirfall.bsky.social bluesky ruccs.rutgers.edu/images/perso... #philosophy #PhilosophySky #philsky #feeling #consciousness #Damasio ♥ 11",
-      "handle": "@anitaleirfall.bsky.social",
-      "source": "bluesky",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:bqaa5cpww4vkr2afb2a53t7h/post/3mpeg2qsbcc2z"
-    },
-    {
-      "file": "card-32.png",
-      "txt": "@epochemagazine@zirk.us mastodon From the archive: \"Mathematics Is An Opinion (And The Wrong One)\", by Ermanno Bencivenga https:// epochemagazine.org/88/mathemat ics-is-an-opinion-and-the-wrong-one/ # Philosophy Mathematics Is An Opinion (And The Wrong One) | Epoché Magazine A free online philosophy magazine, delivered monthly epochemagazine.org ♥ 1",
-      "handle": "@epochemagazine",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": true,
-      "url": "https://epochemagazine.org/88/mathematics-is-an-opinion-and-the-wrong-one/"
     }
   ]
 }

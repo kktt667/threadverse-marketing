@@ -5,96 +5,96 @@
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-01.png",
       "keep": true,
-      "score": 6,
-      "lane": "ai",
-      "hook": "They built an AI that reads game news so you don't",
-      "caption": "They built an AI that reads game news so you don't.\n\nAuto-classifying gaming headlines is a real problem worth solving. This is the kind of build my feed surfaces before the timeline does.",
-      "stance": "Manual news-scrolling for gamers is already dead; the tooling just hasn't caught up.",
-      "bestPlatform": "mastodon",
-      "format": "splitProof",
+      "score": 8,
+      "lane": "gaming",
+      "hook": "3,200 gaming jobs gone — zero studios closed",
+      "caption": "3,200 jobs cut, 4 studios under new management, zero closed on paper. The layoff math the industry doesn't spell out. The signal my feed keeps before the timeline spins it.",
+      "stance": "\"No studios closed\" is a PR line when 3,200 people just lost their jobs.",
+      "bestPlatform": "bluesky",
+      "format": "bigStat",
       "triggers": [
-        "AI news classification",
-        "indie build in public",
-        "gaming automation"
+        "hard number",
+        "contrast",
+        "painpoint agitation"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-02.png",
       "keep": true,
       "score": 7,
-      "lane": "ai",
-      "hook": "\"Just a transformation\" — devs say the industry is on fire",
-      "caption": "\"Just a transformation,\" the creators said. Devs said the industry is on fire.\n\nWho makes the games after the AI tools dust off? The debate my feed keeps while the timeline argues past it.",
-      "stance": "AI didn't transform game dev, it detonated the job market and called it progress.",
+      "lane": "gaming",
+      "hook": "Pokemon just got its own official soccer team",
+      "caption": "Pikachu now reps Japan's J.League — all 60 clubs. The crossover you didn't see coming and won't see on your timeline for days. The kind of drop my feed surfaces first.",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "quote",
+      "format": "banner",
       "triggers": [
-        "AI vs game devs",
-        "industry layoffs",
-        "hard contrast"
+        "cult brand",
+        "surprise",
+        "specific detail"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-03.png",
-      "keep": false,
-      "score": 2,
-      "lane": "reject",
-      "hook": "",
-      "caption": "",
-      "stance": "",
+      "keep": true,
+      "score": 8,
+      "lane": "gaming",
+      "hook": "Xbox gutted the Elder Scrolls Online team",
+      "caption": "ESO's team seemingly gutted in the layoffs — but the roadmap 'will be shifting,' not dying. What that actually means for the MMO you play. Found before the timeline caught up.",
+      "stance": "'Roadmaps will be shifting' is how you say a live game is on life support without saying it.",
       "bestPlatform": "bluesky",
-      "format": "minimal",
+      "format": "tabloid",
       "triggers": [
-        "vague self-promo",
-        "no substance"
+        "named IP",
+        "contrast",
+        "painpoint agitation"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-04.png",
-      "keep": true,
-      "score": 8,
-      "lane": "gaming",
-      "hook": "\"Metroid: Ravenous\" just leaked via a ratings board",
-      "caption": "\"Metroid: Ravenous\" just leaked through Brazil's ratings board — before any official reveal.\n\nRatings-board leaks are how the real news breaks. Found in my feed before the timeline noticed.",
-      "stance": "Ratings boards leak more games than publishers ever announce on purpose.",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "Gaming industry isn't taking a break from bad news",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "tabloid",
+      "format": "quote",
       "triggers": [
-        "Metroid leak",
-        "cult franchise",
-        "ratings board scoop"
+        "vague reaction",
+        "no specifics"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-05.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "gaming",
-      "hook": "Aliens: Fireteam Elite 2 just got its reveal trailer",
-      "caption": "Aliens: Fireteam Elite 2 just dropped its official reveal trailer via IGN.\n\nCold Iron is back in the Xenomorph business. The reveal my feed caught the moment it went live.",
-      "stance": "Co-op Aliens shooters are the most underrated genre in gaming right now.",
-      "bestPlatform": "bluesky",
-      "format": "banner",
+      "hook": "Microsoft still thinks AAA gaming is a growth industry",
+      "caption": "MS is betting AAA is still growth, not just aging millennial fans. The bet driving every Xbox layoff and reshuffle you're watching. The take my feed keeps before it's obvious.",
+      "stance": "Treating AAA as a growth market in 2026 is how you justify the cuts that kill it.",
+      "bestPlatform": "x",
+      "format": "quote",
       "triggers": [
-        "Aliens franchise",
-        "trailer reveal",
-        "named studio"
+        "contrarian stance",
+        "named entity",
+        "contrast"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-06.png",
-      "keep": false,
-      "score": 3,
-      "lane": "reject",
-      "hook": "",
-      "caption": "",
-      "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "minimal",
+      "keep": true,
+      "score": 7,
+      "lane": "gaming",
+      "hook": "Xbox CEO wants games for 'a billion people a day'",
+      "caption": "Asha Sharma's target: 24x Steam's peak population — daily. Ambition or delusion? The quote fueling the whole Xbox strategy debate. Surfaced before the dunks pile up.",
+      "stance": "A billion players a day is 24x Steam's peak — that's not a strategy, it's a fantasy.",
+      "bestPlatform": "x",
+      "format": "bigStat",
       "triggers": [
-        "generic meme",
-        "red ring of death",
-        "no signal"
+        "named exec",
+        "hard number",
+        "reply-inviting"
       ]
     },
     {
@@ -102,31 +102,31 @@
       "keep": false,
       "score": 2,
       "lane": "reject",
-      "hook": "",
+      "hook": "As the gaming industry gets worse",
       "caption": "",
       "stance": "",
       "bestPlatform": "bluesky",
-      "format": "minimal",
+      "format": "quote",
       "triggers": [
-        "personal rambling",
-        "off-niche",
-        "no tech value"
+        "vague reaction",
+        "emoji filler",
+        "no specifics"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-08.png",
-      "keep": true,
-      "score": 6,
-      "lane": "gaming",
-      "hook": "Sony's already repurposing its PS disc factory",
-      "caption": "Rumor: Sony is repurposing its PlayStation disc factory, and Microsoft is lining up buyers for Xbox studios.\n\nThe consoles-are-dying signal, surfaced in my feed early.",
-      "stance": "Physical media is over — Sony and Microsoft are just done pretending otherwise.",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "Hearing about layoffs at this scale in sales and gaming",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "x",
-      "format": "tabloid",
+      "format": "quote",
       "triggers": [
-        "Sony/Microsoft rumor",
-        "end of physical media",
-        "console intel"
+        "vague commentary",
+        "no specifics",
+        "wait-and-see"
       ]
     },
     {
@@ -134,381 +134,366 @@
       "keep": false,
       "score": 3,
       "lane": "reject",
-      "hook": "Tuta Mail's official gaming statement",
-      "caption": "An encrypted-email company issuing a statement about the gaming industry. Fun bit, but it's a niche in-joke, not signal a tech gamer needs.",
+      "hook": "Layoffs aren't about DEI — stop pretending",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "minimal",
       "triggers": [
-        "off-niche",
-        "inside-joke",
-        "not gaming intelligence"
-      ]
+        "gaming industry",
+        "DEI discourse"
+      ],
+      "bestPlatform": "bluesky",
+      "format": "quote"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-10.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "gaming",
-      "hook": "\"Indie games will save gaming\" is a lie.",
-      "caption": "\"Indie games will save gaming\" is a lie. This dev finally says why the whole savior narrative was always kinda silly. The hot take my feed keeps and the timeline buries.",
-      "stance": "Indie isn't a rescue plan for the industry — it's a coping mechanism.",
-      "bestPlatform": "bluesky",
-      "format": "quote",
+      "hook": "Sony is gutting gaming while you watch Microsoft",
+      "caption": "Sony is gutting gaming while everyone watches Microsoft. The timing isn't a coincidence — it's cover. Industry moves like this surface in my feed before the timeline catches on.",
+      "stance": "The Microsoft news is a smokescreen — Sony picked this exact week on purpose.",
       "triggers": [
-        "contrarian stance",
-        "gaming-industry take",
-        "reply-bait"
-      ]
+        "Sony",
+        "Microsoft",
+        "layoffs"
+      ],
+      "bestPlatform": "x",
+      "format": "quote"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-11.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "gaming",
-      "hook": "All 15 biggest game reveals from July 2026.",
-      "caption": "Every major announcement, gameplay drop, and trailer showcase from June-July 2026 in one place. The reveals my feed surfaced before your timeline caught up.",
+      "hook": "GDC is fading. Gamescom is eating its lunch.",
+      "caption": "GDC is fading while Gamescom goes from strength to strength. The center of gravity in gaming events is shifting — this is the kind of signal my feed keeps and the timeline misses.",
       "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "banner",
       "triggers": [
-        "reveal roundup",
-        "FOMO",
-        "curated firehose"
-      ]
+        "Gamescom",
+        "GDC",
+        "games industry"
+      ],
+      "bestPlatform": "mastodon",
+      "format": "splitProof"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-12.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "gaming",
-      "hook": "Xbox promised a reset. It shipped layoffs.",
-      "caption": "New logo, charm offensive, big \"reset\" talk — and the actual news was layoffs, studio closures, and spin-offs. The story under the rebrand my feed caught first.",
-      "stance": "A fancy new logo is what a platform ships when it has nothing else to announce.",
-      "bestPlatform": "x",
-      "format": "tabloid",
+      "hook": "Warframe's studio is building a dark-fantasy world next",
+      "caption": "Soulframe just dropped its TennoLive 2026 teaser — the Warframe studio's dark-fantasy swing. If you love Digital Extremes, this is your next obsession. Found before the timeline.",
+      "stance": "",
       "triggers": [
-        "breaking",
-        "mild outrage",
-        "Xbox named entity"
-      ]
+        "Soulframe",
+        "Warframe",
+        "Digital Extremes",
+        "trailer"
+      ],
+      "bestPlatform": "bluesky",
+      "format": "banner"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-13.png",
-      "keep": false,
-      "score": 4,
+      "keep": true,
+      "score": 7,
       "lane": "gaming",
-      "hook": "Xbox is \"resetting\" — again",
-      "caption": "Bare link-and-hashtags post on the Xbox reset. Same story as the layoffs card but with no substance of its own, so I'd run that one instead.",
-      "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "minimal",
+      "hook": "Xbox laid off staff — then said it wants to 'entertain a billion daily'",
+      "caption": "Xbox CEO Asha Sharma wants a billion people entertained daily — in the same memo about layoffs. The disconnect is the story. The stuff my feed catches, timelines gloss over.",
+      "stance": "'Entertain a billion daily' in a layoff memo isn't vision — it's tone-deaf.",
       "triggers": [
-        "thin post",
-        "duplicate topic",
-        "link dump"
-      ]
+        "Xbox",
+        "Asha Sharma",
+        "layoffs",
+        "billion daily"
+      ],
+      "bestPlatform": "x",
+      "format": "tabloid"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-14.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "gaming",
-      "hook": "Alien: Isolation 2 is real — official trailer dropped.",
-      "caption": "Alien: Isolation 2 got its official reveal at Summer Game Fest 2026, Geoff Keighley hosting. The sequel horror fans waited a decade for. Found before the timeline.",
+      "hook": "Assassin's Creed Black Flag is getting resynced",
+      "caption": "AC Black Flag Resynced lands July 9 on PS5 and Xbox — the pirate era, back. If Black Flag was your favorite Assassin's Creed, mark the date. Caught before the timeline.",
       "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "banner",
       "triggers": [
-        "cult sequel",
-        "awe",
-        "named IP reveal"
-      ]
+        "Assassin's Creed",
+        "Black Flag",
+        "remaster",
+        "release date"
+      ],
+      "bestPlatform": "bluesky",
+      "format": "tabloid"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-15.png",
-      "keep": false,
-      "score": 4,
+      "keep": true,
+      "score": 8,
       "lane": "gaming",
-      "hook": "Why live-service games hit a \"maintenance\" wall",
-      "caption": "A decent thought on the live-service lifecycle, but the snippet cuts off before the actual insight lands. No payoff on the card, so it reads flat.",
+      "hook": "The Shadow of the Colossus creator's new game is Xbox-first",
+      "caption": "Fumito Ueda — ICO, Shadow of the Colossus, The Last Guardian — just revealed gen ATLAS, an open-world action-adventure coming first to Xbox. This is the reveal my feed kept.",
       "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "minimal",
       "triggers": [
-        "truncated",
-        "no payoff",
-        "weak hook"
-      ]
+        "Fumito Ueda",
+        "Shadow of the Colossus",
+        "gen ATLAS",
+        "Xbox exclusive"
+      ],
+      "bestPlatform": "bluesky",
+      "format": "banner"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-16.png",
-      "keep": true,
-      "score": 7,
-      "lane": "gaming",
-      "hook": "Valve just gave Half-Life: Alyx official mod tools.",
-      "caption": "Valve dropped Workshop tools for Half-Life: Alyx and added Linux support. The VR classic is now fully moddable. The dev-native drop my feed keeps and the algo skips.",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "Nintendo isn't the good guy fans think it is",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "splitProof",
       "triggers": [
-        "Valve named entity",
-        "moddable/FOSS angle",
-        "Linux support"
-      ]
+        "Nintendo",
+        "fan discourse"
+      ],
+      "bestPlatform": "bluesky",
+      "format": "quote"
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-17.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "gaming",
-      "hook": "Sony is killing physical discs on every PS5 game by 2028",
-      "caption": "Sony's ending disc production for all PS5 games by 2028. Layoffs, Hollywoodification, no ownership. The industry take my feed surfaced before the timeline caught it.",
-      "stance": "Ending physical discs isn't progress, it's revoking ownership from the people who kept gaming alive.",
+      "hook": "A trillion-dollar company just gutted its gamers",
+      "caption": "A trillion-dollar company btw. The people making gaming decisions aren't even gamers anymore, and the industry's feeling it. Raw take my feed pulled before the timeline buried it.",
+      "stance": "The biggest threat to games isn't AI — it's non-gamers running gaming companies.",
       "bestPlatform": "bluesky",
-      "format": "tabloid",
+      "format": "quote",
       "triggers": [
         "mild-outrage",
-        "cult-entity-PlayStation",
-        "painpoint-ownership"
+        "contrarian-stance",
+        "cult-entity"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-18.png",
-      "keep": true,
-      "score": 7,
+      "keep": false,
+      "score": 2,
       "lane": "gaming",
-      "hook": "PlayStation and Xbox will drown in AI slop. Nintendo and PC won't.",
-      "caption": "The call: Sony and MS push AI slop until it stops paying, then die; Nintendo and PC just keep doing their thing. Sharp industry take my feed kept from the noise.",
-      "stance": "The console generation is over. Nintendo and PC are the only survivors left standing.",
+      "hook": "Gaming news has sucked for a week straight",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "quote",
-      "triggers": [
-        "hard-contrarian-stance",
-        "cult-entities-Nintendo-Sony-Xbox",
-        "surprise"
-      ]
+      "format": "minimal",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-19.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "gaming",
-      "hook": "Call of Duty: Modern Warfare 4 just got its reveal trailer",
-      "caption": "MW4 is real: 'Warfare without limits,' PS5, October 23 2026. The reveal that hit my feed before the hype cycle. Every platform, one feed, zero noise.",
-      "stance": "",
+      "hook": "PlayStation kills game discs in January 2028",
+      "caption": "PlayStation stops making physical discs in Jan 2028 — and the industry is not taking it well. If you still own your games, this one's for you. Caught it before the timeline did.",
+      "stance": "Digital-only means you never actually own the games you paid for.",
       "bestPlatform": "bluesky",
-      "format": "banner",
+      "format": "tabloid",
       "triggers": [
-        "cult-entity-Call-of-Duty",
-        "breaking-news",
-        "reveal-hype"
+        "surprise",
+        "contrarian-stance",
+        "cult-entity"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-20.png",
       "keep": false,
       "score": 3,
-      "lane": "reject",
-      "hook": "SGDQ says touch grass and watch the World Cup",
+      "lane": "gaming",
+      "hook": "Xbox hit with major layoffs and studio spin-offs",
       "caption": "",
       "stance": "",
       "bestPlatform": "bluesky",
-      "format": "minimal",
-      "triggers": [
-        "off-niche-sports"
-      ]
+      "format": "tabloid",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-21.png",
       "keep": true,
       "score": 8,
-      "lane": "ai",
-      "hook": "This AI turns a text prompt into a playable 2D/3D game. No code.",
-      "caption": "Seele AI: type a prompt, get a playable game, zero coding. A generative engine built for game dev, not just chat. The frontier drop my feed caught on launch day.",
-      "stance": "Prompt-to-playable-game is the moment AI stops assisting devs and starts replacing the toolchain.",
-      "bestPlatform": "mastodon",
-      "format": "splitProof",
+      "lane": "gaming",
+      "hook": "Xbox just cut 3,200 people — its biggest ever",
+      "caption": "3,200 gone across FY27, 1,600 today — the biggest restructure in Xbox history. Compulsion and Double Fine spun off, Ninja Theory sold. The numbers my feed surfaced before the headlines.",
+      "stance": "Record profits and record layoffs in the same quarter tells you who games are really for.",
+      "bestPlatform": "x",
+      "format": "bigStat",
       "triggers": [
-        "frontier-AI",
-        "cult-entity-ShowHN",
-        "surprise-awe"
+        "surprise",
+        "mild-outrage",
+        "cult-entity"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-22.png",
-      "keep": true,
-      "score": 8,
-      "lane": "gaming",
-      "hook": "Fumito Ueda's next game is an Xbox open-world exclusive: gen ATLAS",
-      "caption": "The mind behind ICO and Shadow of the Colossus goes open-world on Xbox with gen ATLAS. The reveal my feed surfaced before the timeline lost its mind.",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "banner",
-      "triggers": [
-        "cult-creator-Fumito-Ueda",
-        "reveal-hype",
-        "awe"
-      ]
+      "bestPlatform": "mastodon",
+      "format": "minimal",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-23.png",
       "keep": true,
       "score": 8,
       "lane": "gaming",
-      "hook": "The Xenomorph is back: Alien Isolation 2 just got revealed",
-      "caption": "Alien Isolation 2 is official at Summer of Gaming. Get stalked by the Xenomorph again. The reveal my feed caught the second it dropped, before the timeline noise.",
-      "stance": "",
+      "hook": "Suits call it 'a transformation.' Devs call it a fire.",
+      "caption": "Content creators: 'no worries, it's just a transformation.' Actual devs: 'the industry is ON FIRE, who makes the games now?' The gap between spin and reality my feed keeps.",
+      "stance": "'Transformation' is corporate for 'we fired the people who make the thing.'",
       "bestPlatform": "bluesky",
-      "format": "banner",
+      "format": "splitProof",
       "triggers": [
-        "cult-entity-Alien-Isolation",
-        "reveal-hype",
-        "surprise"
+        "mild-outrage",
+        "contrarian-stance",
+        "emotion"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-24.png",
-      "keep": true,
-      "score": 7,
+      "keep": false,
+      "score": 3,
       "lane": "gaming",
-      "hook": "Consoles have been dead since the late 80s. PC just won.",
-      "caption": "The take: there's already a huge base on owned hardware and 'okay' PC rigs. Focus there. Console generations are basically over. The hot take my feed kept from the noise.",
-      "stance": "Console generations have been dead since the late 80s; the install base was always the real platform.",
+      "hook": "An edit that nails how absurd gaming got",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "quote",
-      "triggers": [
-        "hard-contrarian-stance",
-        "surprise",
-        "PC-master-race"
-      ]
+      "format": "minimal",
+      "triggers": []
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-25.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "gaming",
-      "hook": "State of Decay 3 is real — and it's coming 2027",
-      "caption": "State of Decay 3 got its gameplay reveal at Xbox Games Showcase 2026. Build, scavenge, survive the horde — PS5, Steam, Xbox in 2027. Reveal my feed caught before the timeline did.",
-      "stance": "",
+      "hook": "New Metroid leaked from a Brazilian ratings board",
+      "caption": "New Metroid leaked from a Brazilian ratings board. \"Ravenous\" surfaced before any official reveal. Rating filings always leak first — the stuff my feed catches before the trailer drops.",
+      "stance": "Ratings boards leak more games than Nintendo ever announces on purpose.",
       "bestPlatform": "bluesky",
-      "format": "banner",
+      "format": "tabloid",
       "triggers": [
-        "cult-loved-franchise",
-        "surprise-reveal",
-        "specific-entity"
+        "Metroid",
+        "leak",
+        "ratings board"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-26.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "gaming",
-      "hook": "Microsoft just laid off 4,800 people in one day",
-      "caption": "Double Fine, Compulsion — gone in a single round of Microsoft layoffs. \"AAA gaming is killing the industry\" isn't a hot take anymore, it's the news. The signal my feed surfaces before it trends.",
-      "stance": "AAA studios keep shipping bigger budgets and thinner margins — the layoffs are the business model, not the accident.",
+      "hook": "Aliens: Fireteam Elite 2 is officially real",
+      "caption": "Aliens: Fireteam Elite 2 is officially real. Cold Iron and Daybreak revealed it as IGN's cover story. If you loved the co-op original, this one's for you — found before the timeline.",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "tabloid",
+      "format": "banner",
       "triggers": [
-        "mild-outrage",
-        "named-studios",
-        "industry-shift"
+        "Aliens",
+        "Fireteam Elite 2",
+        "reveal"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-27.png",
-      "keep": true,
-      "score": 8,
-      "lane": "gaming",
-      "hook": "PlayStation stops making game discs in January 2028",
-      "caption": "Sony is killing physical PS5 discs by 2028 — and gamers are not taking it well. If you own games, you're about to only license them. Caught this one before the timeline melted down.",
-      "stance": "No discs means no ownership — your library becomes a subscription Sony can revoke.",
-      "bestPlatform": "x",
-      "format": "tabloid",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "bluesky",
+      "format": "minimal",
       "triggers": [
-        "ownership-anxiety",
-        "PlayStation",
-        "contrarian-stance"
+        "red ring meme",
+        "generic"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-28.png",
-      "keep": true,
-      "score": 7,
-      "lane": "gaming",
-      "hook": "Xbox studios are next on the chopping block",
-      "caption": "Every leak points to Xbox studio cuts next week, while PlayStation scrambles for cover. Gaming's never been better in your hands and a shambles behind the scenes. The take my feed kept.",
-      "stance": "The best era to be a player is the worst era to make games — that gap is the whole story.",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
       "bestPlatform": "bluesky",
-      "format": "quote",
+      "format": "minimal",
       "triggers": [
-        "insider-leak",
-        "contrast",
-        "Xbox"
+        "shitpost",
+        "off-niche joke"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-29.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "gaming",
-      "hook": "You're not nostalgic — the new games are just worse",
-      "caption": "Everyone \"playing older games\" isn't nostalgia — it's a verdict on the modern industry, not the old classics. Sharp take my feed pulled out of the noise before it blew up.",
-      "stance": "Retro revival is a review of 2026, not a love letter to 2010.",
-      "bestPlatform": "bluesky",
-      "format": "quote",
+      "hook": "Sony's PS disc factory is already being repurposed",
+      "caption": "Sony's PS disc factory is already being repurposed, and Microsoft's lining up buyers for Xbox studios. Physical media and the console era are quietly ending — the signal my feed keeps.",
+      "stance": "The disc era is over and nobody's holding a funeral.",
+      "bestPlatform": "x",
+      "format": "tabloid",
       "triggers": [
-        "reframe",
-        "you-language",
-        "contrarian-stance"
+        "PlayStation",
+        "Xbox",
+        "physical media"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-30.png",
-      "keep": true,
-      "score": 6,
-      "lane": "gaming",
-      "hook": "A first-person liminal horror game from Studio Noori",
-      "caption": "Farsight got its reveal trailer at the Horror Game Awards 2026 — first-person liminal horror from Studio Noori. If backrooms dread is your thing, this one's for you. Found before the timeline.",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "bluesky",
-      "format": "banner",
+      "bestPlatform": "mastodon",
+      "format": "minimal",
       "triggers": [
-        "niche-genre",
-        "reveal-trailer",
-        "specific-studio"
+        "Tuta joke",
+        "off-niche"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-31.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "gaming",
-      "hook": "Consoles feel like they're dying — indie is thriving",
-      "caption": "The console industry looks like it's collapsing, but older titles and indie are THRIVING. Not doomer, just where the life moved. The nuanced take my feed keeps when the timeline only screams.",
-      "stance": "Gaming isn't dying — the AAA console model is, and indie is eating what's left.",
+      "hook": "\"Indie gaming will save the industry\" is a myth",
+      "caption": "\"Indie gaming will save the industry\" is a myth, and one dev just said it out loud. The comforting takes rarely survive scrutiny. The contrarian threads my feed keeps before they blow up.",
+      "stance": "Indies are a genre, not a rescue plan for a $200B industry.",
       "bestPlatform": "bluesky",
       "format": "quote",
       "triggers": [
-        "contrast",
-        "indie",
-        "hope-vs-doom"
+        "indie games",
+        "hot take",
+        "industry"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-gaming-intelligence-fe/card-32.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "gaming",
-      "hook": "Xbox cut 3,200 jobs and 4 studios — Arkane may be next",
-      "caption": "Compulsion, Double Fine, Ninja Theory, Undead Labs — all out. Xbox laid off 3,200 and Arkane's future looks grim. If you loved Dishonored, read this. Caught before the timeline noticed.",
-      "stance": "Microsoft bought these studios to kill competitors, not to ship their games.",
-      "bestPlatform": "mastodon",
-      "format": "tabloid",
+      "hook": "15 biggest game reveals from July 2026, in one place",
+      "caption": "15 biggest game reveals from July 2026, in one place. Every major announcement and gameplay drop from the past few weeks. Skip the doomscroll — the roundup my feed built for you.",
+      "stance": "",
+      "bestPlatform": "bluesky",
+      "format": "banner",
       "triggers": [
-        "named-studios",
-        "mild-outrage",
-        "Arkane"
+        "game reveals",
+        "2026",
+        "trailers"
       ]
     }
   ]

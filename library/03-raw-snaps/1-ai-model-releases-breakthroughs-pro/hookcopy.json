@@ -1,50 +1,52 @@
 {
-  "feed": "AI model releases + breakthroughs",
+  "feed": "AI model releases",
   "slug": "1-ai-model-releases-breakthroughs-pro",
   "cards": [
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-01.png",
       "keep": true,
-      "score": 6,
+      "score": 7,
       "lane": "ai",
-      "hook": "AI model releases went from yearly to monthly",
-      "caption": "AI model releases used to be yearly events. Now it's every month. Blink and you miss a frontier launch — this is the release cadence my feed keeps for you.",
-      "stance": "The release cycle is collapsing faster than anyone can keep up with.",
-      "bestPlatform": "x",
-      "format": "quote",
+      "hook": "Two AI labs are pulling away. Three are stalling.",
+      "caption": "Two labs are pulling away. Three are stalling. Frontier release cadence, actually charted with methodology. This is the signal my feed keeps while the timeline argues vibes.",
+      "stance": "Release cadence, not benchmarks, is the real leaderboard now.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
       "triggers": [
-        "surprise",
-        "release-cadence"
+        "contrast",
+        "cult-entities",
+        "data-proof"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-02.png",
       "keep": true,
-      "score": 6,
+      "score": 7,
       "lane": "ai",
-      "hook": "Monthly frontier models will force the whole industry faster",
-      "caption": "Monthly frontier releases don't just ship models — they drag every lab into a faster loop. The pace is unbelievable. This is the AI signal my feed keeps before the timeline catches on.",
-      "stance": "Monthly cadence is the new baseline — yearly labs are already behind.",
+      "hook": "Meta is shipping a commercial AI model to catch its rivals.",
+      "caption": "Meta is going commercial to catch OpenAI and Google. The open-weights champion wants your money now. Caught this before the timeline had takes on it.",
+      "stance": "Meta abandoning free-and-open was inevitable the moment it fell behind.",
       "bestPlatform": "x",
-      "format": "quote",
+      "format": "tabloid",
       "triggers": [
-        "awe",
-        "pace"
+        "surprise",
+        "cult-entities",
+        "mild-outrage"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-03.png",
       "keep": true,
-      "score": 7,
+      "score": 6,
       "lane": "ai",
-      "hook": "The AI race isn't about building anymore — it's about speed",
-      "caption": "The AI race stopped being about who builds — it's now about who improves faster than everyone else. Innovation is continuous, not occasional. The take my feed kept before the noise buried it.",
-      "stance": "Whoever iterates fastest wins — building the model is table stakes now.",
+      "hook": "Every 2024 AI model release on one scrollable timeline.",
+      "caption": "Every 2024 AI model release on one scrollable timeline. The year the pace broke your brain, laid out flat. The kind of thing my feed surfaces before you go looking.",
+      "stance": "",
       "bestPlatform": "mastodon",
-      "format": "quote",
+      "format": "banner",
       "triggers": [
-        "contrarian",
-        "AI-race"
+        "curiosity",
+        "cult-entities"
       ]
     },
     {
@@ -56,25 +58,25 @@
       "caption": "",
       "stance": "",
       "bestPlatform": "x",
-      "format": "minimal",
+      "format": "tabloid",
       "triggers": [
-        "crypto-speculation",
-        "personal-watchlist"
+        "broken-link"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-05.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "ai",
-      "hook": "Markets give GPT-5.6 a 90% chance of shipping by July 31",
-      "caption": "Prediction markets are now pricing model launches: 90% odds GPT-5.6 ships by July 31. You can literally bet on the frontier now. The kind of signal my feed catches before your timeline.",
-      "stance": "When people bet real money on release dates, hype became a market.",
+      "hook": "Alibaba says its new model beats DeepSeek.",
+      "caption": "Alibaba says its new model beats DeepSeek. China's model war just got a second front, and the West isn't in this fight. The release my feed flagged before the timeline noticed.",
+      "stance": "The real frontier race is now Alibaba vs DeepSeek, not OpenAI vs Google.",
       "bestPlatform": "x",
-      "format": "bigStat",
+      "format": "tabloid",
       "triggers": [
-        "bigStat",
-        "prediction-market"
+        "contrast",
+        "cult-entities",
+        "surprise"
       ]
     },
     {
@@ -82,62 +84,63 @@
       "keep": true,
       "score": 8,
       "lane": "ai",
-      "hook": "The US-China frontier model gap just closed to 2.7%",
-      "caption": "Stanford's 2026 AI Index says the US-China frontier gap effectively closed — top models now trade leads within ~2.7%. The lead everyone assumed is basically gone. Found in my feed before the timeline.",
-      "stance": "The US AI lead is a rounding error now, not a moat.",
-      "bestPlatform": "mastodon",
-      "format": "bigStat",
+      "hook": "OpenAI delayed a model release after a request from the Trump administration.",
+      "caption": "OpenAI staggered its GPT-5.6 preview after a Trump administration request. Model releases are national policy now. Found this before the timeline turned it into a war.",
+      "stance": "Frontier releases now clear political review before they clear you.",
+      "bestPlatform": "x",
+      "format": "tabloid",
       "triggers": [
         "mild-outrage",
-        "US-China",
-        "bigStat"
+        "cult-entities",
+        "surprise"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-07.png",
       "keep": true,
-      "score": 6,
+      "score": 7,
       "lane": "ai",
-      "hook": "Frontier models now ship like continuous deployment",
-      "caption": "Monthly frontier releases mean AI shipping now feels like CD — always-on, never a finished version. The release rhythm changed and most people missed it. The stuff my feed keeps for you.",
-      "stance": "There's no 'latest model' anymore — just the current commit.",
-      "bestPlatform": "bluesky",
+      "hook": "Grok predicts AI takeoff with 4-7 more algorithmic leaps.",
+      "caption": "Grok says takeoff is close: 4-7 more algorithmic OOMs, then AI automates its own research. Math, code, robotics compound from there. The kind of take my feed keeps.",
+      "stance": "Recursive self-improvement isn't sci-fi anymore, it's a roadmap.",
+      "bestPlatform": "x",
       "format": "quote",
       "triggers": [
-        "surprise",
-        "continuous-deployment"
+        "awe",
+        "cult-entities",
+        "contrarian"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-08.png",
       "keep": true,
-      "score": 6,
+      "score": 7,
       "lane": "ai",
-      "hook": "What's actually inside OpenAI's o1? HN is trying to reverse-engineer it",
-      "caption": "OpenAI shipped o1 and now Hacker News is dissecting the secret sauce behind its reasoning. Everyone wants to know what makes it tick. This is the thread my feed pulled before it scrolled away.",
+      "hook": "Altman: OpenAI's next big model, Orion, ships by December.",
+      "caption": "Altman teased it: Orion, OpenAI's next big model, lands by December. The Q4 release everyone will be arguing about. You saw it here before the timeline did.",
       "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "banner",
+      "bestPlatform": "bluesky",
+      "format": "tabloid",
       "triggers": [
+        "cult-entities",
         "curiosity",
-        "o1",
-        "reverse-engineer"
+        "anticipation"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-09.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "ai",
-      "hook": "They trained a frontier model with 11x less compute.",
-      "caption": "They trained a frontier model with 11x less compute. Not a bigger GPU pile - just low-level optimization. The efficiency race is the real race. Found before the timeline noticed.",
-      "stance": "The compute moat is thinner than the trillion-dollar capex bets assume.",
+      "hook": "Meta's new model transcribes + translates 100 languages",
+      "caption": "Meta's new model transcribes AND translates close to 100 languages. One model, not a dozen. The releases that matter get buried in an hour — this is the stuff my feed keeps.",
+      "stance": "The multilingual arms race is where the next moat is, not chatbots.",
       "bestPlatform": "mastodon",
-      "format": "bigStat",
+      "format": "tabloid",
       "triggers": [
-        "surprise",
-        "contrarian-stance",
-        "named-entity"
+        "names Meta / SeamlessM4T",
+        "specific 100-language claim",
+        "release news"
       ]
     },
     {
@@ -145,119 +148,128 @@
       "keep": true,
       "score": 7,
       "lane": "ai",
-      "hook": "A brain-like AI that runs 100x faster than normal models.",
-      "caption": "A brain-like AI that runs 100x faster than standard models - and holds accuracy, researchers say. If it survives replication, inference economics flip overnight. The stuff my feed keeps.",
-      "stance": "Neuromorphic quietly beats the GPU-scaling crowd on the metric that pays: speed per watt.",
-      "bestPlatform": "x",
-      "format": "bigStat",
+      "hook": "A bot swarm scraped GitHub for AI training data",
+      "caption": "For 12 hours GitHub got hammered by a massive bot/AI scraping attack. Everyone's code. Your code. The training-data land grab is getting ugly — found this before the timeline caught up.",
+      "stance": "Every public repo is already someone's training set. You just weren't told.",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
       "triggers": [
-        "awe",
-        "surprise",
-        "reply-inviting"
+        "GitHub named",
+        "'Everyone's code' gut-punch",
+        "scraping outrage"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-11.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "ai",
-      "hook": "Verify a 13B model's output in 15 minutes - with zero-knowledge proofs.",
-      "caption": "ZkML just verified a 13B model in 15 minutes. That means you can prove an AI ran honestly without trusting the host. Trustless inference is coming. Found before the timeline noticed.",
-      "stance": "Verifiable ML matters more than any new benchmark score - trust is the real bottleneck.",
-      "bestPlatform": "mastodon",
-      "format": "splitProof",
+      "hook": "She broke the AI-sentience story 5 months before ChatGPT",
+      "caption": "Four years ago she broke the Blake Lemoine 'sentient AI' story — 5 months before ChatGPT existed. Now Anthropic, Google and Meta hire scientists to study it. The threads that age well, kept.",
+      "stance": "The guy everyone mocked in 2022 was early, not wrong.",
+      "bestPlatform": "bluesky",
+      "format": "banner",
       "triggers": [
-        "surprise",
-        "named-entity",
-        "contrarian-stance"
+        "Lemoine + Anthropic/Google named",
+        "'5 months before ChatGPT' contrast",
+        "consciousness intrigue"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-12.png",
-      "keep": false,
-      "score": 3,
+      "keep": true,
+      "score": 8,
       "lane": "ai",
-      "hook": "China's new AI model breakthrough.",
-      "caption": "",
-      "stance": "",
+      "hook": "Companies are making Claude talk like a caveman to save tokens",
+      "caption": "Companies are tuning AI to talk like a terse caveman, not a polite chatbot — on purpose, to stop burning tokens. Every 'please' costs money now. The weird AI economics my feed catches.",
+      "stance": "Politeness in prompts is a line item, and it's getting cut.",
       "bestPlatform": "x",
-      "format": "minimal",
-      "triggers": []
+      "format": "quote",
+      "triggers": [
+        "Claude named",
+        "'caveman' visual",
+        "token-cost angle"
+      ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-13.png",
       "keep": true,
-      "score": 9,
+      "score": 7,
       "lane": "ai",
-      "hook": "DeepSeek's $5-6M training cost is bogus, this analyst says.",
-      "caption": "Everyone cheered DeepSeek's $5-6M price tag. This analyst calls the number bogus - and it moved US AI stocks. Read the claim before you repeat it. The stuff my feed keeps.",
-      "stance": "The DeepSeek 'cheap' narrative was a market event dressed up as a research result.",
+      "hook": "The US government asked OpenAI to slow down a release",
+      "caption": "The US government asked OpenAI to stagger an AI model release. Regulators are now in the launch calendar. This is where the real fight moves — caught before the timeline noticed.",
+      "stance": "Model release dates are becoming a policy negotiation, not an engineering call.",
       "bestPlatform": "x",
       "format": "tabloid",
       "triggers": [
-        "mild-outrage",
-        "contrarian-stance",
-        "named-entity"
+        "OpenAI + US Government named",
+        "regulatory-friction hook",
+        "Bloomberg source"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-14.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "ai",
-      "hook": "The government wants a say in who gets new AI models first.",
-      "caption": "OpenAI limited its new flagship, then said Washington deciding who gets early access shouldn't 'become the long-term default.' Who gates frontier models is now a policy fight. Found before the timeline.",
-      "stance": "Access to frontier models is becoming political infrastructure, not a product decision.",
-      "bestPlatform": "x",
+      "hook": "Meta built an AI model that grades other AI models' work",
+      "caption": "Meta released an AI model whose job is checking other AI models' work. AI reviewing AI. The self-supervising loop starts here — the releases my feed keeps before they scroll away.",
+      "stance": "The next models won't be trained by humans — they'll be graded by other models.",
+      "bestPlatform": "mastodon",
       "format": "tabloid",
       "triggers": [
-        "mild-outrage",
-        "named-entity",
-        "surprise"
+        "Meta named",
+        "'AI checks AI' twist",
+        "release news"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-15.png",
       "keep": true,
-      "score": 8,
+      "score": 6,
       "lane": "ai",
-      "hook": "Matrix multiplication just got its biggest speedup in 50 years.",
-      "caption": "The math at the heart of every AI model - matrix multiplication - just saw its biggest boost in over a decade. Faster matmul means cheaper training for everyone. The stuff my feed keeps.",
-      "stance": "The real AI gains come from math nobody tweets about, not the next chatbot demo.",
-      "bestPlatform": "mastodon",
-      "format": "banner",
+      "hook": "AI sovereignty is now a hardware problem, not a software one",
+      "caption": "AI sovereignty just became a hardware problem — Huawei's 100x scaling roadmap signals who owns the chips owns the models. The economics story under the hype, kept by my feed.",
+      "stance": "Whoever controls the silicon controls the AI, and it isn't the US by default.",
+      "bestPlatform": "x",
+      "format": "quote",
       "triggers": [
-        "awe",
-        "surprise",
-        "named-entity"
+        "Huawei + 100x named",
+        "sovereignty/chip angle",
+        "contrarian economics"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-16.png",
       "keep": false,
-      "score": 4,
-      "lane": "ai",
-      "hook": "A quantum-inspired invention to keep AI training from outrunning hardware.",
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
       "caption": "",
       "stance": "",
       "bestPlatform": "mastodon",
       "format": "minimal",
-      "triggers": []
+      "triggers": [
+        "vague Medium blog title",
+        "no verifiable claim or entity",
+        "clickbait with no payoff"
+      ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-17.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "ai",
-      "hook": "DeepSeek's next breakthrough is already racing the labs",
-      "caption": "DeepSeek's next AI breakthrough is here — and China just blocked Meta's $2B grab for AI startup Manus. The model race is a geopolitics race now. Found before the timeline caught up.",
-      "stance": "The frontier model race stopped being about compute and became about who controls the labs.",
+      "hook": "Google's Genie can generate games. Game stocks just dropped.",
+      "caption": "Google's Genie can generate playable worlds from a prompt — and videogame stocks slid the same day. The market is pricing in AI. Found before the timeline caught it.",
+      "stance": "Generative game models are a bigger threat to studios than anyone's admitting.",
       "bestPlatform": "x",
       "format": "tabloid",
       "triggers": [
-        "cult-entity:DeepSeek",
-        "mild-outrage",
-        "geopolitics-contrast"
+        "Google",
+        "Genie",
+        "stock drop",
+        "games"
       ]
     },
     {
@@ -265,239 +277,230 @@
       "keep": true,
       "score": 8,
       "lane": "ai",
-      "hook": "DeepSeek's new training method may break the scaling wall",
-      "caption": "Everyone says scaling is dead. DeepSeek opened 2026 with a training method analysts call a real scaling breakthrough. If it holds, the ceiling just moved. The stuff my feed keeps.",
-      "stance": "'Scaling is over' was a cope — DeepSeek just found the next rung.",
+      "hook": "Alibaba just dropped 100+ open-source AI models at once.",
+      "caption": "Alibaba shipped over 100 new open-source AI models in one move — text, image, the works. The open-weight race isn't slowing down. The stuff my feed keeps.",
+      "stance": "The best open models won't come from the West.",
       "bestPlatform": "mastodon",
-      "format": "splitProof",
+      "format": "bigStat",
       "triggers": [
-        "cult-entity:DeepSeek",
-        "contrarian-scaling",
-        "surprise"
+        "Alibaba",
+        "open-source",
+        "100 models",
+        "China AI"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-19.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "science",
-      "hook": "A new tool makes generative AI invent real breakthrough materials",
-      "caption": "MIT's SCIGEN lets researchers force design rules into generative models — so the AI stops hallucinating and starts proposing materials that actually work. AI as a discovery engine, not a chatbot. Found before the timeline.",
-      "stance": "The real AI breakthrough isn't chat — it's models that obey physics and discover new matter.",
+      "hook": "NASA and IBM built an AI model for weather and climate.",
+      "caption": "NASA teamed with IBM Research on a foundation model for weather and climate — open science, real forecasts. AI for the planet, not just chatbots. Found before the timeline.",
+      "stance": "",
       "bestPlatform": "mastodon",
-      "format": "splitProof",
+      "format": "banner",
       "triggers": [
-        "cult-entity:MIT",
-        "awe",
-        "science-utility"
+        "NASA",
+        "IBM",
+        "climate model",
+        "weather AI"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-20.png",
       "keep": true,
-      "score": 7,
+      "score": 8,
       "lane": "ai",
-      "hook": "DeepSeek just shipped a new flagship — a year after upending the Valley",
-      "caption": "One year after DeepSeek rattled Silicon Valley, it dropped a new flagship model. The cheap-and-good challenger isn't a fluke anymore — it's a pattern. The stuff my feed keeps.",
-      "stance": "DeepSeek wasn't a one-off shock — it's the new baseline the Valley has to beat.",
+      "hook": "White House just lifted its export ban on Anthropic's AI.",
+      "caption": "Weeks after freezing foreign access, the White House reversed course on exporting Anthropic's advanced models. AI policy is whiplash right now. The stuff my feed keeps.",
+      "stance": "AI export controls are being written and rewritten faster than the models ship.",
       "bestPlatform": "x",
       "format": "tabloid",
       "triggers": [
-        "cult-entity:DeepSeek",
-        "contrast-underdog",
-        "surprise"
+        "White House",
+        "Anthropic",
+        "export control",
+        "policy"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-21.png",
       "keep": true,
-      "score": 8,
+      "score": 7,
       "lane": "ai",
-      "hook": "The US just cleared Anthropic to release a model it had blocked",
-      "caption": "The US government reversed an export block and let Anthropic ship its Mythos model to select orgs — after national-security fears froze it. Frontier releases now clear govt, not just eval. Found before the timeline.",
-      "stance": "Model launches are becoming export decisions — your next release ships when Washington says so.",
-      "bestPlatform": "x",
-      "format": "tabloid",
+      "hook": "Alibaba's Qwen models target Meta's Llama 2 directly.",
+      "caption": "Qwen-7B and Qwen-7B-Chat dropped to rival Llama 2 — 21k stars and climbing. The open-weight fight is getting crowded. Found before the timeline.",
+      "stance": "Llama's open-source lead is thinner than Meta wants you to think.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
       "triggers": [
-        "cult-entity:Anthropic",
-        "mild-outrage",
-        "policy-contrast"
+        "Qwen",
+        "Llama 2",
+        "Alibaba",
+        "open-weight"
       ]
     },
     {
       "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-22.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "The White House may vet AI models before you can use them.",
+      "caption": "A proposed rule would have the government review new AI models before public release. Pre-launch approval for code. What that means for open source is the real question. The stuff my feed keeps.",
+      "stance": "Government pre-review of models is a soft kill switch for open source.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "White House",
+        "AI regulation",
+        "pre-release review",
+        "policy"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-23.png",
+      "keep": true,
+      "score": 6,
+      "lane": "science",
+      "hook": "A new AI reads stress from your brain at 82.78% accuracy.",
+      "caption": "A Riemannian Manifold Attention Network hit 82.78% accuracy detecting stress from EEG signals — beating prior benchmarks. Brain-reading AI is quietly getting good. Found before the timeline.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "bigStat",
+      "triggers": [
+        "EEG",
+        "stress detection",
+        "82.78%",
+        "neuro AI"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-24.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "You've been renting your AI. This is what owning it looks like.",
+      "caption": "Osaurus runs local models: no account, no API key, no Electron, fully open source. You own the whole stack. This is the stuff my feed keeps.",
+      "stance": "If your AI needs an API key, you don't own it — you're renting.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "triggers": [
+        "local AI",
+        "open source",
+        "Osaurus",
+        "own your AI"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-25.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "The White House is writing rules for AI models",
+      "caption": "The White House is writing rules for AI models. Whatever ships next won't just be a release, it'll be a policy fight. The stuff my feed catches before the timeline does.",
+      "stance": "AI standards from the government will shape releases more than any lab does.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "policy",
+        "White House",
+        "AI standards"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-26.png",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-27.png",
       "keep": false,
       "score": 3,
       "lane": "reject",
       "hook": "",
       "caption": "",
       "stance": "",
-      "bestPlatform": "bluesky",
+      "bestPlatform": "x",
       "format": "minimal",
-      "triggers": [
-        "thin-source",
-        "zero-views",
-        "unverified-leak"
-      ]
+      "triggers": []
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-23.png",
-      "keep": true,
-      "score": 7,
-      "lane": "ai",
-      "hook": "Italy is shipping an open-source frontier model within a year",
-      "caption": "Domyn's CEO says Italy will release a fully open-source frontier AI model inside 12 months. The frontier isn't just US vs China anymore — Europe wants an open seat. The stuff my feed keeps.",
-      "stance": "Open-source is how everyone outside the US-China duopoly gets a frontier model at all.",
-      "bestPlatform": "mastodon",
-      "format": "tabloid",
-      "triggers": [
-        "open-source",
-        "geopolitics-contrast",
-        "underdog"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-24.png",
-      "keep": true,
-      "score": 7,
-      "lane": "ai",
-      "hook": "China trained one AI model across many data centers at once",
-      "caption": "Cut off from top GPUs, China trained a generative model across multiple data centers and mixed architectures — a distributed-training breakthrough. Constraint bred a new method. Found before the timeline.",
-      "stance": "Export bans didn't stop China — they forced the distributed-training trick everyone will copy.",
-      "bestPlatform": "mastodon",
-      "format": "splitProof",
-      "triggers": [
-        "geopolitics-contrast",
-        "constraint-innovation",
-        "surprise"
-      ]
-    },
-    {
-      "file": "card-25.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-28.png",
       "keep": false,
       "score": 3,
       "lane": "reject",
-      "hook": "One studio for every AI image model.",
-      "caption": "A unified AI studio that pulls image gen and model comparison into one place. Cool idea, but it's a Show HN self-promo, not a breakthrough. The stuff my feed filters out.",
+      "hook": "",
+      "caption": "",
       "stance": "",
-      "bestPlatform": "mastodon",
+      "bestPlatform": "x",
       "format": "minimal",
-      "triggers": [
-        "self-promo Show HN",
-        "not a real release or breakthrough",
-        "weak hook / no contrast"
-      ]
+      "triggers": []
     },
     {
-      "file": "card-26.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-29.png",
       "keep": false,
       "score": 2,
       "lane": "reject",
-      "hook": "AI evaluates a homemade logic framework.",
-      "caption": "Part 2 of an AI chat evaluating someone's self-coined 'Pan-Evolutionary Logic' system. Fringe, jargon-heavy, and only 1 like. Exactly the noise my feed drops before it reaches you.",
-      "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "minimal",
-      "triggers": [
-        "fringe crank framework",
-        "near-zero engagement",
-        "confusing jargon hook"
-      ]
-    },
-    {
-      "file": "card-27.png",
-      "keep": true,
-      "score": 8,
-      "lane": "science",
-      "hook": "AI models that never see your data.",
-      "caption": "Encryption breakthrough from NYU lets AI run on data it can never actually read. Private inference stops being a fantasy. This is the kind of research my feed surfaces before the timeline does.",
-      "stance": "Privacy-preserving AI won't come from policy — it'll come from cryptography that makes leaks impossible.",
-      "bestPlatform": "mastodon",
-      "format": "splitProof",
-      "triggers": [
-        "real research breakthrough",
-        "privacy painpoint you already have",
-        "named source NYU engineering"
-      ]
-    },
-    {
-      "file": "card-28.png",
-      "keep": false,
-      "score": 4,
-      "lane": "reject",
-      "hook": "Trump admin hand-picks who gets AI access.",
-      "caption": "Report claims the admin is choosing which companies get frontier model access. Big if real, but it reads as political drama over hallucinated model names. My feed keeps signal, cuts this.",
+      "hook": "",
+      "caption": "",
       "stance": "",
       "bestPlatform": "x",
-      "format": "tabloid",
-      "triggers": [
-        "political drama not tech",
-        "garbled/hallucinated model names",
-        "off-niche for tech audience"
-      ]
+      "format": "minimal",
+      "triggers": []
     },
     {
-      "file": "card-29.png",
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-30.png",
       "keep": true,
       "score": 8,
       "lane": "ai",
-      "hook": "Microsoft's CEO: AI giants can't eat the economy.",
-      "caption": "Nadella warns AI power is concentrating too fast — and hints Microsoft may host DeepSeek itself. When the biggest player calls for limits, pay attention. Found before the timeline caught it.",
-      "stance": "The people building the biggest AI moats are the first to admit the moats are dangerous.",
+      "hook": "Bettors give GPT-5.6 a 90% chance to ship by July 31",
+      "caption": "Polymarket gives GPT-5.6 a 90% chance to drop by July 31, but only 1% before June 30. The market is timing your next model before OpenAI announces it. Found before the timeline.",
+      "stance": "Prediction markets now leak release dates faster than the labs do.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "GPT-5.6",
+        "Polymarket",
+        "release odds"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-31.png",
+      "keep": true,
+      "score": 9,
+      "lane": "ai",
+      "hook": "The US-China frontier model gap is down to 2.7%",
+      "caption": "Stanford's 2026 AI Index says the US-China frontier gap has effectively closed, down to ~2.7% and Chinese models now trade the lead. The race you thought was settled isn't. The stuff my feed keeps.",
+      "stance": "The US lead in frontier models is basically a rounding error now.",
+      "bestPlatform": "mastodon",
+      "format": "bigStat",
+      "triggers": [
+        "Stanford HAI",
+        "US-China",
+        "frontier gap"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-32.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Frontier models now ship monthly, like continuous deployment",
+      "caption": "Monthly frontier releases mean AI has stopped shipping versions and started shipping like CI/CD. Blink and your stack is a generation behind. The stuff my feed keeps so you don't miss a drop.",
+      "stance": "Model releases are now a deploy cadence, not an event.",
       "bestPlatform": "x",
       "format": "quote",
       "triggers": [
-        "named cult entity Nadella/Microsoft",
-        "contrarian insider stance",
-        "DeepSeek hosting scoop"
-      ]
-    },
-    {
-      "file": "card-30.png",
-      "keep": true,
-      "score": 7,
-      "lane": "ai",
-      "hook": "The next AI leap isn't one giant model.",
-      "caption": "Argument that many small, specialized models orchestrated together beat one monolith. If true, it reshapes how you'll build with AI. The contrarian takes my feed keeps before they go big.",
-      "stance": "Scaling one giant model is hitting a wall — orchestrated small experts are the real frontier.",
-      "bestPlatform": "bluesky",
-      "format": "quote",
-      "triggers": [
-        "contrarian architecture stance",
-        "clear A-vs-B contrast",
-        "builder-relevant"
-      ]
-    },
-    {
-      "file": "card-31.png",
-      "keep": true,
-      "score": 8,
-      "lane": "ai",
-      "hook": "DeepSeek proved US chip sanctions have a ceiling.",
-      "caption": "Low-level optimizations let a Chinese lab do more with less silicon — exposing the limits of export bans. The efficiency race just changed shape. My feed caught this before the timeline did.",
-      "stance": "Compute bans don't stop progress — they force the optimizations that make bans pointless.",
-      "bestPlatform": "x",
-      "format": "splitProof",
-      "triggers": [
-        "named cult entity DeepSeek",
-        "geopolitics-meets-tech contrast",
-        "strong surprise stance"
-      ]
-    },
-    {
-      "file": "card-32.png",
-      "keep": false,
-      "score": 4,
-      "lane": "reject",
-      "hook": "A cleaner data-labeling tool for NLP.",
-      "caption": "Datasaur launches a labeling interface for NLP teams. Useful for practitioners, but it's a YC launch pitch, not a model release or breakthrough. The self-promo my feed screens out.",
-      "stance": "",
-      "bestPlatform": "mastodon",
-      "format": "minimal",
-      "triggers": [
-        "YC launch self-promo",
-        "niche tooling not a breakthrough",
-        "ad-shaped, not proof"
+        "continuous deployment",
+        "monthly releases",
+        "frontier"
       ]
     }
   ]

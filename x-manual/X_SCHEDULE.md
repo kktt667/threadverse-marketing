@@ -1,6 +1,6 @@
 # X — Manual Posting Schedule
 
-47 posts · 4/day · time-sensitive first (tabloid/drama/viral), then evergreen.
+70 posts · 4/day · time-sensitive first (tabloid/drama/viral), then evergreen.
 Each morning: open that day's images, copy the caption, attach the image, post.
 > Tip: put **threadverse.ai** in your X bio + a pinned comment; keep captions link-free for max reach.
 
@@ -13,65 +13,67 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 📋 Caption (copy):
 
-> Everyone cheered DeepSeek's $5-6M price tag. This analyst calls the number bogus - and it moved US AI stocks. Read the claim before you repeat it. The stuff my feed keeps. #Threadverse #AI
+> Anthropic says Mythos is too dangerous to ship freely — so it's teaming with rivals to secure it. A lab holding back its own model is the story of the year. Found before the timeline. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model
+🔗 source (optional, for a reply): https://youtube.com/watch?v=K0lYvhIo8Jw
 
 ---
 
-**#2** · 8/10 · tabloid · gaming
+**#2** · 8/10 · tabloid · crypto
 
-🖼️ `x-manual/images/002-gaming-tabloid.png`
+🖼️ `x-manual/images/002-crypto-tabloid.png`
 
 📋 Caption (copy):
 
-> New logo, charm offensive, big "reset" talk — and the actual news was layoffs, studio closures, and spin-offs. The story under the rebrand my feed caught first. #Threadverse #Gaming
+> Solana DeFi protocol OptiFi accidentally burned $661K to a code bug. Not a hack, not a rug, just a typo-tier mistake. The wild stuff my feed keeps before it trends. #Threadverse #Crypto
+
+🔗 source (optional, for a reply): https://www.coindesk.com/business/2022/08/30/solana-based-defi-protocol-optifi-loses-661k-in-programming-blunder
 
 ---
 
-**#3** · 8/10 · tabloid · crypto
+**#3** · 8/10 · tabloid · science
 
-🖼️ `x-manual/images/003-crypto-tabloid.png`
+🖼️ `x-manual/images/003-science-tabloid.png`
 
 📋 Caption (copy):
 
-> Aave, Uniswap and Balancer are blocking Tornado Cash wallets. "Permissionless" DeFi just picked a side. If you thought DeFi couldn't ban you, read this. The signal my feed keeps. #Threadverse #Crypto
+> Measuring a photon changes where it is. The 'spooky' experiment Einstein hated keeps winning. Found before the timeline caught on. #Threadverse #Feedreader
 
 ---
 
-**#4** · 9/10 · tabloid · ai
+**#4** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/004-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Anthropic's CEO: AI writes 100% of code within a year. Dario says in 12 months AI may write essentially all of it. If you ship code, that timeline changes your whole plan. Caught before the timeline. #Threadverse #AI
+> Alibaba says its new model beats DeepSeek. China's model war just got a second front, and the West isn't in this fight. The release my feed flagged before the timeline noticed. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=0j1HqEEDThc
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:bvdrfwiamgi5leqs63q2duro/post/3mptecgya5k2u
 
 ---
 
 ## 2026-07-06  (4 posts)
 
-**#5** · 8/10 · tabloid · gaming
+**#5** · 7/10 · tabloid · gaming
 
 🖼️ `x-manual/images/005-gaming-tabloid.png`
 
 📋 Caption (copy):
 
-> Sony is killing physical PS5 discs by 2028 — and gamers are not taking it well. If you own games, you're about to only license them. Caught this one before the timeline melted down. #Threadverse #Gaming
+> Xbox CEO Asha Sharma wants a billion people entertained daily — in the same memo about layoffs. The disconnect is the story. The stuff my feed catches, timelines gloss over. #Threadverse #Gaming
+
+🔗 source (optional, for a reply): https://meta.masto.host/@GamingNews/116873817534300452
 
 ---
 
-**#6** · 8/10 · splitProof · philosophy
+**#6** · 6/10 · tabloid · science
 
-🖼️ `x-manual/images/006-philosophy-splitProof.png`
+🖼️ `x-manual/images/006-science-tabloid.png`
 
 📋 Caption (copy):
 
-> AI companies are quietly buying the philosophy of AI, and the field has zero rules on disclosing it. A petition wants that fixed. Found before the timeline. #Threadverse #Philosophy
-
-🔗 source (optional, for a reply): https://docs.google.com/forms/d/e/1FAIpQLSf9TjX10ol44FrXR0dc1azlyzlbQqwiSL6R7DAUAFxhZ03cFg/viewform
+> CERN reports a new form of quantum superposition — one thing in two states at once, for real. Your intuition breaks, the math doesn't. The stuff my feed keeps over the memes. #Threadverse #Feedreader
 
 ---
 
@@ -81,33 +83,33 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 📋 Caption (copy):
 
-> OpenAI limited its new flagship, then said Washington deciding who gets early access shouldn't 'become the long-term default.' Who gates frontier models is now a policy fight. Found before the timeline. #Threadverse #AI
+> OpenAI staggered its GPT-5.6 preview after a Trump administration request. Model releases are national policy now. Found this before the timeline turned it into a war. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://www.reuters.com/technology/artificial-intelligence/meta-releases-ai-model-that-can-check-other-ai-models-work-2024-10-18/
+🔗 source (optional, for a reply): https://www.youtube.com/watch?v=lq2fP7wC7d8
 
 ---
 
-**#8** · 6/10 · tabloid · gaming
+**#8** · 7/10 · tabloid · gaming
 
 🖼️ `x-manual/images/008-gaming-tabloid.png`
 
 📋 Caption (copy):
 
-> Rumor: Sony is repurposing its PlayStation disc factory, and Microsoft is lining up buyers for Xbox studios.
-> 
-> The consoles-are-dying signal, surfaced in my feed early. #Threadverse #Gaming
+> Ex-Rocksteady leads reveal why Suicide Squad flopped. The people who built the Arkham games break down what went wrong on Kill the Justice League. The dev drama my feed surfaces first. #Threadverse #Gaming
+
+🔗 source (optional, for a reply): https://medium.com/@philippsandner/defi-fund-what-is-the-return-on-investing-in-10-defi-protocols-547d5340dc30
 
 ---
 
 ## 2026-07-07  (4 posts)
 
-**#9** · 8/10 · bigStat · crypto
+**#9** · 6/10 · tabloid · crypto
 
-🖼️ `x-manual/images/009-crypto-bigStat.png`
+🖼️ `x-manual/images/009-crypto-tabloid.png`
 
 📋 Caption (copy):
 
-> DeFi hacks cost investors $780M in Q2 alone — bridge exploits and key failures quietly eat your returns as a security tax. The risk your APY chart never shows you. #Threadverse #Crypto
+> Apple aside, the antitrust case says Amazon, Facebook and Google are (almost) all guilty. The platforms you build on are the ones on trial. Found before the timeline caught it. #Threadverse #Crypto
 
 ---
 
@@ -117,31 +119,31 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 📋 Caption (copy):
 
-> The US government reversed an export block and let Anthropic ship its Mythos model to select orgs — after national-security fears froze it. Frontier releases now clear govt, not just eval. Found before the timeline. #Threadverse #AI
+> Google's Genie can generate playable worlds from a prompt — and videogame stocks slid the same day. The market is pricing in AI. Found before the timeline caught it. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://github.com/QwenLM/Qwen
-
----
-
-**#11** · 8/10 · splitProof · gaming
-
-🖼️ `x-manual/images/011-gaming-splitProof.png`
-
-📋 Caption (copy):
-
-> Modern game enemies are brain-dead — and prettier graphics are why. You noticed it too. This is the sharp take my feed keeps instead of the review-score noise. #Threadverse #Gaming
-
-🔗 source (optional, for a reply): https://x.com/Excalibur7313/status/2072458708710224153
+🔗 source (optional, for a reply): https://k33g.org/20260705-pk-rust-expert.html
 
 ---
 
-**#12** · 8/10 · bigStat · crypto
+**#11** · 6/10 · tabloid · gaming
 
-🖼️ `x-manual/images/012-crypto-bigStat.png`
+🖼️ `x-manual/images/011-gaming-tabloid.png`
 
 📋 Caption (copy):
 
-> The Euler DeFi protocol got drained for ~$185M across four transactions in DAI and wrapped BTC. One flash-loan flaw, nine figures gone. This is the risk nobody prices in. Surfaced before the panic. #Threadverse #Crypto
+> Sony's PS disc factory is already being repurposed, and Microsoft's lining up buyers for Xbox studios. Physical media and the console era are quietly ending — the signal my feed keeps. #Threadverse #Gaming
+
+🔗 source (optional, for a reply): https://x.com/reborn_444/status/2073511147139969463
+
+---
+
+**#12** · 6/10 · tabloid · crypto
+
+🖼️ `x-manual/images/012-crypto-tabloid.png`
+
+📋 Caption (copy):
+
+> The DOJ's top antitrust cop says Big Tech now looks a lot like Standard Oil. When regulators reach for the monopoly playbook, your whole stack is in scope. The stuff my feed keeps. #Threadverse #Crypto
 
 ---
 
@@ -153,33 +155,29 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 📋 Caption (copy):
 
-> Anthropic says its new model, Mythos AI, is too powerful to ship publicly over cyber-safety concerns — tech access only. The kind of story my feed surfaces first. #Threadverse #AI
+> Weeks after freezing foreign access, the White House reversed course on exporting Anthropic's advanced models. AI policy is whiplash right now. The stuff my feed keeps. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=AfdDYu43Cy0
-
----
-
-**#14** · 7/10 · bigStat · gaming
-
-🖼️ `x-manual/images/014-gaming-bigStat.png`
-
-📋 Caption (copy):
-
-> 96% of indie games make almost nothing — most devs never see a payout. The number nobody wants on the store page. The stats my feed keeps before the hype buries them. #Threadverse #Gaming
-
-🔗 source (optional, for a reply): https://mastodon.social/@echoforge117/116873169116769996
+🔗 source (optional, for a reply): https://www.synestesia.uk/legacy/webbrain-browser-agent-automates-tasks-with-local-ai-model-1hjxpv7j3g
 
 ---
 
-**#15** · 7/10 · splitProof · philosophy
+**#14** · 9/10 · bigStat · science
 
-🖼️ `x-manual/images/015-philosophy-splitProof.png`
+🖼️ `x-manual/images/014-science-bigStat.png`
 
 📋 Caption (copy):
 
-> Is agnosticism a rigorous moral duty or a cop-out? A philosopher and scientist go 21 minutes on it — Huxley's survival tactic, Russell's teapot, the ethics of permanent doubt. The kind of debate my feed keeps. #Threadverse #Philosophy
+> "Negative time" is real: photons left a material before they finished entering it. Not a glitch, a measured result. The wait-what science my feed keeps and the noise it drops. #Threadverse #Feedreader
 
-🔗 source (optional, for a reply): https://youtu.be/Er0wVxJaodE
+---
+
+**#15** · 6/10 · tabloid · crypto
+
+🖼️ `x-manual/images/015-crypto-tabloid.png`
+
+📋 Caption (copy):
+
+> Everyone thought Facebook was the 800-pound gorilla. This argues Apple was the real monopoly all along. Contrarian take on who Big Tech antitrust should actually target. Found before the timeline. #Threadverse #Crypto
 
 ---
 
@@ -189,33 +187,33 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 📋 Caption (copy):
 
-> Alex Karp says the way AI is sold is completely broken — on CNBC, alongside the new Nvidia deal and frontier models. The spicy take my feed caught before the timeline. #Threadverse #AI
+> Anthropic's new Mythos model already has ex-founders raising alarms on CBS. When the builders get nervous, you pay attention. This is the signal my feed pulls before the noise buries it. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=0A3sGymV6kY
+🔗 source (optional, for a reply): https://youtube.com/watch?v=lUHQIwrqo-8
 
 ---
 
 ## 2026-07-09  (4 posts)
 
-**#17** · 7/10 · splitProof · crypto
+**#17** · 9/10 · bigStat · science
 
-🖼️ `x-manual/images/017-crypto-splitProof.png`
+🖼️ `x-manual/images/017-science-bigStat.png`
 
 📋 Caption (copy):
 
-> DeFi hacks are turning high yields into a hidden liquidity tax — you're funding the exploits. BTC's at $58.5K and bearish. The uncomfortable read my feed surfaces early. #Threadverse #Crypto
+> The biggest molecules ever were just put in two places at once. Quantum weirdness is climbing toward our scale. Where does it stop? The wait-what findings my feed pulls first. #Threadverse #Feedreader
 
 ---
 
-**#18** · 8/10 · quote · philosophy
+**#18** · 8/10 · bigStat · gaming
 
-🖼️ `x-manual/images/018-philosophy-quote.png`
+🖼️ `x-manual/images/018-gaming-bigStat.png`
 
 📋 Caption (copy):
 
-> "I don't know if anyone needs to think anymore. It's AI now, thinking is for poor people." Cognitive surrender, sold as convenience. The stuff my feed keeps. #Threadverse #Philosophy
+> 3,200 gone across FY27, 1,600 today — the biggest restructure in Xbox history. Compulsion and Double Fine spun off, Ninja Theory sold. The numbers my feed surfaced before the headlines. #Threadverse #Gaming
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:x5ba2cm5nwrmkwkdhsbdfoay/post/3mpgwk25d7s2e
+🔗 source (optional, for a reply): https://x.com/ProTraderX619/status/2074153748008468860
 
 ---
 
@@ -225,348 +223,620 @@ Each morning: open that day's images, copy the caption, attach the image, post.
 
 📋 Caption (copy):
 
-> New executive order: AI companies will voluntarily share powerful new models with the government before release. The policy shift my feed surfaced before it hit your feed. #Threadverse #AI
+> ABC News confirms it: Anthropic built a model it deems too dangerous to release. When a lab won't ship its best work, that tells you where we are. Caught before the timeline. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=FYpzLwN8uBQ
+🔗 source (optional, for a reply): https://youtube.com/watch?v=PLg2EUkIC78
 
 ---
 
-**#20** · 7/10 · bigStat · crypto
+**#20** · 9/10 · bigStat · science
 
-🖼️ `x-manual/images/020-crypto-bigStat.png`
+🖼️ `x-manual/images/020-science-bigStat.png`
 
 📋 Caption (copy):
 
-> Aave's V4 is bridging TradFi and DeFi — targeting a $4.6T tokenized-securities market and automating buybacks via Aavenomics. The move my feed flagged early. #Threadverse #Crypto
+> In a quantum system, heat flowed backward -- cold to hot -- reversing the arrow of time. Everything you were taught about entropy assumes this can't happen. The stuff my feed keeps. #Threadverse #Feedreader
 
 ---
 
 ## 2026-07-10  (4 posts)
 
-**#21** · 8/10 · quote · philosophy
+**#21** · 8/10 · bigStat · crypto
 
-🖼️ `x-manual/images/021-philosophy-quote.png`
+🖼️ `x-manual/images/021-crypto-bigStat.png`
 
 📋 Caption (copy):
 
-> Hot take: if AI takes over citation-stuffed research, philosophy goes back to actually thinking hard — like the 1950s. Fewer footnotes, more ideas. The stuff my feed keeps. #Threadverse #Philosophy
+> Tokenized stocks hit $34B/month, up 40x in 13 months. Nvidia, Tesla, Micron now trade on-chain 24/7. TradFi is quietly moving to DeFi rails. The signal my feed caught early. #Threadverse #Crypto
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:givg3amslsq46o3f25ga5esh/post/3mpdiynb3xs2c
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mpntcbh5bq2z
 
 ---
 
-**#22** · 7/10 · tabloid · ai
+**#22** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/022-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> DeepSeek's next AI breakthrough is here — and China just blocked Meta's $2B grab for AI startup Manus. The model race is a geopolitics race now. Found before the timeline caught up. #Threadverse #AI
+> Anthropic just delayed "Claude Mythos" over security concerns. A frontier lab hitting pause is the signal you actually want to track. Found before the timeline caught it. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/
-
----
-
-**#23** · 7/10 · splitProof · crypto
-
-🖼️ `x-manual/images/023-crypto-splitProof.png`
-
-📋 Caption (copy):
-
-> MetaMask (30M+ users) launched a self-custody Money Account: yield, payments and trading in one wallet, up to 4% on stablecoins. The wallet just became a bank you actually hold the keys to. The signal my feed keeps. #Threadverse #Crypto
+🔗 source (optional, for a reply): https://youtube.com/watch?v=htBaVVh_k90
 
 ---
 
-**#24** · 7/10 · quote · philosophy
+**#23** · 8/10 · bigStat · science
 
-🖼️ `x-manual/images/024-philosophy-quote.png`
+🖼️ `x-manual/images/023-science-bigStat.png`
 
 📋 Caption (copy):
 
-> Fodor's dig: analytic philosophy is famously the one field with no norm against calling each other names. Insider shade that actually lands. The stuff my feed keeps. #Threadverse #Philosophy
+> Physicists measured 'negative time' — photons that exit a cloud before they finish entering it. Not a typo, a real result. The wait-what finding my feed pulled first. #Threadverse #Feedreader
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:5zgber5npxagnqr3hg4fm4zv/post/3mpmmurkx7s2w
+---
+
+**#24** · 8/10 · bigStat · crypto
+
+🖼️ `x-manual/images/024-crypto-bigStat.png`
+
+📋 Caption (copy):
+
+> DeFi hacks bled $780M in Q2 2026. Bridges and key failures are now a silent tax on every yield you earn. The risk math my feed catches before the timeline cheers the APY. #Threadverse #Crypto
+
+🔗 source (optional, for a reply): https://dappling.network/
 
 ---
 
 ## 2026-07-11  (4 posts)
 
-**#25** · 7/10 · tabloid · ai
+**#25** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/025-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> One year after DeepSeek rattled Silicon Valley, it dropped a new flagship model. The cheap-and-good challenger isn't a fluke anymore — it's a pattern. The stuff my feed keeps. #Threadverse #AI
+> GPT-5.2 is out: better spreadsheets, slides, code, and image reads in one model. If it does your busywork, that changes your day, not just a benchmark. Found before the timeline. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mpkanvzaoe26
+🔗 source (optional, for a reply): https://youtube.com/watch?v=wXXvB8xVyPk
 
 ---
 
-**#26** · 8/10 · quote · crypto
+**#26** · 7/10 · bigStat · gaming
 
-🖼️ `x-manual/images/026-crypto-quote.png`
+🖼️ `x-manual/images/026-gaming-bigStat.png`
 
 📋 Caption (copy):
 
-> Working in crypto but too embarrassed to say it out loud? A DeFi dev since 2021 asks HN the question nobody posts. The honest thread my feed kept while the timeline hyped coins. #Threadverse #Crypto
+> Asha Sharma's target: 24x Steam's peak population — daily. Ambition or delusion? The quote fueling the whole Xbox strategy debate. Surfaced before the dunks pile up. #Threadverse #Gaming
+
+🔗 source (optional, for a reply): https://meta.masto.host/@GamingNews/116873650755942540
 
 ---
 
-**#27** · 7/10 · quote · philosophy
+**#27** · 7/10 · splitProof · crypto
 
-🖼️ `x-manual/images/027-philosophy-quote.png`
+🖼️ `x-manual/images/027-crypto-splitProof.png`
 
 📋 Caption (copy):
 
-> A philosopher argues math is an opinion, and the wrong one. Infuriating? Good — now try to prove him wrong. This is the fight platonists have dodged for centuries. Found before the timeline. #Threadverse #Philosophy
+> High DeFi yields are quietly funding the hacks that drain them — a hidden liquidity tax you pay without seeing it. BTC's at $58.5K and bearish. The read my feed kept. #Threadverse #Crypto
 
-🔗 source (optional, for a reply): https://epochemagazine.org/88/mathematics-is-an-opinion-and-the-wrong-one/
+🔗 source (optional, for a reply): https://blazetrends.com/european-parliament-advances-defi-and-nft-regulation-vote-ahead-of-mica-rollout/?fsp_sid=43146
 
 ---
 
-**#28** · 7/10 · tabloid · ai
+**#28** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/028-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> 6 AI trends for 2026 — backed by data, not vibes. Most predictions are speculation; this one pulls from McKinsey, Stanford, OpenAI, Epoch AI. The signal my feed keeps. #Threadverse #AI
+> Microsoft revealed seven of its own models, IQ, Scout, MDASH, Majorana 2, going full-stack instead of leaning on OpenAI. The dependency era is ending. Found before the timeline. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=B23W1gRT9eY
+🔗 source (optional, for a reply): https://youtube.com/watch?v=i1dkkxLWaWg
 
 ---
 
 ## 2026-07-12  (4 posts)
 
-**#29** · 8/10 · quote · crypto
+**#29** · 7/10 · bigStat · gaming
 
-🖼️ `x-manual/images/029-crypto-quote.png`
-
-📋 Caption (copy):
-
-> A French dev's take: a king's inheritance faces more scrutiny than your DeFi yields. Decentralization as the only real escape from the audit. The spicy takes my feed keeps. #Threadverse #Crypto
-
----
-
-**#30** · 7/10 · tabloid · ai
-
-🖼️ `x-manual/images/030-ai-tabloid.png`
+🖼️ `x-manual/images/029-gaming-bigStat.png`
 
 📋 Caption (copy):
 
-> The US government reportedly banned Fable and Mythos, Anthropic's most powerful models. If it's true, it resets the frontier race. The stuff my feed catches before the timeline melts down. #Threadverse #AI
+> One dev, a finished game, and 55k refunds because Steam's 2-hour rule let players beat it and refund it. Players even left positive reviews while cashing out. The indie stories my feed keeps. #Threadverse #Gaming
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=O84I21_9U74
+🔗 source (optional, for a reply): https://news.ycombinator.com/item?id=42708030
 
 ---
 
-**#31** · 7/10 · tabloid · ai
+**#30** · 7/10 · splitProof · crypto
+
+🖼️ `x-manual/images/030-crypto-splitProof.png`
+
+📋 Caption (copy):
+
+> Crypto is shifting from 'number go up' scarcity to protocols that throw off real cashflow. AAVE is becoming an investment-grade primitive. The thesis my feed surfaced before the timeline. #Threadverse #Crypto
+
+🔗 source (optional, for a reply): https://www.coindesk.com/defi-protocol-easyfi-reports-hack
+
+---
+
+**#31** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/031-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Portugal launched its first open-source AI model, joining Europe's push for AI sovereignty. Every country wants its own frontier now. The signal my feed catches before the news cycle. #Threadverse #AI
+> Microsoft's AI CEO just unveiled 7 new models with one rule: don't replace people.
+> 
+> Mustafa Suleyman calls it Humanist Superintelligence at Build 2026. A direct shot at the everyone-gets-automated crowd. The stuff my feed keeps. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://x.com/arnaudmercier/status/2074120760197579122
+🔗 source (optional, for a reply): https://youtube.com/watch?v=OvLIae4HCeM
 
 ---
 
-**#32** · 7/10 · quote · crypto
+**#32** · 6/10 · bigStat · gaming
 
-🖼️ `x-manual/images/032-crypto-quote.png`
+🖼️ `x-manual/images/032-gaming-bigStat.png`
 
 📋 Caption (copy):
 
-> Crypto's next phase isn't scarcity — it's cashflow. Protocols like AAVE now act like yield-bearing equities, not lottery tickets. The shift my feed caught before the timeline did. #Threadverse #Crypto
+> Studios earn twice as much from digital sales, says the Lords of the Fallen CEO. The economics behind why physical game copies are quietly dying. The numbers my feed pulls out for you. #Threadverse #Gaming
+
+🔗 source (optional, for a reply): https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/
 
 ---
 
 ## 2026-07-13  (4 posts)
 
-**#33** · 8/10 · splitProof · ai
+**#33** · 8/10 · quote · philosophy
 
-🖼️ `x-manual/images/033-ai-splitProof.png`
+🖼️ `x-manual/images/033-philosophy-quote.png`
 
 📋 Caption (copy):
 
-> Low-level optimizations let a Chinese lab do more with less silicon — exposing the limits of export bans. The efficiency race just changed shape. My feed caught this before the timeline did. #Threadverse #AI
+> The comeback for smug "what will you do with a philosophy degree?" people: "dress up marketing for AI firms as profound philosophy ahead of their IPOs." Brutal. The take my feed saved from the scroll. #Threadverse #Philosophy
 
-🔗 source (optional, for a reply): https://x.com/grok/status/2071338402411118888
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpvvkyqz4s2d
 
 ---
 
-**#34** · 8/10 · splitProof · ai
+**#34** · 8/10 · tabloid · ai
 
-🖼️ `x-manual/images/034-ai-splitProof.png`
+🖼️ `x-manual/images/034-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Show HN: one dev challenged 10 AI models with one open-source PDF and published every result. The kind of honest head-to-head my feed keeps over the marketing benchmarks. #Threadverse #AI
+> Anthropic built a model so powerful they only ran a 'very limited test.' It's called Mythos, and the safety concerns are the whole story. This is what my feed surfaces before it trends. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://zenodo.org/records/15718457
+🔗 source (optional, for a reply): https://www.nature.com/articles/d41586-026-01689-0
 
 ---
 
-**#35** · 8/10 · bigStat · ai
+**#35** · 8/10 · quote · crypto
 
-🖼️ `x-manual/images/035-ai-bigStat.png`
+🖼️ `x-manual/images/035-crypto-quote.png`
 
 📋 Caption (copy):
 
-> Meituan released LongCat-2.0: a 1.6T-param open MoE with 1M token context, built for agentic coding on domestic AI chips. China's open frontier keeps moving. Caught by my feed early. #Threadverse #AI
+> A French dev did the math: a king's estate faces more audits than his on-chain yields. Decentralization as the last tax escape? The sharp take my feed surfaced. #Threadverse #Crypto
 
-🔗 source (optional, for a reply): https://defcon.social/@ai/116870292899752486
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:dlafnk6xz6bbn2yfsv6ulk7l/post/3mpcksvb26z2b
 
 ---
 
-**#36** · 7/10 · bigStat · ai
+**#36** · 8/10 · quote · philosophy
 
-🖼️ `x-manual/images/036-ai-bigStat.png`
+🖼️ `x-manual/images/036-philosophy-quote.png`
 
 📋 Caption (copy):
 
-> Prediction markets are now pricing model launches: 90% odds GPT-5.6 ships by July 31. You can literally bet on the frontier now. The kind of signal my feed catches before your timeline. #Threadverse #AI
+> Analytic philosophy is famously the one field with no norm against just calling colleagues wrong by name. Fodor on why that's a feature, not a bug. The kind of hot take my feed keeps. #Threadverse #Philosophy
 
-🔗 source (optional, for a reply): https://www.reuters.com/technology/artificial-intelligence/alibaba-releases-ai-model-it-claims-surpasses-deepseek-v3-2025-01-29/
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:5zgber5npxagnqr3hg4fm4zv/post/3mpmmurkx7s2w
 
 ---
 
 ## 2026-07-14  (4 posts)
 
-**#37** · 7/10 · bigStat · ai
+**#37** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/037-ai-bigStat.png`
+🖼️ `x-manual/images/037-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> A brain-like AI that runs 100x faster than standard models - and holds accuracy, researchers say. If it survives replication, inference economics flip overnight. The stuff my feed keeps. #Threadverse #AI
+> Meta is going commercial to catch OpenAI and Google. The open-weights champion wants your money now. Caught this before the timeline had takes on it. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:kto2dmrqhkenhylt7e32fivb/post/3mpqt3ipnec2k
+🔗 source (optional, for a reply): https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december
 
 ---
 
-**#38** · 7/10 · bigStat · ai
+**#38** · 8/10 · quote · science
 
-🖼️ `x-manual/images/038-ai-bigStat.png`
+🖼️ `x-manual/images/038-science-quote.png`
 
 📋 Caption (copy):
 
-> Google says Gemini migrates code 6x faster. Pichai just put agentic AI at the center of the Enterprise Agent Platform — the coding-agent race is now Google's fight too. Found before the timeline. #Threadverse #AI
-
-🔗 source (optional, for a reply): https://youtube.com/watch?v=3wMwdzxIyN0
+> Scientists reversed local entropy with quantum computers, hinting time is an emergent property of entanglement, not a law. Physics is more flexible than you were told. Found before the timeline. #Threadverse #Feedreader
 
 ---
 
-**#39** · 7/10 · banner · ai
+**#39** · 7/10 · quote · gaming
 
-🖼️ `x-manual/images/039-ai-banner.png`
+🖼️ `x-manual/images/039-gaming-quote.png`
 
 📋 Caption (copy):
 
-> Sam Altman on ChatGPT, AI agents, and superintelligence, live at TED 2025. A probing conversation on where this is all headed. Found before the timeline. #Threadverse #AI
+> Hot take: no game that costs over sixty quid is more than a 7/10. The reviews-as-art vs product debate, flipped. The gaming takes my feed keeps before the timeline. #Threadverse #Gaming
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=5MWT_doo68k
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:mmjmympmlcuexvluef2ep2im/post/3mpuzaiyjxc2m
 
 ---
 
-**#40** · 7/10 · banner · ai
+**#40** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/040-ai-banner.png`
+🖼️ `x-manual/images/040-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Google says Gemini 2.0 is built for the agentic era — its most capable model yet. The launch that set the tone for the whole race. Caught in my feed before the timeline noticed. #Threadverse #AI
+> The US government asked OpenAI to stagger an AI model release. Regulators are now in the launch calendar. This is where the real fight moves — caught before the timeline noticed. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=Fs0t6SdODd8
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mps4xss2uc2t
 
 ---
 
 ## 2026-07-15  (4 posts)
 
-**#41** · 8/10 · quote · ai
+**#41** · 7/10 · quote · philosophy
 
-🖼️ `x-manual/images/041-ai-quote.png`
+🖼️ `x-manual/images/041-philosophy-quote.png`
 
 📋 Caption (copy):
 
-> Nadella warns AI power is concentrating too fast — and hints Microsoft may host DeepSeek itself. When the biggest player calls for limits, pay attention. Found before the timeline caught it. #Threadverse #AI
+> Marcus Aurelius: "Wipe out the imagination. Stop pulling the strings. Confine thyself to the present." 2,000 years old, still the cure for spiraling. Stoic gold my feed keeps. #Threadverse #Philosophy
 
-🔗 source (optional, for a reply): https://x.com/iamreddsebasti/status/2071341407164400085
+🔗 source (optional, for a reply): https://mastodon.social/@CuratedMarcusAurelius/116871465316612608
 
 ---
 
-**#42** · 8/10 · quote · ai
+**#42** · 7/10 · quote · crypto
 
-🖼️ `x-manual/images/042-ai-quote.png`
+🖼️ `x-manual/images/042-crypto-quote.png`
 
 📋 Caption (copy):
 
-> Everyone's watching model launches. The real war moved to compute, memory, routing, and safety. Whoever makes intelligence usable wins. The take my feed pulled before it blew up. #Threadverse #AI
+> You're a DeFi dev who no longer believes in crypto. Now what? The quiet crisis every token builder feels but won't post about. The honest stuff my feed keeps. #Threadverse #Crypto
 
-🔗 source (optional, for a reply): https://x.com/AiTok_io/status/2074058519175975246
+🔗 source (optional, for a reply): https://news.ycombinator.com/item?id=31796256
 
 ---
 
-**#43** · 8/10 · quote · ai
+**#43** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/043-ai-quote.png`
+🖼️ `x-manual/images/043-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> The model you rely on is quietly drifting — and you can't tell. Silent reroutes, retunes, retired versions all shift real capability with zero notice. The under-the-radar take my feed surfaced. #Threadverse #AI
+> A proposed rule would have the government review new AI models before public release. Pre-launch approval for code. What that means for open source is the real question. The stuff my feed keeps. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://x.com/ollobrains/status/2074053758192156983
+🔗 source (optional, for a reply): https://x.com/baaaiinc/status/2074102077609923037
 
 ---
 
-**#44** · 8/10 · quote · ai
+**#44** · 6/10 · quote · gaming
 
-🖼️ `x-manual/images/044-ai-quote.png`
+🖼️ `x-manual/images/044-gaming-quote.png`
 
 📋 Caption (copy):
 
-> Big AI labs chase trillion-dollar infra. Meanwhile indie studios use AI to punch way above their weight, today. The contrarian take my feed kept before the timeline caught up. #Threadverse #AI
+> MS is betting AAA is still growth, not just aging millennial fans. The bet driving every Xbox layoff and reshuffle you're watching. The take my feed keeps before it's obvious. #Threadverse #Gaming
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:z4llsx425l4htoylyyx6iam3/post/3mpmo3atdps23
+🔗 source (optional, for a reply): https://x.com/fuckkiev/status/2074144924514312200
 
 ---
 
-## 2026-07-16  (3 posts)
+## 2026-07-16  (4 posts)
 
-**#45** · 7/10 · quote · ai
+**#45** · 6/10 · quote · philosophy
 
-🖼️ `x-manual/images/045-ai-quote.png`
+🖼️ `x-manual/images/045-philosophy-quote.png`
 
 📋 Caption (copy):
 
-> Rolling releases killed the launch cycle. Your team now has to plan for continuous upgrades, not big-drop events. The shift my feed flagged before it hit your workflow. #Threadverse #AI
+> Plato: "Attention to health is a great obstacle to the practice of virtue." A shot at wellness culture 2,400 years early. The take my feed kept. #Threadverse #Philosophy
 
-🔗 source (optional, for a reply): https://x.com/inflectivAI/status/2074134550800707646
+🔗 source (optional, for a reply): https://mastodon.social/@CuratedPlato/116872958691380996
 
 ---
 
-**#46** · 6/10 · quote · ai
+**#46** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/046-ai-quote.png`
+🖼️ `x-manual/images/046-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> AI model releases used to be yearly events. Now it's every month. Blink and you miss a frontier launch — this is the release cadence my feed keeps for you. #Threadverse #AI
+> The White House is writing rules for AI models. Whatever ships next won't just be a release, it'll be a policy fight. The stuff my feed catches before the timeline does. #Threadverse #AI
 
-🔗 source (optional, for a reply): https://www.bargo.ai/research/the-cadence-trade-hn
+🔗 source (optional, for a reply): https://huggingface.co/spaces/reach-vb/2024-ai-timeline
 
 ---
 
-**#47** · 6/10 · quote · ai
+**#47** · 6/10 · quote · gaming
 
-🖼️ `x-manual/images/047-ai-quote.png`
+🖼️ `x-manual/images/047-gaming-quote.png`
 
 📋 Caption (copy):
 
-> Monthly frontier releases don't just ship models — they drag every lab into a faster loop. The pace is unbelievable. This is the AI signal my feed keeps before the timeline catches on. #Threadverse #AI
+> Sony is gutting gaming while everyone watches Microsoft. The timing isn't a coincidence — it's cover. Industry moves like this surface in my feed before the timeline catches on. #Threadverse #Gaming
 
-🔗 source (optional, for a reply): https://www.ft.com/content/01fd640e-0c6b-4542-b82b-20afb203f271
+🔗 source (optional, for a reply): https://x.com/djvortivask/status/2074146455460184256
+
+---
+
+**#48** · 6/10 · quote · science
+
+🖼️ `x-manual/images/048-science-quote.png`
+
+📋 Caption (copy):
+
+> Quantum theory said particles could affect each other instantly. This experiment proved it. 47 likes, 44 replies still arguing. The stuff my feed keeps. #Threadverse #Feedreader
+
+---
+
+## 2026-07-17  (4 posts)
+
+**#49** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/049-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> Meta just dropped Muse Spark, its strongest AI model and the first product from Alexandr Wang's new lab. The model race just got a new frontrunner. The stuff my feed keeps. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://youtube.com/watch?v=rXSPopXet1o
+
+---
+
+**#50** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/050-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> Anthropic issued a stark warning about its own model.
+> 
+> CBS pulled in an ex-AI-founder to break down the Claude Mythos report. When the lab that builds it sounds the alarm, you read it. Found before the timeline. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://youtube.com/watch?v=bUbFFSZQ5w0
+
+---
+
+**#51** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/051-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> Tencent just shipped Hunyuan 3 with a doc-generating agent built in. Upgraded reasoning, and the West barely noticed. Chinese labs move fast, my feed catches it before the timeline. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://x.com/blckchaindaily/status/2074158606413332543
+
+---
+
+**#52** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/052-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> 92 likes, 107 replies: while the US stalls, the EU pushes ahead on Big Tech antitrust. The giants you build on are getting reined in overseas first. Caught before the timeline. #Threadverse #AI
+
+---
+
+## 2026-07-18  (4 posts)
+
+**#53** · 6/10 · tabloid · ai
+
+🖼️ `x-manual/images/053-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> Biden's antitrust team is taking shape and Big Tech got the warning shot. Regulation is coming for the giants you build on. The policy news my feed catches before the timeline. #Threadverse #AI
+
+---
+
+**#54** · 9/10 · splitProof · ai
+
+🖼️ `x-manual/images/054-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> Frontier AI labs quietly killed the release milestone.
+> 
+> 2023-24 had clear moments: GPT-4, Claude 3, Gemini 1.5. Mid-2025 flipped to silent rolling updates. The stuff my feed keeps. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://x.com/defaiscope/status/2074161530036171234
+
+---
+
+**#55** · 8/10 · bigStat · ai
+
+🖼️ `x-manual/images/055-ai-bigStat.png`
+
+📋 Caption (copy):
+
+> Polymarket gives GPT-5.6 a 90% chance to drop by July 31, but only 1% before June 30. The market is timing your next model before OpenAI announces it. Found before the timeline. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:kto2dmrqhkenhylt7e32fivb/post/3mpqt3ipnec2k
+
+---
+
+**#56** · 8/10 · splitProof · ai
+
+🖼️ `x-manual/images/056-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> Microsoft is quietly shipping in-house models to undercut its own partner OpenAI. Your cheapest AI provider might soon be the one funding the competition. Caught this before the timeline did. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://youtube.com/watch?v=uRqdjj6YeUc
+
+---
+
+## 2026-07-19  (4 posts)
+
+**#57** · 8/10 · splitProof · ai
+
+🖼️ `x-manual/images/057-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> Inflection, Adept, Character — all gone the same way. Big Tech skips the merger and just takes the founders. A quiet new playbook my feed caught early. #Threadverse #AI
+
+---
+
+**#58** · 8/10 · splitProof · ai
+
+🖼️ `x-manual/images/058-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> A year ago every exec swore AI would wipe out your job. Now Big Tech is backpedaling hard. The narrative flip my feed caught before the timeline noticed. #Threadverse #AI
+
+---
+
+**#59** · 7/10 · splitProof · ai
+
+🖼️ `x-manual/images/059-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> Everyone else is slowing acquisitions this year — Microsoft is racing ahead. When one giant buys while the rest freeze, watch what they're building. Signal my feed caught early. #Threadverse #AI
+
+---
+
+**#60** · 7/10 · bigStat · ai
+
+🖼️ `x-manual/images/060-ai-bigStat.png`
+
+📋 Caption (copy):
+
+> 350+ mergers by Facebook and Google — not one got serious scrutiny. The roots of Big Tech run deeper than you think. The stuff my feed keeps before it trends. #Threadverse #AI
+
+---
+
+## 2026-07-20  (4 posts)
+
+**#61** · 6/10 · splitProof · ai
+
+🖼️ `x-manual/images/061-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> Aurora's cash runway is closing and the only exits are spinout, layoffs, or absorption. This is how the AI shakeout actually ends. Found before the headlines. #Threadverse #AI
+
+---
+
+**#62** · 6/10 · bigStat · ai
+
+🖼️ `x-manual/images/062-ai-bigStat.png`
+
+📋 Caption (copy):
+
+> 218 upvotes, 464 comments: Congress' push to regulate Big Tech is fizzling out. The giants outlasted the outrage again. The story my feed surfaces while the timeline moves on. #Threadverse #AI
+
+---
+
+**#63** · 9/10 · banner · ai
+
+🖼️ `x-manual/images/063-ai-banner.png`
+
+📋 Caption (copy):
+
+> An AI built to crunch numbers is now inventing quantum experiments physicists couldn't conceive. The tool started leading the science. Found before the timeline, kept by my feed. #Threadverse #AI
+
+---
+
+**#64** · 8/10 · banner · ai
+
+🖼️ `x-manual/images/064-ai-banner.png`
+
+📋 Caption (copy):
+
+> Amazon and Microsoft already wrote the playbook for consolidating the AI industry. The startups you cheer for are exit strategies. Found before the timeline caught it. #Threadverse #AI
+
+---
+
+## 2026-07-21  (4 posts)
+
+**#65** · 7/10 · banner · ai
+
+🖼️ `x-manual/images/065-ai-banner.png`
+
+📋 Caption (copy):
+
+> Big Tech didn't grow big. It bought its way there — hundreds of acquisitions, quietly. You use half of them and never knew. The buried context my feed keeps for you. #Threadverse #AI
+
+---
+
+**#66** · 8/10 · quote · ai
+
+🖼️ `x-manual/images/066-ai-quote.png`
+
+📋 Caption (copy):
+
+> Companies are tuning AI to talk like a terse caveman, not a polite chatbot — on purpose, to stop burning tokens. Every 'please' costs money now. The weird AI economics my feed catches. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://x.com/jon_durbin/status/2074169183835685351
+
+---
+
+**#67** · 7/10 · quote · ai
+
+🖼️ `x-manual/images/067-ai-quote.png`
+
+📋 Caption (copy):
+
+> Grok says takeoff is close: 4-7 more algorithmic OOMs, then AI automates its own research. Math, code, robotics compound from there. The kind of take my feed keeps. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html
+
+---
+
+**#68** · 6/10 · quote · ai
+
+🖼️ `x-manual/images/068-ai-quote.png`
+
+📋 Caption (copy):
+
+> AI sovereignty just became a hardware problem — Huawei's 100x scaling roadmap signals who owns the chips owns the models. The economics story under the hype, kept by my feed. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:qc6xzgctorfsm35w6i3vdebx/post/3mpoezfzins2d
+
+---
+
+## 2026-07-22  (2 posts)
+
+**#69** · 6/10 · quote · ai
+
+🖼️ `x-manual/images/069-ai-quote.png`
+
+📋 Caption (copy):
+
+> Monthly frontier releases mean AI has stopped shipping versions and started shipping like CI/CD. Blink and your stack is a generation behind. The stuff my feed keeps so you don't miss a drop. #Threadverse #AI
+
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:vcepp6trx4vpe5ourxso4tjl/post/3mpj6rqsjvs2d
+
+---
+
+**#70** · 6/10 · minimal · ai
+
+🖼️ `x-manual/images/070-ai-minimal.png`
+
+📋 Caption (copy):
+
+> A myth-by-myth breakdown of what antitrust actually does — and doesn't — to Big Tech. Sharpens every hot take you're about to post. The stuff my feed keeps. #Threadverse #AI
 
 ---

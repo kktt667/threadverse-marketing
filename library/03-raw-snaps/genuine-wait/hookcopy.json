@@ -1,0 +1,507 @@
+{
+  "feed": "Science: wait-what findings",
+  "slug": "genuine-wait",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-01.png",
+      "keep": true,
+      "score": 9,
+      "lane": "science",
+      "hook": "Objective reality might not exist. A real experiment says so.",
+      "caption": "Objective reality might not exist. A quantum test let two observers record different \"true\" outcomes of the same event. Physics-breaking stuff my feed pulls before the timeline finds it.",
+      "stance": "If two observers can both be right about contradictory facts, \"objective\" was always a comforting story.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "awe",
+        "contrarian-stance",
+        "surprise"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-02.png",
+      "keep": true,
+      "score": 9,
+      "lane": "science",
+      "hook": "\"Negative time\" is real. Photons exited before they entered.",
+      "caption": "\"Negative time\" is real: photons left a material before they finished entering it. Not a glitch, a measured result. The wait-what science my feed keeps and the noise it drops.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "surprise",
+        "awe",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-03.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Time isn't fundamental. It emerges from entanglement.",
+      "caption": "Time isn't a given, it emerges from quantum entanglement between systems. The universe may not have a clock underneath. Deep-cut physics my feed surfaces before the timeline.",
+      "stance": "We treat time as the stage. The physics says it's just a side effect.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "triggers": [
+        "awe",
+        "contrarian-stance",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-04.png",
+      "keep": true,
+      "score": 8,
+      "lane": "crypto",
+      "hook": "Cloudflare + Chrome ran real post-quantum TLS. At scale.",
+      "caption": "Post-quantum encryption isn't theory anymore. Cloudflare and Chrome ran quantum-resistant TLS on live traffic. Your future security is already shipping. Found before the timeline.",
+      "stance": "\"Quantum will break encryption someday\" is outdated. The fix is already in production.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "surprise",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-05.png",
+      "keep": false,
+      "score": 4,
+      "lane": "reject",
+      "hook": "Cloudflare + Chrome ran real post-quantum TLS. At scale.",
+      "caption": "Duplicate of card-04 (same Cloudflare post-quantum TLS post). Dropping to avoid posting the same link twice.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "duplicate"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-06.png",
+      "keep": true,
+      "score": 7,
+      "lane": "science",
+      "hook": "Time might wobble. And that finally makes gravity testable.",
+      "caption": "Post-quantum gravity says time itself wobbles, and unlike string theory, you can actually test it. A rival theory of everything you can falsify. The science my feed keeps.",
+      "stance": "String theory promised everything and tested nothing. This one bets on being provable.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "contrarian-stance",
+        "curiosity",
+        "awe"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-07.png",
+      "keep": true,
+      "score": 9,
+      "lane": "science",
+      "hook": "Molecules big enough to see just existed in two places at once.",
+      "caption": "The biggest molecules ever were just put in two places at once. Quantum weirdness is climbing toward our scale. Where does it stop? The wait-what findings my feed pulls first.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "awe",
+        "surprise",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-08.png",
+      "keep": true,
+      "score": 9,
+      "lane": "ai",
+      "hook": "AI is designing quantum experiments no human ever imagined.",
+      "caption": "An AI built to crunch numbers is now inventing quantum experiments physicists couldn't conceive. The tool started leading the science. Found before the timeline, kept by my feed.",
+      "stance": "We built AI to speed up our ideas. It's quietly having its own.",
+      "bestPlatform": "x",
+      "format": "banner",
+      "triggers": [
+        "awe",
+        "contrarian-stance",
+        "surprise"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-09.png",
+      "keep": true,
+      "score": 9,
+      "lane": "science",
+      "hook": "Reality doesn't exist until you measure it.",
+      "caption": "Reality doesn't exist until you measure it. Australian physicists re-ran a famous quantum experiment and confirmed it. The stuff my feed keeps while the timeline scrolls past.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "stance": "If observation creates reality, \"objective\" physics is doing a lot of heavy lifting.",
+      "triggers": [
+        "awe",
+        "contrarian-stance",
+        "specific-entity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-10.png",
+      "keep": true,
+      "score": 7,
+      "lane": "science",
+      "hook": "Reality doesn't exist until it's measured, says the ANU.",
+      "caption": "Reality doesn't exist until it's measured, an ANU quantum experiment finds. 227 likes, 239 replies arguing about it. Found before the timeline caught on.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "stance": "",
+      "triggers": [
+        "awe",
+        "reply-bait"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-11.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Some problems need an \"exotic\" quantum proof. No document will do.",
+      "caption": "Some math problems can't be checked with any written proof. You need a quantum object. Researchers just confirmed it. The wild stuff my feed keeps.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "stance": "",
+      "triggers": [
+        "surprise",
+        "specific-entity",
+        "curiosity-gap"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-12.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "A spooky quantum experiment just proved Einstein wrong.",
+      "caption": "Measuring a photon changes where it is. The 'spooky' experiment Einstein hated keeps winning. Found before the timeline caught on.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "stance": "Einstein was right about almost everything and wrong about the one thing that mattered most.",
+      "triggers": [
+        "mild-outrage",
+        "named-thinker",
+        "contrarian-stance"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-13.png",
+      "keep": true,
+      "score": 6,
+      "lane": "science",
+      "hook": "The experiment that proved 'spooky action' is real.",
+      "caption": "Quantum theory said particles could affect each other instantly. This experiment proved it. 47 likes, 44 replies still arguing. The stuff my feed keeps.",
+      "bestPlatform": "x",
+      "format": "quote",
+      "stance": "",
+      "triggers": [
+        "awe",
+        "reply-bait"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-14.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Spectroscopy sounds nerdy. It's the study of everything.",
+      "caption": "Spectroscopy sounds nerdy, but it's how we learned the universe runs on quantum rules before anyone told us. Quietly the study of everything. The stuff my feed keeps.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "stance": "",
+      "triggers": [
+        "awe",
+        "reframe",
+        "curiosity-gap"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-15.png",
+      "keep": true,
+      "score": 7,
+      "lane": "science",
+      "hook": "Most 'quantum computing' headlines are describing machines that don't exist.",
+      "caption": "The quantum computers in the headlines are almost always theoretical. The ones that exist are tiny. A researcher's reality check my feed kept.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "stance": "Half of 'quantum breakthrough' coverage is describing hardware nobody has built yet.",
+      "triggers": [
+        "mild-outrage",
+        "contrarian-stance",
+        "insider-take"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-16.png",
+      "keep": true,
+      "score": 7,
+      "lane": "science",
+      "hook": "Gravity probably isn't what collapses the quantum world.",
+      "caption": "A leading theory said gravity forces quantum states to 'pick' reality. New experiment says: unlikely. 127 likes deep in the debate. Found before the timeline.",
+      "bestPlatform": "mastodon",
+      "format": "bigStat",
+      "stance": "",
+      "triggers": [
+        "surprise",
+        "contrarian-stance",
+        "specific-finding"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-17.png",
+      "keep": true,
+      "score": 9,
+      "lane": "science",
+      "hook": "Physicists just measured light spending \"negative time\"",
+      "caption": "Physicists measured light spending \"negative time\" inside a material. It exits before it should have entered. Your intuition is wrong and the math is right. The stuff my feed keeps.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "stance": "\"Negative time\" isn't a glitch or a headline trick -- it's a real measured delay, and it breaks how you picture cause and effect.",
+      "triggers": [
+        "surprise",
+        "contrarian-stance",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-18.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Einstein called it \"spooky.\" This experiment proved it real.",
+      "caption": "Einstein hated quantum entanglement -- he called it \"spooky action at a distance.\" A Griffith University experiment just verified it. He was right about the spookiness, wrong to doubt it. Found before the timeline.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "stance": "The smartest physicist who ever lived bet against entanglement and lost.",
+      "triggers": [
+        "cult-entity-Einstein",
+        "contrarian-stance",
+        "awe"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-19.png",
+      "keep": true,
+      "score": 9,
+      "lane": "science",
+      "hook": "Heat just flowed cold-to-hot. The arrow of time reversed.",
+      "caption": "In a quantum system, heat flowed backward -- cold to hot -- reversing the arrow of time. Everything you were taught about entropy assumes this can't happen. The stuff my feed keeps.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "stance": "The second law of thermodynamics feels absolute until a quantum system runs it in reverse.",
+      "triggers": [
+        "surprise",
+        "contrarian-stance",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-20.png",
+      "keep": false,
+      "score": 4,
+      "lane": "science",
+      "hook": "Physicists measured light spending \"negative time\" in a material",
+      "caption": "Light was measured spending \"negative time\" inside a material -- exiting before it entered. The stuff my feed keeps.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "stance": "",
+      "triggers": [
+        "surprise",
+        "duplicate-of-card-17"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-21.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "bestPlatform": "mastodon",
+      "format": "minimal",
+      "stance": "",
+      "triggers": [
+        "bare-journal-logo",
+        "no-accessible-finding",
+        "no-visual-hook"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-22.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "A light particle left a cloud before it entered it.",
+      "caption": "A light particle exited a cloud before it entered -- scientists measured a negative amount of time inside. Quantum physics melts your brain and it's supposed to. Found before the timeline.",
+      "bestPlatform": "bluesky",
+      "format": "banner",
+      "stance": "The weirdest results in physics aren't errors -- they're the universe telling you your intuition was never built for this.",
+      "triggers": [
+        "surprise",
+        "awe",
+        "reply-invite"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-23.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Quantum proofs beat classical ones. It's now proven.",
+      "caption": "After 20 years, researchers have strong evidence quantum proofs are strictly more powerful than classical ones -- no way around the quantum world's complexity. This is a big deal for computing. Found before the timeline.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "stance": "There are truths a classical computer can verify but never efficiently -- and quantum machines just walked past that wall.",
+      "triggers": [
+        "cult-entity-Quanta",
+        "contrarian-stance",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-24.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "bestPlatform": "mastodon",
+      "format": "minimal",
+      "stance": "",
+      "triggers": [
+        "bare-journal-logo",
+        "no-accessible-finding",
+        "no-visual-hook"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-25.png",
+      "keep": true,
+      "score": 7,
+      "lane": "science",
+      "hook": "A quantum experiment just simulated a working time machine.",
+      "caption": "A quantum experiment just simulated a working time machine. Not sci-fi — a real lab result on closed timelike curves. The kind of paper my feed keeps and the timeline buries.",
+      "stance": "Time travel isn't banned by physics — it's banned by our budget for qubits.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "surprise",
+        "cult-topic",
+        "contrast"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-26.png",
+      "keep": true,
+      "score": 7,
+      "lane": "science",
+      "hook": "Ask physicists if quantum mechanics needs imaginary numbers — they split 50/50.",
+      "caption": "Ask physicists if quantum mechanics needs imaginary numbers, and they split 50/50. One of the deepest questions in the field has no consensus. Found before the timeline noticed.",
+      "stance": "If the experts can't agree whether i is real, your intuition about quantum was never the problem.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "triggers": [
+        "contrast",
+        "cult-topic",
+        "reply-bait"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-27.png",
+      "keep": true,
+      "score": 6,
+      "lane": "science",
+      "hook": "CERN found a superposition that occupies two states at once.",
+      "caption": "CERN reports a new form of quantum superposition — one thing in two states at once, for real. Your intuition breaks, the math doesn't. The stuff my feed keeps over the memes.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "surprise",
+        "cult-topic"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-28.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Physicists just measured negative time in a quantum experiment.",
+      "caption": "Physicists measured 'negative time' — photons that exit a cloud before they finish entering it. Not a typo, a real result. The wait-what finding my feed pulled first.",
+      "stance": "Negative time sounds fake until you realize causality was always more negotiable than you were taught.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "surprise",
+        "awe",
+        "contrast"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-29.png",
+      "keep": true,
+      "score": 6,
+      "lane": "science",
+      "hook": "You can build a real quantum entanglement experiment at home.",
+      "caption": "You can build a real quantum entanglement rig at home — Scientific American wrote the guide. Spooky action, on your desk. The kind of build my feed keeps for you.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "relevance",
+        "cult-topic"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-30.png",
+      "keep": true,
+      "score": 8,
+      "lane": "science",
+      "hook": "Time might not be fundamental — just entanglement in disguise.",
+      "caption": "Scientists reversed local entropy with quantum computers, hinting time is an emergent property of entanglement, not a law. Physics is more flexible than you were told. Found before the timeline.",
+      "stance": "Time's arrow isn't a rule of the universe — it's a side effect of how things get entangled.",
+      "bestPlatform": "x",
+      "format": "quote",
+      "triggers": [
+        "contrast",
+        "awe",
+        "cult-topic"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-31.png",
+      "keep": false,
+      "score": 3,
+      "lane": "science",
+      "hook": "Simulating a simulation: algorithms for quantum computing experiments.",
+      "caption": "A paper on algorithms for simulating quantum computing experiments. Deep for practitioners, but a bare PDF link with no payoff line — too niche and dry to travel.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "minimal",
+      "triggers": [
+        "cult-topic"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/genuine-wait/card-32.png",
+      "keep": true,
+      "score": 6,
+      "lane": "science",
+      "hook": "Quantum imaging could push exoplanet photos to the physical limit.",
+      "caption": "Quantum information theory could sharpen exoplanet imaging all the way to the theoretical limit — sharper alien-world photos from pure math. The space-tech find my feed keeps.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "awe",
+        "cult-topic"
+      ]
+    }
+  ]
+}

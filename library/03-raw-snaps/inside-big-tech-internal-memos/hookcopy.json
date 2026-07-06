@@ -1,0 +1,502 @@
+{
+  "feed": "Inside Big Tech",
+  "slug": "inside-big-tech-internal-memos",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-01.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Big Tech didn't grow. It bought its way there.",
+      "caption": "Big Tech didn't grow big. It bought its way there — hundreds of acquisitions, quietly. You use half of them and never knew. The buried context my feed keeps for you.",
+      "bestPlatform": "x",
+      "format": "banner",
+      "stance": "Most 'innovation' at scale is just acquisition with a press release.",
+      "triggers": [
+        "contrarian stance",
+        "mild outrage",
+        "curiosity gap"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-02.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "stance": "",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-03.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "350+ mergers by Google and Facebook. Zero blocked.",
+      "caption": "Google and Facebook made 350+ mergers — not one raised a serious antitrust flag. That's not a loophole, that's the whole game. The deep context my feed surfaces before the timeline.",
+      "bestPlatform": "mastodon",
+      "format": "bigStat",
+      "stance": "Antitrust didn't fail Big Tech — it was never allowed to touch it.",
+      "triggers": [
+        "big stat",
+        "mild outrage",
+        "contrarian stance"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-04.png",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "stance": "",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-05.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Microsoft is racing ahead while Big Tech pulls back on M&A.",
+      "caption": "Everyone else is slowing acquisitions this year — Microsoft is racing ahead. When one giant buys while the rest freeze, watch what they're building. Signal my feed caught early.",
+      "bestPlatform": "x",
+      "format": "splitProof",
+      "stance": "The M&A slowdown isn't caution — it's everyone waiting to see what Microsoft eats next.",
+      "triggers": [
+        "contrast",
+        "named entity",
+        "curiosity gap"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-06.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "The biggest Big Tech acquisitions, ranked.",
+      "caption": "The largest deals Big Tech ever made — ranked in one place. Half the apps you open daily started as someone else's startup. The map my feed keeps so you see the whole board.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "stance": "",
+      "triggers": [
+        "curiosity gap",
+        "relevance"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-07.png",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "stance": "",
+      "triggers": []
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-08.png",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "Why don't Big Tech companies actually compete?",
+      "caption": "Antitrust, lobbying, dark patterns, selling at a loss to kill rivals — why don't Big Tech giants really compete? A question worth sitting with. The threads my feed keeps for you.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "stance": "'Free market' and 'Big Tech' haven't been in the same sentence honestly for a decade.",
+      "triggers": [
+        "reply-inviting question",
+        "mild outrage",
+        "relevance"
+      ]
+    },
+    {
+      "file": "card-09.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "350+ Big Tech mergers. Zero raised alarms.",
+      "caption": "350+ mergers by Facebook and Google — not one got serious scrutiny. The roots of Big Tech run deeper than you think. The stuff my feed keeps before it trends.",
+      "stance": "Antitrust didn't fail Big Tech — it never showed up.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "mild-outrage",
+        "named-entities",
+        "contrarian-stance"
+      ]
+    },
+    {
+      "file": "card-10.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Every acquisition GAFAM ever made, mapped.",
+      "caption": "Someone graphed every known Big Tech acquisition into one giant web. It's bigger than you'd guess. This is the deep-dive stuff my feed surfaces before the timeline.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "awe",
+        "named-entities",
+        "data-viz"
+      ]
+    },
+    {
+      "file": "card-11.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Big Tech isn't racing AI. It's swallowing it.",
+      "caption": "Amazon and Microsoft already wrote the playbook for consolidating the AI industry. The startups you cheer for are exit strategies. Found before the timeline caught it.",
+      "stance": "There is no independent AI industry — just Big Tech's farm team.",
+      "bestPlatform": "x",
+      "format": "banner",
+      "triggers": [
+        "contrarian-stance",
+        "named-entities",
+        "surprise"
+      ]
+    },
+    {
+      "file": "card-12.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "The AI boom's new exit strategy: founder drain.",
+      "caption": "Inflection, Adept, Character — all gone the same way. Big Tech skips the merger and just takes the founders. A quiet new playbook my feed caught early.",
+      "stance": "Acqui-hires are mergers with the antitrust part deleted.",
+      "bestPlatform": "x",
+      "format": "splitProof",
+      "triggers": [
+        "contrarian-stance",
+        "named-entities",
+        "surprise"
+      ]
+    },
+    {
+      "file": "card-13.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "The FTC is finally reopening old Big Tech deals.",
+      "caption": "Years of untouched acquisitions — now the FTC wants a second look. If they unwind even one, the map changes. The regulatory stuff my feed keeps.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
+      "triggers": [
+        "named-entities",
+        "news"
+      ]
+    },
+    {
+      "file": "card-14.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "FTC votes 5-0 to reopen Big Tech's past mergers.",
+      "caption": "Unanimous. Special orders to review deals by Alphabet, Amazon, Apple, Facebook. The mergers nobody stopped are back on the table. Caught before the timeline.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
+      "triggers": [
+        "named-entities",
+        "news",
+        "bigStat"
+      ]
+    },
+    {
+      "file": "card-15.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "An AI CEO is choosing: sell to Big Tech, or die.",
+      "caption": "Aurora's cash runway is closing and the only exits are spinout, layoffs, or absorption. This is how the AI shakeout actually ends. Found before the headlines.",
+      "stance": "Most AI startups won't fail loudly — they'll just get eaten.",
+      "bestPlatform": "x",
+      "format": "splitProof",
+      "triggers": [
+        "surprise",
+        "named-entities",
+        "painpoint"
+      ]
+    },
+    {
+      "file": "card-16.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Everything you believe about Big Tech antitrust is wrong.",
+      "caption": "A myth-by-myth breakdown of what antitrust actually does — and doesn't — to Big Tech. Sharpens every hot take you're about to post. The stuff my feed keeps.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "triggers": [
+        "contrarian-stance",
+        "curiosity"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-17.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "Big Tech antitrust aftermath and the SV M&A clampdown",
+      "caption": "A bare YouTube link with no headline payload and no contrast. Nothing to hook a tech reader on.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "triggers": [
+        "bare link card",
+        "no contrast",
+        "low signal"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-18.png",
+      "keep": true,
+      "score": 6,
+      "lane": "crypto",
+      "hook": "Apple aside, Amazon Facebook and Google are (almost) all guilty",
+      "caption": "Apple aside, the antitrust case says Amazon, Facebook and Google are (almost) all guilty. The platforms you build on are the ones on trial. Found before the timeline caught it.",
+      "stance": "The companies hosting your app are the same ones under antitrust fire.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "big tech antitrust",
+        "named entities",
+        "contrast Apple vs rest"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-19.png",
+      "keep": false,
+      "score": 4,
+      "lane": "reject",
+      "hook": "Did Big Tech antitrust pick the wrong target?",
+      "caption": "Near-duplicate of card-21, which names Apple explicitly and hits harder. Drop this weaker version to avoid repeating the same post.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "duplicate of card-21",
+        "vaguer hook",
+        "redundant"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-20.png",
+      "keep": true,
+      "score": 6,
+      "lane": "crypto",
+      "hook": "The DOJ's top antitrust cop says Big Tech looks like Standard Oil",
+      "caption": "The DOJ's top antitrust cop says Big Tech now looks a lot like Standard Oil. When regulators reach for the monopoly playbook, your whole stack is in scope. The stuff my feed keeps.",
+      "stance": "The Standard Oil comparison means breakups, not fines, are on the table.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "Standard Oil analogy",
+        "DOJ antitrust",
+        "monopoly framing"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-21.png",
+      "keep": true,
+      "score": 6,
+      "lane": "crypto",
+      "hook": "Everyone blamed Facebook. Maybe Apple was the problem all along.",
+      "caption": "Everyone thought Facebook was the 800-pound gorilla. This argues Apple was the real monopoly all along. Contrarian take on who Big Tech antitrust should actually target. Found before the timeline.",
+      "stance": "Apple's App Store lock-in is a bigger monopoly story than the ad giants.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "contrarian target",
+        "Apple vs Facebook",
+        "named entities"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-22.png",
+      "keep": false,
+      "score": 4,
+      "lane": "reject",
+      "hook": "The FTC's Amazon case is a test of antitrust's reckoning",
+      "caption": "Dated 2023 news-of-record piece with a soft, hedged hook and no sharp contrast. Too stale and low-energy for a viral repost.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "2023 dated",
+        "hedged question hook",
+        "low emotion"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-23.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "Godwin: lessons for Congress from the Big Tech hearing",
+      "caption": "Inside-baseball Congressional-process commentary. Off-niche for a dev/researcher audience and no contrarian payload.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "congress process",
+        "off-niche policy",
+        "no hook"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-24.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Companies are firing their SaaS bills and hiring two SWEs instead",
+      "caption": "Companies are killing giant SaaS bills by in-housing a couple SWEs to build the 10% they actually use. That's where the new tech jobs are hiding. The signal my feed keeps.",
+      "stance": "Most SaaS spend buys features you never touch. In-housing is the next wave.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "triggers": [
+        "dev jobs",
+        "SaaS vs in-house",
+        "contrarian build-not-buy"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-25.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Biden's antitrust team is forming — Big Tech just got warned.",
+      "caption": "Biden's antitrust team is taking shape and Big Tech got the warning shot. Regulation is coming for the giants you build on. The policy news my feed catches before the timeline.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "stance": "The next platform shift won't be a product — it'll be a court ruling.",
+      "triggers": [
+        "antitrust",
+        "Big Tech",
+        "regulation"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-26.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "bestPlatform": "bluesky",
+      "format": "banner",
+      "stance": "",
+      "triggers": [
+        "podcast",
+        "off-niche"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-27.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Congress promised to regulate Big Tech. It's quietly dying.",
+      "caption": "218 upvotes, 464 comments: Congress' push to regulate Big Tech is fizzling out. The giants outlasted the outrage again. The story my feed surfaces while the timeline moves on.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "stance": "Every Big Tech reckoning ends the same way: a hearing, a headline, then nothing.",
+      "triggers": [
+        "Congress",
+        "regulation",
+        "Big Tech"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-28.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Big Tech is quietly walking back the AI jobs apocalypse.",
+      "caption": "A year ago every exec swore AI would wipe out your job. Now Big Tech is backpedaling hard. The narrative flip my feed caught before the timeline noticed.",
+      "bestPlatform": "x",
+      "format": "splitProof",
+      "stance": "The AI jobs apocalypse was a fundraising pitch, not a forecast.",
+      "triggers": [
+        "AI jobs",
+        "Big Tech",
+        "backpedal"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-29.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "The algorithms rewarding lies also reward the wildfires.",
+      "caption": "Big Tech's attention economy pays to broadcast lies no matter the cost — and the same engines quietly reward climate disinfo. The uncomfortable link my feed keeps.",
+      "bestPlatform": "mastodon",
+      "format": "quote",
+      "stance": "The recommendation algorithm isn't neutral — it's optimized for whatever burns hottest.",
+      "triggers": [
+        "disinformation",
+        "algorithms",
+        "attention economy"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-30.png",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "Big Tech and authoritarians run the same playbook: control what you see.",
+      "caption": "Both authoritarians and Big Tech want to control the narratives you see — so you never notice them amassing power. The take my feed keeps over the noise.",
+      "bestPlatform": "bluesky",
+      "format": "quote",
+      "stance": "Feed control is power control. Whoever owns your timeline owns your attention.",
+      "triggers": [
+        "authoritarianism",
+        "Big Tech",
+        "narrative control"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-31.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Big Tech is hiding the true cost of AI in its balance sheets.",
+      "caption": "Hidden data center costs are quietly inflating Big Tech's operating income — legal, but it warps how you value AI. The accounting story my feed surfaced early.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "stance": "AI's real cost isn't on the earnings call — it's buried in the footnotes.",
+      "triggers": [
+        "AI accounting",
+        "data centers",
+        "Big Tech financials"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/inside-big-tech-internal-memos/card-32.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "The EU isn't waiting — Big Tech antitrust enforcement is live.",
+      "caption": "92 likes, 107 replies: while the US stalls, the EU pushes ahead on Big Tech antitrust. The giants you build on are getting reined in overseas first. Caught before the timeline.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "stance": "The EU regulates Big Tech while the US holds hearings. Guess who wins.",
+      "triggers": [
+        "EU",
+        "antitrust",
+        "Big Tech"
+      ]
+    }
+  ]
+}
