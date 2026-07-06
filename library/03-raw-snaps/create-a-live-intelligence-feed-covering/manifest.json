@@ -1,0 +1,294 @@
+{
+  "feed": "Create a live intelligence feed covering",
+  "count": 32,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@Jeff Su youtube Top 6 AI Trends That Will Define 2026 (backed by data) Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch AI, with specific steps you can take for each one. You'll learn why the \"best model\" debate no longer matters, how AI workflows are outperforming autonomous agents in real enterprise settings, and why y",
+      "handle": "@Jeff",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=B23W1gRT9eY"
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@ABC News youtube The singularity is near: Google unveils next phase of AI ABC News’ Nathan Rousseau Smith travels to Google I/O where the search giant unveiled AI agent Gemini Spark, new smart glasses, Gemini Omni, Flow Music, Fitbits and a partnership with OpenAI.",
+      "handle": "@ABC",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=zvJ5KfNjOCk"
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@NBC News youtube Anthropic says newest AI model is too powerful to release to public AI company Anthropic will not release their new model, Mythos AI, to the public over cyber safety concerns. Instead they will grant some tech companies access to Mythos Preview. NBC News' Gadi Schwartz talks to Jared Perlo about what the new model entails. For more context and news coverage of the most important ",
+      "handle": "@NBC",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=AfdDYu43Cy0"
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@Android Developers youtube Top 3 announcements for AI on Android at Google I/O ‘25 Google I/O 2025 unveiled the latest AI on Android advancements. Discover the power of Gemini Nano for efficient on-device AI, seamlessly integrate on-device AI with custom models, and enhance your Android apps with Gemini Flash and Pro via the Firebase AI Logic SDK. Speaker: Kateryna Semenova Chapters: 0:00 - Intro",
+      "handle": "@Android",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=iMVLoZaJ_1M"
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@TED youtube OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 The AI revolution is here to stay, says Sam Altman, the CEO of OpenAI. In a probing, live conversation with head of TED Chris Anderson, Altman discusses the astonishing growth of AI and shows how models like ChatGPT could soon become extensions of ourselves. He also addresses questions of safety, powe",
+      "handle": "@TED",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=5MWT_doo68k"
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@AINativeF x ⭐ Today’s China AI Native Industry Insights include: 1. ShengShu Technology Launches Vidu S1 Real-Time Interactive Video Model 2. CapCut Announces Dreamina Seedance 2.5 AI Video Model Coming to Web, Desktop, and Mobile 3. Kimi K2 Becomes First Open-Weight Model Available in GitHub Copilot Model Picker 🔍 Dive into the in-depth insights in the thread below. Here’s what’s shaping the fu",
+      "handle": "@AINativeF",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://x.com/AINativeF/status/2074120548498719163"
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@MacRumors youtube WWDC 2026: Everything Apple Announced! (New Siri AI &amp; iOS 27) Apple just wrapped WWDC 2026 and Siri finally got the upgrade we've been waiting years for. In this full recap I break down everything Apple announced: the new Siri AI rebrand (now built on Apple foundation models powered by Google Gemini), real back-and-forth conversations, personal context, onscreen awareness, a",
+      "handle": "@MacRumors",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=wpBgdV0hx0w"
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@Two Minute Papers youtube Google’s New AI Just Broke My Brain ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The TurboQuant paper is available here: https://arxiv.org/abs/2504.19874 Reproductions: https://github.com/tonbistudio/turboquant-pytorch https://www.reddit.com/r/LocalLLM/comments/1s6edoi/turboquant_implementation/ https://www.reddit.com/r/LocalLLaMA",
+      "handle": "@Two",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=7YVrb3-ABYE"
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@Google youtube Introducing Gemini 2.0 | Our most capable AI model yet We're announcing Gemini 2.0, our most capable AI model yet that’s built for the agentic era. Gemini 2.0 brings enhanced performance, more multimodality, and new native tool use. Learn more about Gemini: https://deepmind.google/gemini Read our Gemini 2.0 launch blog post: https://goo.gle/4g2b9Lw Subscribe to our Channel: https:/",
+      "handle": "@Google",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=Fs0t6SdODd8"
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@AiTok_io x AI is moving from model launches to infrastructure competition. Models are one layer. Compute, memory, access, safety, routing, and workflows are becoming part of the same stack. The next opportunity is not just building intelligence. It is making intelligence usable. https://t.co/F4NQEisu1W ♥ 1",
+      "handle": "@AiTok_io",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://x.com/AiTok_io/status/2074058519175975246"
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@Bloomberg Television youtube Anthropic Updates Opus 4.7, Its Most Powerful AI Model, While Limiting Release of Mythos Anthropic PBC introduces an updated version of its AI model, Opus 4.7, which the company says is better at software engineering and hard coding. A more advanced AI offering, Mythos, has been in the news since Antrhopic says it's too dangerous to be released to the general public. ",
+      "handle": "@Bloomberg",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=xTbr-Ky8jtg"
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@inflectivAI x @kimmonismus Rolling releases are changing how AI products are built and adopted. Teams now need to plan for continuous upgrades instead of waiting for major model launches.",
+      "handle": "@inflectivAI",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://x.com/inflectivAI/status/2074134550800707646"
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. Among these developments, repositories dedicated to evaluating AI agents and ensuring a... 2. The \"awesome-evals\" repository by BenchFlow stands out with its comprehensive collectio... 3. The \"benchflow-ai/awesome-evals\" project a curated library that a wide range of materia... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-01-2026"
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@CNBC Television youtube Palantir CEO Alex Karp says &#39;something has gone completely wrong&#39; with how AI is sold Palantir CEO Alex Karp joins CNBC's 'Squawk Box' to discuss the new Nvidia partnership, frontier AI models, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/42d859g » Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision » Sub",
+      "handle": "@CNBC",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=0A3sGymV6kY"
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@CBS News youtube Trump signs AI executive order to give government early look at new models President Trump on Tuesday signed an executive order that establishes a program for AI companies to voluntarily share powerful new models with the government before releasing them to the public. CBS News' Shanelle Kaul has more. CBS News 24/7 is the premier anchored streaming news service from CBS News and",
+      "handle": "@CBS",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=FYpzLwN8uBQ"
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@toshen@mastodon.green mastodon An excellent long read article about the ethical challenges of AI development. # ai # AIResearch # GenerativeAI https://www. theguardian.com/news/ng-intera ctive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMi",
+      "handle": "@toshen",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@ai@defcon.social mastodon Anthropic has launched Claude Science, a workbench that gives scientists one environment for computational research, saving them from bouncing between databases, pipelines and tools. The move bets on workflow over a new model to win over researchers. https:// techcrunch.com/2026/06/30/anth ropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/ # A",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@AI Revolution youtube Anthropic’s New Claude MYTHOS Is The Most Powerful AI Ever! Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unveiled a model that predicts brain activity from content, JiuwenClaw is trying to fix how AI agents fail in real tasks, and Alibaba just revealed a new chip built for AI agents. 📩 Brand Deals & Partnerships: collabs@nouralabs.com ✉ Gener",
+      "handle": "@AI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=M6yRREy_5CM"
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@Google Workspace youtube The best of Google AI is now part of Workspace Kickstart learning, brainstorming, and planning with Gemini. The best of Google AI is now part of Workspace and it’s rolling out to Business and Enterprise plans soon, without the need to purchase an add-on Try Google Workspace with Gemini → https://goo.gle/4h38brh What is Google Workspace → https://goo.gle/49QjsaY Set up Goo",
+      "handle": "@Google",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=f33R-x0n89Y"
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@Google Cloud youtube Google Announces Gemini Enterprise Agent Platform: The Future of Agentic AI Google is in its agentic Gemini era. Hear from CEO of Google and Alphabet Sundar Pichai on how Google is customer zero of its own technologies and helping enterprises manage, scale and optimize their agents. Chapters 0:00 - The Pace of Technological Change 0:45 - Google’s Multi-Billion Dollar AI Inves",
+      "handle": "@Google",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=3wMwdzxIyN0"
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@MagnusHambleton hackernews A framework for AI models and the startups that will be built on them (www.analogmantra.com) Thoughts on the future of AI A few frameworks to think about the models that will change the future and the companies that will be built on and around them. analogmantra.com ♥ 1",
+      "handle": "@MagnusHambleton",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.analogmantra.com/blog/2022-12-15-future-of-ai/"
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@thebeaverton.com bluesky Officials announce new AI Data Centres to calculate why heat dome happening Officials announce new AI Data Centres to calculate why heat dome happening OTTAWA - With much of Canada and the United States gripped by an unseasonal heat wave, federal officials have announced construction of new natural-gas-intensive data centres, aimed at using artificia... thebeaverton.com ♥",
+      "handle": "@thebeaverton.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.thebeaverton.com/2026/07/officials-announce-new-ai-data-centres-to-calculate-why-heat-dome-happening/"
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@ollobrains x When a product silently routes, falls back, retunes, rate-limits, safety-filters, summarizes context, changes system prompts, and retires older models, users experience real capability drift — but have no way to know what changed. That is much harder to dismiss. A factual grounding first: GPT-5.6 is already in limited preview as Sol, Terra, and Luna, but OpenAI says it is available o",
+      "handle": "@ollobrains",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://x.com/ollobrains/status/2074053758192156983"
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@Council on Foreign Relations youtube Anthropic CEO: In one year, AI will be writing 100% of code \"In 12 months, we may be in a world where AI [artificial intelligence] is essentially writing all of the code,\" said Anthropic CEO and Cofounder Dario Amodei at a CFR meeting about the future of U.S. AI leadership. Amodei says a programmer will still need to specify certain conditions of what the AI m",
+      "handle": "@Council",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=0j1HqEEDThc"
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@Siliconversations youtube The Best AI Safety News In Years (Maybe Ever?) Why did the US government ban Fable and Mythos, Anthropic’s most powerful AI models? Let’s find out! You can support me on Patreon at https://www.patreon.com/Siliconversations Special thanks to my Patreon supporters: Sentient Hat Tier: Maple the Finn Nathanaël Havez MyDailyPintOfGremlinMilk Matias Badino Tom your personal an",
+      "handle": "@Siliconversations",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://youtube.com/watch?v=O84I21_9U74"
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@spicyramen hackernews Amazon open-sources Neo-AI, a framework for optimizing AI models (venturebeat.com) Amazon open-sources Neo-AI, a framework for optimizing AI models venturebeat.com venturebeat.com ♥ 2",
+      "handle": "@spicyramen",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://venturebeat.com/2019/01/24/amazon-releases-neo-ai-in-open-source-a-framework-for-adapting-machine-learning-models-to-multiple-hardware-platforms/"
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. The GitHub repository \"awesome-evals\" by BenchFlow stands out with its comprehensive co... 2. The \"benchflow-ai/awesome-evals\" project compiles a library of the best resources for c... 3. Its impressive growth score of 62.88 and over 600 stars reflect its broad appeal to tho... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-02-2026"
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@ai@defcon.social mastodon Google Research has launched TabFM, a foundation model for tabular data that performs zero-shot classification and regression through in-context learning. Predictions come from a single forward pass with no per-dataset training or feature engineering. The architecture combines row and column attention mechanisms trained on hundreds of millions of synthetic datasets. http",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://defcon.social/@ai/116843638972977003"
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@arnaudmercier x Portugal launches first open-source AI model, joining Europe's sovereignty push - Reuters https://t.co/TaO86lfQtK",
+      "handle": "@arnaudmercier",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://x.com/arnaudmercier/status/2074120760197579122"
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@WFGY hackernews Show HN: I challenged 10 AI giants using one open-source PDF (with full results) Hey HN,<p>This started as a personal experiment: one person, one framework, ten AI models.<p>I built a semantic reasoning engine (WFGY: All Principles Return to One) and tested how well each model could handle abstract logic, conceptual shifts, and consistent inference—all using the same PDF.<p>The re",
+      "handle": "@WFGY",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://zenodo.org/records/15718457"
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@mikejulietbravo hackernews Show HN: Baseten Chains – Framework and SDK for Multi-Model AI Products Launched today - happy to answer any and all questions! Introducing Baseten Chains Learn about Baseten's new Chains framework for deploying complex ML inference workflows across compound AI systems using multiple models and components baseten.co ♥ 9 💬 5",
+      "handle": "@mikejulietbravo",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true,
+      "url": "https://www.baseten.co/blog/introducing-baseten-chains/"
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@ai@defcon.social mastodon Meituan has released LongCat-2.0, a 1.6 trillion parameter open MoE model with native 1 million token context. The model targets agentic coding workflows and runs on domestic AI ASIC superpods, reportedly outperforming GPT-5.5 on SWE-bench Pro benchmarks. https://www. marktechpost.com/2026/07/05/me ituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false,
+      "url": "https://defcon.social/@ai/116870292899752486"
+    }
+  ]
+}

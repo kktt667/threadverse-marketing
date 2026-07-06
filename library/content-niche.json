@@ -1,0 +1,2671 @@
+[
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 9,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-13.png",
+    "hook": "DeepSeek's $5-6M training cost is bogus, this analyst says.",
+    "caption": "Everyone cheered DeepSeek's $5-6M price tag. This analyst calls the number bogus - and it moved US AI stocks. Read the claim before you repeat it. The stuff my feed keeps.",
+    "stance": "The DeepSeek 'cheap' narrative was a market event dressed up as a research result.",
+    "triggers": [
+      "mild-outrage",
+      "contrarian-stance",
+      "named-entity"
+    ],
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
+    "visualSource": "https://commons.wikimedia.org/w/index.php?curid=170912794",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 9,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-24.png",
+    "hook": "Anthropic's CEO: AI writes 100% of code within a year",
+    "caption": "Anthropic's CEO: AI writes 100% of code within a year. Dario says in 12 months AI may write essentially all of it. If you ship code, that timeline changes your whole plan. Caught before the timeline.",
+    "stance": "Either Dario's wildly early or your job description is about to be rewritten. No middle ground.",
+    "triggers": [
+      "Anthropic",
+      "Dario Amodei",
+      "100% of code"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=0j1HqEEDThc",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/54211055653",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 9,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-29.png",
+    "hook": "Why care about a fictional character's fate?",
+    "caption": "\"If Anna Karenina is fictional, why care what happens to her?\" The honest answer: because you're not a heartless asshole. Best philosophy exam answer ever. Found before the timeline.",
+    "stance": "Caring about fiction isn't irrational — it's the whole point of being human.",
+    "triggers": [
+      "Anna Karenina",
+      "fiction",
+      "emotion"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:jp6kosbeb3bkbadjr2ttznbu/post/3mpc3mt6rks2l",
+    "visualSource": "https://www.flickr.com/photos/7168480@N02/13892301985",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-06.png",
+    "hook": "The US-China frontier model gap just closed to 2.7%",
+    "caption": "Stanford's 2026 AI Index says the US-China frontier gap effectively closed — top models now trade leads within ~2.7%. The lead everyone assumed is basically gone. Found in my feed before the timeline.",
+    "stance": "The US AI lead is a rounding error now, not a moat.",
+    "triggers": [
+      "mild-outrage",
+      "US-China",
+      "bigStat"
+    ],
+    "sourceUrl": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+    "visualSource": "https://www.flickr.com/photos/28045633@N00/52723929213",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-09.png",
+    "hook": "They trained a frontier model with 11x less compute.",
+    "caption": "They trained a frontier model with 11x less compute. Not a bigger GPU pile - just low-level optimization. The efficiency race is the real race. Found before the timeline noticed.",
+    "stance": "The compute moat is thinner than the trillion-dollar capex bets assume.",
+    "triggers": [
+      "surprise",
+      "contrarian-stance",
+      "named-entity"
+    ],
+    "sourceUrl": "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/",
+    "visualSource": "https://www.flickr.com/photos/27027945@N07/4839060646",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-14.png",
+    "hook": "The government wants a say in who gets new AI models first.",
+    "caption": "OpenAI limited its new flagship, then said Washington deciding who gets early access shouldn't 'become the long-term default.' Who gates frontier models is now a policy fight. Found before the timeline.",
+    "stance": "Access to frontier models is becoming political infrastructure, not a product decision.",
+    "triggers": [
+      "mild-outrage",
+      "named-entity",
+      "surprise"
+    ],
+    "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/meta-releases-ai-model-that-can-check-other-ai-models-work-2024-10-18/",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/24101118088",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-15.png",
+    "hook": "Matrix multiplication just got its biggest speedup in 50 years.",
+    "caption": "The math at the heart of every AI model - matrix multiplication - just saw its biggest boost in over a decade. Faster matmul means cheaper training for everyone. The stuff my feed keeps.",
+    "stance": "The real AI gains come from math nobody tweets about, not the next chatbot demo.",
+    "triggers": [
+      "awe",
+      "surprise",
+      "named-entity"
+    ],
+    "sourceUrl": "https://x.com/manh89906352/status/2074068387622539313",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/15126339686",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-18.png",
+    "hook": "DeepSeek's new training method may break the scaling wall",
+    "caption": "Everyone says scaling is dead. DeepSeek opened 2026 with a training method analysts call a real scaling breakthrough. If it holds, the ceiling just moved. The stuff my feed keeps.",
+    "stance": "'Scaling is over' was a cope — DeepSeek just found the next rung.",
+    "triggers": [
+      "cult-entity:DeepSeek",
+      "contrarian-scaling",
+      "surprise"
+    ],
+    "sourceUrl": "https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html",
+    "visualSource": "https://commons.wikimedia.org/w/index.php?curid=164150862",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "science",
+    "topic": "science",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/science-1-ai-model-card-19.png",
+    "hook": "A new tool makes generative AI invent real breakthrough materials",
+    "caption": "MIT's SCIGEN lets researchers force design rules into generative models — so the AI stops hallucinating and starts proposing materials that actually work. AI as a discovery engine, not a chatbot. Found before the timeline.",
+    "stance": "The real AI breakthrough isn't chat — it's models that obey physics and discover new matter.",
+    "triggers": [
+      "cult-entity:MIT",
+      "awe",
+      "science-utility"
+    ],
+    "sourceUrl": "https://science.nasa.gov/open-science/ai-model-weather-climate/",
+    "visualSource": "https://www.flickr.com/photos/24662369@N07/5330405421",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-21.png",
+    "hook": "The US just cleared Anthropic to release a model it had blocked",
+    "caption": "The US government reversed an export block and let Anthropic ship its Mythos model to select orgs — after national-security fears froze it. Frontier releases now clear govt, not just eval. Found before the timeline.",
+    "stance": "Model launches are becoming export decisions — your next release ships when Washington says so.",
+    "triggers": [
+      "cult-entity:Anthropic",
+      "mild-outrage",
+      "policy-contrast"
+    ],
+    "sourceUrl": "https://github.com/QwenLM/Qwen",
+    "visualSource": "https://commons.wikimedia.org/w/index.php?curid=133033633",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "science",
+    "topic": "science",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/science-1-ai-model-card-27.png",
+    "hook": "AI models that never see your data.",
+    "caption": "Encryption breakthrough from NYU lets AI run on data it can never actually read. Private inference stops being a fantasy. This is the kind of research my feed surfaces before the timeline does.",
+    "stance": "Privacy-preserving AI won't come from policy — it'll come from cryptography that makes leaks impossible.",
+    "triggers": [
+      "real research breakthrough",
+      "privacy painpoint you already have",
+      "named source NYU engineering"
+    ],
+    "sourceUrl": "https://x.com/ClaudeBrilliant/status/2071377824091431266",
+    "visualSource": "https://www.flickr.com/photos/24662369@N07/8241072993",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-29.png",
+    "hook": "Microsoft's CEO: AI giants can't eat the economy.",
+    "caption": "Nadella warns AI power is concentrating too fast — and hints Microsoft may host DeepSeek itself. When the biggest player calls for limits, pay attention. Found before the timeline caught it.",
+    "stance": "The people building the biggest AI moats are the first to admit the moats are dangerous.",
+    "triggers": [
+      "named cult entity Nadella/Microsoft",
+      "contrarian insider stance",
+      "DeepSeek hosting scoop"
+    ],
+    "sourceUrl": "https://x.com/iamreddsebasti/status/2071341407164400085",
+    "visualSource": "https://www.flickr.com/photos/37996580417@N01/54394773671",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-31.png",
+    "hook": "DeepSeek proved US chip sanctions have a ceiling.",
+    "caption": "Low-level optimizations let a Chinese lab do more with less silicon — exposing the limits of export bans. The efficiency race just changed shape. My feed caught this before the timeline did.",
+    "stance": "Compute bans don't stop progress — they force the optimizations that make bans pointless.",
+    "triggers": [
+      "named cult entity DeepSeek",
+      "geopolitics-meets-tech contrast",
+      "strong surprise stance"
+    ],
+    "sourceUrl": "https://x.com/grok/status/2071338402411118888",
+    "visualSource": "https://www.flickr.com/photos/37996580417@N01/54393889692",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-03.png",
+    "hook": "Anthropic won't release its new model — too powerful for the public",
+    "caption": "Anthropic says its new model, Mythos AI, is too powerful to ship publicly over cyber-safety concerns — tech access only. The kind of story my feed surfaces first.",
+    "stance": "'Too dangerous to release' is either the realest safety call or the best marketing ever.",
+    "triggers": [
+      "Anthropic",
+      "Mythos AI",
+      "too powerful to release"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=AfdDYu43Cy0",
+    "visualSource": "https://www.flickr.com/photos/49707497@N06/52923262063",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-10.png",
+    "hook": "AI's real fight isn't models anymore — it's the stack",
+    "caption": "Everyone's watching model launches. The real war moved to compute, memory, routing, and safety. Whoever makes intelligence usable wins. The take my feed pulled before it blew up.",
+    "stance": "Building intelligence is table stakes. Making it usable is the moat.",
+    "triggers": [
+      "hard contrarian stance",
+      "contrast: models vs infra",
+      "you-relevant to builders"
+    ],
+    "sourceUrl": "https://x.com/AiTok_io/status/2074058519175975246",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/12369089904",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-11.png",
+    "hook": "Anthropic ships Opus 4.7 — its most powerful model yet",
+    "caption": "Bloomberg: Anthropic's Opus 4.7 is out, better at software and its strongest model so far — with a limited Mythos release. The Claude news my feed surfaced before the timeline.",
+    "stance": "",
+    "triggers": [
+      "names Anthropic/Opus (cult-loved)",
+      "breaking news",
+      "most-powerful contrast"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=xTbr-Ky8jtg",
+    "visualSource": "https://www.flickr.com/photos/203061726@N08/54584510462",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-14.png",
+    "hook": "Palantir's CEO: 'something has gone completely wrong' with AI",
+    "caption": "Alex Karp says the way AI is sold is completely broken — on CNBC, alongside the new Nvidia deal and frontier models. The spicy take my feed caught before the timeline.",
+    "stance": "The people selling AI hardest understand it least.",
+    "triggers": [
+      "names Palantir/Karp/Nvidia",
+      "mild outrage",
+      "provocative quote"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=0A3sGymV6kY",
+    "visualSource": "https://www.flickr.com/photos/48246666@N04/5382624995",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-15.png",
+    "hook": "Trump signed an order giving the government an early look at new AI models",
+    "caption": "New executive order: AI companies will voluntarily share powerful new models with the government before release. The policy shift my feed surfaced before it hit your feed.",
+    "stance": "\"Voluntary\" model sharing with the government never stays voluntary.",
+    "triggers": [
+      "breaking policy news",
+      "regulation stakes",
+      "AI governance"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=FYpzLwN8uBQ",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/51981065970",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-17.png",
+    "hook": "Anthropic's betting on a workflow, not a bigger model",
+    "caption": "Anthropic's betting on a workflow, not a bigger model. Claude Science is one environment for research — databases, pipelines, tools in one place. The strategy shift my feed caught early.",
+    "stance": "The next AI edge isn't scale, it's stitching the whole research stack together.",
+    "triggers": [
+      "Anthropic",
+      "Claude",
+      "research workflow"
+    ],
+    "sourceUrl": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "visualSource": "https://www.flickr.com/photos/44124368329@N01/4419278023",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-23.png",
+    "hook": "The model you rely on is quietly drifting — and you can't tell",
+    "caption": "The model you rely on is quietly drifting — and you can't tell. Silent reroutes, retunes, retired versions all shift real capability with zero notice. The under-the-radar take my feed surfaced.",
+    "stance": "Providers change your model out from under you and call it stable. That's the real reliability crisis.",
+    "triggers": [
+      "capability drift",
+      "model routing",
+      "reliability"
+    ],
+    "sourceUrl": "https://x.com/ollobrains/status/2074053758192156983",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/27283139569",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-28.png",
+    "hook": "Google's new model classifies your data with zero training",
+    "caption": "Google Research launched TabFM, a foundation model for tabular data that does zero-shot classification in one forward pass. No per-dataset tuning. This is the research my feed keeps.",
+    "stance": "Foundation models are quietly eating the last stronghold: boring spreadsheet data.",
+    "triggers": [
+      "Google Research",
+      "foundation model",
+      "zero-shot"
+    ],
+    "sourceUrl": "https://defcon.social/@ai/116843638972977003",
+    "visualSource": "https://www.flickr.com/photos/21649179@N00/3237928173",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-30.png",
+    "hook": "One person put 10 AI giants against a single PDF",
+    "caption": "Show HN: one dev challenged 10 AI models with one open-source PDF and published every result. The kind of honest head-to-head my feed keeps over the marketing benchmarks.",
+    "stance": "One reproducible PDF test beats a hundred cherry-picked vendor benchmarks.",
+    "triggers": [
+      "Show HN",
+      "AI benchmark",
+      "10 models"
+    ],
+    "sourceUrl": "https://zenodo.org/records/15718457",
+    "visualSource": "https://www.flickr.com/photos/21649179@N00/3237967443",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-32.png",
+    "hook": "A 1.6 trillion parameter open model just dropped from Meituan",
+    "caption": "Meituan released LongCat-2.0: a 1.6T-param open MoE with 1M token context, built for agentic coding on domestic AI chips. China's open frontier keeps moving. Caught by my feed early.",
+    "stance": "The biggest open model of the month came from a food-delivery company.",
+    "triggers": [
+      "LongCat",
+      "1.6T params",
+      "open MoE"
+    ],
+    "sourceUrl": "https://defcon.social/@ai/116870292899752486",
+    "visualSource": "https://www.flickr.com/photos/129440207@N08/27929852485",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-04.png",
+    "hook": "\"Metroid: Ravenous\" just leaked via a ratings board",
+    "caption": "\"Metroid: Ravenous\" just leaked through Brazil's ratings board — before any official reveal.\n\nRatings-board leaks are how the real news breaks. Found in my feed before the timeline noticed.",
+    "stance": "Ratings boards leak more games than publishers ever announce on purpose.",
+    "triggers": [
+      "Metroid leak",
+      "cult franchise",
+      "ratings board scoop"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/67167663@N02/25446514933",
+    "visualLicense": "pdm"
+  },
+  {
+    "platform": "x",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/gaming-create-a-l-card-12.png",
+    "hook": "Xbox promised a reset. It shipped layoffs.",
+    "caption": "New logo, charm offensive, big \"reset\" talk — and the actual news was layoffs, studio closures, and spin-offs. The story under the rebrand my feed caught first.",
+    "stance": "A fancy new logo is what a platform ships when it has nothing else to announce.",
+    "triggers": [
+      "breaking",
+      "mild outrage",
+      "Xbox named entity"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/45383134@N00/217132850",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-14.png",
+    "hook": "Alien: Isolation 2 is real — official trailer dropped.",
+    "caption": "Alien: Isolation 2 got its official reveal at Summer Game Fest 2026, Geoff Keighley hosting. The sequel horror fans waited a decade for. Found before the timeline.",
+    "stance": "",
+    "triggers": [
+      "cult sequel",
+      "awe",
+      "named IP reveal"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/44242222@N07/12890575633",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-17.png",
+    "hook": "Sony is killing physical discs on every PS5 game by 2028",
+    "caption": "Sony's ending disc production for all PS5 games by 2028. Layoffs, Hollywoodification, no ownership. The industry take my feed surfaced before the timeline caught it.",
+    "stance": "Ending physical discs isn't progress, it's revoking ownership from the people who kept gaming alive.",
+    "triggers": [
+      "mild-outrage",
+      "cult-entity-PlayStation",
+      "painpoint-ownership"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/70285332@N00/8094883394",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-21.png",
+    "hook": "This AI turns a text prompt into a playable 2D/3D game. No code.",
+    "caption": "Seele AI: type a prompt, get a playable game, zero coding. A generative engine built for game dev, not just chat. The frontier drop my feed caught on launch day.",
+    "stance": "Prompt-to-playable-game is the moment AI stops assisting devs and starts replacing the toolchain.",
+    "triggers": [
+      "frontier-AI",
+      "cult-entity-ShowHN",
+      "surprise-awe"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/93452909@N00/2354758874",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-22.png",
+    "hook": "Fumito Ueda's next game is an Xbox open-world exclusive: gen ATLAS",
+    "caption": "The mind behind ICO and Shadow of the Colossus goes open-world on Xbox with gen ATLAS. The reveal my feed surfaced before the timeline lost its mind.",
+    "stance": "",
+    "triggers": [
+      "cult-creator-Fumito-Ueda",
+      "reveal-hype",
+      "awe"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/82365211@N00/2154554422",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-23.png",
+    "hook": "The Xenomorph is back: Alien Isolation 2 just got revealed",
+    "caption": "Alien Isolation 2 is official at Summer of Gaming. Get stalked by the Xenomorph again. The reveal my feed caught the second it dropped, before the timeline noise.",
+    "stance": "",
+    "triggers": [
+      "cult-entity-Alien-Isolation",
+      "reveal-hype",
+      "surprise"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/89165847@N00/54070347385",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-26.png",
+    "hook": "Microsoft just laid off 4,800 people in one day",
+    "caption": "Double Fine, Compulsion — gone in a single round of Microsoft layoffs. \"AAA gaming is killing the industry\" isn't a hot take anymore, it's the news. The signal my feed surfaces before it trends.",
+    "stance": "AAA studios keep shipping bigger budgets and thinner margins — the layoffs are the business model, not the accident.",
+    "triggers": [
+      "mild-outrage",
+      "named-studios",
+      "industry-shift"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/64097751@N00/1128788988",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/gaming-create-a-l-card-27.png",
+    "hook": "PlayStation stops making game discs in January 2028",
+    "caption": "Sony is killing physical PS5 discs by 2028 — and gamers are not taking it well. If you own games, you're about to only license them. Caught this one before the timeline melted down.",
+    "stance": "No discs means no ownership — your library becomes a subscription Sony can revoke.",
+    "triggers": [
+      "ownership-anxiety",
+      "PlayStation",
+      "contrarian-stance"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/98627683@N00/8749123980",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-l-card-32.png",
+    "hook": "Xbox cut 3,200 jobs and 4 studios — Arkane may be next",
+    "caption": "Compulsion, Double Fine, Ninja Theory, Undead Labs — all out. Xbox laid off 3,200 and Arkane's future looks grim. If you loved Dishonored, read this. Caught before the timeline noticed.",
+    "stance": "Microsoft bought these studios to kill competitors, not to ship their games.",
+    "triggers": [
+      "named-studios",
+      "mild-outrage",
+      "Arkane"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/8950560@N08/3331739967",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-03.png",
+    "hook": "Sells good? Studio gone. Sells bad? Studio gone.",
+    "caption": "Sells good — studio gone. Sells bad — studio gone. The games industry needs a hard reset and everyone's finally saying it out loud. The take my feed caught before it blew up.",
+    "stance": "No sales number saves a studio anymore — the model itself is broken.",
+    "triggers": [
+      "contrarian-stance",
+      "mild-outrage",
+      "emotion"
+    ],
+    "sourceUrl": "https://mastodon.gamedev.place/@shadow_grove/116873507807878765",
+    "visualSource": "https://www.flickr.com/photos/61914949@N00/7333659998",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "x",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/x/gaming-i-love-gam-card-19.png",
+    "hook": "We traded brilliant enemy AI for pretty graphics",
+    "caption": "Modern game enemies are brain-dead — and prettier graphics are why. You noticed it too. This is the sharp take my feed keeps instead of the review-score noise.",
+    "stance": "Enemy AI peaked years ago. We spent the whole budget on lighting instead.",
+    "triggers": [
+      "contrarian",
+      "enemy AI",
+      "graphics vs gameplay"
+    ],
+    "sourceUrl": "https://x.com/Excalibur7313/status/2072458708710224153",
+    "visualSource": "https://www.flickr.com/photos/25955895@N03/8670026622",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/ai-i-love-gam-card-28.png",
+    "hook": "Big AI labs chase trillion-dollar infra. Indies already ship with it.",
+    "caption": "Big AI labs chase trillion-dollar infra. Meanwhile indie studios use AI to punch way above their weight, today. The contrarian take my feed kept before the timeline caught up.",
+    "stance": "The real AI game revolution is happening in tiny studios, not frontier labs.",
+    "triggers": [
+      "AI",
+      "indie",
+      "contrarian"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:z4llsx425l4htoylyyx6iam3/post/3mpmo3atdps23",
+    "visualSource": "https://www.flickr.com/photos/21649179@N00/3238821080",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-30.png",
+    "hook": "In Fresco, the Egyptian carvings ARE the playable level.",
+    "caption": "In this upcoming indie game Fresco, the Egyptian wall carvings are the actual playable environment. Wild idea, gorgeous execution. Found before the timeline in my feed.",
+    "stance": "The best art direction this year is coming from a solo indie, not a AAA studio.",
+    "triggers": [
+      "indie",
+      "art direction",
+      "new release"
+    ],
+    "sourceUrl": "https://x.com/THREADMUTER/status/2070408528926302400",
+    "visualSource": "https://www.flickr.com/photos/12505664@N00/9715547187",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "splitProof",
+    "score": 8,
+    "tile": "library/01-content-cards/x/philosophy-random-phi-card-12.png",
+    "hook": "AI companies are quietly buying the philosophy of AI.",
+    "caption": "AI companies are quietly buying the philosophy of AI, and the field has zero rules on disclosing it. A petition wants that fixed. Found before the timeline.",
+    "stance": "Philosophy is the one discipline with no conflict-of-interest standards, right as AI money floods in.",
+    "triggers": [
+      "ai",
+      "conflict of interest",
+      "philosophy funding"
+    ],
+    "sourceUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf9TjX10ol44FrXR0dc1azlyzlbQqwiSL6R7DAUAFxhZ03cFg/viewform",
+    "visualSource": "https://www.flickr.com/photos/94359914@N06/46257453352",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/philosophy-random-phi-card-16.png",
+    "hook": "\"Thinking is for poor people.\" This is where AI is taking us.",
+    "caption": "\"I don't know if anyone needs to think anymore. It's AI now, thinking is for poor people.\" Cognitive surrender, sold as convenience. The stuff my feed keeps.",
+    "stance": "Outsourcing your thinking to AI isn't efficiency, it's cognitive surrender dressed up as convenience.",
+    "triggers": [
+      "ai",
+      "cognitive surrender",
+      "hot take"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:x5ba2cm5nwrmkwkdhsbdfoay/post/3mpgwk25d7s2e",
+    "visualSource": "https://www.flickr.com/photos/17997843@N02/14746630457",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-17.png",
+    "hook": "You're a symphony of a trillion chemical reactions.",
+    "caption": "You're a symphony of a trillion chemical reactions, writing your life in symbols older than the Bronze Age. Consciousness never stops being strange. The kind of line my feed keeps.",
+    "stance": "\"Just chemistry\" isn't a downgrade of the mind — it's the most staggering thing about it.",
+    "triggers": [
+      "awe",
+      "identity",
+      "poetic framing"
+    ],
+    "sourceUrl": "https://mastodon.social/@appassionato/116834830410884369",
+    "visualSource": "https://www.flickr.com/photos/49511267@N00/192939552",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 8,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-22.png",
+    "hook": "Reading Kant with no internet = an ogre reading Ulysses.",
+    "caption": "Someone nailed pre-internet Kant: an ogre grinding through Ulysses, catching the surface, missing \"remorse of conscience\" entirely. We forget how hard dense texts were before explainers existed. Found before the timeline.",
+    "stance": "The internet didn't make us dumber — it made the hardest books finally readable.",
+    "triggers": [
+      "relatable",
+      "meme",
+      "mild outrage at Kant"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:p3flfra5fhvqhwrm5jirb267/post/3mpfb6laopc2k",
+    "visualSource": "https://www.flickr.com/photos/39415781@N06/4987760192",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/philosophy-random-phi-card-28.png",
+    "hook": "If AI writes our papers, philosophy gets better",
+    "caption": "Hot take: if AI takes over citation-stuffed research, philosophy goes back to actually thinking hard — like the 1950s. Fewer footnotes, more ideas. The stuff my feed keeps.",
+    "stance": "AI killing literature-review busywork could save real philosophy.",
+    "triggers": [
+      "AI",
+      "philosophy papers",
+      "1950s"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:givg3amslsq46o3f25ga5esh/post/3mpdiynb3xs2c",
+    "visualSource": "https://www.flickr.com/photos/39415781@N06/4987167751",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-01.png",
+    "hook": "Working in crypto but ashamed to admit it?",
+    "caption": "Working in crypto but too embarrassed to say it out loud? A DeFi dev since 2021 asks HN the question nobody posts. The honest thread my feed kept while the timeline hyped coins.",
+    "stance": "The most interesting people in crypto are the ones quietly questioning it.",
+    "triggers": [
+      "identity",
+      "mild-outrage",
+      "relatable"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/44159829@N00/15141318762",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-03.png",
+    "hook": "Tokenized stocks just hit $34B/month — up 40x in a year.",
+    "caption": "Tokenized stocks are doing $34B/month, up 40x in 13 months. Nvidia, Tesla, Micron now trade as RWAs on-chain. TradFi is quietly moving to DeFi rails. Found before the timeline noticed.",
+    "stance": "RWAs are the real crypto adoption story — not another memecoin.",
+    "triggers": [
+      "big-number",
+      "surprise",
+      "named-entities"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/14674348@N04/32663043503",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 8,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-13.png",
+    "hook": "A monarch's inheritance gets more scrutiny than your DeFi yields",
+    "caption": "A French dev's take: a king's inheritance faces more scrutiny than your DeFi yields. Decentralization as the only real escape from the audit. The spicy takes my feed keeps.",
+    "stance": "DeFi's real product isn't yield — it's exit from the surveillance state.",
+    "triggers": [
+      "tax vs DeFi",
+      "monarch comparison",
+      "decentralization escape"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/19182752@N00/385243592",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-15.png",
+    "hook": "A Solana DeFi protocol torched $661K with one code bug",
+    "caption": "A Solana DeFi protocol lost $661K to a single programming blunder — not a hack, a typo-level mistake. This is why you read the audit. Found before the timeline piled on.",
+    "stance": "Most DeFi losses aren't hacks — they're self-inflicted by unaudited code.",
+    "triggers": [
+      "$661K loss",
+      "code bug not hack",
+      "Solana"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/194414260@N04/52320777497",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-22.png",
+    "hook": "DeFi hacks are now a $780M hidden tax on your yield.",
+    "caption": "DeFi hacks cost investors $780M in Q2 alone — bridge exploits and key failures quietly eat your returns as a security tax. The risk your APY chart never shows you.",
+    "stance": "Your DeFi yield isn't yield until you subtract the exploit tax.",
+    "triggers": [
+      "hard number",
+      "painpoint agitation",
+      "surprise reframe"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/19182752@N00/4013860515",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-26.png",
+    "hook": "Aave, Uniswap and Balancer just started banning users.",
+    "caption": "Aave, Uniswap and Balancer are blocking Tornado Cash wallets. \"Permissionless\" DeFi just picked a side. If you thought DeFi couldn't ban you, read this. The signal my feed keeps.",
+    "stance": "Frontends that block wallets prove DeFi is only as decentralized as its most scared team.",
+    "triggers": [
+      "hard stance",
+      "named cult entities",
+      "contrast"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/19182752@N00/2714870595",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-27.png",
+    "hook": "A tokenized Google stock got inflated 7,700% — and drained $403K.",
+    "caption": "An exploit pumped a tokenized Google stock to 78x its worth, leaving $403K in bad debt — and Chainlink oracles missed it. Tokenized stocks are only as safe as the price feed. Found before the timeline.",
+    "stance": "Tokenized equities inherit every oracle bug crypto never fixed.",
+    "triggers": [
+      "surprise",
+      "named cult entities",
+      "bigStat"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/149639283@N08/37721293735",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-28.png",
+    "hook": "Euler just lost nearly $200M in four transactions.",
+    "caption": "The Euler DeFi protocol got drained for ~$185M across four transactions in DAI and wrapped BTC. One flash-loan flaw, nine figures gone. This is the risk nobody prices in. Surfaced before the panic.",
+    "stance": "Every DeFi \"blue chip\" is one clever transaction away from zero.",
+    "triggers": [
+      "awe",
+      "bigStat",
+      "painpoint agitation"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/149639283@N08/37721267095",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-03.png",
+    "hook": "The AI race isn't about building anymore — it's about speed",
+    "caption": "The AI race stopped being about who builds — it's now about who improves faster than everyone else. Innovation is continuous, not occasional. The take my feed kept before the noise buried it.",
+    "stance": "Whoever iterates fastest wins — building the model is table stakes now.",
+    "triggers": [
+      "contrarian",
+      "AI-race"
+    ],
+    "sourceUrl": "https://huggingface.co/spaces/reach-vb/2024-ai-timeline",
+    "visualSource": "https://www.flickr.com/photos/14529257@N03/4778138009",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-05.png",
+    "hook": "Markets give GPT-5.6 a 90% chance of shipping by July 31",
+    "caption": "Prediction markets are now pricing model launches: 90% odds GPT-5.6 ships by July 31. You can literally bet on the frontier now. The kind of signal my feed catches before your timeline.",
+    "stance": "When people bet real money on release dates, hype became a market.",
+    "triggers": [
+      "bigStat",
+      "prediction-market"
+    ],
+    "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/alibaba-releases-ai-model-it-claims-surpasses-deepseek-v3-2025-01-29/",
+    "visualSource": "https://www.flickr.com/photos/14529257@N03/4778137977",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-10.png",
+    "hook": "A brain-like AI that runs 100x faster than normal models.",
+    "caption": "A brain-like AI that runs 100x faster than standard models - and holds accuracy, researchers say. If it survives replication, inference economics flip overnight. The stuff my feed keeps.",
+    "stance": "Neuromorphic quietly beats the GPU-scaling crowd on the metric that pays: speed per watt.",
+    "triggers": [
+      "awe",
+      "surprise",
+      "reply-inviting"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:kto2dmrqhkenhylt7e32fivb/post/3mpqt3ipnec2k",
+    "visualSource": "https://www.flickr.com/photos/14529257@N03/4778137965",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-11.png",
+    "hook": "Verify a 13B model's output in 15 minutes - with zero-knowledge proofs.",
+    "caption": "ZkML just verified a 13B model in 15 minutes. That means you can prove an AI ran honestly without trusting the host. Trustless inference is coming. Found before the timeline noticed.",
+    "stance": "Verifiable ML matters more than any new benchmark score - trust is the real bottleneck.",
+    "triggers": [
+      "surprise",
+      "named-entity",
+      "contrarian-stance"
+    ],
+    "sourceUrl": "https://wapo.st/3SDUIhI",
+    "visualSource": "https://www.rawpixel.com/image/5920287/photo-image-background-public-domain-technology",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-17.png",
+    "hook": "DeepSeek's next breakthrough is already racing the labs",
+    "caption": "DeepSeek's next AI breakthrough is here — and China just blocked Meta's $2B grab for AI startup Manus. The model race is a geopolitics race now. Found before the timeline caught up.",
+    "stance": "The frontier model race stopped being about compute and became about who controls the labs.",
+    "triggers": [
+      "cult-entity:DeepSeek",
+      "mild-outrage",
+      "geopolitics-contrast"
+    ],
+    "sourceUrl": "https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/",
+    "visualSource": "https://www.flickr.com/photos/37996580417@N01/54395143480",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-20.png",
+    "hook": "DeepSeek just shipped a new flagship — a year after upending the Valley",
+    "caption": "One year after DeepSeek rattled Silicon Valley, it dropped a new flagship model. The cheap-and-good challenger isn't a fluke anymore — it's a pattern. The stuff my feed keeps.",
+    "stance": "DeepSeek wasn't a one-off shock — it's the new baseline the Valley has to beat.",
+    "triggers": [
+      "cult-entity:DeepSeek",
+      "contrast-underdog",
+      "surprise"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mpkanvzaoe26",
+    "visualSource": "https://www.rawpixel.com/image/5966842/computer-circuit-board-macro",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-23.png",
+    "hook": "Italy is shipping an open-source frontier model within a year",
+    "caption": "Domyn's CEO says Italy will release a fully open-source frontier AI model inside 12 months. The frontier isn't just US vs China anymore — Europe wants an open seat. The stuff my feed keeps.",
+    "stance": "Open-source is how everyone outside the US-China duopoly gets a frontier model at all.",
+    "triggers": [
+      "open-source",
+      "geopolitics-contrast",
+      "underdog"
+    ],
+    "sourceUrl": "https://www.synestesia.uk/legacy/new-ai-model-improves-eeg-based-stress-detection-accuracy-2cvmr963zv",
+    "visualSource": "https://www.rawpixel.com/image/5966504/circuit-board-macro",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-24.png",
+    "hook": "China trained one AI model across many data centers at once",
+    "caption": "Cut off from top GPUs, China trained a generative model across multiple data centers and mixed architectures — a distributed-training breakthrough. Constraint bred a new method. Found before the timeline.",
+    "stance": "Export bans didn't stop China — they forced the distributed-training trick everyone will copy.",
+    "triggers": [
+      "geopolitics-contrast",
+      "constraint-innovation",
+      "surprise"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:w24fzdqjhdil6ijgsm2n3s5w/post/3mprtvej7yk2d",
+    "visualSource": "https://www.flickr.com/photos/126497846@N03/40391729744",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/ai-1-ai-model-card-30.png",
+    "hook": "The next AI leap isn't one giant model.",
+    "caption": "Argument that many small, specialized models orchestrated together beat one monolith. If true, it reshapes how you'll build with AI. The contrarian takes my feed keeps before they go big.",
+    "stance": "Scaling one giant model is hitting a wall — orchestrated small experts are the real frontier.",
+    "triggers": [
+      "contrarian architecture stance",
+      "clear A-vs-B contrast",
+      "builder-relevant"
+    ],
+    "sourceUrl": "https://x.com/buildwithhassan/status/2071343402126299326",
+    "visualSource": "https://www.flickr.com/photos/13509275@N03/4607229964",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-01.png",
+    "hook": "6 AI trends for 2026 — backed by data, not vibes",
+    "caption": "6 AI trends for 2026 — backed by data, not vibes. Most predictions are speculation; this one pulls from McKinsey, Stanford, OpenAI, Epoch AI. The signal my feed keeps.",
+    "stance": "Every '2026 AI prediction' thread is guessing. Cite Epoch AI or sit down.",
+    "triggers": [
+      "OpenAI",
+      "Epoch AI",
+      "2026 trends"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=B23W1gRT9eY",
+    "visualSource": "https://www.flickr.com/photos/61432945@N05/13501575105",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-02.png",
+    "hook": "Google just unveiled Gemini Spark — an AI agent, live at I/O",
+    "caption": "Google just unveiled Gemini Spark, an AI agent — plus Gemini Omni, Flow Music, smart glasses, and an OpenAI partnership. Everything from I/O, found before the timeline caught up.",
+    "stance": "Google shipping an OpenAI partnership is the plot twist nobody had.",
+    "triggers": [
+      "Google",
+      "Gemini",
+      "OpenAI"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=zvJ5KfNjOCk",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-05.png",
+    "hook": "Sam Altman on ChatGPT, AI agents and superintelligence — live at TED",
+    "caption": "Sam Altman on ChatGPT, AI agents, and superintelligence, live at TED 2025. A probing conversation on where this is all headed. Found before the timeline.",
+    "stance": "",
+    "triggers": [
+      "Sam Altman",
+      "OpenAI",
+      "superintelligence"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=5MWT_doo68k",
+    "visualSource": "https://www.flickr.com/photos/162244249@N03/52304208877",
+    "visualLicense": "pdm"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-06.png",
+    "hook": "China just shipped real-time interactive video generation",
+    "caption": "ShengShu's Vidu S1 does real-time interactive video generation — the China AI story most Western feeds miss. The signal my feed catches before the timeline.",
+    "stance": "You're watching US labs; China is quietly shipping real-time video models.",
+    "triggers": [
+      "China AI",
+      "Vidu S1",
+      "real-time video"
+    ],
+    "sourceUrl": "https://x.com/AINativeF/status/2074120548498719163",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-09.png",
+    "hook": "Google just declared the agentic era open",
+    "caption": "Google says Gemini 2.0 is built for the agentic era — its most capable model yet. The launch that set the tone for the whole race. Caught in my feed before the timeline noticed.",
+    "stance": "The model race is over. The agent race just started.",
+    "triggers": [
+      "names Gemini (cult-loved model)",
+      "surprise/awe",
+      "contrast: model era vs agentic era"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=Fs0t6SdODd8",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-12.png",
+    "hook": "Waiting for the next big model launch? You're already behind",
+    "caption": "Rolling releases killed the launch cycle. Your team now has to plan for continuous upgrades, not big-drop events. The shift my feed flagged before it hit your workflow.",
+    "stance": "The era of the big model launch is dead. Ship for constant change or fall behind.",
+    "triggers": [
+      "you/your painpoint",
+      "contrarian stance",
+      "contrast: launches vs rolling releases"
+    ],
+    "sourceUrl": "https://x.com/inflectivAI/status/2074134550800707646",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-13.png",
+    "hook": "The fastest-growing AI repos right now are about testing agents",
+    "caption": "Today's hottest AI projects aren't models — they're eval repos like awesome-evals and BenchFlow. Multi-agent systems need proof they work. The research my feed keeps.",
+    "stance": "The next gold rush in AI is evaluation, not generation.",
+    "triggers": [
+      "names specific repos",
+      "contrast: models vs evals",
+      "researcher-relevant"
+    ],
+    "sourceUrl": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-01-2026",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/philosophy-create-a-l-card-16.png",
+    "hook": "DeepMind hired a philosopher to ask what this thing actually is",
+    "caption": "Since 2017, Iason Gabriel has worked inside Google DeepMind on one question: what is this thing we're building? The Guardian long read my feed kept for you.",
+    "stance": "The hardest AI problem isn't technical — it's that we don't know what we made.",
+    "triggers": [
+      "names DeepMind",
+      "deep philosophical curiosity",
+      "cult-loved long read"
+    ],
+    "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+    "visualSource": "https://www.flickr.com/photos/94852245@N00/2506042347",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-20.png",
+    "hook": "Google says Gemini migrates code 6x faster",
+    "caption": "Google says Gemini migrates code 6x faster. Pichai just put agentic AI at the center of the Enterprise Agent Platform — the coding-agent race is now Google's fight too. Found before the timeline.",
+    "stance": "Agentic coding just stopped being a startup toy and became a Big Tech land grab.",
+    "triggers": [
+      "Google",
+      "Gemini",
+      "6x faster",
+      "agentic"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=3wMwdzxIyN0",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/ai-create-a-l-card-21.png",
+    "hook": "Classic AI, Generative AI, Active AI — one map for what's coming",
+    "caption": "Classic AI, Generative AI, Active AI. One clean map for the models that'll get built on next. If you're deciding what to build, this framework beats another hype thread. The stuff my feed keeps.",
+    "stance": "Most AI takes are noise — a good mental model is worth more than a hundred launches.",
+    "triggers": [
+      "AI framework",
+      "future of AI",
+      "builder"
+    ],
+    "sourceUrl": "https://www.analogmantra.com/blog/2022-12-15-future-of-ai/",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-25.png",
+    "hook": "The US government just banned two Anthropic AI models",
+    "caption": "The US government reportedly banned Fable and Mythos, Anthropic's most powerful models. If it's true, it resets the frontier race. The stuff my feed catches before the timeline melts down.",
+    "stance": "AI safety headlines move faster than the models themselves now.",
+    "triggers": [
+      "Anthropic",
+      "AI safety",
+      "government ban"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=O84I21_9U74",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-26.png",
+    "hook": "Amazon just open-sourced Neo-AI to make your models faster",
+    "caption": "Amazon open-sourced Neo-AI, a framework for optimizing AI models. Free performance if you're shipping inference. The kind of quiet release my feed keeps while everyone chases hype.",
+    "stance": "The big optimization wins are hiding in open-source, not the flagship demos.",
+    "triggers": [
+      "Amazon",
+      "open-source",
+      "model optimization"
+    ],
+    "sourceUrl": "https://venturebeat.com/2019/01/24/amazon-releases-neo-ai-in-open-source-a-framework-for-adapting-machine-learning-models-to-multiple-hardware-platforms/",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "tile": "library/01-content-cards/x/ai-create-a-l-card-29.png",
+    "hook": "Portugal just shipped its first open-source national AI model",
+    "caption": "Portugal launched its first open-source AI model, joining Europe's push for AI sovereignty. Every country wants its own frontier now. The signal my feed catches before the news cycle.",
+    "stance": "Sovereign AI is the new nuclear program — everyone's building one.",
+    "triggers": [
+      "Portugal",
+      "open-source",
+      "AI sovereignty"
+    ],
+    "sourceUrl": "https://x.com/arnaudmercier/status/2074120760197579122",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/ai-create-a-l-card-02.png",
+    "hook": "\"Just a transformation\" — devs say the industry is on fire",
+    "caption": "\"Just a transformation,\" the creators said. Devs said the industry is on fire.\n\nWho makes the games after the AI tools dust off? The debate my feed keeps while the timeline argues past it.",
+    "stance": "AI didn't transform game dev, it detonated the job market and called it progress.",
+    "triggers": [
+      "AI vs game devs",
+      "industry layoffs",
+      "hard contrast"
+    ],
+    "sourceUrl": null,
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-05.png",
+    "hook": "Aliens: Fireteam Elite 2 just got its reveal trailer",
+    "caption": "Aliens: Fireteam Elite 2 just dropped its official reveal trailer via IGN.\n\nCold Iron is back in the Xenomorph business. The reveal my feed caught the moment it went live.",
+    "stance": "Co-op Aliens shooters are the most underrated genre in gaming right now.",
+    "triggers": [
+      "Aliens franchise",
+      "trailer reveal",
+      "named studio"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/74807437@N06/47939228478",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-10.png",
+    "hook": "\"Indie games will save gaming\" is a lie.",
+    "caption": "\"Indie games will save gaming\" is a lie. This dev finally says why the whole savior narrative was always kinda silly. The hot take my feed keeps and the timeline buries.",
+    "stance": "Indie isn't a rescue plan for the industry — it's a coping mechanism.",
+    "triggers": [
+      "contrarian stance",
+      "gaming-industry take",
+      "reply-bait"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/49462908@N00/2812431296",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-11.png",
+    "hook": "All 15 biggest game reveals from July 2026.",
+    "caption": "Every major announcement, gameplay drop, and trailer showcase from June-July 2026 in one place. The reveals my feed surfaced before your timeline caught up.",
+    "stance": "",
+    "triggers": [
+      "reveal roundup",
+      "FOMO",
+      "curated firehose"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/49462908@N00/1391153436",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-l-card-16.png",
+    "hook": "Valve just gave Half-Life: Alyx official mod tools.",
+    "caption": "Valve dropped Workshop tools for Half-Life: Alyx and added Linux support. The VR classic is now fully moddable. The dev-native drop my feed keeps and the algo skips.",
+    "stance": "",
+    "triggers": [
+      "Valve named entity",
+      "moddable/FOSS angle",
+      "Linux support"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/83346641@N00/5212775381",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-18.png",
+    "hook": "PlayStation and Xbox will drown in AI slop. Nintendo and PC won't.",
+    "caption": "The call: Sony and MS push AI slop until it stops paying, then die; Nintendo and PC just keep doing their thing. Sharp industry take my feed kept from the noise.",
+    "stance": "The console generation is over. Nintendo and PC are the only survivors left standing.",
+    "triggers": [
+      "hard-contrarian-stance",
+      "cult-entities-Nintendo-Sony-Xbox",
+      "surprise"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/98627683@N00/8748000459",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-19.png",
+    "hook": "Call of Duty: Modern Warfare 4 just got its reveal trailer",
+    "caption": "MW4 is real: 'Warfare without limits,' PS5, October 23 2026. The reveal that hit my feed before the hype cycle. Every platform, one feed, zero noise.",
+    "stance": "",
+    "triggers": [
+      "cult-entity-Call-of-Duty",
+      "breaking-news",
+      "reveal-hype"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/51764518@N02/36385327500",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-24.png",
+    "hook": "Consoles have been dead since the late 80s. PC just won.",
+    "caption": "The take: there's already a huge base on owned hardware and 'okay' PC rigs. Focus there. Console generations are basically over. The hot take my feed kept from the noise.",
+    "stance": "Console generations have been dead since the late 80s; the install base was always the real platform.",
+    "triggers": [
+      "hard-contrarian-stance",
+      "surprise",
+      "PC-master-race"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/62356799@N06/24121617810",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-25.png",
+    "hook": "State of Decay 3 is real — and it's coming 2027",
+    "caption": "State of Decay 3 got its gameplay reveal at Xbox Games Showcase 2026. Build, scavenge, survive the horde — PS5, Steam, Xbox in 2027. Reveal my feed caught before the timeline did.",
+    "stance": "",
+    "triggers": [
+      "cult-loved-franchise",
+      "surprise-reveal",
+      "specific-entity"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/39160147@N03/49497112548",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-28.png",
+    "hook": "Xbox studios are next on the chopping block",
+    "caption": "Every leak points to Xbox studio cuts next week, while PlayStation scrambles for cover. Gaming's never been better in your hands and a shambles behind the scenes. The take my feed kept.",
+    "stance": "The best era to be a player is the worst era to make games — that gap is the whole story.",
+    "triggers": [
+      "insider-leak",
+      "contrast",
+      "Xbox"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/61368956@N00/4653306993",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-29.png",
+    "hook": "You're not nostalgic — the new games are just worse",
+    "caption": "Everyone \"playing older games\" isn't nostalgia — it's a verdict on the modern industry, not the old classics. Sharp take my feed pulled out of the noise before it blew up.",
+    "stance": "Retro revival is a review of 2026, not a love letter to 2010.",
+    "triggers": [
+      "reframe",
+      "you-language",
+      "contrarian-stance"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/51222733@N02/8190632140",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-31.png",
+    "hook": "Consoles feel like they're dying — indie is thriving",
+    "caption": "The console industry looks like it's collapsing, but older titles and indie are THRIVING. Not doomer, just where the life moved. The nuanced take my feed keeps when the timeline only screams.",
+    "stance": "Gaming isn't dying — the AAA console model is, and indie is eating what's left.",
+    "triggers": [
+      "contrast",
+      "indie",
+      "hope-vs-doom"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/51222733@N02/7648673896",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "x",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/x/gaming-i-love-gam-card-04.png",
+    "hook": "96% of indie games make no money.",
+    "caption": "96% of indie games make almost nothing — most devs never see a payout. The number nobody wants on the store page. The stats my feed keeps before the hype buries them.",
+    "stance": "Indie dev is a lottery dressed up as a career path.",
+    "triggers": [
+      "big-stat",
+      "mild-outrage"
+    ],
+    "sourceUrl": "https://mastodon.social/@echoforge117/116873169116769996",
+    "visualSource": "https://www.flickr.com/photos/51222733@N02/7602762138",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-09.png",
+    "hook": "No game over sixty quid is more than a 7/10",
+    "caption": "No game over sixty quid is more than a 7/10. A blunt rule for scoring games by price, not hype. The kind of sharp take my feed keeps and the timeline buries.",
+    "stance": "Price should cap the score: charge AAA money, you don't get to hide behind indie grading.",
+    "triggers": [
+      "contrarian stance",
+      "mild outrage",
+      "reply-inviting"
+    ],
+    "sourceUrl": "https://x.com/SegaGamester91/status/2072348255145296206",
+    "visualSource": "https://www.flickr.com/photos/52166240@N05/9784370786",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-gam-card-16.png",
+    "hook": "99k views, 10 years of free games, funded only by donations",
+    "caption": "99k views. 10+ years of gamedev. Every game free, funded purely by voluntary donations. Proof you can build without a paywall. The wins my feed keeps that the timeline never shows you.",
+    "stance": "Free-plus-donations is a real business model, not charity.",
+    "triggers": [
+      "big number",
+      "emotion: awe",
+      "you/your"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:lsjo5pnx6byjoo27omtcoyly/post/3mpm3esmfhc26",
+    "visualSource": "https://www.flickr.com/photos/51222733@N02/7642563000",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-18.png",
+    "hook": "Reusing game assets is good, actually",
+    "caption": "Hot take: devs reusing assets isn't lazy — it's how good games ship on time. The purists are wrong. This is the kind of debate my feed keeps and the noise it drops.",
+    "stance": "Asset reuse ships games. Purists who call it lazy have never shipped anything.",
+    "triggers": [
+      "contrarian",
+      "gamedev debate",
+      "cult opinion"
+    ],
+    "sourceUrl": "https://x.com/tetrisgm/status/2072264651971109224",
+    "visualSource": "https://www.flickr.com/photos/51222733@N02/8019458394",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-05.png",
+    "hook": "\"What will you do with a philosophy degree?\" Here's the savage answer",
+    "caption": "Someone's reply to \"what'll you do with a philosophy degree\": provide a veneer of intellectual respectability to a nasty hate movement. Brutal, funny, true. The stuff my feed keeps.",
+    "stance": "Philosophy's real job market is laundering bad ideas into respectable ones.",
+    "triggers": [
+      "mild-outrage",
+      "surprise",
+      "contrarian"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpjg6uz3722d",
+    "visualSource": "https://www.flickr.com/photos/41340252@N08/3830799186",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/x/philosophy-random-phi-card-08.png",
+    "hook": "Analytic philosophy is the one field with no norm against name-calling",
+    "caption": "Fodor's dig: analytic philosophy is famously the one field with no norm against calling each other names. Insider shade that actually lands. The stuff my feed keeps.",
+    "stance": "The most rigorous field in the humanities is also the rudest, and it's proud of it.",
+    "triggers": [
+      "surprise",
+      "named-entity",
+      "contrarian"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:5zgber5npxagnqr3hg4fm4zv/post/3mpmmurkx7s2w",
+    "visualSource": "https://www.flickr.com/photos/128484499@N06/19614827585",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-11.png",
+    "hook": "The entire history of philosophy of mind, in one paragraph.",
+    "caption": "The entire history of philosophy of mind, in one paragraph: dualism, behaviourism, functionalism, then consciousness breaks everything. The end. The stuff my feed keeps.",
+    "stance": "Every theory of mind eventually crashes into the hard problem and stops.",
+    "triggers": [
+      "philosophy of mind",
+      "consciousness",
+      "functionalism"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi3ond5lk2b",
+    "visualSource": "https://www.flickr.com/photos/39735679@N00/47945298873",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-20.png",
+    "hook": "Monty Python turned philosophy into a football match.",
+    "caption": "Monty Python put Socrates, Kant and Nietzsche on a football pitch — and it teaches more epistemology than most 101 lectures. Comedy as the best gateway drug to philosophy. Found before the timeline buried it.",
+    "stance": "The funniest take on philosophy is also one of the most accurate.",
+    "triggers": [
+      "cult classic",
+      "humor",
+      "nostalgia"
+    ],
+    "sourceUrl": "https://www.youtube.com/watch?app=desktop&v=LfduUFF_i1A&ra=m",
+    "visualSource": "https://www.flickr.com/photos/37072378@N08/13589000025",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-21.png",
+    "hook": "\"Reason is immortal, all else mortal.\" — Pythagoras",
+    "caption": "\"Reason is immortal, all else mortal.\" Pythagoras bet logic outlives the body — the same wager behind every mind-independent math argument today. 2,500 years, still unsettled. The stuff my feed keeps.",
+    "stance": "Do logical truths exist without minds? Pythagoras already picked a side.",
+    "triggers": [
+      "ancient wisdom",
+      "big question",
+      "logic"
+    ],
+    "sourceUrl": "https://mastodon.social/@kalokagathia/116830813562372219",
+    "visualSource": "https://www.flickr.com/photos/16230215@N08/4827870919",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "x",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/x/philosophy-random-phi-card-23.png",
+    "hook": "Is agnosticism a moral duty — or an intellectual cop-out?",
+    "caption": "Is agnosticism a rigorous moral duty or a cop-out? A philosopher and scientist go 21 minutes on it — Huxley's survival tactic, Russell's teapot, the ethics of permanent doubt. The kind of debate my feed keeps.",
+    "stance": "\"I don't know\" is either the most honest position or the laziest one — pick.",
+    "triggers": [
+      "debate bait",
+      "belief",
+      "reply-inviting question"
+    ],
+    "sourceUrl": "https://youtu.be/Er0wVxJaodE",
+    "visualSource": "https://www.flickr.com/photos/21063397@N00/2827130318",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-24.png",
+    "hook": "Voltaire wrote \"illusion\" — but did he mean \"delusion\"?",
+    "caption": "One reader argues Voltaire's \"the first of all pleasures\" makes more sense as delusion, not illusion — and that word choice flips the whole meaning. Translation is philosophy in miniature. The stuff my feed keeps.",
+    "stance": "One mistranslated word can quietly rewrite a thinker's entire point.",
+    "triggers": [
+      "Voltaire",
+      "language nuance",
+      "interpretation"
+    ],
+    "sourceUrl": "https://mastodon.social/@kalokagathia/116829675350781537",
+    "visualSource": "https://www.flickr.com/photos/16230215@N08/4789992060",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-26.png",
+    "hook": "Philosophy isn't science in a lab coat",
+    "caption": "Philosophy isn't just \"soft science\" — Mary Midgley says treating it that way guts what it's for. If you think STEM ate everything, read her. Found before the timeline.",
+    "stance": "Reducing philosophy to a science department is how a university loses its mind.",
+    "triggers": [
+      "Midgley",
+      "philosophy",
+      "science"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:tz5xuugi5oipifdit2mrsbai/post/3mpefretpy22h",
+    "visualSource": "https://www.flickr.com/photos/16230215@N08/4106807314",
+    "visualLicense": "by-nd"
+  },
+  {
+    "platform": "x",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/x/philosophy-random-phi-card-32.png",
+    "hook": "\"Mathematics is an opinion — and the wrong one\"",
+    "caption": "A philosopher argues math is an opinion, and the wrong one. Infuriating? Good — now try to prove him wrong. This is the fight platonists have dodged for centuries. Found before the timeline.",
+    "stance": "Math might be invented, not discovered — and that should scare you a little.",
+    "triggers": [
+      "mathematics",
+      "opinion",
+      "contrarian"
+    ],
+    "sourceUrl": "https://epochemagazine.org/88/mathematics-is-an-opinion-and-the-wrong-one/",
+    "visualSource": "https://www.flickr.com/photos/22714323@N06/3644746113",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "banner",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-12.png",
+    "hook": "Knowing how to code won't save you from these scams",
+    "caption": "Knowing how to code won't save you from these scams. Technical scams now target the devs who think they're too smart to fall for them. Read this before you sign the next transaction.",
+    "stance": "The most exploitable person in crypto is the engineer who's sure they can't be fooled.",
+    "triggers": [
+      "developers targeted",
+      "false confidence",
+      "scam evolution"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/19182752@N00/385155989",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-14.png",
+    "hook": "DeFi hacks are becoming a hidden tax on your yield",
+    "caption": "DeFi hacks are turning high yields into a hidden liquidity tax — you're funding the exploits. BTC's at $58.5K and bearish. The uncomfortable read my feed surfaces early.",
+    "stance": "Your 'high APY' is just pre-paid exploit insurance you never agreed to.",
+    "triggers": [
+      "hidden tax",
+      "hacks",
+      "bearish BTC"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/37896875256",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 7,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-17.png",
+    "hook": "Crypto's next phase isn't scarcity — it's yield.",
+    "caption": "Crypto's next phase isn't scarcity — it's cashflow. Protocols like AAVE now act like yield-bearing equities, not lottery tickets. The shift my feed caught before the timeline did.",
+    "stance": "The store-of-value era is ending; DeFi is quietly becoming investment-grade.",
+    "triggers": [
+      "contrarian stance",
+      "names AAVE",
+      "painpoint reframe"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/28460909347",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-24.png",
+    "hook": "Aave is going after a $4.6T market TradFi thought was safe.",
+    "caption": "Aave's V4 is bridging TradFi and DeFi — targeting a $4.6T tokenized-securities market and automating buybacks via Aavenomics. The move my feed flagged early.",
+    "stance": "Tokenized securities, not memecoins, are DeFi's real endgame.",
+    "triggers": [
+      "big number",
+      "names Aave",
+      "TradFi contrast"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/25856341207",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-29.png",
+    "hook": "Attackers minted 40 quintillion tokens out of thin air.",
+    "caption": "The Cover protocol got exploited — attackers minted at least 40 quintillion tokens and nuked the price to zero. Infinite mint bugs are the DeFi nightmare nobody stress-tests for. The stuff my feed keeps.",
+    "stance": "An infinite-mint bug turns your token into confetti in one block.",
+    "triggers": [
+      "surprise",
+      "bigStat",
+      "mild outrage"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/51386043727",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "x",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 7,
+    "tile": "library/01-content-cards/x/crypto-crypto-card-31.png",
+    "hook": "MetaMask now pays you up to 4% APY on stablecoins.",
+    "caption": "MetaMask (30M+ users) launched a self-custody Money Account: yield, payments and trading in one wallet, up to 4% on stablecoins. The wallet just became a bank you actually hold the keys to. The signal my feed keeps.",
+    "stance": "Self-custody yield beats any exchange that can freeze you at 4%.",
+    "triggers": [
+      "named cult entities",
+      "contrast",
+      "you/your"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/160885429@N03/37835831805",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-01.png",
+    "hook": "AI model releases went from yearly to monthly",
+    "caption": "AI model releases used to be yearly events. Now it's every month. Blink and you miss a frontier launch — this is the release cadence my feed keeps for you.",
+    "stance": "The release cycle is collapsing faster than anyone can keep up with.",
+    "triggers": [
+      "surprise",
+      "release-cadence"
+    ],
+    "sourceUrl": "https://www.bargo.ai/research/the-cadence-trade-hn",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/x/ai-1-ai-model-card-02.png",
+    "hook": "Monthly frontier models will force the whole industry faster",
+    "caption": "Monthly frontier releases don't just ship models — they drag every lab into a faster loop. The pace is unbelievable. This is the AI signal my feed keeps before the timeline catches on.",
+    "stance": "Monthly cadence is the new baseline — yearly labs are already behind.",
+    "triggers": [
+      "awe",
+      "pace"
+    ],
+    "sourceUrl": "https://www.ft.com/content/01fd640e-0c6b-4542-b82b-20afb203f271",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/ai-1-ai-model-card-07.png",
+    "hook": "Frontier models now ship like continuous deployment",
+    "caption": "Monthly frontier releases mean AI shipping now feels like CD — always-on, never a finished version. The release rhythm changed and most people missed it. The stuff my feed keeps for you.",
+    "stance": "There's no 'latest model' anymore — just the current commit.",
+    "triggers": [
+      "surprise",
+      "continuous-deployment"
+    ],
+    "sourceUrl": "https://x.com/grok/status/2073942378470052287",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-08.png",
+    "hook": "What's actually inside OpenAI's o1? HN is trying to reverse-engineer it",
+    "caption": "OpenAI shipped o1 and now Hacker News is dissecting the secret sauce behind its reasoning. Everyone wants to know what makes it tick. This is the thread my feed pulled before it scrolled away.",
+    "stance": "",
+    "triggers": [
+      "curiosity",
+      "o1",
+      "reverse-engineer"
+    ],
+    "sourceUrl": "https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december",
+    "visualSource": "https://www.flickr.com/photos/162244249@N03/52305562045",
+    "visualLicense": "pdm"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/ai-create-a-l-card-04.png",
+    "hook": "Gemini Nano now runs AI on your Android — fully on-device",
+    "caption": "Gemini Nano brings efficient on-device AI to Android — no cloud round-trip. The top 3 from Google I/O '25 for anyone building mobile. The stuff my feed keeps.",
+    "stance": "On-device beats the cloud the second your model fits in RAM.",
+    "triggers": [
+      "Gemini Nano",
+      "Android",
+      "on-device AI"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=iMVLoZaJ_1M",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/ai-create-a-l-card-07.png",
+    "hook": "Siri finally gets the AI upgrade — everything from WWDC 2026",
+    "caption": "Apple gave Siri the AI upgrade we've waited years for at WWDC 2026, alongside iOS 27. The full breakdown, found before the timeline.",
+    "stance": "Apple is years late to AI Siri — the question is whether late still wins.",
+    "triggers": [
+      "Apple",
+      "Siri",
+      "WWDC 2026"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=wpBgdV0hx0w",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-08.png",
+    "hook": "Google's new TurboQuant AI just broke Two Minute Papers' brain",
+    "caption": "Google's new TurboQuant AI is impressive enough to make Two Minute Papers say it broke his brain. Paper's out. The research my feed keeps before it trends.",
+    "stance": "",
+    "triggers": [
+      "Google",
+      "TurboQuant",
+      "Two Minute Papers"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=7YVrb3-ABYE",
+    "visualSource": "https://www.flickr.com/photos/44124348109@N01/30796823531",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-27.png",
+    "hook": "The fastest-growing AI repo this week is a list of the best AI tools",
+    "caption": "awesome-evals by BenchFlow is the fastest-growing AI project right now. Curated eval resources devs actually star. Found before the timeline, because my feed reads the repos so you don't.",
+    "stance": "The meta-tool that catalogs the tools always outgrows the tools.",
+    "triggers": [
+      "GitHub",
+      "AI evals",
+      "fastest-growing"
+    ],
+    "sourceUrl": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-02-2026",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-31.png",
+    "hook": "Baseten just shipped a framework for chaining multiple AI models",
+    "caption": "Baseten launched Chains, an SDK for deploying complex multi-model AI products. If you're stitching models together in prod, this is for you. The infra my feed surfaces early.",
+    "stance": "The next wave of AI apps is orchestration, not a single big model.",
+    "triggers": [
+      "Baseten",
+      "multi-model",
+      "SDK launch"
+    ],
+    "sourceUrl": "https://www.baseten.co/blog/introducing-baseten-chains/",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-01.png",
+    "hook": "They built an AI that reads game news so you don't",
+    "caption": "They built an AI that reads game news so you don't.\n\nAuto-classifying gaming headlines is a real problem worth solving. This is the kind of build my feed surfaces before the timeline does.",
+    "stance": "Manual news-scrolling for gamers is already dead; the tooling just hasn't caught up.",
+    "triggers": [
+      "AI news classification",
+      "indie build in public",
+      "gaming automation"
+    ],
+    "sourceUrl": null,
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "x",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "tile": "library/01-content-cards/x/gaming-create-a-l-card-08.png",
+    "hook": "Sony's already repurposing its PS disc factory",
+    "caption": "Rumor: Sony is repurposing its PlayStation disc factory, and Microsoft is lining up buyers for Xbox studios.\n\nThe consoles-are-dying signal, surfaced in my feed early.",
+    "stance": "Physical media is over — Sony and Microsoft are just done pretending otherwise.",
+    "triggers": [
+      "Sony/Microsoft rumor",
+      "end of physical media",
+      "console intel"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/83599920@N00/2065863328",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-30.png",
+    "hook": "A first-person liminal horror game from Studio Noori",
+    "caption": "Farsight got its reveal trailer at the Horror Game Awards 2026 — first-person liminal horror from Studio Noori. If backrooms dread is your thing, this one's for you. Found before the timeline.",
+    "stance": "",
+    "triggers": [
+      "niche-genre",
+      "reveal-trailer",
+      "specific-studio"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/36028014@N00/4728325647",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-01.png",
+    "hook": "Forget AAA vs indie. A fun game is a fun game.",
+    "caption": "Forget AAA vs indie labels. There are more releases now than you'll ever finish — an enjoyable game is enjoyable, full stop. The takes my feed keeps over the timeline noise.",
+    "stance": "The AAA/AA/indie distinction is marketing, not quality.",
+    "triggers": [
+      "contrarian-stance",
+      "cult-entity"
+    ],
+    "sourceUrl": "https://mastodon.gamedev.place/@justdaveisfine/116873365157022709",
+    "visualSource": "https://www.flickr.com/photos/63341003@N02/10591010993",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-gam-card-08.png",
+    "hook": "1 year of game dev, zero prior experience — use Godot.",
+    "caption": "One year of game dev from zero, no experience — and the verdict is just use Godot. The open-source path most tutorials skip. The builder finds my feed keeps.",
+    "stance": "You don't need Unity or Unreal to start — Godot is enough.",
+    "triggers": [
+      "cult-entity",
+      "contrarian-stance"
+    ],
+    "sourceUrl": "https://x.com/moe10232000/status/2072455707673112974",
+    "visualSource": "https://www.flickr.com/photos/63341003@N02/10688437793",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-10.png",
+    "hook": "Indie devs can't do $100 deluxe editions. Build a great game instead.",
+    "caption": "Indie devs can't fund $100 deluxe editions, so stop expecting them to. Make a kick-ass product and players come. The dev-scene talk my feed surfaces before the timeline.",
+    "stance": "Deluxe editions are a big-publisher tax; a great small game needs none of it.",
+    "triggers": [
+      "contrarian stance",
+      "you/your",
+      "cult entity: indie devs"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:74ic4sfismoidpxchfzt2ine/post/3mplnepx2js2y",
+    "visualSource": "https://www.flickr.com/photos/63341003@N02/10688206825",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-12.png",
+    "hook": "Steam and GoG made gamers stop caring about physical copies",
+    "caption": "Steam and GoG got so trustworthy that all-digital libraries stopped scaring anyone. Most PC devs skip physical releases now. The shift my feed catches before the timeline argues about it.",
+    "stance": "Physical PC releases are nostalgia, not preservation; trust killed the disc.",
+    "triggers": [
+      "contrarian stance",
+      "cult entities: Steam, GoG"
+    ],
+    "sourceUrl": "https://x.com/KenzoGames3/status/2072332806559084976",
+    "visualSource": "https://www.flickr.com/photos/63341003@N02/10688247684",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-13.png",
+    "hook": "A fresh batch of indie games dropped on Steam and Switch today",
+    "caption": "A fresh batch of smaller indie titles just launched on Steam and Switch. The releases worth playing hide under the AAA noise. This is the stuff my feed keeps for you.",
+    "stance": "",
+    "triggers": [
+      "topic clarity",
+      "cult entities: Steam, Switch",
+      "you/your"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=fKU4vZ1UPeQ",
+    "visualSource": "https://www.flickr.com/photos/63341003@N02/10590794074",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-gam-card-15.png",
+    "hook": "An atmospheric driving game through Dutch dikes and windmills",
+    "caption": "Lowlands Racer: an atmospheric driving game through Dutch polders, dikes and windmills, built in public. The oddly specific indie gems my feed finds before the timeline.",
+    "stance": "",
+    "triggers": [
+      "topic clarity",
+      "curiosity: niche concept",
+      "build in public"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=sI9BxYjOV0I",
+    "visualSource": "https://www.flickr.com/photos/63341003@N02/10591484583",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-17.png",
+    "hook": "Watch a pixel-art dungeon get its skill tree",
+    "caption": "Watch a pixel-art dungeon grow its skill tree in real time. Solo devs building in the open are the best part of gaming. This gem surfaced before the timeline caught it.",
+    "stance": "The best new releases are being built in public by one person right now.",
+    "triggers": [
+      "indie devlog",
+      "pixel art",
+      "build-in-public"
+    ],
+    "sourceUrl": "https://x.com/Operation_N313/status/2072386845502054451",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-21.png",
+    "hook": "Your first favorite game may be gone forever",
+    "caption": "Your first favorite mobile game might be unplayable now — pulled, delisted, gone. Game preservation is a real crisis. The stuff my feed surfaces that the timeline forgets.",
+    "stance": "Delisting games is quietly erasing a whole generation's gaming history.",
+    "triggers": [
+      "nostalgia",
+      "game preservation",
+      "loss"
+    ],
+    "sourceUrl": "https://mastodon.gamedev.place/@Xanatos/116849231202461845",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-29.png",
+    "hook": "A whole game about sledding just dropped on Game Pass.",
+    "caption": "A whole game about sledding just dropped on Game Pass, and it looks absurdly fun. From a dev who clearly loves it. The kind of hidden release my feed keeps before you scroll past it.",
+    "stance": "",
+    "triggers": [
+      "gamepass",
+      "indie",
+      "new release"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=3KJbYdNP5js",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "ai",
+    "topic": "ai",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/ai-i-love-gam-card-32.png",
+    "hook": "You don't need a Hollywood budget. You need to split the tasks.",
+    "caption": "You don't need a Hollywood budget for game art, you need to know which tasks to hand AI and which to do by hand. A brutal-honest hybrid pipeline. The AI stuff my feed keeps.",
+    "stance": "AI won't replace your art team, but knowing what to hand it will replace your budget.",
+    "triggers": [
+      "AI",
+      "gamedev",
+      "pipeline"
+    ],
+    "sourceUrl": "https://youtube.com/watch?v=wBfc80Uvi_Q",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-01.png",
+    "hook": "The \"Godfather of NDEs\" built a rational case for the afterlife",
+    "caption": "The \"Godfather of NDEs\" built a rational worldview from near-death experiences, science, and philosophy. Fringe, or frontier? Weird-but-rigorous is exactly the stuff my feed keeps.",
+    "stance": "The line between fringe metaphysics and real science is thinner than academics admit.",
+    "triggers": [
+      "awe",
+      "contrarian",
+      "named-entity"
+    ],
+    "sourceUrl": "https://mastodon.online/@KilleansRow/116849225192687035",
+    "visualSource": "https://www.flickr.com/photos/39415781@N06/3639046759",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-04.png",
+    "hook": "Locke: kids learn more from a child's questions than a scholar's lectures",
+    "caption": "Locke argued a curious child's questions teach more than educated men's borrowed opinions. Writing like this now gets called anti-intellectual. Old ideas, freshly dangerous. Found before the timeline.",
+    "stance": "We started mistaking credentials for thinking, and Locke saw it coming.",
+    "triggers": [
+      "contrarian",
+      "named-entity",
+      "mild-outrage"
+    ],
+    "sourceUrl": "https://mastodon.social/@kalokagathia/116849601980271529",
+    "visualSource": "https://www.flickr.com/photos/66885349@N03/25533137127",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-07.png",
+    "hook": "Reason or revelation, pick one. Just don't ask me to merge them.",
+    "caption": "Reason or revelation, pick either. Just don't expect anyone to reconcile them for you. The cleanest take on faith vs logic I've seen all week. Found before the timeline.",
+    "stance": "The demand to reconcile faith and reason is the trap, not the goal.",
+    "triggers": [
+      "contrarian",
+      "reply-invite"
+    ],
+    "sourceUrl": "https://mastodon.world/@paninid/116848708001082758",
+    "visualSource": "https://www.flickr.com/photos/23094783@N03/3271730476",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-09.png",
+    "hook": "Want to understand AI minds? Start with animal minds.",
+    "caption": "Want to understand AI minds? Start with animal minds. A philosophy-of-mind syllabus that runs from behaviourism to consciousness. The heady stuff my feed keeps.",
+    "stance": "You can't reason about machine consciousness without first reasoning about the animal kind.",
+    "triggers": [
+      "ai",
+      "consciousness",
+      "philosophy of mind"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:7liavwbhp7yrxz2on3fxl7oe/post/3mpi47qdo4k2b",
+    "visualSource": "https://www.flickr.com/photos/10361931@N06/4263328317",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-10.png",
+    "hook": "2,000 years of Chinese political thought in one chart.",
+    "caption": "2,000 years of Chinese political thought in one hand-drawn chart. Daoism, Legalism, and every confusion you had, cleared up. Found before the timeline buried it.",
+    "stance": "",
+    "triggers": [
+      "history",
+      "chinese philosophy",
+      "chart"
+    ],
+    "sourceUrl": "https://infosec.exchange/@0xabad1dea/116838151292083076",
+    "visualSource": "https://www.flickr.com/photos/10361931@N06/4264037742",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-19.png",
+    "hook": "\"I think I think too much.\"",
+    "caption": "\"I think I think too much.\" Six words that name the overthinker's trap: the mind auditing itself into paralysis. Small line, deep cut. The stuff my feed keeps.",
+    "stance": "Overthinking isn't deep thinking — it's thinking that never ships.",
+    "triggers": [
+      "relatable",
+      "self-reference",
+      "overthinking"
+    ],
+    "sourceUrl": "https://mastodon.social/@paracelsusgroup/116830650670806474",
+    "visualSource": "https://www.flickr.com/photos/53133240@N00/6585752",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-25.png",
+    "hook": "De Beauvoir built an ethics with no rulebook",
+    "caption": "De Beauvoir built an ethics with no rulebook — freedom without a safety net. If existentialism ever felt cold, this is the human read. The stuff my feed keeps.",
+    "stance": "Existentialism isn't nihilism — it's the most demanding ethics there is.",
+    "triggers": [
+      "de Beauvoir",
+      "existentialism",
+      "ethics"
+    ],
+    "sourceUrl": "https://recipe4.life/blog/ethics-of-ambiguity",
+    "visualSource": "https://www.flickr.com/photos/40646519@N00/1368856547",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-18.png",
+    "hook": "DeFi has huge brand awareness — and almost zero users.",
+    "caption": "DeFi has massive brand awareness and almost zero real usage. Everyone's heard of it; few actually touch it. The gap nobody wants to admit — surfaced from my curated feed.",
+    "stance": "DeFi's hype-to-usage ratio is the real bubble.",
+    "triggers": [
+      "contrast gap",
+      "mild outrage",
+      "reframe"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/149639283@N08/38611060951",
+    "visualLicense": "cc0"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-23.png",
+    "hook": "See the real historical yield of every DeFi protocol.",
+    "caption": "Stop trusting the advertised APY — this tool plots the actual realized yield of DeFi protocols side by side. The receipts your dashboard hides. Found before the timeline.",
+    "stance": "Advertised APY is marketing; realized yield is the truth.",
+    "triggers": [
+      "proof tool",
+      "painpoint",
+      "contrast"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/151023674@N04/32190820722",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-25.png",
+    "hook": "Another DeFi protocol just got hit. Do you know which?",
+    "caption": "Another DeFi protocol got hit by a new security exploit. If you hold anything on-chain, the gap between the breach and the headline is where you get liquidated. Surfaced before the timeline knew.",
+    "stance": "\"Audited\" means nothing — DeFi ships bugs to prod with your money as the test suite.",
+    "triggers": [
+      "mild outrage",
+      "painpoint agitation",
+      "you/your"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/151023674@N04/32341133905",
+    "visualLicense": "by"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-30.png",
+    "hook": "The EU just voted to regulate your DeFi, staking and NFTs.",
+    "caption": "The European Parliament advanced a resolution to assess DeFi, staking and NFTs — full plenary vote is scheduled. If you're on-chain in the EU, this shapes what's still legal. Found before the timeline.",
+    "stance": "Regulators don't need to ban DeFi — they just regulate the fiat on-ramps you depend on.",
+    "triggers": [
+      "painpoint agitation",
+      "you/your",
+      "news"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/132889348@N07/33318603652",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "mastodon",
+    "lane": "crypto",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 6,
+    "tile": "library/01-content-cards/mastodon/crypto-crypto-card-32.png",
+    "hook": "The paradox of DeFi: the more \"decentralized,\" the more fragile.",
+    "caption": "A new SSRN paper maps the paradox of DeFi — the features that make it trustless are the same ones that make it exploitable. If you build or invest on-chain, read the risk model. The stuff my feed keeps.",
+    "stance": "DeFi's decentralization isn't a safety feature — it's an attack surface nobody can patch fast enough.",
+    "triggers": [
+      "contrast",
+      "hard stance",
+      "research"
+    ],
+    "sourceUrl": null,
+    "visualSource": "https://www.flickr.com/photos/132889348@N07/33091151840",
+    "visualLicense": "by-sa"
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 5,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-23.png",
+    "hook": "What actually happens when your game ships?",
+    "caption": "What really happens the moment an indie game releases — is it all bugfixing hell, or more? A genuine question worth answering. The kind of thread my feed keeps.",
+    "stance": "",
+    "triggers": [
+      "reply-inviting question",
+      "gamedev behind-the-scenes"
+    ],
+    "sourceUrl": "https://mastodon.gamedev.place/@bitbraindev/116849558721056158",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 5,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-25.png",
+    "hook": "Want to ship a game? Start here, not with an engine.",
+    "caption": "Want to ship a game? Start here, not with a $0 engine download. A beginner indie dev guide that skips the fluff. The gamedev stuff my feed keeps before the tutorials pile up.",
+    "stance": "Most \"learn gamedev\" advice starts with the wrong tool.",
+    "triggers": [
+      "indie",
+      "gamedev",
+      "beginner"
+    ],
+    "sourceUrl": "https://bsky.app/profile/did:plc:porwhxzwut6vszlqjcvnmmag/post/3mpkdeycgs22e",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "lane": "gaming",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 5,
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-27.png",
+    "hook": "Agents of Groove just teased a full soundtrack overhaul.",
+    "caption": "Agents of Groove just teased a full soundtrack and art overhaul. This is the indie release you want to watch before it blows up. The stuff my feed keeps before the hype hits.",
+    "stance": "",
+    "triggers": [
+      "indie",
+      "soundtrack",
+      "devlog"
+    ],
+    "sourceUrl": "https://x.com/ComixBlade/status/2072009771604119845",
+    "visualSource": null,
+    "visualLicense": null
+  },
+  {
+    "platform": "mastodon",
+    "lane": "philosophy",
+    "topic": "philosophy",
+    "format": "banner",
+    "score": 5,
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-15.png",
+    "hook": "Is language innate or learned? Stanford just settled the state of the debate.",
+    "caption": "Is language innate or learned? A fresh Stanford Encyclopedia entry maps the whole debate, and it hits different in the LLM era. Found before the timeline.",
+    "stance": "The innateness question stopped being abstract the second LLMs learned grammar from raw text.",
+    "triggers": [
+      "language",
+      "innateness",
+      "linguistics"
+    ],
+    "sourceUrl": "https://plato.stanford.edu/entries/innateness-language/",
+    "visualSource": "https://www.flickr.com/photos/10361931@N06/4268896936",
+    "visualLicense": "by"
+  }
+]

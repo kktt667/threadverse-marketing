@@ -1,0 +1,517 @@
+{
+  "feed": "AI intelligence feed",
+  "slug": "create-a-live-intelligence-feed-covering",
+  "cards": [
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-01.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "6 AI trends for 2026 — backed by data, not vibes",
+      "caption": "6 AI trends for 2026 — backed by data, not vibes. Most predictions are speculation; this one pulls from McKinsey, Stanford, OpenAI, Epoch AI. The signal my feed keeps.",
+      "stance": "Every '2026 AI prediction' thread is guessing. Cite Epoch AI or sit down.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "OpenAI",
+        "Epoch AI",
+        "2026 trends"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-02.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Google just unveiled Gemini Spark — an AI agent, live at I/O",
+      "caption": "Google just unveiled Gemini Spark, an AI agent — plus Gemini Omni, Flow Music, smart glasses, and an OpenAI partnership. Everything from I/O, found before the timeline caught up.",
+      "stance": "Google shipping an OpenAI partnership is the plot twist nobody had.",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
+      "triggers": [
+        "Google",
+        "Gemini",
+        "OpenAI"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-03.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Anthropic won't release its new model — too powerful for the public",
+      "caption": "Anthropic says its new model, Mythos AI, is too powerful to ship publicly over cyber-safety concerns — tech access only. The kind of story my feed surfaces first.",
+      "stance": "'Too dangerous to release' is either the realest safety call or the best marketing ever.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "Anthropic",
+        "Mythos AI",
+        "too powerful to release"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-04.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Gemini Nano now runs AI on your Android — fully on-device",
+      "caption": "Gemini Nano brings efficient on-device AI to Android — no cloud round-trip. The top 3 from Google I/O '25 for anyone building mobile. The stuff my feed keeps.",
+      "stance": "On-device beats the cloud the second your model fits in RAM.",
+      "bestPlatform": "bluesky",
+      "format": "splitProof",
+      "triggers": [
+        "Gemini Nano",
+        "Android",
+        "on-device AI"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-05.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Sam Altman on ChatGPT, AI agents and superintelligence — live at TED",
+      "caption": "Sam Altman on ChatGPT, AI agents, and superintelligence, live at TED 2025. A probing conversation on where this is all headed. Found before the timeline.",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "banner",
+      "triggers": [
+        "Sam Altman",
+        "OpenAI",
+        "superintelligence"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-06.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "China just shipped real-time interactive video generation",
+      "caption": "ShengShu's Vidu S1 does real-time interactive video generation — the China AI story most Western feeds miss. The signal my feed catches before the timeline.",
+      "stance": "You're watching US labs; China is quietly shipping real-time video models.",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
+      "triggers": [
+        "China AI",
+        "Vidu S1",
+        "real-time video"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-07.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Siri finally gets the AI upgrade — everything from WWDC 2026",
+      "caption": "Apple gave Siri the AI upgrade we've waited years for at WWDC 2026, alongside iOS 27. The full breakdown, found before the timeline.",
+      "stance": "Apple is years late to AI Siri — the question is whether late still wins.",
+      "bestPlatform": "bluesky",
+      "format": "tabloid",
+      "triggers": [
+        "Apple",
+        "Siri",
+        "WWDC 2026"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-08.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Google's new TurboQuant AI just broke Two Minute Papers' brain",
+      "caption": "Google's new TurboQuant AI is impressive enough to make Two Minute Papers say it broke his brain. Paper's out. The research my feed keeps before it trends.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "Google",
+        "TurboQuant",
+        "Two Minute Papers"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-09.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Google just declared the agentic era open",
+      "caption": "Google says Gemini 2.0 is built for the agentic era — its most capable model yet. The launch that set the tone for the whole race. Caught in my feed before the timeline noticed.",
+      "stance": "The model race is over. The agent race just started.",
+      "bestPlatform": "x",
+      "format": "banner",
+      "triggers": [
+        "names Gemini (cult-loved model)",
+        "surprise/awe",
+        "contrast: model era vs agentic era"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-10.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "AI's real fight isn't models anymore — it's the stack",
+      "caption": "Everyone's watching model launches. The real war moved to compute, memory, routing, and safety. Whoever makes intelligence usable wins. The take my feed pulled before it blew up.",
+      "stance": "Building intelligence is table stakes. Making it usable is the moat.",
+      "bestPlatform": "x",
+      "format": "quote",
+      "triggers": [
+        "hard contrarian stance",
+        "contrast: models vs infra",
+        "you-relevant to builders"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-11.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Anthropic ships Opus 4.7 — its most powerful model yet",
+      "caption": "Bloomberg: Anthropic's Opus 4.7 is out, better at software and its strongest model so far — with a limited Mythos release. The Claude news my feed surfaced before the timeline.",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "tabloid",
+      "triggers": [
+        "names Anthropic/Opus (cult-loved)",
+        "breaking news",
+        "most-powerful contrast"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-12.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Waiting for the next big model launch? You're already behind",
+      "caption": "Rolling releases killed the launch cycle. Your team now has to plan for continuous upgrades, not big-drop events. The shift my feed flagged before it hit your workflow.",
+      "stance": "The era of the big model launch is dead. Ship for constant change or fall behind.",
+      "bestPlatform": "x",
+      "format": "quote",
+      "triggers": [
+        "you/your painpoint",
+        "contrarian stance",
+        "contrast: launches vs rolling releases"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-13.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "The fastest-growing AI repos right now are about testing agents",
+      "caption": "Today's hottest AI projects aren't models — they're eval repos like awesome-evals and BenchFlow. Multi-agent systems need proof they work. The research my feed keeps.",
+      "stance": "The next gold rush in AI is evaluation, not generation.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "names specific repos",
+        "contrast: models vs evals",
+        "researcher-relevant"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-14.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Palantir's CEO: 'something has gone completely wrong' with AI",
+      "caption": "Alex Karp says the way AI is sold is completely broken — on CNBC, alongside the new Nvidia deal and frontier models. The spicy take my feed caught before the timeline.",
+      "stance": "The people selling AI hardest understand it least.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "names Palantir/Karp/Nvidia",
+        "mild outrage",
+        "provocative quote"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-15.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Trump signed an order giving the government an early look at new AI models",
+      "caption": "New executive order: AI companies will voluntarily share powerful new models with the government before release. The policy shift my feed surfaced before it hit your feed.",
+      "stance": "\"Voluntary\" model sharing with the government never stays voluntary.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "breaking policy news",
+        "regulation stakes",
+        "AI governance"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-16.png",
+      "keep": true,
+      "score": 7,
+      "lane": "philosophy",
+      "hook": "DeepMind hired a philosopher to ask what this thing actually is",
+      "caption": "Since 2017, Iason Gabriel has worked inside Google DeepMind on one question: what is this thing we're building? The Guardian long read my feed kept for you.",
+      "stance": "The hardest AI problem isn't technical — it's that we don't know what we made.",
+      "bestPlatform": "bluesky",
+      "format": "banner",
+      "triggers": [
+        "names DeepMind",
+        "deep philosophical curiosity",
+        "cult-loved long read"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-17.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Anthropic's betting on a workflow, not a bigger model",
+      "caption": "Anthropic's betting on a workflow, not a bigger model. Claude Science is one environment for research — databases, pipelines, tools in one place. The strategy shift my feed caught early.",
+      "stance": "The next AI edge isn't scale, it's stitching the whole research stack together.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "Anthropic",
+        "Claude",
+        "research workflow"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-18.png",
+      "keep": false,
+      "score": 2,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "x",
+      "format": "minimal",
+      "triggers": [
+        "clickbait",
+        "AI slop"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-19.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "mastodon",
+      "format": "minimal",
+      "triggers": [
+        "product ad",
+        "Google Workspace"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-20.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Google says Gemini migrates code 6x faster",
+      "caption": "Google says Gemini migrates code 6x faster. Pichai just put agentic AI at the center of the Enterprise Agent Platform — the coding-agent race is now Google's fight too. Found before the timeline.",
+      "stance": "Agentic coding just stopped being a startup toy and became a Big Tech land grab.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "Google",
+        "Gemini",
+        "6x faster",
+        "agentic"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-21.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Classic AI, Generative AI, Active AI — one map for what's coming",
+      "caption": "Classic AI, Generative AI, Active AI. One clean map for the models that'll get built on next. If you're deciding what to build, this framework beats another hype thread. The stuff my feed keeps.",
+      "stance": "Most AI takes are noise — a good mental model is worth more than a hundred launches.",
+      "bestPlatform": "bluesky",
+      "format": "banner",
+      "triggers": [
+        "AI framework",
+        "future of AI",
+        "builder"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-22.png",
+      "keep": false,
+      "score": 3,
+      "lane": "reject",
+      "hook": "",
+      "caption": "",
+      "stance": "",
+      "bestPlatform": "bluesky",
+      "format": "minimal",
+      "triggers": [
+        "satire",
+        "weather",
+        "non-tech"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-23.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "The model you rely on is quietly drifting — and you can't tell",
+      "caption": "The model you rely on is quietly drifting — and you can't tell. Silent reroutes, retunes, retired versions all shift real capability with zero notice. The under-the-radar take my feed surfaced.",
+      "stance": "Providers change your model out from under you and call it stable. That's the real reliability crisis.",
+      "bestPlatform": "x",
+      "format": "quote",
+      "triggers": [
+        "capability drift",
+        "model routing",
+        "reliability"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-24.png",
+      "keep": true,
+      "score": 9,
+      "lane": "ai",
+      "hook": "Anthropic's CEO: AI writes 100% of code within a year",
+      "caption": "Anthropic's CEO: AI writes 100% of code within a year. Dario says in 12 months AI may write essentially all of it. If you ship code, that timeline changes your whole plan. Caught before the timeline.",
+      "stance": "Either Dario's wildly early or your job description is about to be rewritten. No middle ground.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "Anthropic",
+        "Dario Amodei",
+        "100% of code"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-25.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "The US government just banned two Anthropic AI models",
+      "caption": "The US government reportedly banned Fable and Mythos, Anthropic's most powerful models. If it's true, it resets the frontier race. The stuff my feed catches before the timeline melts down.",
+      "stance": "AI safety headlines move faster than the models themselves now.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "Anthropic",
+        "AI safety",
+        "government ban"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-26.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Amazon just open-sourced Neo-AI to make your models faster",
+      "caption": "Amazon open-sourced Neo-AI, a framework for optimizing AI models. Free performance if you're shipping inference. The kind of quiet release my feed keeps while everyone chases hype.",
+      "stance": "The big optimization wins are hiding in open-source, not the flagship demos.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "Amazon",
+        "open-source",
+        "model optimization"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-27.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "The fastest-growing AI repo this week is a list of the best AI tools",
+      "caption": "awesome-evals by BenchFlow is the fastest-growing AI project right now. Curated eval resources devs actually star. Found before the timeline, because my feed reads the repos so you don't.",
+      "stance": "The meta-tool that catalogs the tools always outgrows the tools.",
+      "bestPlatform": "mastodon",
+      "format": "bigStat",
+      "triggers": [
+        "GitHub",
+        "AI evals",
+        "fastest-growing"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-28.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "Google's new model classifies your data with zero training",
+      "caption": "Google Research launched TabFM, a foundation model for tabular data that does zero-shot classification in one forward pass. No per-dataset tuning. This is the research my feed keeps.",
+      "stance": "Foundation models are quietly eating the last stronghold: boring spreadsheet data.",
+      "bestPlatform": "mastodon",
+      "format": "splitProof",
+      "triggers": [
+        "Google Research",
+        "foundation model",
+        "zero-shot"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-29.png",
+      "keep": true,
+      "score": 7,
+      "lane": "ai",
+      "hook": "Portugal just shipped its first open-source national AI model",
+      "caption": "Portugal launched its first open-source AI model, joining Europe's push for AI sovereignty. Every country wants its own frontier now. The signal my feed catches before the news cycle.",
+      "stance": "Sovereign AI is the new nuclear program — everyone's building one.",
+      "bestPlatform": "x",
+      "format": "tabloid",
+      "triggers": [
+        "Portugal",
+        "open-source",
+        "AI sovereignty"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-30.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "One person put 10 AI giants against a single PDF",
+      "caption": "Show HN: one dev challenged 10 AI models with one open-source PDF and published every result. The kind of honest head-to-head my feed keeps over the marketing benchmarks.",
+      "stance": "One reproducible PDF test beats a hundred cherry-picked vendor benchmarks.",
+      "bestPlatform": "x",
+      "format": "splitProof",
+      "triggers": [
+        "Show HN",
+        "AI benchmark",
+        "10 models"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-31.png",
+      "keep": true,
+      "score": 6,
+      "lane": "ai",
+      "hook": "Baseten just shipped a framework for chaining multiple AI models",
+      "caption": "Baseten launched Chains, an SDK for deploying complex multi-model AI products. If you're stitching models together in prod, this is for you. The infra my feed surfaces early.",
+      "stance": "The next wave of AI apps is orchestration, not a single big model.",
+      "bestPlatform": "mastodon",
+      "format": "banner",
+      "triggers": [
+        "Baseten",
+        "multi-model",
+        "SDK launch"
+      ]
+    },
+    {
+      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/create-a-live-intelligence-feed-covering/card-32.png",
+      "keep": true,
+      "score": 8,
+      "lane": "ai",
+      "hook": "A 1.6 trillion parameter open model just dropped from Meituan",
+      "caption": "Meituan released LongCat-2.0: a 1.6T-param open MoE with 1M token context, built for agentic coding on domestic AI chips. China's open frontier keeps moving. Caught by my feed early.",
+      "stance": "The biggest open model of the month came from a food-delivery company.",
+      "bestPlatform": "x",
+      "format": "bigStat",
+      "triggers": [
+        "LongCat",
+        "1.6T params",
+        "open MoE"
+      ]
+    }
+  ]
+}
