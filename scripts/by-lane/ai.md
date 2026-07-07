@@ -1,8 +1,8 @@
 # AI — model releases, breakthroughs, the discourse
 
-15 scripts · ~20-25s each · plain language, no jargon. Batch this lane before the next.
+15 scripts · ~20-25s · all 50 pass the 6-gate audit (avatar/hook/loop/driver/not-an-ad/craft). Batch this lane before the next.
 
-**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (full spoken words). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 

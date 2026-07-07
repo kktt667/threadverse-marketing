@@ -25,18 +25,17 @@
 `[V: the session counter, deleted]`
 
 ## Script 48 — The honest math · lane: meta · ~23s
-*~64 words · ~23s*
+*~62 words · ~22s*
 *Type: V · Delete test: the reframe — you already pay for signal, just badly — is a standalone spending-audit insight.*
-**[HOOK]** "You're already paying for a better feed — you're just paying to make the noise barely tolerable instead."
+**[HOOK]** "You already pay every month for a better feed. You're just paying to make the noise tolerable instead of actually fixing it."
 **[TEXT ON SCREEN: “you already pay for a better feed”]**
 `[V: a subscriptions list, monthly totals stacking up]`
 **[BIG-Q]** "Twenty for AI, eight for the blue check. So why does staying informed cost more and somehow feel worse?"
 `[V: text — a running total climbing past £30/mo]`
-**[HEAD FAKE]** "Twenty-five quid replaces the lot — one feed I use reads five thousand posts and keeps the fifty."
+**[HEAD FAKE]** "Then it hit me — what actually cut the noise wasn't another subscription. It was one feed that reads everything and keeps only the signal."
 `[V: screen-record — one plain-English feed request resolving into signal]`
-**[REHOOK]** "The real question is how much you pay just to make bad feeds hurt a little less."
+**[REHOOK]** "So the real question is how much you pay just to make bad feeds hurt a little less."
 `[V: the subscriptions list, most of them greyed out]`
-(link in bio)
 
 ## Script 49 — Thirty seconds, then gone · lane: meta · ~23s
 *~63 words · ~23s*
