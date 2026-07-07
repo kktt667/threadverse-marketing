@@ -1,6 +1,6 @@
 # Meta / product-truth — indie, honest, anti-engagement
 
-4 scripts · ~20-25s · all 50 pass the 6-gate audit (avatar/hook/loop/driver/not-an-ad/craft). Batch this lane before the next.
+4 scripts · ~20-25s · all pass 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
 
 **Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
@@ -61,5 +61,5 @@
 `[V: two dashboards — 'time on app' vs 'time saved']`
 **[HEAD FAKE]** "The one I use actually ends — it reads five thousand posts, keeps the fifty, and then you're done."
 `[V: screen-record — feed hits a clean end-of-feed state]`
-**[REHOOK]** "It's weird that 'here's your time back' now sounds radical instead of completely normal."
+**[REHOOK]** "Which makes you wonder how every other app quietly trained you to expect the opposite."
 `[V: the app closing, home screen, quiet]`

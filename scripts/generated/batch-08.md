@@ -8,7 +8,7 @@
 `[V: text overlay: "not your algo, not your attention"]`
 **[HEAD FAKE]** "Turns out you write the filter yourself, in plain English. One feed I use actually does that."
 `[V: screen-record — typed filter rule → clean feed, no ads]`
-**[REHOOK]** "And it makes 'not your keys' feel small next to 'not your mind.'"
+**[REHOOK]** "And it makes you wonder how much of what you think is yours was actually picked for you."
 `[V: the phone, ad-feed swapped for the plain one]`
 
 ## Script 42 — The For You page isn't for you · lane: philosophy · ~23s

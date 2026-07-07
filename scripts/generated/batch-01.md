@@ -21,9 +21,8 @@ Mix: ~60% story-first, ~40% value-first. ~20–24s. Product named ≤ once + in 
 `[V: text: "filter once, share it?"]`
 **[HEAD FAKE / ambient]** "Turns out one app finally did — it reads the five thousand once and keeps the fifty."
 `[V: screen-record — 5,000 collapse to 50]`
-**[REHOOK]** "And once you see it, every other feed is just making you do the work yourself."
+**[REHOOK]** "And now I can't unsee it — every other feed is quietly making you redo the work, all day, for free."
 `[V: a generic feed, suddenly primitive]`
-*(no hard CTA — link in bio)*
 
 ---
 
@@ -52,7 +51,7 @@ Mix: ~60% story-first, ~40% value-first. ~20–24s. Product named ≤ once + in 
 `[V: "REJECTED (4,950)" counter]`
 **[HEAD FAKE]** "Mostly, yeah. But every so often there's a gem you can rescue — and auditing beats a black box every time."
 `[V: screen-record scrolling the reject pool, tapping "rescue"]`
-**[REHOOK]** "No other feed out there will ever show you that."
+**[REHOOK]** "Which makes you wonder what every other feed has been quietly throwing out that you'd have wanted."
 `[V: a generic FYP, opaque]`
 
 ---
@@ -67,7 +66,7 @@ Mix: ~60% story-first, ~40% value-first. ~20–24s. Product named ≤ once + in 
 `[V: five apps open, exhausted scroll]`
 **[HEAD FAKE / ambient]** "I typed 'new releases worth playing, skip the drama' into one, and that's exactly what I got back."
 `[V: screen-record — clean gaming feed, a trailer + an indie gem]`
-**[REHOOK]** "Now I play a lot more and read a lot less."
+**[REHOOK]** "And now I keep wondering how many games I quietly gave up on just because nobody loud enough covered them."
 `[V: controller up, phone down]`
 
 ---
@@ -112,7 +111,7 @@ Mix: ~60% story-first, ~40% value-first. ~20–24s. Product named ≤ once + in 
 `[V: a deep-work timer that keeps resetting from 'quick checks']`
 **[HEAD FAKE]** "This one hands you the fifty posts with signal and then simply stops — and that empty space turned out to be focus."
 `[V: the phone set down, back to the editor]`
-**[REHOOK]** "It's the first feed that ever gave me time back."
+**[REHOOK]** "And it makes you wonder what you'd actually do with the hours every other feed keeps quietly taking."
 `[V: a calm, finished feed]`
 
 ---
@@ -157,7 +156,7 @@ Mix: ~60% story-first, ~40% value-first. ~20–24s. Product named ≤ once + in 
 `[V: the noisy 'before' side]`
 **[HEAD FAKE / ambient]** "I told this one 'games worth playing, skip the discourse', and it kept exactly fifty."
 `[V: screen-record — dragging before/after to clean]`
-**[REHOOK]** "One sentence, and for once my feed actually respected me."
+**[REHOOK]** "One sentence fixed it — which kind of makes you wonder why none of the big feeds ever let you."
 `[V: the clean feed]`
 
 ---

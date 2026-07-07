@@ -1,6 +1,6 @@
 # Crypto — mechanism design, exploits, adoption (not price)
 
-8 scripts · ~20-25s · all 50 pass the 6-gate audit (avatar/hook/loop/driver/not-an-ad/craft). Batch this lane before the next.
+8 scripts · ~20-25s · all pass 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
 
 **Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
@@ -106,7 +106,7 @@
 `[V: a calm technical breakdown next to a wall of gloating tweets]`
 **[HEAD FAKE / ambient]** "The feed I use surfaced it as engineering, not as a hot take."
 `[V: screen-record, the post-mortem post surfaced over the noise]`
-**[REHOOK]** "Ended up making me re-audit our own assumptions."
+**[REHOOK]** "And it made me wonder which of our own assumptions is one write-up away from looking just as obvious."
 `[V: a cursor hovering over an unchecked assumption in your own code]`
 
 ---
@@ -121,5 +121,5 @@
 `[V: text overlay: "not your algo, not your attention"]`
 **[HEAD FAKE]** "Turns out you write the filter yourself, in plain English. One feed I use actually does that."
 `[V: screen-record — typed filter rule → clean feed, no ads]`
-**[REHOOK]** "And it makes 'not your keys' feel small next to 'not your mind.'"
+**[REHOOK]** "And it makes you wonder how much of what you think is yours was actually picked for you."
 `[V: the phone, ad-feed swapped for the plain one]`

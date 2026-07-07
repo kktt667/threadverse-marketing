@@ -1,6 +1,6 @@
 # Gaming — releases, leaks, dev culture (as a smart hobby)
 
-8 scripts · ~20-25s · all 50 pass the 6-gate audit (avatar/hook/loop/driver/not-an-ad/craft). Batch this lane before the next.
+8 scripts · ~20-25s · all pass 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
 
 **Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
@@ -16,7 +16,7 @@
 `[V: five apps open, exhausted scroll]`
 **[HEAD FAKE / ambient]** "I typed 'new releases worth playing, skip the drama' into one, and that's exactly what I got back."
 `[V: screen-record — clean gaming feed, a trailer + an indie gem]`
-**[REHOOK]** "Now I play a lot more and read a lot less."
+**[REHOOK]** "And now I keep wondering how many games I quietly gave up on just because nobody loud enough covered them."
 `[V: controller up, phone down]`
 
 ---
@@ -31,7 +31,7 @@
 `[V: the noisy 'before' side]`
 **[HEAD FAKE / ambient]** "I told this one 'games worth playing, skip the discourse', and it kept exactly fifty."
 `[V: screen-record — dragging before/after to clean]`
-**[REHOOK]** "One sentence, and for once my feed actually respected me."
+**[REHOOK]** "One sentence fixed it — which kind of makes you wonder why none of the big feeds ever let you."
 `[V: the clean feed]`
 
 ---
@@ -100,7 +100,7 @@
 `[V: text on screen: "the drop" vs "the drama"]`
 **[HEAD FAKE / ambient]** "One feed I use lets me ask in plain English. Silksong finally came, and somehow the dunks didn't."
 `[V: screen-record — plain-English request → clean drops, no dogpile]`
-**[REHOOK]** "First launch in years that felt like actual news, not a group chat mid-argument."
+**[REHOOK]** "And now I wonder how many launches I only remember as fights, when the actual news was fine."
 `[V: a calm feed, one trailer, zero replies]`
 
 ---

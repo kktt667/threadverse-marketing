@@ -1,6 +1,6 @@
 # AI — model releases, breakthroughs, the discourse
 
-15 scripts · ~20-25s · all 50 pass the 6-gate audit (avatar/hook/loop/driver/not-an-ad/craft). Batch this lane before the next.
+15 scripts · ~20-25s · all pass 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
 
 **Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
@@ -16,9 +16,8 @@
 `[V: text: "filter once, share it?"]`
 **[HEAD FAKE / ambient]** "Turns out one app finally did — it reads the five thousand once and keeps the fifty."
 `[V: screen-record — 5,000 collapse to 50]`
-**[REHOOK]** "And once you see it, every other feed is just making you do the work yourself."
+**[REHOOK]** "And now I can't unsee it — every other feed is quietly making you redo the work, all day, for free."
 `[V: a generic feed, suddenly primitive]`
-*(no hard CTA — link in bio)*
 
 ---
 
@@ -47,7 +46,7 @@
 `[V: "REJECTED (4,950)" counter]`
 **[HEAD FAKE]** "Mostly, yeah. But every so often there's a gem you can rescue — and auditing beats a black box every time."
 `[V: screen-record scrolling the reject pool, tapping "rescue"]`
-**[REHOOK]** "No other feed out there will ever show you that."
+**[REHOOK]** "Which makes you wonder what every other feed has been quietly throwing out that you'd have wanted."
 `[V: a generic FYP, opaque]`
 
 ---

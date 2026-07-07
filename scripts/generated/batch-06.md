@@ -21,7 +21,7 @@
 `[V: text on screen: "the drop" vs "the drama"]`
 **[HEAD FAKE / ambient]** "One feed I use lets me ask in plain English. Silksong finally came, and somehow the dunks didn't."
 `[V: screen-record — plain-English request → clean drops, no dogpile]`
-**[REHOOK]** "First launch in years that felt like actual news, not a group chat mid-argument."
+**[REHOOK]** "And now I wonder how many launches I only remember as fights, when the actual news was fine."
 `[V: a calm feed, one trailer, zero replies]`
 
 ## Script 31 — The gem under the AAA noise · lane: gaming · ~23s

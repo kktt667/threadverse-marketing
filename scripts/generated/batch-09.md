@@ -60,5 +60,5 @@
 `[V: two dashboards — 'time on app' vs 'time saved']`
 **[HEAD FAKE]** "The one I use actually ends — it reads five thousand posts, keeps the fifty, and then you're done."
 `[V: screen-record — feed hits a clean end-of-feed state]`
-**[REHOOK]** "It's weird that 'here's your time back' now sounds radical instead of completely normal."
+**[REHOOK]** "Which makes you wonder how every other app quietly trained you to expect the opposite."
 `[V: the app closing, home screen, quiet]`

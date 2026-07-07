@@ -1,6 +1,6 @@
 # Philosophy — how to think, attention, focus
 
-6 scripts · ~20-25s · all 50 pass the 6-gate audit (avatar/hook/loop/driver/not-an-ad/craft). Batch this lane before the next.
+6 scripts · ~20-25s · all pass 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
 
 **Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
@@ -16,7 +16,7 @@
 `[V: a deep-work timer that keeps resetting from 'quick checks']`
 **[HEAD FAKE]** "This one hands you the fifty posts with signal and then simply stops — and that empty space turned out to be focus."
 `[V: the phone set down, back to the editor]`
-**[REHOOK]** "It's the first feed that ever gave me time back."
+**[REHOOK]** "And it makes you wonder what you'd actually do with the hours every other feed keeps quietly taking."
 `[V: a calm, finished feed]`
 
 ---

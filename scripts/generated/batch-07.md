@@ -60,5 +60,5 @@
 `[V: a calm technical breakdown next to a wall of gloating tweets]`
 **[HEAD FAKE / ambient]** "The feed I use surfaced it as engineering, not as a hot take."
 `[V: screen-record, the post-mortem post surfaced over the noise]`
-**[REHOOK]** "Ended up making me re-audit our own assumptions."
+**[REHOOK]** "And it made me wonder which of our own assumptions is one write-up away from looking just as obvious."
 `[V: a cursor hovering over an unchecked assumption in your own code]`
