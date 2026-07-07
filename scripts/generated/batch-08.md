@@ -1,10 +1,10 @@
 ## Script 40 — Renting your own attention · lane: crypto · ~23s
 *~65 words · ~23s*
 *Type: V · Delete test: without the product it's still a sharp reframe on who owns your feed — the engineer's answer to "self-custody your attention."*
-**[HOOK]** "You self-custody your keys, but you rent your attention from the company that sells it."
+**[HOOK]** "You guard your crypto keys, but you hand your attention to a company that sells it — and never think twice."
 **[TEXT ON SCREEN: “you rent your own attention”]**
 `[V: a hardware wallet next to a phone, feed scrolling on the phone]`
-**[BIG-Q]** "Someone else picks everything you see. So what would self-custody of your attention actually look like?"
+**[BIG-Q]** "Someone else picks everything you see all day. So what would actually owning that look like?"
 `[V: text overlay: "not your algo, not your attention"]`
 **[HEAD FAKE]** "Turns out you write the filter yourself, in plain English. One feed I use actually does that."
 `[V: screen-record — typed filter rule → clean feed, no ads]`
@@ -13,12 +13,12 @@
 
 ## Script 42 — The For You page isn't for you · lane: philosophy · ~23s
 *~64 words · ~23s*
-*Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the optimizer optimizes for.*
-**[HOOK]** "Your For You page isn't for you — and it's no conspiracy, it's just the loss function."
+*Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the algorithm is built to serve.*
+**[HOOK]** "Your For You page isn't for you — and it's no conspiracy, it's just what it's built to do."
 **[TEXT ON SCREEN: “your For You page isn't for you”]**
 `[V: a "For You" tab, then a diagram of an objective being maximized]`
-**[BIG-Q]** "It's optimized for their watch time, not yours. So what would a feed on your objective do?"
-`[V: text: "whose objective is it?"]`
+**[BIG-Q]** "It's tuned for their watch time, not yours. So what would a feed built for you do?"
+`[V: text: "who is it really for?"]`
 **[HEAD FAKE]** "Turns out one lets you state it — describe what actually matters, and it filters to that."
 `[V: screen-record — plain-English goal → matching feed]`
 **[REHOOK]** "Now 'For You' reads like a price label, not a promise."
@@ -45,7 +45,7 @@
 `[V: a bank alert dismissed, then a screen-time report ignored]`
 **[BIG-Q]** "Money comes back, attention just burns. So why spend the scarce one on slop?"
 `[V: text: "which resource actually refills?"]`
-**[HEAD FAKE]** "So I treat it like a compute budget. One feed I use reads 5,000 posts and keeps 50."
+**[HEAD FAKE]** "So I treat it like money I can't get back. One feed I use reads 5,000 posts and keeps 50."
 `[V: screen-record — 5,000 posts collapsing to ~50]`
 **[REHOOK]** "Turns out I wasn't out of time — I was burning the one budget that never comes back."
 `[V: the screen-time number, dropping]`

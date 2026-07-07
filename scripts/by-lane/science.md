@@ -1,8 +1,8 @@
 # Science — wait-what findings, research, depth
 
-9 scripts · ~20-25s each (verified @ 2.8 words/sec). Batch this lane before the next.
+9 scripts · ~20-25s each · plain language, no jargon. Batch this lane before the next.
 
-**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (your full spoken words, whole video). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (full spoken words). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
@@ -134,7 +134,7 @@
 `[V: a QT chain, each summary drifting further off]`
 **[BIG-Q]** "A result drops, and an hour later it's fifty takes deep. So how do you ever reach it first?"
 `[V: same claim mutating down a thread]`
-**[HEAD FAKE]** "You go upstream. One feed pulls the primary source to the top and just mutes the whole take-layer."
+**[HEAD FAKE]** "You go upstream. One feed pulls the original paper to the top and just mutes all the hot takes."
 `[V: screen-record — source paper up top, hot takes stripped out]`
 **[REHOOK]** "Now the takes feel like a movie everyone reviewed without ever watching it."
 `[V: the QT chain, collapsed to nothing]`

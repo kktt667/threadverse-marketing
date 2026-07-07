@@ -1,8 +1,8 @@
 # Crypto — mechanism design, exploits, adoption (not price)
 
-8 scripts · ~20-25s each (verified @ 2.8 words/sec). Batch this lane before the next.
+8 scripts · ~20-25s each · plain language, no jargon. Batch this lane before the next.
 
-**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (your full spoken words, whole video). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (full spoken words). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
@@ -98,7 +98,7 @@
 
 ## Script 39 — The post-mortem, not the call · lane: crypto · ~23s
 *~64 words · ~23s*
-*Type: S · Delete test: an exploit post-mortem read as pure engineering — how the bug worked, why the invariant broke — is genuinely valuable to any dev regardless of crypto.*
+*Type: S · Delete test: an exploit post-mortem read as pure engineering — how the bug worked, why the safeguard failed — is genuinely valuable to any dev regardless of crypto.*
 **[HOOK]** "You'd skip a crypto exploit post as just another trading take — but the good ones are cold, careful write-ups of exactly how a hack worked."
 **[TEXT ON SCREEN: “the exploit write-up, not a call”]**
 `[V: a clean code diff, one highlighted line that broke everything]`
@@ -114,10 +114,10 @@
 ## Script 40 — Renting your own attention · lane: crypto · ~23s
 *~65 words · ~23s*
 *Type: V · Delete test: without the product it's still a sharp reframe on who owns your feed — the engineer's answer to "self-custody your attention."*
-**[HOOK]** "You self-custody your keys, but you rent your attention from the company that sells it."
+**[HOOK]** "You guard your crypto keys, but you hand your attention to a company that sells it — and never think twice."
 **[TEXT ON SCREEN: “you rent your own attention”]**
 `[V: a hardware wallet next to a phone, feed scrolling on the phone]`
-**[BIG-Q]** "Someone else picks everything you see. So what would self-custody of your attention actually look like?"
+**[BIG-Q]** "Someone else picks everything you see all day. So what would actually owning that look like?"
 `[V: text overlay: "not your algo, not your attention"]`
 **[HEAD FAKE]** "Turns out you write the filter yourself, in plain English. One feed I use actually does that."
 `[V: screen-record — typed filter rule → clean feed, no ads]`

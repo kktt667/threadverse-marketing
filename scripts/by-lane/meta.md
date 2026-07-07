@@ -1,8 +1,8 @@
 # Meta / product-truth — indie, honest, anti-engagement
 
-4 scripts · ~20-25s each (verified @ 2.8 words/sec). Batch this lane before the next.
+4 scripts · ~20-25s each · plain language, no jargon. Batch this lane before the next.
 
-**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (your full spoken words, whole video). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (full spoken words). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 

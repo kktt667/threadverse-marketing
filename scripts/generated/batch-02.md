@@ -53,7 +53,7 @@
 ## Script 11 — On-device AI moment · lane: ai · ~23s
 *~63 words · ~23s*
 *Type: S · Delete test: the real shift of a capable model running locally on your phone with nothing leaving the device — and why the hot-takes missed the point — is a solid tech story alone.*
-**[HOOK]** "You scrolled right past 'Nano runs on your phone' — but inference just quietly left the cloud."
+**[HOOK]** "You scrolled right past 'Nano runs on your phone' — but the AI just quietly left the cloud."
 **[TEXT ON SCREEN: “AI just left the cloud”]**
 `[V: a phone running a model fully offline, airplane mode on]`
 **[BIG-Q]** "The hot-takes said 'it's slower' and completely missed it. So what changes when nothing leaves the phone at all?"

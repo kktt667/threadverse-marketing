@@ -1,8 +1,8 @@
 # Philosophy — how to think, attention, focus
 
-6 scripts · ~20-25s each (verified @ 2.8 words/sec). Batch this lane before the next.
+6 scripts · ~20-25s each · plain language, no jargon. Batch this lane before the next.
 
-**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (your full spoken words, whole video). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
+**Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions (full spoken words). `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
 
 ---
 
@@ -23,12 +23,12 @@
 
 ## Script 42 — The For You page isn't for you · lane: philosophy · ~23s
 *~64 words · ~23s*
-*Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the optimizer optimizes for.*
-**[HOOK]** "Your For You page isn't for you — and it's no conspiracy, it's just the loss function."
+*Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the algorithm is built to serve.*
+**[HOOK]** "Your For You page isn't for you — and it's no conspiracy, it's just what it's built to do."
 **[TEXT ON SCREEN: “your For You page isn't for you”]**
 `[V: a "For You" tab, then a diagram of an objective being maximized]`
-**[BIG-Q]** "It's optimized for their watch time, not yours. So what would a feed on your objective do?"
-`[V: text: "whose objective is it?"]`
+**[BIG-Q]** "It's tuned for their watch time, not yours. So what would a feed built for you do?"
+`[V: text: "who is it really for?"]`
 **[HEAD FAKE]** "Turns out one lets you state it — describe what actually matters, and it filters to that."
 `[V: screen-record — plain-English goal → matching feed]`
 **[REHOOK]** "Now 'For You' reads like a price label, not a promise."
@@ -59,7 +59,7 @@
 `[V: a bank alert dismissed, then a screen-time report ignored]`
 **[BIG-Q]** "Money comes back, attention just burns. So why spend the scarce one on slop?"
 `[V: text: "which resource actually refills?"]`
-**[HEAD FAKE]** "So I treat it like a compute budget. One feed I use reads 5,000 posts and keeps 50."
+**[HEAD FAKE]** "So I treat it like money I can't get back. One feed I use reads 5,000 posts and keeps 50."
 `[V: screen-record — 5,000 posts collapsing to ~50]`
 **[REHOOK]** "Turns out I wasn't out of time — I was burning the one budget that never comes back."
 `[V: the screen-time number, dropping]`

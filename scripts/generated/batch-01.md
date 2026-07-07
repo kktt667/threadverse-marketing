@@ -12,16 +12,16 @@ Mix: ~60% story-first, ~40% value-first. ~20–24s. Product named ≤ once + in 
 ---
 
 ## Script 01 — [VALUE] The caching insight · lane: ai · ~22s
-*~62 words · ~22s*
+*~63 words · ~23s*
 *Delete test: still a genuinely sharp systems observation.*
 **[HOOK]** "You read five thousand posts every morning just to find the same fifty. As an engineer, that should genuinely bug you."
-**[TEXT ON SCREEN: “the query you re-run daily”]**
+**[TEXT ON SCREEN: “everyone does the same filtering by hand”]**
 `[V: grid of identical phones]`
-**[BIG-Q]** "It's a query you re-run by hand every single day. You'd cache that in a heartbeat, so why has nobody ever cached a feed?"
-`[V: text: "compute once, serve many?"]`
+**[BIG-Q]** "It's the same filtering, done by hand, a million times a day. So why has nobody done it once and shared the good fifty?"
+`[V: text: "filter once, share it?"]`
 **[HEAD FAKE / ambient]** "Turns out one app finally did — it reads the five thousand once and keeps the fifty."
 `[V: screen-record — 5,000 collapse to 50]`
-**[REHOOK]** "And once you see it, every other feed is just running the dumb version."
+**[REHOOK]** "And once you see it, every other feed is just making you do the work yourself."
 `[V: a generic feed, suddenly primitive]`
 *(no hard CTA — link in bio)*
 

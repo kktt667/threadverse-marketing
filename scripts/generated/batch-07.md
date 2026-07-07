@@ -52,7 +52,7 @@
 
 ## Script 39 — The post-mortem, not the call · lane: crypto · ~23s
 *~64 words · ~23s*
-*Type: S · Delete test: an exploit post-mortem read as pure engineering — how the bug worked, why the invariant broke — is genuinely valuable to any dev regardless of crypto.*
+*Type: S · Delete test: an exploit post-mortem read as pure engineering — how the bug worked, why the safeguard failed — is genuinely valuable to any dev regardless of crypto.*
 **[HOOK]** "You'd skip a crypto exploit post as just another trading take — but the good ones are cold, careful write-ups of exactly how a hack worked."
 **[TEXT ON SCREEN: “the exploit write-up, not a call”]**
 `[V: a clean code diff, one highlighted line that broke everything]`
