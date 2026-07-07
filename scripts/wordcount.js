@@ -10,7 +10,7 @@ const path = require('path');
 const arg = (n, d = null) => { const i = process.argv.indexOf(`--${n}`); return i === -1 ? d : process.argv[i + 1]; };
 const RATE = 2.8;   // measured from the user's actual voice (~100 words = 36s)
 // Target band: aim 56-70 words (~20-25s). Hard max ~84 words (~30s).
-const DIR = path.join(__dirname, 'generated');
+const DIR = path.join(__dirname, 'by-lane');
 const BEAT = /^\*\*\[(HOOK|STAKES|BIG-?Q|HEAD FAKE|REHOOK|CTA)/i;
 
 function scriptsIn(file) {
@@ -28,7 +28,7 @@ function scriptsIn(file) {
   });
 }
 
-const files = fs.readdirSync(DIR).filter(f => /^batch-\d+\.md$/.test(f)).sort();
+const files = fs.readdirSync(DIR).filter(f => /\.md$/.test(f)).sort();
 const seen = new Map();
 for (const f of files) for (const s of scriptsIn(f)) {
   const k = (s.title || '').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 22);

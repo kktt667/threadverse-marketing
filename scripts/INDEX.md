@@ -15,7 +15,7 @@ The algorithm rewards consistency — batch a whole lane, post it out, then move
 | **Philosophy** — how to think, attention, focus | 6 | `scripts/by-lane/philosophy.md` |
 | **Meta** — indie, honest, anti-engagement | 4 | `scripts/by-lane/meta.md` |
 
-*(The originals also live in `scripts/generated/batch-01…09.md` — the by-lane files are the same 50, re-sorted.)*
+*(All 50 scripts live in `scripts/by-lane/` — one file per lane. Run `node scripts/wordcount.js` to check runtimes.)*
 
 ## How to use each script
 - Beats are tagged: **HOOK / STAKES / BIG-Q / HEAD FAKE / REHOOK**, with a `[V: …]` visual cue per beat.
