@@ -21,6 +21,9 @@
 
 ---
 
+
+---
+
 ## Script 02 — [STORY] Two days early · lane: ai · ~23s
 *~64 words · ~23s*
 *Delete test: still a relatable "how am I always early" story.*
@@ -33,6 +36,9 @@
 `[V: screen-record, the post with an earlier timestamp]`
 **[REHOOK]** "Now I catch myself wondering what else is already in there."
 `[V: the feed, one unread post glowing]`
+
+---
+
 
 ---
 
@@ -51,7 +57,10 @@
 
 ---
 
-## Script 05 — [VALUE] Muting words is the wrong tool · lane: ai · ~23s
+
+---
+
+## Script 04 — [VALUE] Muting words is the wrong tool · lane: ai · ~23s
 *~63 words · ~23s*
 *Delete test: still a legit UX/tooling critique.*
 **[HOOK]** "If your feed is still nothing but noise after you've muted two hundred words, then muting was always the wrong tool for the job."
@@ -66,7 +75,10 @@
 
 ---
 
-## Script 06 — [VALUE] Feeds have no input box · lane: ai · ~23s
+
+---
+
+## Script 05 — [VALUE] Feeds have no input box · lane: ai · ~23s
 *~63 words · ~23s*
 *Delete test: still a sharp interface observation.*
 **[HOOK]** "You've used feeds your entire life, and not a single one has an input box. You've literally never told it what you actually want."
@@ -81,7 +93,10 @@
 
 ---
 
-## Script 7 — The model I almost missed · lane: ai · ~22s
+
+---
+
+## Script 06 — The model I almost missed · lane: ai · ~22s
 *~62 words · ~22s*
 *Type: S · Delete test: a huge release getting buried under a louder launch's hype is a real, relatable "the best thing isn't the loudest thing" story on its own.*
 **[HOOK]** "You almost missed the best model this month — because it dropped the same week a louder launch sucked up all the air."
@@ -96,7 +111,10 @@
 
 ---
 
-## Script 08 — [VALUE] You configure everything but this · lane: ai · ~23s
+
+---
+
+## Script 07 — [VALUE] You configure everything but this · lane: ai · ~23s
 *~64 words · ~23s*
 *Delete test: still a real point about config culture.*
 **[HOOK]** "You've got dotfiles for your editor and your shell. But your feed, the thing you touch a hundred times a day, just runs on their defaults."
@@ -111,7 +129,10 @@
 
 ---
 
-## Script 8 — 100% of the code · lane: ai · ~23s
+
+---
+
+## Script 08 — 100% of the code · lane: ai · ~23s
 *~64 words · ~23s*
 *Type: V · Delete test: the Dario "AI writes all the code in a year" claim and what it actually means for a working dev is a genuine discourse worth chewing on with no product attached.*
 **[HOOK]** "A headline said AI writes all your code within a year — and your gut immediately said, no it doesn't."
@@ -126,7 +147,10 @@
 
 ---
 
-## Script 9 — The paper everyone suddenly cites · lane: ai · ~22s
+
+---
+
+## Script 09 — The paper everyone suddenly cites · lane: ai · ~22s
 *~62 words · ~22s*
 *Type: S · Delete test: the phenomenon of a research paper going from zero to cited-everywhere overnight, and the edge of reading it early, stands completely on its own.*
 **[HOOK]** "A paper nobody was mentioning on Monday is somehow in every single thread by Friday."
@@ -138,6 +162,9 @@
 `[V: screen-record, the paper with an early timestamp, pre-viral]`
 **[REHOOK]** "Which makes me wonder what's sitting in there now that becomes Friday's obvious take."
 `[V: a feed, one unread paper faintly glowing]`
+
+---
+
 
 ---
 
@@ -156,6 +183,9 @@
 
 ---
 
+
+---
+
 ## Script 11 — On-device AI moment · lane: ai · ~23s
 *~63 words · ~23s*
 *Type: S · Delete test: the real shift of a capable model running locally on your phone with nothing leaving the device — and why the hot-takes missed the point — is a solid tech story alone.*
@@ -168,6 +198,9 @@
 `[V: screen-record, the local-model post surfaced above the dunk pile]`
 **[REHOOK]** "Which reframes every 'needs a data center' take — so what else could quietly leave?"
 `[V: a feed, the quiet on-device post sitting above the noise]`
+
+---
+
 
 ---
 
@@ -186,6 +219,9 @@
 
 ---
 
+
+---
+
 ## Script 13 — The one time I was behind · lane: ai · ~23s
 *~63 words · ~23s*
 *Type: S · Delete test: "The last time I was genuinely behind, it was because I was reading takes instead of primary sources" is a real, transferable lesson.*
@@ -201,6 +237,9 @@
 
 ---
 
+
+---
+
 ## Script 14 — Following isn't knowing · lane: ai · ~23s
 *~62 words · ~22s*
 *Type: V · Delete test: "You followed people hoping for ideas and got a personality feed instead" is a sharp standalone observation about how follow-graphs actually work.*
@@ -213,6 +252,9 @@
 `[V: screen-record — a plain-English topic pulling posts from unknown handles]`
 **[REHOOK]** "Following subscribes you to a whole personality just to get maybe two percent signal."
 `[V: an unfollow tap, the feed getting sharper]`
+
+---
+
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-## Script 09 — [STORY] The exploit nobody amplified · lane: crypto · ~23s
+## Script 01 — [STORY] The exploit nobody amplified · lane: crypto · ~23s
 *~63 words · ~23s*
 *Delete test: still a genuinely wild crypto-mechanism story.*
 **[HOOK]** "A bot running seventy percent of on-chain sandwich attacks got counter-drained for seven and a half million dollars. And barely anyone actually covered it."
@@ -21,7 +21,10 @@
 
 ---
 
-## Script 34 — Crypto's real story is mechanism design · lane: crypto · ~23s
+
+---
+
+## Script 02 — Crypto's real story is mechanism design · lane: crypto · ~23s
 *~64 words · ~23s*
 *Type: V · Delete test: the argument that crypto's actual substance is mechanism design, buried under casino noise — a genuinely interesting engineering framing, no product.*
 **[HOOK]** "Strip the price off crypto for a second, and what's left is a bunch of people quietly redesigning incentives."
@@ -36,7 +39,10 @@
 
 ---
 
-## Script 35 — Under the memecoins · lane: crypto · ~23s
+
+---
+
+## Script 03 — Under the memecoins · lane: crypto · ~23s
 *~63 words · ~23s*
 *Type: S · Delete test: the observation that real tokenized-stock adoption is happening while everyone watches dog coins stands alone as a genuinely surprising trend read.*
 **[HOOK]** "You scrolled right past the real crypto story — tokenized stocks did $34 billion last month, and not one post in your feed mentioned it."
@@ -51,7 +57,10 @@
 
 ---
 
-## Script 36 — RSS was right · lane: crypto · ~23s
+
+---
+
+## Script 04 — RSS was right · lane: crypto · ~23s
 *~64 words · ~23s*
 *Type: V · Delete test: the idea that RSS had the right instinct but the wrong mechanism, now finally done properly, is a real product-thinking take that holds up with no app attached.*
 **[HOOK]** "You still miss RSS, but every reader felt dead — and here's why: it matched sources, never meaning."
@@ -66,7 +75,10 @@
 
 ---
 
-## Script 37 — Caught the thread early · lane: crypto · ~23s
+
+---
+
+## Script 05 — Caught the thread early · lane: crypto · ~23s
 *~63 words · ~23s*
 *Type: S · Delete test: the point that the best on-chain thinking is written before a price moves — and reads like engineering, not a call — is a standalone insight about where signal actually lives.*
 **[HOOK]** "You always find the good on-chain thread after it's 400 quote-tweets deep. For once, I caught one early."
@@ -81,7 +93,10 @@
 
 ---
 
-## Script 38 — Signal minus the shill · lane: crypto · ~23s
+
+---
+
+## Script 06 — Signal minus the shill · lane: crypto · ~23s
 *~65 words · ~23s*
 *Type: V · Delete test: the framing that crypto has real engineering worth reading if you strip the pump — and that most feeds can't separate the two — stands on its own as a media critique.*
 **[HOOK]** "You wrote off crypto as pure shill — honestly, fair. But you tossed some genuinely great engineering out with it, buried in all that noise."
@@ -96,7 +111,10 @@
 
 ---
 
-## Script 39 — The post-mortem, not the call · lane: crypto · ~23s
+
+---
+
+## Script 07 — The post-mortem, not the call · lane: crypto · ~23s
 *~64 words · ~23s*
 *Type: S · Delete test: an exploit post-mortem read as pure engineering — how the bug worked, why the safeguard failed — is genuinely valuable to any dev regardless of crypto.*
 **[HOOK]** "You'd skip a crypto exploit post as just another trading take — but the good ones are cold, careful write-ups of exactly how a hack worked."
@@ -111,7 +129,10 @@
 
 ---
 
-## Script 40 — Renting your own attention · lane: crypto · ~23s
+
+---
+
+## Script 08 — Renting your own attention · lane: crypto · ~23s
 *~65 words · ~23s*
 *Type: V · Delete test: without the product it's still a sharp reframe on who owns your feed — the engineer's answer to "self-custody your attention."*
 **[HOOK]** "You guard your crypto keys, but you hand your attention to a company that sells it — and never think twice."

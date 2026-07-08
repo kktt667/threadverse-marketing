@@ -6,7 +6,7 @@
 
 ---
 
-## Script 47 — Built to lose you · lane: meta · ~22s
+## Script 01 — Built to lose you · lane: meta · ~22s
 *~61 words · ~22s*
 *Type: V · Delete test: "a tool whose incentive is to be closed, not opened" is a genuine design-ethics point that stands on its own.*
 **[HOOK]** "You've honestly never used a product that actually wanted you to leave — everything you open is built to keep you."
@@ -21,7 +21,10 @@
 
 ---
 
-## Script 48 — The honest math · lane: meta · ~23s
+
+---
+
+## Script 02 — The honest math · lane: meta · ~23s
 *~62 words · ~22s*
 *Type: V · Delete test: the reframe — you already pay for signal, just badly — is a standalone spending-audit insight.*
 **[HOOK]** "You already pay every month for a better feed. You're just paying to make the noise tolerable instead of actually fixing it."
@@ -36,7 +39,10 @@
 
 ---
 
-## Script 49 — Thirty seconds, then gone · lane: meta · ~23s
+
+---
+
+## Script 03 — Thirty seconds, then gone · lane: meta · ~23s
 *~63 words · ~23s*
 *Type: S · Delete test: "catch up on a whole lane in 30 seconds then quit" is a real workflow anyone could copy manually — the value survives without the product.*
 **[HOOK]** "You don't actually need X open all day — just thirty seconds in the right lane, and then you're free."
@@ -51,7 +57,10 @@
 
 ---
 
-## Script 50 — We want you to close the app · lane: meta · ~23s
+
+---
+
+## Script 04 — We want you to close the app · lane: meta · ~23s
 *~64 words · ~23s*
 *Type: V · Delete test: "a product asking you to leave" is a genuine, arresting anti-engagement stance that stands entirely on its own.*
 **[HOOK]** "You've honestly never heard a product come out and say it: we actually want you to close the app."

@@ -6,7 +6,7 @@
 
 ---
 
-## Script 04 — [STORY] Four redundant apps · lane: gaming · ~23s
+## Script 01 — [STORY] Four redundant apps · lane: gaming · ~23s
 *~63 words · ~23s*
 *Delete test: still a relatable morning-routine story.*
 **[HOOK]** "You open five apps every single morning just for game news. I actually counted, and four of them showed me the exact same trailer."
@@ -21,7 +21,10 @@
 
 ---
 
-## Script 10 — [STORY] The double-take · lane: gaming · ~23s
+
+---
+
+## Script 02 — [STORY] The double-take · lane: gaming · ~23s
 *~64 words · ~23s*
 *Delete test: still a relatable "my feed used to be good" moment.*
 **[HOOK]** "When did your feed honestly last feel good to you? Mine made me actually double-take — no ads, no rage-bait, nothing."
@@ -45,7 +48,10 @@
 
 ---
 
-## Script 27 — Ratings-board leak · lane: gaming · ~22s
+
+---
+
+## Script 03 — Ratings-board leak · lane: gaming · ~22s
 *~63 words · ~23s*
 *Type: S · Delete test: a ratings-board filing spoiling a game before its official reveal is a real, fun leak-culture story on its own.*
 **[HOOK]** "You'll watch the big reveal next month. But a ratings board already spoiled the whole game — in a boring PDF."
@@ -60,7 +66,10 @@
 
 ---
 
-## Script 28 — Read less about games, play more · lane: gaming · ~22s
+
+---
+
+## Script 04 — Read less about games, play more · lane: gaming · ~22s
 *~64 words · ~23s*
 *Type: V · Delete test: "gaming media makes you consume more talk and play fewer games" is a sharp real paradox worth stating with no product involved.*
 **[HOOK]** "You read about games way more than you actually play them — and gaming media absolutely wants it that way."
@@ -75,7 +84,10 @@
 
 ---
 
-## Script 29 — Rebrand as a smokescreen · lane: gaming · ~22s
+
+---
+
+## Script 05 — Rebrand as a smokescreen · lane: gaming · ~22s
 *~62 words · ~22s*
 *Type: S · Delete test: a real look at studios rebranding to bury a layoff round — still a sharp media-literacy read with no product.*
 **[HOOK]** "If a studio you love suddenly 'refreshes its brand,' check the headcount before you check the new logo."
@@ -90,7 +102,10 @@
 
 ---
 
-## Script 30 — Discourse as a setting · lane: gaming · ~22s
+
+---
+
+## Script 06 — Discourse as a setting · lane: gaming · ~22s
 *~63 words · ~22s*
 *Type: V · Delete test: the idea that you can keep the news of a game drop while filtering out the fight around it — a genuinely useful mental model, product-free.*
 **[HOOK]** "Turns out you can keep the game announcements you actually want and cut all the discourse welded around them."
@@ -105,7 +120,10 @@
 
 ---
 
-## Script 31 — The gem under the AAA noise · lane: gaming · ~23s
+
+---
+
+## Script 07 — The gem under the AAA noise · lane: gaming · ~23s
 *~64 words · ~23s*
 *Type: S · Delete test: a story about a great indie getting buried by AAA marketing spend — a real dynamic every player has felt, no product needed.*
 **[HOOK]** "The best game I played this year is one I almost never saw — because two devs can't outspend Ubisoft."
@@ -120,7 +138,10 @@
 
 ---
 
-## Script 32 — Leak-to-timeline gap · lane: gaming · ~23s
+
+---
+
+## Script 08 — Leak-to-timeline gap · lane: gaming · ~23s
 *~64 words · ~23s*
 *Type: S · Delete test: the observation that leaks hit niche forums days before they hit your main feed — a real information-latency story, product incidental.*
 **[HOOK]** "You got the Metroid Prime 4 leak late, and it's not your fault — it broke somewhere your feed just skips."

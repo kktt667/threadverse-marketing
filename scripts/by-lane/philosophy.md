@@ -6,7 +6,7 @@
 
 ---
 
-## Script 07 — [STORY] The feed that ends · lane: philosophy · ~23s
+## Script 01 — [STORY] The feed that ends · lane: philosophy · ~23s
 *~64 words · ~23s*
 *Delete test: still a real story about focus + a surprising product behavior.*
 **[HOOK]** "Your feed is deliberately built to never end. Mine actually stopped after four minutes, and honestly, I thought it had broken."
@@ -21,7 +21,10 @@
 
 ---
 
-## Script 42 — The For You page isn't for you · lane: philosophy · ~23s
+
+---
+
+## Script 02 — The For You page isn't for you · lane: philosophy · ~23s
 *~64 words · ~23s*
 *Type: V · Delete test: stands alone as an incentive-design read on recommender systems — no conspiracy, just who the algorithm is built to serve.*
 **[HOOK]** "Your For You page isn't for you — and it's no conspiracy, it's just what it's built to do."
@@ -36,7 +39,10 @@
 
 ---
 
-## Script 43 — The philosophy take that reframed my week · lane: philosophy · ~24s
+
+---
+
+## Script 03 — The philosophy take that reframed my week · lane: philosophy · ~24s
 *~66 words · ~24s*
 *Type: S · Delete test: the Chesterton's-fence reframe is genuinely useful on its own — a real idea that changes how you kill things.*
 **[HOOK]** "You've deleted a feature because it looked useless — but a 100-year-old line says don't."
@@ -51,7 +57,10 @@
 
 ---
 
-## Script 44 — Attention is the scarce resource · lane: philosophy · ~24s
+
+---
+
+## Script 04 — Attention is the scarce resource · lane: philosophy · ~24s
 *~66 words · ~24s*
 *Type: V · Delete test: holds up as an economics-of-attention argument — the one budget you can't top up, spent on slop.*
 **[HOOK]** "You'll fight a £25 charge for an hour, then hand a stranger six hours of your attention."
@@ -66,7 +75,10 @@
 
 ---
 
-## Script 45 — The Anna Karenina answer · lane: philosophy · ~24s
+
+---
+
+## Script 05 — The Anna Karenina answer · lane: philosophy · ~24s
 *~66 words · ~24s*
 *Type: S · Delete test: the Anna Karenina principle applied to systems is a real, sharp idea that stands with no product attached.*
 **[HOOK]** "You keep asking why your side project failed — and honestly, that's the wrong question."
@@ -81,7 +93,10 @@
 
 ---
 
-## Script 46 — The tax you can't see · lane: philosophy · ~23s
+
+---
+
+## Script 06 — The tax you can't see · lane: philosophy · ~23s
 *~64 words · ~23s*
 *Type: V · Delete test: the 23-minute context-switch cost is a real, standalone insight about deep work — no product needed to land it.*
 **[HOOK]** "If you can't ever reach deep work, here's the thing — it's not your attention. Every feed check quietly costs you 23 minutes to climb back."
