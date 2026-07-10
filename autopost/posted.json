@@ -616,5 +616,17 @@
     "platform": "mastodon",
     "at": "2026-07-10T11:07:49.976Z",
     "url": "https://mastodon.social/@threadverse/116895362226809255"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/philosophy-inside-big-card-30.png",
+    "platform": "bluesky",
+    "at": "2026-07-10T14:35:49.410Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqceo5pfwh2d"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-1-ai-model-card-19.png",
+    "platform": "mastodon",
+    "at": "2026-07-10T14:35:49.410Z",
+    "url": "https://mastodon.social/@threadverse/116896180074012721"
   }
 ]
