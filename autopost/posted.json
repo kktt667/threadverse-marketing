@@ -688,5 +688,17 @@
     "platform": "mastodon",
     "at": "2026-07-11T02:55:22.345Z",
     "url": "https://mastodon.social/@threadverse/116899088071433880"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-28.png",
+    "platform": "bluesky",
+    "at": "2026-07-11T06:17:34.507Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqdzc5lvwb27"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-25.png",
+    "platform": "mastodon",
+    "at": "2026-07-11T06:17:34.507Z",
+    "url": "https://mastodon.social/@threadverse/116899883292652122"
   }
 ]
