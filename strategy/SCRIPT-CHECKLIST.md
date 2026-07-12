@@ -60,3 +60,19 @@
   > One contrarian/emotional/entity driver? · Product is the head fake, CTA earned? · Every beat has a visual?
 
   If all yes → ship. If any no → the checklist tells you exactly which gate to rewrite.
+
+  ---
+
+  ## Companion docs (added from the personal-branding + psychology + monetization playbooks)
+  - **PRINCIPLES.md** — the 9 operating principles above the gates (time-under-trust; topic-is-the-niche;
+    topic+take > hooks; one home platform; three quantity/quality phases; start-trends-don't-chase). Read
+    once — it's the worldview; these gates are the tactics under it.
+  - **PSYCHOLOGY.md** — the 6-checkpoint viewer journey (painpoint → trust → plan → likeability → attention →
+    action), the Trust Ladder, and delivery hacks (record one line at a time, jagged sentence rhythm). Use it
+    to *sequence* a script and to earn trust with no testimonials.
+  - **FUNNEL.md** — the Attention Conversion Funnel (Bullseye × Trust × Ramp × Offer, multiplicative) and why
+    we run only steps 1–2 in-video; the product runs 3–4 at the wall.
+
+  ### Phase note (where we are)
+  Per PRINCIPLES #7, we're in **Phase 1 (skill acquisition)**: post often, one-at-a-time (NOT batched), learn
+  between each, hold a *rising* floor — don't over-polish or chase a 10/10 yet. Reps + reading the data first.

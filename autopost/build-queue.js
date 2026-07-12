@@ -41,30 +41,94 @@ function addDays(startStr, n) {
   return base.toISOString().slice(0, 10);
 }
 
-// Load + reconcile content.json (drop deleted tiles).
+// Load + reconcile content.json (drop deleted IMAGE tiles; keep text-only entries that have no tile).
 let content = JSON.parse(fs.readFileSync(path.join(ROOT, 'library', 'content.json'), 'utf8'));
 const beforeN = content.length;
-content = content.filter(c => c.tile && fs.existsSync(path.join(ROOT, c.tile)));
+content = content.filter(c => !c.tile || fs.existsSync(path.join(ROOT, c.tile)));
 if (content.length !== beforeN) {
   fs.writeFileSync(path.join(ROOT, 'library', 'content.json'), JSON.stringify(content, null, 2));
   console.log(`ℹ️  reconciled: removed ${beforeN - content.length} deleted tiles`);
 }
 
+// Merge in TEXT-ONLY takes (no image). Author them in library/text-takes.json:
+//   [{ caption, topic, platforms?: ["bluesky","mastodon","x"], score? }]
+// If platforms omitted, the take is fanned out to all three. These pass the same anti-regurgitation
+// bar as captions (HOOKS.md) — a sharp take with no image often outperforms a tile.
+// Per-platform LANE MIX targets (see NICHE.md). Defined here so text-take fan-out can respect them.
+// Bluesky rides gaming (winning); Mastodon leads AI/science. A lane at 0 = don't post it there.
+const LANE_MIX = {
+  bluesky:  { gaming: 0.60, ai: 0.20, science: 0.10, philosophy: 0.10, crypto: 0.00 },
+  mastodon: { ai: 0.40, science: 0.30, philosophy: 0.20, gaming: 0.05, crypto: 0.05 },
+  x:        { ai: 0.45, science: 0.25, crypto: 0.20, gaming: 0.05, philosophy: 0.05 },
+};
+const laneWanted = (platform, topic) => ((LANE_MIX[platform] || {})[topic] || 0) > 0;
+
+const textTakesPath = path.join(ROOT, 'library', 'text-takes.json');
+if (fs.existsSync(textTakesPath)) {
+  const raw = JSON.parse(fs.readFileSync(textTakesPath, 'utf8'));
+  let added = 0;
+  for (const t of raw) {
+    if (!t.caption || !t.topic) continue;
+    // fan out ONLY to platforms where this lane has a target > 0 (respect the per-platform mix)
+    const plats = (t.platforms && t.platforms.length ? t.platforms : PLATFORMS)
+      .filter(p => laneWanted(p, t.topic));
+    for (const p of plats) {
+      content.push({ platform: p, topic: t.topic, caption: t.caption, tile: null, format: 'text', score: t.score || 6, sourceUrl: t.sourceUrl || null, category: t.category || null });
+      added++;
+    }
+  }
+  if (added) console.log(`📝 merged ${added} text-only takes (lane-aware fan-out)`);
+}
+
 const postedPath = path.join(__dirname, 'posted.json');
 const posted = fs.existsSync(postedPath) ? JSON.parse(fs.readFileSync(postedPath, 'utf8')) : [];
 const postedTiles = new Set(posted.map(p => p.tile));
+// text-only dedup: key by caption+platform (posted.json stores tile:null for these)
+const postedText = new Set(posted.filter(p => !p.tile).map(p => (p.caption || '').replace(/\s+/g, ' ').trim().slice(0, 50) + '|' + p.platform));
 
+// The queue is filled to roughly LANE_MIX ratios (defined above) so each platform's fingerprint stays
+// consistent to ITSELF. Bluesky rides gaming (winning); Mastodon leads AI/science.
 const queue = [];
 for (const platform of PLATFORMS) {
-  let pool = content.filter(c => c.platform === platform && !postedTiles.has(c.tile) && c.tile && c.caption);
+  let pool = content.filter(c => c.platform === platform && c.caption
+    && (c.tile ? !postedTiles.has(c.tile)
+               : !postedText.has(c.caption.replace(/\s+/g, ' ').trim().slice(0, 50) + '|' + platform)));
   pool.sort((a, b) => (priority(a) - priority(b)) || ((b.score || 0) - (a.score || 0)));
+
+  // Weighted interleave: draw topics in proportion to LANE_MIX, and CAP each lane at its target share of
+  // the run so off-target surplus (e.g. extra gaming on Mastodon) is dropped, not dumped. This keeps each
+  // platform's fingerprint clean even when the library is lane-imbalanced. Dropped surplus just waits for
+  // a future run (more slots) or gets balanced by adding text-takes in the under-supplied lane.
+  const mix = LANE_MIX[platform] || null;
+  const byTopic = {};
+  for (const c of pool) (byTopic[c.topic] = byTopic[c.topic] || []).push(c);
   const ordered = [];
-  const recent = [];
-  while (pool.length) {
-    let idx = pool.findIndex(c => !recent.slice(-2).includes(c.topic));
-    if (idx === -1) idx = 0;
-    const pick = pool.splice(idx, 1)[0];
-    ordered.push(pick); recent.push(pick.topic);
+  if (mix) {
+    const capacity = DAYS * PER_DAY;                     // how many slots this platform actually has
+    const runTotal = Math.min(pool.length, capacity);
+    // per-lane cap = target share of the run, rounded up so small lanes still get ≥1; 0-target lanes = 0.
+    const cap = {}; Object.keys(mix).forEach(t => (cap[t] = mix[t] > 0 ? Math.max(1, Math.round(mix[t] * runTotal)) : 0));
+    const taken = {}; Object.keys(mix).forEach(t => (taken[t] = 0));
+    const credit = {}; Object.keys(mix).forEach(t => (credit[t] = 0));
+    const recent = [];
+    while (ordered.length < runTotal) {
+      Object.keys(mix).forEach(t => (credit[t] += mix[t]));
+      // eligible = lane has stock, is under its cap, and wasn't the immediately-previous topic
+      const eligible = t => (byTopic[t] || []).length && taken[t] < cap[t];
+      let cand = Object.keys(credit).filter(t => eligible(t) && !recent.slice(-1).includes(t)).sort((a, b) => credit[b] - credit[a]);
+      if (!cand.length) cand = Object.keys(credit).filter(eligible).sort((a, b) => credit[b] - credit[a]);
+      if (!cand.length) break;                           // every wanted lane is capped or dry → stop (drop surplus)
+      const t = cand[0];
+      ordered.push(byTopic[t].shift()); credit[t] -= 1; taken[t]++; recent.push(t);
+    }
+  } else {
+    const recent = [];
+    while (pool.length) {
+      let idx = pool.findIndex(c => !recent.slice(-2).includes(c.topic));
+      if (idx === -1) idx = 0;
+      const pick = pool.splice(idx, 1)[0];
+      ordered.push(pick); recent.push(pick.topic);
+    }
   }
   let i = 0;
   for (let day = 0; day < DAYS && i < ordered.length; day++) {
@@ -72,7 +136,7 @@ for (const platform of PLATFORMS) {
     for (let slot = 0; slot < PER_DAY && i < ordered.length; slot++) {
       const c = ordered[i++];
       const caption = withHashtags(c.caption, { topic: c.topic, format: c.format, category: c.category }, platform);
-      queue.push({ date, timeUTC: SLOTS[slot % SLOTS.length], platform, tile: c.tile, caption, title: c.title, format: c.format, topic: c.topic, priority: priority(c), sourceUrl: c.sourceUrl || null });
+      queue.push({ date, timeUTC: SLOTS[slot % SLOTS.length], platform, tile: c.tile || null, caption, title: c.title || (c.caption || '').slice(0, 48), format: c.format, topic: c.topic, priority: priority(c), sourceUrl: c.sourceUrl || null });
     }
   }
 }

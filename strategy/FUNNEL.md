@@ -54,3 +54,38 @@ Do NOT convert these into "upgrade" CTAs. Their power is that they're not.
 ## The one rule
 Short-form = get them in free. The product + warm channels = get them to pay. Never collapse those two,
 or you lose the reach that fills the funnel in the first place.
+
+---
+
+## The Attention Conversion Funnel (the model behind the relay)
+The relay above is *our* staging. Underneath it is the general model — **four steps that MULTIPLY**: if any is
+a zero, conversion is zero. This is why <10k-follower accounts can out-earn million-follower ones, and vice versa.
+
+```
+BULLSEYE SIGNAL  ×  TRUST  ×  CLEAR RAMP  ×  ALIGNED OFFER  =  conversion
+```
+
+1. **Bullseye signal** — the viewer thinks *"that's exactly my problem"* or *"that's exactly what I want."* If the
+   video buckets as *entertainment* or *irrelevant* instead of *potential solution*, it's a junk-food view — no
+   dollars. → Ours: signal the avatar's pain fast (drowning in feeds / missing what matters), get *specific*, use
+   "you," name the emotion, hint the after-state. The biggest killer is **confusion** — if they can't parse it in
+   1–2 lines, they default-bucket it *irrelevant*.
+2. **Trust** — see the Trust Ladder in PSYCHOLOGY.md. Trust is a **bank**: every non-obvious, correct, useful
+   thing deposits a coin; rungs near the top (proof/audience/warm cosign) are worth ~40–50 coins, the bottom
+   (a stat, studio quality) worth ~1–5. → Ours: we bank via *craft + genuinely-correct value* (rungs 5–6) until
+   we have audience/testimonials.
+3. **Clear ramp (off-ramp)** — content is a highway; without an exit to something they can act on, they blow past.
+   Three ramp types: **lead magnet** (free, lowest-friction, captures email — the favorite), **sales page**
+   (low-ticket or high-trust), **call/DM** (high-ticket). Tighter ramp↔content alignment = more people take it.
+   → **Ours:** the ramp is *bio + pinned comment → free signup*. Our closest thing to a lead magnet is **the free
+   tier itself** (email captured at signup). We deliberately keep the video with **no in-video ramp** to Pro
+   (Gate 4); the ramp is soft and lives off-video.
+4. **Aligned offer** — whether they buy = one calc: *"if I hand over the money, how likely am I to get the
+   promised result?"* Two levers only: **price** (↑ = ↑risk) and **trust** (↑ = ↓risk). Every offer has a **flip
+   point** where price outruns perceived reward. More banked trust lets you price higher before the flip.
+   → **Ours:** the offer is **Pro £25/mo**, and the product's own wall makes it (not us). Our whole upstream job is
+   to bank enough trust + get the free signup so that at the wall, £25-for-all-platforms sits *below* the flip
+   point. Framing helps: £25 vs (ChatGPT + X Premium + …) de-risks by comparison (Script 48, kept as insight not pitch).
+
+**The takeaway for the videos:** our lever is steps 1–2 (signal the avatar's pain + bank trust). We intentionally
+*don't* run steps 3–4 in-video — the product runs them at the wall. Getting steps 1–2 right on volume is the job.

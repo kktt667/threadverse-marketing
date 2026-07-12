@@ -54,3 +54,20 @@ Each script includes `[VISUAL: …]` cues per beat so visuals can be generated p
 - One unresolved question always running — no dead air, no "anyway".
 - Vary the ANGLE every script (see angles.md) so 50 never feel same-y.
 - End earned, not begged. The CTA is the natural next step, not a pitch.
+
+## Delivery & production hacks (from the psychology playbook — apply when filming/VO)
+- **Record one line at a time.** Talking in paragraphs makes you trail off and lose energy at sentence-ends.
+  Deliver each line at full energy, chop together in the edit. Single biggest energy lever. (Energy is
+  contagious — mirror neurons; bring delivery up ~50% vs. how you'd read it flat.)
+- **Trance rhythm — want a JAGGED right margin.** Vary sentence length: short, then long, then compound.
+  If every sentence is the same length the script reads monotone → churn. Glance down the script; if the
+  line-ends form a straight edge, break it up.
+- **Say the technical thing twice** — once precisely, once plain + a metaphor. Raises comprehension →
+  likeability (they feel smart). (This is also the fix for misfires like "cache vs filter": say "filtering,
+  done by hand" then the plain-English restatement.)
+- **Lead with the single best item first** (the "hunt"): front-load the most valuable/surprising thing to
+  validate staying, then tease more buried later ("stay to the end — one's about to be worth a trillion").
+
+> The viewer's brain moves through 6 checkpoints (pain → trust → plan → like → attention → action) — see
+> **PSYCHOLOGY.md**. This 4-step loop is the engine for checkpoint 5 (attention). The 9 operating principles
+> behind all of it are in **PRINCIPLES.md**.

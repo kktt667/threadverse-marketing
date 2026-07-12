@@ -1,8 +1,16 @@
 # AI — model releases, breakthroughs, the discourse
 
-15 scripts · ~20-25s · all pass 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
+15 scripts · 24-30s (honest, at 2.8 w/s — run `node scripts/wordcount.js`) · all pass the 6-gate audit · rehooks open a loop (no CTA — link lives in bio). Batch this lane before the next.
 
 **Text on screen:** `[TEXT ON SCREEN: …]` = the ONE big line for the first 1-2s. Also turn on CapCut Auto-captions. `[V: …]` = visual per beat; `[V: screen-record …]` = film the app (pro session).
+
+**Writing standard (scripts 06+ rebuilt to this — see strategy/PSYCHOLOGY.md):**
+- **Hook = painpoint-first**, "you"-framed, twists the knife in line 1 (checkpoints 1–3 compressed). No "I/me" lead.
+- **Jagged rhythm** — deliberately alternate short punchy sentences with longer ones. Never a straight right margin.
+- **Say-it-twice** on any technical idea — once precise, once plain (raises comprehension → trust).
+- **Trust = the value being genuinely non-obvious + correct** (our only trust rung right now; don't over-claim).
+- **Delivery:** record one line at a time for energy; chop together after.
+- Product stays **ambient** (Gate 4), named ≤once; the rehook **reopens** a loop, never closes into a pitch.
 
 ---
 
@@ -96,177 +104,167 @@
 
 ---
 
-## Script 06 — The model I almost missed · lane: ai · ~22s
-*~62 words · ~22s*
-*Type: S · Delete test: a huge release getting buried under a louder launch's hype is a real, relatable "the best thing isn't the loudest thing" story on its own.*
-**[HOOK]** "You almost missed the best model this month — because it dropped the same week a louder launch sucked up all the air."
-**[TEXT ON SCREEN: “the best model got buried”]**
-`[V: a release note scrolling past, drowned by a wall of hype posts]`
-**[BIG-Q]** "Here's the thing — the release that actually changes your work usually ships quiet. So how do you catch it?"
-`[V: two launches side by side, one screaming, one silent]`
-**[HEAD FAKE]** "Turns out one feed I use ranks by signal, and it pushed the quiet one up top."
-`[V: screen-record, the quiet release surfaced above trending noise]`
-**[REHOOK]** "Which makes me wonder what else got buried that I never even saw."
-`[V: a feed, one dim post quietly climbing to the top]`
+## Script 06 — Being early is a status game · lane: ai · ~28s
+*Edge: HARD (indicts the viewer's ego) · Type: V · Delete test: "wanting to be *seen* being first ≠ wanting to be informed" is a sharp, uncomfortable observation about tech culture with no product attached.*
+**[HOOK]** "You don't actually want the news first. You want to be *seen* getting it first. Two very different addictions."
+**[TEXT ON SCREEN: “‘being early’ is a flex, not a need”]**
+`[V: someone racing to quote-tweet a release, timestamp 12 seconds after it dropped]`
+**[BIG-Q]** "Be honest — when you rush to post the take, are you informing anyone? Or farming the hit of being early?"
+`[V: a reply guy's notification count ticking up, eyes lighting up]`
+**[HEAD FAKE]** "Here's the tell: the people actually ahead aren't posting. They read the quiet release, understood it, moved on. No thread."
+`[V: a calm dev closing a tab while the timeline scrambles behind them]`
+**[REHOOK]** "So maybe the flex was never being early. It's being the one who didn't need everyone to know."
+`[V: a drafted quote-tweet, then the delete button]`
 
 ---
 
 
 ---
 
-## Script 07 — [VALUE] You configure everything but this · lane: ai · ~23s
-*~64 words · ~23s*
-*Delete test: still a real point about config culture.*
-**[HOOK]** "You've got dotfiles for your editor and your shell. But your feed, the thing you touch a hundred times a day, just runs on their defaults."
-**[TEXT ON SCREEN: “you configure everything but this”]**
-`[V: a dotfiles screen, then a feed with no settings]`
-**[BIG-Q]** "Every single tool you actually respect is configurable. So why does a feed only ever ship with defaults?"
-`[V: a settings page with one useless toggle]`
-**[HEAD FAKE / ambient]** "The one I use takes a single plain sentence and then enforces it everywhere."
-`[V: screen-record — writing the 'config line', feed obeys]`
-**[REHOOK]** "After that, a default feed just feels like something you borrowed."
-`[V: a clean, self-configured feed]`
+## Script 07 — A tuned feed is just a nicer echo chamber · lane: ai · ~28s
+*Edge: SIDEWAYS (attacks the sacred cow of "curate your feed") · Type: V · Delete test: "customizing your feed to only what you like is building a prettier bubble" is a genuine, debatable critique of curation culture.*
+**[HOOK]** "Curating your feed doesn't make you informed. It makes you comfortable. Those are opposites."
+**[TEXT ON SCREEN: “your ‘curated’ feed is a bubble”]**
+`[V: a feed being tuned, walls slowly closing in around it into a cozy little box]`
+**[BIG-Q]** "Every mute, every unfollow — you're sanding off whatever disagrees with you. So when does a filter become a mirror?"
+`[V: a mirror where the feed should be, nodding back at you]`
+**[HEAD FAKE / ambient]** "Tune your feed to only people you agree with and you've built a tasteful echo chamber. The one feed I use flips it — you ask for the *side you disagree with*, on purpose."
+`[V: screen-record — a plain-English request asking for the opposing view, dissent surfacing]`
+**[REHOOK]** "Turns out the fix for a bubble was never curation. It was asking for the argument you'd rather avoid."
+`[V: one dissenting post surfacing to the top of the feed]`
 
 ---
 
 
 ---
 
-## Script 08 — 100% of the code · lane: ai · ~23s
-*~64 words · ~23s*
-*Type: V · Delete test: the Dario "AI writes all the code in a year" claim and what it actually means for a working dev is a genuine discourse worth chewing on with no product attached.*
-**[HOOK]** "A headline said AI writes all your code within a year — and your gut immediately said, no it doesn't."
-**[TEXT ON SCREEN: “AI writes 100% of your code?”]**
-`[V: the Dario claim as a big pull-quote, dev squinting at it]`
-**[BIG-Q]** "Everyone screenshotted the number and skipped the sentence around it. So does it replace you, or level you up?"
-`[V: text: "100%… of what, exactly?"]`
-**[HEAD FAKE]** "Read in context, it means you stop typing and start reviewing — judgment, not keystrokes."
-`[V: a diff where the human is approving, not writing]`
-**[REHOOK]** "Which flips the whole thing — the edge left is knowing what's even worth building."
-`[V: a cursor hovering over 'approve', then pulling back to think]`
+## Script 08 — If AI coding scares you, you were the typing · lane: ai · ~29s
+*Edge: HARD (indicts the viewer's value) · Type: V · Delete test: "the panic about AI writing code is really a panic that some devs only ever added typing" is a brutal, defensible take on the discourse — no product.*
+**[HOOK]** "AI writing all your code shouldn't scare you. If it does, you might be the one who was only ever paid to type."
+**[TEXT ON SCREEN: “‘AI writes your code’ scares the wrong people”]**
+`[V: the Dario claim as a pull-quote, two devs reacting — one calm, one sweating]`
+**[BIG-Q]** "A senior hears it and thinks *finally.* A certain dev panics. So which are you — and why?"
+`[V: two chat bubbles: 'great' vs 'we're cooked']`
+**[HEAD FAKE]** "Because writing code was never the job. Deciding what's worth building was. If a model typing threatens you, typing was your whole moat."
+`[V: a diff where the human is approving, not writing — then closing the laptop, thinking]`
+**[REHOOK]** "So the real question isn't whether AI takes your job. It's whether you were ever doing the part it can't."
+`[V: a cursor hovering over 'approve', then pulling back]`
 
 ---
 
 
 ---
 
-## Script 09 — The paper everyone suddenly cites · lane: ai · ~22s
-*~62 words · ~22s*
-*Type: S · Delete test: the phenomenon of a research paper going from zero to cited-everywhere overnight, and the edge of reading it early, stands completely on its own.*
-**[HOOK]** "A paper nobody was mentioning on Monday is somehow in every single thread by Friday."
-**[TEXT ON SCREEN: “i read it a week early”]**
-`[V: the same arXiv title reposted across a dozen threads]`
-**[BIG-Q]** "Show up late and you're arguing the abstract while everyone else cites page seven. So how do you find it first?"
-`[V: a citation count going vertical]`
-**[HEAD FAKE]** "It surfaced in one feed I use a full week early, because it matched what I actually care about."
-`[V: screen-record, the paper with an early timestamp, pre-viral]`
-**[REHOOK]** "Which makes me wonder what's sitting in there now that becomes Friday's obvious take."
-`[V: a feed, one unread paper faintly glowing]`
+## Script 09 — Reading it early was worthless · lane: ai · ~28s
+*Edge: SIDEWAYS (attacks the "be early" sacred cow the whole lane worships) · Type: V · Delete test: "reading a paper first but shallow beats nothing — the person who understood it Friday won" is a real contrarian jab at speed-culture.*
+**[HOOK]** "You read the paper a week early. It did nothing for you — you skimmed it, and the Friday crowd actually understood it."
+**[TEXT ON SCREEN: “being early ≠ being right”]**
+`[V: a smug 'read it Monday' post, next to a Friday reply dismantling it]`
+**[BIG-Q]** "Early is a vanity metric. The person quoting page seven read it *closely*. So who actually won that week?"
+`[V: two readers — one racing through pages, one on a single page taking notes]`
+**[HEAD FAKE]** "Speed only counts if you slow down when it matters. A week's head start buys nothing if you spent it skimming for a hot take."
+`[V: a paper with only the abstract highlighted vs one marked up cover to cover]`
+**[REHOOK]** "So the flex isn't reading it first. It's being the person still right about it a month later."
+`[V: an old thread aging badly, one careful take still holding up]`
 
 ---
 
 
 ---
 
-## Script 10 — 95% noise is a filter gap · lane: ai · ~23s
-*~64 words · ~23s*
-*Type: V · Delete test: the idea that a noisy feed is a filtering failure, not an inevitable law of the internet, is a genuinely reframing thought with no product needed.*
-**[HOOK]** "You treat your feed being ninety-five percent noise like it's weather — something you just endure. It isn't."
-**[TEXT ON SCREEN: “95% noise isn't weather”]**
-`[V: a feed scrolling, 19 junk posts for every 1 good one]`
-**[BIG-Q]** "We all accepted 'garbage feed' as basically physics. But signal is solvable — so why did nobody actually try?"
-`[V: text: "noise = law, or gap?"]`
-**[HEAD FAKE]** "Turns out it's a gap, not a law. One feed I use lets you just describe the signal you want."
-`[V: screen-record, a plain-English filter cutting a wall of noise to a handful]`
-**[REHOOK]** "Which makes 'the algorithm' less of a villain and more of a convenient excuse."
-`[V: the junk half of the feed dissolving, leaving the signal]`
+## Script 10 — You call everything you dislike 'noise' · lane: ai · ~28s
+*Edge: HARD (indicts the viewer's taste) · Type: V · Delete test: "'noise' is often just the stuff that challenged you — the real filter problem is your own taste" is an uncomfortable, standalone reframe.*
+**[HOOK]** "Your feed isn't ninety-five percent noise. You just started calling everything you didn't want to hear 'noise.'"
+**[TEXT ON SCREEN: “‘noise’ is a taste problem”]**
+`[V: a hand swiping away posts labeled 'noise' — half are actually good, dissenting takes]`
+**[BIG-Q]** "Some of that 'garbage' was a real critique of something you like. So is the feed broken — or just showing you things you'd rather avoid?"
+`[V: a post that disagrees with you, tagged 'noise' and flicked away]`
+**[HEAD FAKE / ambient]** "A perfect filter just builds a room where nothing pushes back. The one feed I use does the opposite — it shows you the pile it cut, so you can check what you called noise."
+`[V: screen-record — the reject pile open, scrolling the filtered-out posts]`
+**[REHOOK]** "And half the time, the thing you'd have muted is the one you needed to sit with."
+`[V: a rescued post pulled back out of the reject pile]`
 
 ---
 
 
 ---
 
-## Script 11 — On-device AI moment · lane: ai · ~23s
-*~63 words · ~23s*
-*Type: S · Delete test: the real shift of a capable model running locally on your phone with nothing leaving the device — and why the hot-takes missed the point — is a solid tech story alone.*
-**[HOOK]** "You scrolled right past 'Nano runs on your phone' — but the AI just quietly left the cloud."
-**[TEXT ON SCREEN: “AI just left the cloud”]**
-`[V: a phone running a model fully offline, airplane mode on]`
-**[BIG-Q]** "The hot-takes said 'it's slower' and completely missed it. So what changes when nothing leaves the phone at all?"
-`[V: a network monitor showing zero outbound while the model works]`
-**[HEAD FAKE]** "Privacy and latency flip at the same time — and I only caught it because one feed I use surfaced it."
-`[V: screen-record, the local-model post surfaced above the dunk pile]`
-**[REHOOK]** "Which reframes every 'needs a data center' take — so what else could quietly leave?"
-`[V: a feed, the quiet on-device post sitting above the noise]`
+## Script 11 — On-device AI is not a privacy win · lane: ai · ~29s
+*Edge: SIDEWAYS (attacks the "local = private" consensus) · Type: V · Delete test: "moving AI onto your phone moved the surveillance onto hardware you can't audit — not obviously better" is a genuinely contrarian tech take.*
+**[HOOK]** "Everyone cheered 'AI runs on your phone now, finally private.' It's not. You just volunteered to host the thing watching you."
+**[TEXT ON SCREEN: “on-device AI isn’t private”]**
+`[V: a phone glowing, a little eye icon quietly baked into the silicon]`
+**[BIG-Q]** "In the cloud you could see the traffic leave. On-device it reads everything and sends *nothing* — so how would you catch it?"
+`[V: a network monitor at zero, while the model silently indexes your screen]`
+**[HEAD FAKE]** "'Nothing leaves' isn't a guarantee. It's the perfect alibi. No packets to inspect, no proof of what it saw."
+`[V: a sealed black box labeled 'local', no wires in or out]`
+**[REHOOK / ambient]** "So it's not cloud versus phone. It's whether the thing reading for you shows its work — the one feed I trust shows every post it kept *and* cut."
+`[V: screen-record — the feed's kept-vs-rejected view, nothing hidden]`
 
 ---
 
 
 ---
 
-## Script 12 — Too powerful to release · lane: ai · ~23s
-*~64 words · ~23s*
-*Type: V · Delete test: The pattern "we can't show you the scary thing, trust us" being a marketing move works as media literacy on its own.*
-**[HOOK]** "A model 'too dangerous to release'? That's not fear talking — your reaction is the whole ad."
-**[TEXT ON SCREEN: “'too dangerous to release' = an ad”]**
-`[V: text on screen — "too dangerous to release" with a little price tag sticker on it]`
-**[BIG-Q]** "You can't test it, you can't verify it, so ask yourself — who does that actually serve?"
-`[V: a blurred-out demo, "REDACTED" over the interesting part]`
-**[HEAD FAKE]** "The models that actually mattered broke in public, so I trust what my feed watched people break."
-`[V: screen-record — thread of people breaking a freshly-released model]`
-**[REHOOK]** "The scary model isn't the one they hid. It's the boring one you're already running."
-`[V: an unremarkable model card, tons of downloads ticking up]`
+## Script 12 — The dunkers would ship it in a heartbeat · lane: ai · ~29s
+*Edge: SIDEWAYS (defends the unpopular side — flips the easy cynicism) · Type: V · Delete test: "the crowd calling safety-gating 'just marketing' would absolutely ship the scary thing for a funding round" is a spicy, defensible take that turns on the audience's own cynicism.*
+**[HOOK]** "Everyone dunking on 'too dangerous to release' as fake marketing — you'd ship that exact model for a Series B. Don't lie."
+**[TEXT ON SCREEN: “you’d release it. that’s the point.”]**
+`[V: a wall of 'it's just marketing 🙄' quote-tweets]`
+**[BIG-Q]** "The reflex is 'they're bluffing.' Maybe. But the harder question — would *you* hold a model back if releasing it printed money?"
+`[V: a founder's hand hovering between 'ship it' and a funding number]`
+**[HEAD FAKE]** "That's what's uncomfortable. A *lie* and the *truth* look identical from outside — and the loudest cynics have the weakest reason to hold back."
+`[V: two identical locked boxes — one labeled 'bluff', one 'real', no way to tell]`
+**[REHOOK]** "So the tell isn't the claim. It's who's making it — and what they'd do once the money got big enough."
+`[V: the price tag on the box slowly climbing]`
 
 ---
 
 
 ---
 
-## Script 13 — The one time I was behind · lane: ai · ~23s
-*~63 words · ~23s*
-*Type: S · Delete test: "The last time I was genuinely behind, it was because I was reading takes instead of primary sources" is a real, transferable lesson.*
-**[HOOK]** "You're the sharp one who's always early — so here's the one time I got blindsided."
-**[TEXT ON SCREEN: “the one time i got blindsided”]**
-`[V: me, mid-standup, that half-second face when you realize you missed something]`
-**[BIG-Q]** "I confidently repeated a wrong hot take. So how do you stop mistaking volume for truth?"
-`[V: a wall of quote-tweets, all reacting, none linking the source]`
-**[HEAD FAKE]** "Turns out I had it backwards — one feed surfaces the source before all the noise."
-`[V: screen-record — the original release note surfaced above the reaction pile]`
-**[REHOOK]** "I was never actually behind on the news. I was just early to everyone's opinions."
-`[V: the takes collapsing down, one source post left standing]`
+## Script 13 — Staying informed is a way to avoid thinking · lane: ai · ~29s
+*Edge: HARD (indicts the avatar's core self-image) · Type: V · Delete test: "consuming endless takes is how smart people avoid forming their own — reading feels like thinking but isn't" is a genuinely provocative standalone thesis.*
+**[HOOK]** "'Staying informed' is how smart people avoid thinking. You read forty takes so you never risk one of your own."
+**[TEXT ON SCREEN: “consuming takes ≠ thinking”]**
+`[V: someone inhaling a wall of hot-takes, nodding, forming zero opinions]`
+**[BIG-Q]** "It feels like progress. So why do you finish a two-hour scroll unable to name one thing *you* concluded?"
+`[V: a full 'read' history, an empty 'my take' box blinking]`
+**[HEAD FAKE]** "Because absorbing other people's conclusions is comfortable. Borrowed certainty. Deciding what *you* think is the only part that compounds."
+`[V: two piles: a mountain of screenshots vs one hand-written line]`
+**[REHOOK]** "So the goal was never to read more. It's to read less and have room to think. When did you last close the app and sit?"
+`[V: the feed closing, a blank notes page, a cursor waiting]`
 
 ---
 
 
 ---
 
-## Script 14 — Following isn't knowing · lane: ai · ~23s
-*~62 words · ~22s*
-*Type: V · Delete test: "You followed people hoping for ideas and got a personality feed instead" is a sharp standalone observation about how follow-graphs actually work.*
-**[HOOK]** "You followed 800 people for their ideas, not for them — and that's exactly why your feed's useless now."
-**[TEXT ON SCREEN: “following 800 people ruined your feed”]**
-`[V: a following count spinning up past 800, feed getting noisier behind it]`
-**[BIG-Q]** "You wanted the idea, not the person. So why is the whole thing built around who?"
-`[V: text — "who ≠ what"]`
-**[HEAD FAKE]** "So I flipped it — I describe the idea, and AI pulls it from whoever posted it, usually strangers."
+## Script 14 — You broke your own feed · lane: ai · ~29s
+*Edge: HARD (blames the viewer, not the platform) · Type: V · Delete test: "your feed shows you exactly what you trained it to — you did this" is a real accountability flip on 'the algorithm ruined my feed'.*
+**[HOOK]** "Stop blaming the algorithm. You broke your own feed — you followed eight hundred people for a dopamine hit and called it 'research.'"
+**[TEXT ON SCREEN: “you did this to your feed”]**
+`[V: a follow-spree, 'follow' tapped 800 times, the feed rotting in real time]`
+**[BIG-Q]** "It's giving you exactly what you asked for. Every follow was a vote. So why are you mad it counted?"
+`[V: 800 tiny votes stacking into a wall of noise]`
+**[HEAD FAKE / ambient]** "You didn't want those people. You wanted the *ideas* they occasionally had. So I stopped following — the one feed I use lets you describe the idea, and pulls it from whoever posted."
 `[V: screen-record — a plain-English topic pulling posts from unknown handles]`
-**[REHOOK]** "Following subscribes you to a whole personality just to get maybe two percent signal."
-`[V: an unfollow tap, the feed getting sharper]`
+**[REHOOK]** "So the fix was never a better algorithm. It's admitting you followed *who* when you only wanted *what*."
+`[V: an unfollow cascade, the feed sharpening as it empties]`
 
 ---
 
 
 ---
 
-## Script 15 — The buried benchmark · lane: ai · ~24s
-*~66 words · ~24s*
-*Type: S · Delete test: "The model that quietly beat the benchmark got ignored while the one with the launch video got headlines" is a real critique of how AI news is driven by marketing, not results.*
-**[HOOK]** "You saw the model with the slick launch video. You completely missed the one that quietly beat it."
-**[TEXT ON SCREEN: “the model that quietly won”]**
-`[V: a flashy launch trailer next to a plain GitHub release with no fanfare]`
-**[BIG-Q]** "Best and loudest are never the same thing — so how many real wins just die unseen?"
-`[V: HN page two, a benchmark post sitting at 6 points]`
-**[HEAD FAKE]** "My feed ranks by signal instead of volume, so it surfaced the quiet one right beside the trailer."
-`[V: screen-record — the buried benchmark post surfaced beside the hyped launch]`
-**[REHOOK]** "Now I read the boring releases first, because the loud trailers are usually compensating for something."
-`[V: the launch trailer paused, the plain release scrolling up past it]`
+## Script 15 — The benchmark winner deserved to lose · lane: ai · ~29s
+*Edge: SIDEWAYS (defends marketing — contrarian to the dev's 'results should speak for themselves' creed) · Type: V · Delete test: "if you can't be bothered to explain your win, you don't deserve to be found — 'results speak for themselves' is a cope" is a spicy inversion of dev culture.*
+**[HOOK]** "That model that quietly beat the benchmark and got ignored? It deserved it. 'Results speak for themselves' is a cope."
+**[TEXT ON SCREEN: “results don’t speak. you do.”]**
+`[V: a plain GitHub release with a great number and zero readme, tumbleweed]`
+**[BIG-Q]** "Devs love the myth that good work gets found on merit. So why does the team with a launch video keep eating the one without?"
+`[V: a polished thread crushing it, a bare repo at 6 points]`
+**[HEAD FAKE]** "Because shipping the result is half the job. Making people *understand* it is the other half — skip that and it's not purity, it's laziness."
+`[V: two identical scores — one with a story, one silent, only one getting cited]`
+**[REHOOK]** "So maybe the quiet genius isn't overlooked. He just never learned that shipping includes being understood."
+`[V: the bare repo, a blank README cursor blinking, unwritten]`

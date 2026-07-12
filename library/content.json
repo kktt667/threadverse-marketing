@@ -7,7 +7,7 @@
     "score": 9,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-31.png",
     "hook": "The US-China frontier model gap is down to 2.7%",
-    "caption": "Stanford's 2026 AI Index says the US-China frontier gap has effectively closed, down to ~2.7% and Chinese models now trade the lead. The race you thought was settled isn't. The stuff my feed keeps.",
+    "caption": "Stanford's 2026 AI Index puts the US-China frontier gap at ~2.7%. The interesting part isn't that China caught up. It's that a 2.7% gap means \"frontier\" is now a rounding error, and your model choice is a licensing and price decision, not a capability one.",
     "stance": "The US lead in frontier models is basically a rounding error now.",
     "triggers": [
       "Stanford HAI",
@@ -25,8 +25,8 @@
     "format": "tabloid",
     "score": 9,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-04.png",
-    "hook": "Anthropic says its new model is too dangerous to release",
-    "caption": "Anthropic says Mythos is too dangerous to ship freely — so it's teaming with rivals to secure it. A lab holding back its own model is the story of the year. Found before the timeline.",
+    "hook": "\"Too dangerous to release\" is a marketing move",
+    "caption": "Anthropic won't ship Mythos alone — it's handing rivals the keys to secure it. The incentive is the story: a lab that shares its scariest model has decided a leak now costs more than a head start is worth.",
     "stance": "The scariest AI headline isn't a leak — it's a lab refusing to release.",
     "triggers": [
       "Anthropic",
@@ -44,8 +44,8 @@
     "format": "splitProof",
     "score": 9,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-17.png",
-    "hook": "Frontier AI labs quietly killed the release milestone",
-    "caption": "Frontier AI labs quietly killed the release milestone.\n\n2023-24 had clear moments: GPT-4, Claude 3, Gemini 1.5. Mid-2025 flipped to silent rolling updates. The stuff my feed keeps.",
+    "hook": "No version to pin means no version to audit",
+    "caption": "Frontier labs quietly killed the release milestone — GPT-4, Claude 3, Gemini 1.5 gave way to silent rolling updates. With no version pinned, you can't reproduce a result, audit a regression, or prove which model wrote what. Continuous deployment killed accountability.",
     "stance": "Version numbers are dead; the model you used yesterday isn't the one you're using now.",
     "triggers": [
       "GPT-4",
@@ -65,7 +65,7 @@
     "score": 9,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-11.png",
     "hook": "Hire the problem solver — you can't teach that later.",
-    "caption": "This game dev hires for one thing: thoughtful problem solvers. Technical skills you can teach anyone. Analytical thinking you can't. 162 likes agree. The takes my feed keeps before the timeline buries them.",
+    "caption": "A studio hires for one trait: thoughtful problem solvers. \"Technical skills you teach, analytical thinking you can't.\" The quiet part: if AI writes the boilerplate juniors learned on, the only rung left is the one that was never teachable.",
     "stance": "Skills are trainable; judgment isn't — hire for the thing you can't install.",
     "triggers": [
       "you-framing",
@@ -84,7 +84,7 @@
     "score": 9,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-01.png",
     "hook": "Objective reality might not exist. A real experiment says so.",
-    "caption": "Objective reality might not exist. A quantum test let two observers record different \"true\" outcomes of the same event. Physics-breaking stuff my feed pulls before the timeline finds it.",
+    "caption": "A quantum test let two observers record different \"true\" outcomes of the same event. Objective reality took the hit in the headlines, but the sharper reading is epistemic: measurement isn't reading a fact off the world, it's creating a local one. Surfaced this while the timeline slept.",
     "stance": "If two observers can both be right about contradictory facts, \"objective\" was always a comforting story.",
     "triggers": [
       "awe",
@@ -102,8 +102,8 @@
     "format": "bigStat",
     "score": 9,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-02.png",
-    "hook": "\"Negative time\" is real. Photons exited before they entered.",
-    "caption": "\"Negative time\" is real: photons left a material before they finished entering it. Not a glitch, a measured result. The wait-what science my feed keeps and the noise it drops.",
+    "hook": "Photons left before they arrived. Cause survived.",
+    "caption": "'Negative time' is real — photons left a material before finishing their entrance. Nothing outran light and no information moved; what broke is the assumption that a pulse has one crisp arrival time. The clock was the fiction, not causality.",
     "stance": "",
     "triggers": [
       "surprise",
@@ -121,8 +121,8 @@
     "format": "bigStat",
     "score": 9,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-07.png",
-    "hook": "Molecules big enough to see just existed in two places at once.",
-    "caption": "The biggest molecules ever were just put in two places at once. Quantum weirdness is climbing toward our scale. Where does it stop? The wait-what findings my feed pulls first.",
+    "hook": "The frontier isn't \"how big\" — it's where quantum stops",
+    "caption": "The largest molecules ever were just put in two places at once. The real frontier isn't 'how big' — every scale-up hunts for where quantum stops and classical begins, and the boundary keeps retreating. Maybe there's no boundary, only decoherence.",
     "stance": "",
     "triggers": [
       "awe",
@@ -135,13 +135,13 @@
   },
   {
     "platform": "x",
-    "lane": "ai",
-    "topic": "ai",
+    "lane": "science",
+    "topic": "science",
     "format": "banner",
     "score": 9,
     "tile": "library/01-content-cards/x/ai-genuine-wa-card-08.png",
-    "hook": "AI is designing quantum experiments no human ever imagined.",
-    "caption": "An AI built to crunch numbers is now inventing quantum experiments physicists couldn't conceive. The tool started leading the science. Found before the timeline, kept by my feed.",
+    "hook": "AI proposes physics no human could conceive",
+    "caption": "An AI built to crunch numbers is now designing quantum experiments physicists couldn't conceive. It's not solving faster — it's proposing setups no human intuition would reach, so we run experiments we don't fully understand. Discovery is decoupling from comprehension.",
     "stance": "We built AI to speed up our ideas. It's quietly having its own.",
     "triggers": [
       "awe",
@@ -160,7 +160,7 @@
     "score": 9,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-09.png",
     "hook": "Reality doesn't exist until you measure it.",
-    "caption": "Reality doesn't exist until you measure it. Australian physicists re-ran a famous quantum experiment and confirmed it. The stuff my feed keeps while the timeline scrolls past.",
+    "caption": "Australian physicists re-ran the delayed-choice experiment: reality stays undefined until measured. The unsettling bit for anyone who models systems is that the past isn't fixed either. Your choice now retroactively picks which history happened.",
     "stance": "If observation creates reality, \"objective\" physics is doing a lot of heavy lifting.",
     "triggers": [
       "awe",
@@ -179,7 +179,7 @@
     "score": 9,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-17.png",
     "hook": "Physicists just measured light spending \"negative time\"",
-    "caption": "Physicists measured light spending \"negative time\" inside a material. It exits before it should have entered. Your intuition is wrong and the math is right. The stuff my feed keeps.",
+    "caption": "Physicists clocked light spending \"negative time\" in a material. Photons exit before they finish entering. Nothing outran causality. What broke is the intuition that a pulse has a single location. It's a probability smear, and the peak can leave before the arithmetic says it should.",
     "stance": "\"Negative time\" isn't a glitch or a headline trick -- it's a real measured delay, and it breaks how you picture cause and effect.",
     "triggers": [
       "surprise",
@@ -197,8 +197,8 @@
     "format": "bigStat",
     "score": 9,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-19.png",
-    "hook": "Heat just flowed cold-to-hot. The arrow of time reversed.",
-    "caption": "In a quantum system, heat flowed backward -- cold to hot -- reversing the arrow of time. Everything you were taught about entropy assumes this can't happen. The stuff my feed keeps.",
+    "hook": "Heat ran cold-to-hot — paid for in correlation",
+    "caption": "In a quantum system, heat flowed cold-to-hot — the arrow of time, locally reversed. Entropy wasn't repealed: they spent correlation to do it, paying in information what they saved in disorder. The second law just moved its accounting to a ledger you weren't watching.",
     "stance": "The second law of thermodynamics feels absolute until a quantum system runs it in reverse.",
     "triggers": [
       "surprise",
@@ -216,8 +216,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-05.png",
-    "hook": "Alibaba says its new model beats DeepSeek.",
-    "caption": "Alibaba says its new model beats DeepSeek. China's model war just got a second front, and the West isn't in this fight. The release my feed flagged before the timeline noticed.",
+    "hook": "Open weights from China turn your moat into a subsidy",
+    "caption": "Alibaba says it beats DeepSeek. The benchmark is noise; the move is open weights out of China turning every Western closed-model moat into a subsidy — labs pay to train what someone ships free. Caught this before it was a thread.",
     "stance": "The real frontier race is now Alibaba vs DeepSeek, not OpenAI vs Google.",
     "triggers": [
       "contrast",
@@ -235,8 +235,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-06.png",
-    "hook": "OpenAI delayed a model release after a request from the Trump administration.",
-    "caption": "OpenAI staggered its GPT-5.6 preview after a Trump administration request. Model releases are national policy now. Found this before the timeline turned it into a war.",
+    "hook": "A release date is now a lever the state can pull",
+    "caption": "OpenAI staggered its GPT-5.6 preview after a White House request. The version number is noise; the signal is a release date is now a lever the state can pull. Ship schedules became foreign policy — and open source has no one at the table.",
     "stance": "Frontier releases now clear political review before they clear you.",
     "triggers": [
       "mild-outrage",
@@ -255,7 +255,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/ai-1-ai-model-card-11.png",
     "hook": "She broke the AI-sentience story 5 months before ChatGPT",
-    "caption": "Four years ago she broke the Blake Lemoine 'sentient AI' story — 5 months before ChatGPT existed. Now Anthropic, Google and Meta hire scientists to study it. The threads that age well, kept.",
+    "caption": "She broke the 'sentient AI' story five months before ChatGPT shipped. Now Anthropic, Google and Meta hire scientists to study model welfare. Read the hiring, not the debate: labs don't staff a question they think is settled.",
     "stance": "The guy everyone mocked in 2022 was early, not wrong.",
     "triggers": [
       "Lemoine + Anthropic/Google named",
@@ -273,8 +273,8 @@
     "format": "quote",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-12.png",
-    "hook": "Companies are making Claude talk like a caveman to save tokens",
-    "caption": "Companies are tuning AI to talk like a terse caveman, not a polite chatbot — on purpose, to stop burning tokens. Every 'please' costs money now. The weird AI economics my feed catches.",
+    "hook": "Terse AI saves tokens — and hides its reasoning",
+    "caption": "Companies are tuning AI to answer like a terse caveman, not a polite chatbot — to save tokens. The second-order effect nobody flags: when brevity is a cost function, models get optimized to hide their reasoning, not show it. Cheaper and less interpretable are the same knob.",
     "stance": "Politeness in prompts is a line item, and it's getting cut.",
     "triggers": [
       "Claude named",
@@ -292,8 +292,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-17.png",
-    "hook": "Google's Genie can generate games. Game stocks just dropped.",
-    "caption": "Google's Genie can generate playable worlds from a prompt — and videogame stocks slid the same day. The market is pricing in AI. Found before the timeline caught it.",
+    "hook": "Genie doesn't threaten the demo. It threatens the asset",
+    "caption": "Google's Genie generates playable worlds from a prompt; game stocks slid that afternoon. The market isn't pricing the demo — it's pricing the asset base: if worlds are generated, a studio's back catalog stops being a moat and becomes overhead.",
     "stance": "Generative game models are a bigger threat to studios than anyone's admitting.",
     "triggers": [
       "Google",
@@ -313,7 +313,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-18.png",
     "hook": "Alibaba just dropped 100+ open-source AI models at once.",
-    "caption": "Alibaba shipped over 100 new open-source AI models in one move — text, image, the works. The open-weight race isn't slowing down. The stuff my feed keeps.",
+    "caption": "Alibaba dropped 100+ open-weight models in one move. The volume is the strategy, not the flex. You don't ship a hundred models to win benchmarks. You do it to make \"just use ours\" the default before anyone standardizes on a rival's weights.",
     "stance": "The best open models won't come from the West.",
     "triggers": [
       "Alibaba",
@@ -332,8 +332,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-20.png",
-    "hook": "White House just lifted its export ban on Anthropic's AI.",
-    "caption": "Weeks after freezing foreign access, the White House reversed course on exporting Anthropic's advanced models. AI policy is whiplash right now. The stuff my feed keeps.",
+    "hook": "Model access is now an export control",
+    "caption": "The White House froze foreign access to Anthropic's models, then reversed it weeks later. The precedent is the story: model access is now an export control that can flip overnight. Build on one lab's API and you inherited geopolitical risk you never priced in.",
     "stance": "AI export controls are being written and rewritten faster than the models ship.",
     "triggers": [
       "White House",
@@ -353,7 +353,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/ai-1-ai-model-card-24.png",
     "hook": "You've been renting your AI. This is what owning it looks like.",
-    "caption": "Osaurus runs local models: no account, no API key, no Electron, fully open source. You own the whole stack. This is the stuff my feed keeps.",
+    "caption": "Osaurus runs local models: no account, no API key, no Electron. The real unlock isn't privacy. It's that inference cost drops to zero and stops being a line item someone can meter, rate-limit, or deprecate out from under you.",
     "stance": "If your AI needs an API key, you don't own it — you're renting.",
     "triggers": [
       "local AI",
@@ -372,8 +372,8 @@
     "format": "bigStat",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-30.png",
-    "hook": "Bettors give GPT-5.6 a 90% chance to ship by July 31",
-    "caption": "Polymarket gives GPT-5.6 a 90% chance to drop by July 31, but only 1% before June 30. The market is timing your next model before OpenAI announces it. Found before the timeline.",
+    "hook": "A betting market front-runs OpenAI's roadmap",
+    "caption": "Polymarket gives GPT-5.6 a 90% shot by July 31, 1% before June 30. A prediction market is front-running an unannounced product with better resolution than the company's own comms. When the crowd beats the press release, the leak isn't information — it's liquidity.",
     "stance": "Prediction markets now leak release dates faster than the labs do.",
     "triggers": [
       "GPT-5.6",
@@ -391,8 +391,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-01.png",
-    "hook": "Anthropic's Mythos model has people worried",
-    "caption": "Anthropic's new Mythos model already has ex-founders raising alarms on CBS. When the builders get nervous, you pay attention. This is the signal my feed pulls before the noise buries it.",
+    "hook": "\"Too dangerous to release\" is the most bullish ad there is",
+    "caption": "Ex-founders on CBS raising alarms about Anthropic's Mythos. Worth asking who benefits: 'our model is too dangerous to release' is also the most bullish thing a lab can say. Capability panic and marketing became the same press release.",
     "stance": "The people closest to frontier models are the most scared of them.",
     "triggers": [
       "Anthropic",
@@ -410,8 +410,8 @@
     "format": "splitProof",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-02.png",
-    "hook": "Microsoft is building AI to undercut OpenAI",
-    "caption": "Microsoft is quietly shipping in-house models to undercut its own partner OpenAI. Your cheapest AI provider might soon be the one funding the competition. Caught this before the timeline did.",
+    "hook": "Cheap Azure inference is bait, not a bargain",
+    "caption": "Microsoft is shipping in-house models to undercut its own partner OpenAI. If you build cheap on Azure OpenAI: subsidized inference is a customer-acquisition cost, and once their models are good enough, the subsidy — maybe the endpoint — disappears. Cheap now, captive later.",
     "stance": "Microsoft doesn't need OpenAI anymore — it needs a cheaper OpenAI.",
     "triggers": [
       "Microsoft",
@@ -430,7 +430,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-05.png",
     "hook": "Model launches used to be events. Now they're rolling.",
-    "caption": "Frontier labs quietly killed the big launch — models now ship continuously, not as events. If you still wait for release day, you're already behind. The shift my feed caught early.",
+    "caption": "Frontier labs quietly killed the big launch. Models ship continuously now. The overlooked cost: your evals rot silently. When the model under your API changes weekly with no version bump, \"it worked last month\" stops being a thing you can say. Caught this shift early.",
     "stance": "The era of the AI keynote is over — updates arrive silently now.",
     "triggers": [
       "frontier-labs",
@@ -448,8 +448,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-07.png",
-    "hook": "Anthropic built AI too risky to release publicly",
-    "caption": "ABC News confirms it: Anthropic built a model it deems too dangerous to release. When a lab won't ship its best work, that tells you where we are. Caught before the timeline.",
+    "hook": "\"We decided it's safe\" is the whole safety mechanism",
+    "caption": "ABC confirms Anthropic built a model it deems too dangerous to release. The unsettling part for a builder: 'we decided' is the whole safety mechanism. No regulator, no third party — the gate is one company's judgment. That's not safety, it's trust.",
     "stance": "",
     "triggers": [
       "Anthropic",
@@ -467,8 +467,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-09.png",
-    "hook": "Anthropic just delayed a Claude model over safety",
-    "caption": "Anthropic just delayed \"Claude Mythos\" over security concerns. A frontier lab hitting pause is the signal you actually want to track. Found before the timeline caught it.",
+    "hook": "A safety pause is an availability incident",
+    "caption": "Anthropic delayed Claude Mythos over security concerns. The overlooked read for anyone on frontier APIs: a safety pause is an availability incident. Your roadmap has a dependency that can be pulled because the vendor got scared of its own product.",
     "stance": "A lab that ships slower on purpose is the one worth trusting.",
     "triggers": [
       "Anthropic",
@@ -487,8 +487,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-11.png",
-    "hook": "OpenAI's GPT-5.2 is built to replace your workflow",
-    "caption": "GPT-5.2 is out: better spreadsheets, slides, code, and image reads in one model. If it does your busywork, that changes your day, not just a benchmark. Found before the timeline.",
+    "hook": "One model, four jobs — the shift is bundling",
+    "caption": "GPT-5.2 lands: spreadsheets, slides, code and image reads in one model. Skip the benchmark — the shift is bundling. When one model does four tasks well enough, the winners aren't better models, they're the workflows that stop switching tools.",
     "stance": "The next model war isn't about IQ, it's about who kills your busywork first.",
     "triggers": [
       "OpenAI",
@@ -506,8 +506,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-14.png",
-    "hook": "Microsoft just dropped 7 in-house AI models",
-    "caption": "Microsoft revealed seven of its own models, IQ, Scout, MDASH, Majorana 2, going full-stack instead of leaning on OpenAI. The dependency era is ending. Found before the timeline.",
+    "hook": "7 Microsoft models = the end of OpenAI dependence",
+    "caption": "Microsoft unveiled seven of its own models — Scout, MDASH, Majorana 2 — going full-stack instead of leaning on OpenAI. The dependency era isn't ending, it's inverting: your platform vendor is becoming your model vendor's competitor.",
     "stance": "Microsoft building its own models is the quiet end of the OpenAI marriage.",
     "triggers": [
       "Microsoft",
@@ -527,7 +527,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-16.png",
     "hook": "Gemma 4 12B fuses vision, audio, and text in one pass",
-    "caption": "Google DeepMind's Gemma 4 12B ditches the three-model stack and processes images, sound, and text together. Fewer moving parts, cheaper to run. Found before the timeline.",
+    "caption": "Gemma 4 12B drops the three-model stack and fuses image, sound and text into one pass. Fewer parts is the headline. The quieter win is latency: no cross-model handoff means no serialization tax, which is usually where multimodal pipelines actually bleed time.",
     "stance": "One unified model beats three specialists once the plumbing stops fighting itself.",
     "triggers": [
       "Google DeepMind",
@@ -546,8 +546,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-19.png",
-    "hook": "Microsoft's AI CEO: build superintelligence that won't replace you",
-    "caption": "Microsoft's AI CEO just unveiled 7 new models with one rule: don't replace people.\n\nMustafa Suleyman calls it Humanist Superintelligence at Build 2026. A direct shot at the everyone-gets-automated crowd. The stuff my feed keeps.",
+    "hook": "\"Won't replace you\" is positioning, not values",
+    "caption": "Microsoft's AI CEO shipped 7 models with one rule: don't replace people. 'Humanist Superintelligence' sounds like values — read it as positioning. If you're behind on capability, 'we won't automate you' is how you sell to enterprises afraid of the backlash.",
     "stance": "\"Humanist superintelligence\" is a positioning move as much as a mission.",
     "triggers": [
       "Microsoft",
@@ -566,8 +566,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-30.png",
-    "hook": "Anthropic built a model so powerful they only ran a 'very limited test'",
-    "caption": "Anthropic built a model so powerful they only ran a 'very limited test.' It's called Mythos, and the safety concerns are the whole story. This is what my feed surfaces before it trends.",
+    "hook": "Too dangerous to ship — but only \"lightly\" tested",
+    "caption": "Anthropic ran only a 'very limited test' on a model they call too powerful to release. The contradiction: they claim it's dangerous but tested it lightly. Either the danger is overstated for effect, or they shipped a capability they can't evaluate.",
     "stance": "When a lab throttles its own launch, that tells you more than any benchmark.",
     "triggers": [
       "Anthropic",
@@ -586,7 +586,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-01.png",
     "hook": "3,200 gaming jobs gone — zero studios closed",
-    "caption": "3,200 jobs cut, 4 studios under new management, zero closed on paper. The layoff math the industry doesn't spell out. The signal my feed keeps before the timeline spins it.",
+    "caption": "3,200 jobs cut, 4 studios reshuffled, zero \"closed\" on paper. The accounting is the story: fold a studio into a parent and headcount vanishes without a closure headline. Layoff counts undercount the damage by design.",
     "stance": "\"No studios closed\" is a PR line when 3,200 people just lost their jobs.",
     "triggers": [
       "hard number",
@@ -605,7 +605,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-03.png",
     "hook": "Xbox gutted the Elder Scrolls Online team",
-    "caption": "ESO's team seemingly gutted in the layoffs — but the roadmap 'will be shifting,' not dying. What that actually means for the MMO you play. Found before the timeline caught up.",
+    "caption": "ESO's team gutted, but the roadmap \"will be shifting,\" not ending. Translation, if you've watched a live-service game go skeleton-crew: shifting means the content cadence you signed up for is now maintenance mode.",
     "stance": "'Roadmaps will be shifting' is how you say a live game is on life support without saying it.",
     "triggers": [
       "named IP",
@@ -624,7 +624,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-15.png",
     "hook": "The Shadow of the Colossus creator's new game is Xbox-first",
-    "caption": "Fumito Ueda — ICO, Shadow of the Colossus, The Last Guardian — just revealed gen ATLAS, an open-world action-adventure coming first to Xbox. This is the reveal my feed kept.",
+    "caption": "Fumito Ueda (ICO, Shadow of the Colossus) revealed gen ATLAS, open-world, Xbox first. Sit with \"open-world.\" Ueda's whole craft was restraint and negative space; open-world is the opposite tax.",
     "stance": "",
     "triggers": [
       "Fumito Ueda",
@@ -644,7 +644,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-19.png",
     "hook": "PlayStation kills game discs in January 2028",
-    "caption": "PlayStation stops making physical discs in Jan 2028 — and the industry is not taking it well. If you still own your games, this one's for you. Caught it before the timeline did.",
+    "caption": "PlayStation ends physical discs in Jan 2028. The disc wasn't nostalgia, it was your only offline proof of purchase. Once it's gone, \"owning\" a game means a revocable license on someone else's server.",
     "stance": "Digital-only means you never actually own the games you paid for.",
     "triggers": [
       "surprise",
@@ -662,8 +662,8 @@
     "format": "bigStat",
     "score": 8,
     "tile": "library/01-content-cards/x/gaming-create-a-l-card-21.png",
-    "hook": "Xbox just cut 3,200 people — its biggest ever",
-    "caption": "3,200 gone across FY27, 1,600 today — the biggest restructure in Xbox history. Compulsion and Double Fine spun off, Ninja Theory sold. The numbers my feed surfaced before the headlines.",
+    "hook": "Xbox isn't shrinking games. It's shrinking people",
+    "caption": "3,200 gone across FY27, 1,600 today — the biggest cut in Xbox history, Ninja Theory sold. The pattern under the numbers: they're not shrinking games, they're shedding the parts that don't scale like software. Studios priced as SaaS, and losing.",
     "stance": "Record profits and record layoffs in the same quarter tells you who games are really for.",
     "triggers": [
       "surprise",
@@ -682,7 +682,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-23.png",
     "hook": "Suits call it 'a transformation.' Devs call it a fire.",
-    "caption": "Content creators: 'no worries, it's just a transformation.' Actual devs: 'the industry is ON FIRE, who makes the games now?' The gap between spin and reality my feed keeps.",
+    "caption": "Creators: \"relax, it's a transformation.\" Devs: \"who's making the games now?\" The gap isn't optimism vs doom. Creators are paid on engagement, so calm content wins; devs are paid on shipping, so they feel the missing hands.",
     "stance": "'Transformation' is corporate for 'we fired the people who make the thing.'",
     "triggers": [
       "mild-outrage",
@@ -701,7 +701,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-25.png",
     "hook": "New Metroid leaked from a Brazilian ratings board",
-    "caption": "New Metroid leaked from a Brazilian ratings board. \"Ravenous\" surfaced before any official reveal. Rating filings always leak first — the stuff my feed catches before the trailer drops.",
+    "caption": "A new Metroid, \"Ravenous,\" leaked via a Brazilian ratings board. Ratings filings always leak first: compliance is legally mandatory, marketing is discretionary. The paperwork is the real leak channel, and nobody's guarding it.",
     "stance": "Ratings boards leak more games than Nintendo ever announces on purpose.",
     "triggers": [
       "Metroid",
@@ -720,7 +720,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-02.png",
     "hook": "Every indie game shipping this week, in one grid.",
-    "caption": "Every indie release this week, ranked in one grid. Cat Mail, Mesmalic, and a dozen more you won't see on the big storefronts. The launches my feed catches before Steam does.",
+    "caption": "Every indie release this week in one grid. The grid is the point: discovery on the big storefronts is now pay-to-surface, so a flat ranked list does the curation the algorithm won't. Cat Mail, Mesmalic, a dozen more the storefront hides.",
     "stance": "The best games this year won't come from a studio you've heard of.",
     "triggers": [
       "on-niche: new releases showcase",
@@ -739,7 +739,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-07.png",
     "hook": "A retro horror demo where a detective hunts a shifting nightmare.",
-    "caption": "Scarlet Lake: a retro survival-horror demo where detective Ben Murphy digs into a small town that keeps mutating around him. Free demo out now. The launches my feed finds first.",
+    "caption": "Scarlet Lake: a survival-horror demo where the town keeps mutating around a detective. The mutating-map hook is a clever budget move — procedural dread costs a fraction of hand-built set-pieces. It is why small teams keep out-scaring AAA.",
     "stance": "Pixel-art horror scares harder than any photoreal AAA engine.",
     "triggers": [
       "on-niche: playable new demo",
@@ -758,7 +758,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-10.png",
     "hook": "Sells good? Studio gone. Sells bad? Studio gone.",
-    "caption": "Game sells good — studio gone. Sells bad — studio gone. Dev hell — studio gone. The layoffs aren't about your game at all. The takes my feed keeps before the timeline buries them.",
+    "caption": "Sells well: studio gone. Sells badly: studio gone. The layoffs were never about your game. They're a parent balancing a portfolio, where a profitable studio is a sellable asset and a struggling one is a write-off.",
     "stance": "The games industry needs a hard reset — the studio dies no matter what you ship.",
     "triggers": [
       "mild-outrage",
@@ -777,7 +777,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-26.png",
     "hook": "Enemy AI got dumber as graphics got prettier",
-    "caption": "Enemy AI got dumber as graphics got prettier — and we traded brilliant behavior for realistic reflections. Remember when enemies flanked you? The gamedev takes my feed keeps.",
+    "caption": "Enemy AI got dumber as graphics got prettier. Not a coincidence. Every cycle spent on ray-traced reflections is one not spent simulating a flank, and reviewers score screenshots, not behavior. We optimized for the thumbnail.",
     "stance": "We spent a decade on lighting and let enemy AI rot — realism was a bad trade.",
     "triggers": [
       "contrarian stance",
@@ -796,7 +796,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-01.png",
     "hook": "\"Women aren't even shallow\" — Nietzsche's cruelest line",
-    "caption": "\"Women are considered profound. Why? Because we never fathom their depths. But women aren't even shallow.\" Nietzsche at his most savage. The line my feed pulled before the doomscroll buried it.",
+    "caption": "\"Women are considered profound because we never fathom their depths. But women aren't even shallow.\" Nietzsche, savage.",
     "stance": "Half of Nietzsche's edgelord bangers are just him losing an argument with himself.",
     "triggers": [
       "cult-loved thinker",
@@ -814,8 +814,8 @@
     "format": "quote",
     "score": 8,
     "tile": "library/01-content-cards/x/philosophy-random-phi-card-05.png",
-    "hook": "\"What are you gonna do with that?\" Ask a philosophy major",
-    "caption": "The comeback for smug \"what will you do with a philosophy degree?\" people: \"dress up marketing for AI firms as profound philosophy ahead of their IPOs.\" Brutal. The take my feed saved from the scroll.",
+    "hook": "A philosophy degree: ethics-washing AI firms pre-IPO",
+    "caption": "Best answer to 'what will you do with a philosophy degree?' — 'dress up marketing for AI firms as profound ethics before their IPO.' It lands because the AI-ethics-philosopher role exists precisely because a plausible ethics story is now load-bearing for a valuation.",
     "stance": "Every AI lab's mission statement is a philosophy BA's revenge on the people who mocked them.",
     "triggers": [
       "hard stance",
@@ -833,8 +833,8 @@
     "format": "quote",
     "score": 8,
     "tile": "library/01-content-cards/x/philosophy-random-phi-card-30.png",
-    "hook": "Analytic philosophy: the one field with no norm against name-calling",
-    "caption": "Analytic philosophy is famously the one field with no norm against just calling colleagues wrong by name. Fodor on why that's a feature, not a bug. The kind of hot take my feed keeps.",
+    "hook": "One field lets you call a colleague simply wrong",
+    "caption": "Analytic philosophy is the rare field with no taboo against calling a colleague simply wrong. Fodor called it a feature — and it is: it's the only norm that lets a field compound instead of accrete. You can't build on an idea nobody's allowed to kill.",
     "stance": "A discipline that tolerates being told you're plainly wrong stays honest longer.",
     "triggers": [
       "Jerry Fodor",
@@ -852,8 +852,8 @@
     "format": "bigStat",
     "score": 8,
     "tile": "library/01-content-cards/x/crypto-crypto-card-03.png",
-    "hook": "Tokenized stocks just did $34B/month — up 40x in a year.",
-    "caption": "Tokenized stocks hit $34B/month, up 40x in 13 months. Nvidia, Tesla, Micron now trade on-chain 24/7. TradFi is quietly moving to DeFi rails. The signal my feed caught early.",
+    "hook": "Stocks on-chain 24/7 means the weekend gap now bites",
+    "caption": "Tokenized stocks hit $34B/month, up 40x in 13 months — Nvidia and Tesla on-chain 24/7. The mechanism nobody flags: always-on means the weekend gap risk TradFi hides behind closed exchanges now hits you in real time. My feed caught the trend early.",
     "stance": "The RWA wave will eat the stock market before it eats banks.",
     "triggers": [
       "big number",
@@ -871,8 +871,8 @@
     "format": "quote",
     "score": 8,
     "tile": "library/01-content-cards/x/crypto-crypto-card-06.png",
-    "hook": "A monarch's inheritance gets more scrutiny than your DeFi yields.",
-    "caption": "A French dev did the math: a king's estate faces more audits than his on-chain yields. Decentralization as the last tax escape? The sharp take my feed surfaced.",
+    "hook": "A king's estate gets more audits than your yield",
+    "caption": "A French dev did the math: a king's estate gets more audits than his on-chain yield. Run it forward — once this is common, it stops being a loophole and becomes the reason chain-surveillance gets mandated. Privacy that scales invites the crackdown that ends it.",
     "stance": "DeFi's real product isn't yield — it's invisibility from the state.",
     "triggers": [
       "tax",
@@ -890,8 +890,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/crypto-crypto-card-08.png",
-    "hook": "One programming blunder just torched $661K on Solana.",
-    "caption": "Solana DeFi protocol OptiFi accidentally burned $661K to a code bug. Not a hack, not a rug, just a typo-tier mistake. The wild stuff my feed keeps before it trends.",
+    "hook": "$661K gone to a typo. Immutable means no undo",
+    "caption": "OptiFi burned $661K to a typo — no hack, no rug, just bad code. In DeFi there's no support desk and no undo: immutability is the feature and the liability in one. Surfaced in my feed while the timeline slept.",
     "stance": "In DeFi, a bad line of code costs more than any hacker ever will.",
     "triggers": [
       "disaster",
@@ -909,8 +909,8 @@
     "format": "bigStat",
     "score": 8,
     "tile": "library/01-content-cards/x/crypto-crypto-card-31.png",
-    "hook": "DeFi hacks cost users $780M this quarter — a hidden yield tax",
-    "caption": "DeFi hacks bled $780M in Q2 2026. Bridges and key failures are now a silent tax on every yield you earn. The risk math my feed catches before the timeline cheers the APY.",
+    "hook": "$780M in hacks is the price of unaudited composability",
+    "caption": "DeFi hacks bled $780M in Q2 2026. Reframe it as an engineer: that's the market price of unaudited composability. Every protocol you stack multiplies attack surface — 'money legos' and 'exploit chains' are the same property. The APY prices it in.",
     "stance": "That juicy APY is quietly funding a $780M/quarter exploit tax. Price it in.",
     "triggers": [
       "$780M hack figure",
@@ -929,7 +929,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-03.png",
     "hook": "Time isn't fundamental. It emerges from entanglement.",
-    "caption": "Time isn't a given, it emerges from quantum entanglement between systems. The universe may not have a clock underneath. Deep-cut physics my feed surfaces before the timeline.",
+    "caption": "Time may not be fundamental. It emerges from entanglement between systems. The engineering-brained reading: the universe has no global clock, only local correlations. Which is exactly how distributed systems already work. Physics rediscovered eventual consistency. Deep-cut stuff, surfaced early.",
     "stance": "We treat time as the stage. The physics says it's just a side effect.",
     "triggers": [
       "awe",
@@ -948,7 +948,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/crypto-genuine-wa-card-04.png",
     "hook": "Cloudflare + Chrome ran real post-quantum TLS. At scale.",
-    "caption": "Post-quantum encryption isn't theory anymore. Cloudflare and Chrome ran quantum-resistant TLS on live traffic. Your future security is already shipping. Found before the timeline.",
+    "caption": "Cloudflare and Chrome ran post-quantum TLS on live traffic. The urgency isn't a future quantum computer. It's \"harvest now, decrypt later\": adversaries are already storing your encrypted traffic to crack once hardware catches up. Anything sensitive you send today is a deferred breach.",
     "stance": "\"Quantum will break encryption someday\" is outdated. The fix is already in production.",
     "triggers": [
       "surprise",
@@ -966,7 +966,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-11.png",
     "hook": "Some problems need an \"exotic\" quantum proof. No document will do.",
-    "caption": "Some math problems can't be checked with any written proof. You need a quantum object. Researchers just confirmed it. The wild stuff my feed keeps.",
+    "caption": "Some math proofs can't be checked with any written argument. You need a quantum object to verify them. That quietly kills a assumption we never questioned: that truth is always transmissible on paper. Some facts are only checkable by re-running physics. Surfaced while the timeline slept.",
     "stance": "",
     "triggers": [
       "surprise",
@@ -984,8 +984,8 @@
     "format": "tabloid",
     "score": 8,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-12.png",
-    "hook": "A spooky quantum experiment just proved Einstein wrong.",
-    "caption": "Measuring a photon changes where it is. The 'spooky' experiment Einstein hated keeps winning. Found before the timeline caught on.",
+    "hook": "Observation is a write, not a read",
+    "caption": "Measuring a photon changes where it is. The part engineers miss: the measurement isn't reading state, it's creating it. Observation is a write, not a read.",
     "stance": "Einstein was right about almost everything and wrong about the one thing that mattered most.",
     "triggers": [
       "mild-outrage",
@@ -1004,7 +1004,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/science-genuine-wa-card-14.png",
     "hook": "Spectroscopy sounds nerdy. It's the study of everything.",
-    "caption": "Spectroscopy sounds nerdy, but it's how we learned the universe runs on quantum rules before anyone told us. Quietly the study of everything. The stuff my feed keeps.",
+    "caption": "Spectroscopy sounds dull, but it's how we learned the universe was quantum before anyone had the theory. The lesson for builders: the data forced the model, not the reverse.",
     "stance": "",
     "triggers": [
       "awe",
@@ -1023,7 +1023,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-18.png",
     "hook": "Einstein called it \"spooky.\" This experiment proved it real.",
-    "caption": "Einstein hated quantum entanglement -- he called it \"spooky action at a distance.\" A Griffith University experiment just verified it. He was right about the spookiness, wrong to doubt it. Found before the timeline.",
+    "caption": "Griffith physicists verified the \"spooky action\" Einstein hated. The irony is sharper than the meme: Einstein's objection was so precise it became the exact test that proved him wrong. His skepticism designed its own refutation. Best kind of wrong. Surfaced while the timeline slept.",
     "stance": "The smartest physicist who ever lived bet against entanglement and lost.",
     "triggers": [
       "cult-entity-Einstein",
@@ -1042,7 +1042,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/science-genuine-wa-card-22.png",
     "hook": "A light particle left a cloud before it entered it.",
-    "caption": "A light particle exited a cloud before it entered -- scientists measured a negative amount of time inside. Quantum physics melts your brain and it's supposed to. Found before the timeline.",
+    "caption": "A photon exited a cloud before it finished entering. \"Negative time.\" Nothing beat light-speed. What shifted was the pulse's peak, and a peak isn't a particle. This is why \"a photon is a point\" is a lie we tell undergrads.",
     "stance": "The weirdest results in physics aren't errors -- they're the universe telling you your intuition was never built for this.",
     "triggers": [
       "surprise",
@@ -1061,7 +1061,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-23.png",
     "hook": "Quantum proofs beat classical ones. It's now proven.",
-    "caption": "After 20 years, researchers have strong evidence quantum proofs are strictly more powerful than classical ones -- no way around the quantum world's complexity. This is a big deal for computing. Found before the timeline.",
+    "caption": "After 20 years, strong evidence: quantum proofs are strictly more powerful than classical ones. For complexity nerds this is the real prize, not qubit counts. It means some verification is fundamentally out of classical reach, no clever algorithm coming. A hard wall, not a speed bump. Surfaced early.",
     "stance": "There are truths a classical computer can verify but never efficiently -- and quantum machines just walked past that wall.",
     "triggers": [
       "cult-entity-Quanta",
@@ -1079,8 +1079,8 @@
     "format": "bigStat",
     "score": 8,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-28.png",
-    "hook": "Physicists just measured negative time in a quantum experiment.",
-    "caption": "Physicists measured 'negative time' — photons that exit a cloud before they finish entering it. Not a typo, a real result. The wait-what finding my feed pulled first.",
+    "hook": "\"Negative time\" is a reshaped pulse, not time travel",
+    "caption": "Physicists measured 'negative time' — photons exiting a cloud before finishing their entrance. Not time travel: the pulse reshapes as it passes, so 'when it arrived' was never one number. Language broke before physics did.",
     "stance": "Negative time sounds fake until you realize causality was always more negotiable than you were taught.",
     "triggers": [
       "surprise",
@@ -1098,8 +1098,8 @@
     "format": "quote",
     "score": 8,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-30.png",
-    "hook": "Time might not be fundamental — just entanglement in disguise.",
-    "caption": "Scientists reversed local entropy with quantum computers, hinting time is an emergent property of entanglement, not a law. Physics is more flexible than you were told. Found before the timeline.",
+    "hook": "Time isn't fundamental — it's entanglement in disguise",
+    "caption": "Physicists reversed local entropy with quantum computers — hinting time is emergent from entanglement, not fundamental. If time is downstream of correlation, 'when' is derived state, not an axis. Causality might be an API on top of entanglement.",
     "stance": "Time's arrow isn't a rule of the universe — it's a side effect of how things get entangled.",
     "triggers": [
       "contrast",
@@ -1118,7 +1118,7 @@
     "score": 8,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-03.png",
     "hook": "350+ mergers by Google and Facebook. Zero blocked.",
-    "caption": "Google and Facebook made 350+ mergers — not one raised a serious antitrust flag. That's not a loophole, that's the whole game. The deep context my feed surfaces before the timeline.",
+    "caption": "Google and Facebook ran 350+ mergers, not one serious antitrust flag. The number isn't the scandal. The threshold is: review triggers on deal size, so buying 350 small companies stays invisible while one big deal gets scrutiny. The rules reward acquiring early and often. That's the whole game.",
     "stance": "Antitrust didn't fail Big Tech — it was never allowed to touch it.",
     "triggers": [
       "big stat",
@@ -1136,8 +1136,8 @@
     "format": "banner",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-inside-big-card-11.png",
-    "hook": "Big Tech isn't racing AI. It's swallowing it.",
-    "caption": "Amazon and Microsoft already wrote the playbook for consolidating the AI industry. The startups you cheer for are exit strategies. Found before the timeline caught it.",
+    "hook": "The AI startup you root for is a Big Tech R&D lab",
+    "caption": "Amazon and Microsoft already wrote the playbook for consolidating AI. The startups you're rooting for aren't competitors to the giants — they're the R&D department the giants don't pay for until it works. VC funds the experiments, incumbents buy the winners.",
     "stance": "There is no independent AI industry — just Big Tech's farm team.",
     "triggers": [
       "contrarian-stance",
@@ -1155,8 +1155,8 @@
     "format": "splitProof",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-inside-big-card-12.png",
-    "hook": "The AI boom's new exit strategy: founder drain.",
-    "caption": "Inflection, Adept, Character — all gone the same way. Big Tech skips the merger and just takes the founders. A quiet new playbook my feed caught early.",
+    "hook": "Skip the merger, just take the founders",
+    "caption": "Inflection, Adept, Character — all absorbed the same way: Big Tech skips the merger and just takes the founders. The acqui-hire replaced the acquisition because buying a company triggers antitrust review; hiring the team doesn't. A purchase regulators can't see.",
     "stance": "Acqui-hires are mergers with the antitrust part deleted.",
     "triggers": [
       "contrarian-stance",
@@ -1175,7 +1175,7 @@
     "score": 8,
     "tile": "library/01-content-cards/bluesky/ai-inside-big-card-24.png",
     "hook": "Companies are firing their SaaS bills and hiring two SWEs instead",
-    "caption": "Companies are killing giant SaaS bills by in-housing a couple SWEs to build the 10% they actually use. That's where the new tech jobs are hiding. The signal my feed keeps.",
+    "caption": "Companies are killing SaaS bills by hiring two SWEs to build the 10% they used. The second-order effect nobody prices in: every cancelled seat is churn on someone's ARR, and \"build vs buy\" just tipped because AI made the build 10x cheaper.",
     "stance": "Most SaaS spend buys features you never touch. In-housing is the next wave.",
     "triggers": [
       "dev jobs",
@@ -1193,8 +1193,8 @@
     "format": "splitProof",
     "score": 8,
     "tile": "library/01-content-cards/x/ai-inside-big-card-28.png",
-    "hook": "Big Tech is quietly walking back the AI jobs apocalypse.",
-    "caption": "A year ago every exec swore AI would wipe out your job. Now Big Tech is backpedaling hard. The narrative flip my feed caught before the timeline noticed.",
+    "hook": "\"AI won't take your job\" changed audience, not heart",
+    "caption": "A year ago every exec swore AI would take your job; now they're backpedaling hard. The flip isn't a change of heart, it's a change of audience: 'AI replaces workers' sold to investors, 'AI augments workers' sells to the enterprises they now need. Same tech, opposite pitch.",
     "stance": "The AI jobs apocalypse was a fundraising pitch, not a forecast.",
     "triggers": [
       "AI jobs",
@@ -1213,7 +1213,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-01.png",
     "hook": "Two AI labs are pulling away. Three are stalling.",
-    "caption": "Two labs are pulling away. Three are stalling. Frontier release cadence, actually charted with methodology. This is the signal my feed keeps while the timeline argues vibes.",
+    "caption": "Two labs pulling away, three stalling, release cadence actually charted. The methodology matters more than the ranking: cadence is a leading indicator of internal velocity, and it predicts who ships next quarter better than any benchmark. Vibes lag; cadence leads. My feed flagged the charts, the timeline's still arguing.",
     "stance": "Release cadence, not benchmarks, is the real leaderboard now.",
     "triggers": [
       "contrast",
@@ -1231,8 +1231,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-02.png",
-    "hook": "Meta is shipping a commercial AI model to catch its rivals.",
-    "caption": "Meta is going commercial to catch OpenAI and Google. The open-weights champion wants your money now. Caught this before the timeline had takes on it.",
+    "hook": "You built on free Llama. Now Meta wants the rent",
+    "caption": "Meta's going commercial to catch OpenAI and Google — the open-weights champion wants your money now. The trap for anyone who built on 'free Llama': open-source was never charity, it was a wedge to commoditize a rival's product. You were the strategy, not the customer.",
     "stance": "Meta abandoning free-and-open was inevitable the moment it fell behind.",
     "triggers": [
       "surprise",
@@ -1250,8 +1250,8 @@
     "format": "quote",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-07.png",
-    "hook": "Grok predicts AI takeoff with 4-7 more algorithmic leaps.",
-    "caption": "Grok says takeoff is close: 4-7 more algorithmic OOMs, then AI automates its own research. Math, code, robotics compound from there. The kind of take my feed keeps.",
+    "hook": "\"Algorithmic OOMs\" hides where the compute went",
+    "caption": "Grok says takeoff is close: 4-7 more algorithmic OOMs, then AI automates its own research. Notice the sleight of hand: 'OOMs of algorithmic progress' is unfalsifiable — no unit, no clock, no way to be wrong. The most confident takeoff claims are the ones immune to disproof.",
     "stance": "Recursive self-improvement isn't sci-fi anymore, it's a roadmap.",
     "triggers": [
       "awe",
@@ -1270,7 +1270,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/ai-1-ai-model-card-08.png",
     "hook": "Altman: OpenAI's next big model, Orion, ships by December.",
-    "caption": "Altman teased it: Orion, OpenAI's next big model, lands by December. The Q4 release everyone will be arguing about. You saw it here before the timeline did.",
+    "caption": "Altman teased Orion, OpenAI's next model, by December. Read the teasing itself: pre-announcing a Q4 model is a freeze move, meant to make you wait rather than switch to a rival shipping now. The tweet is the product until December.",
     "stance": "",
     "triggers": [
       "cult-entities",
@@ -1289,7 +1289,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-09.png",
     "hook": "Meta's new model transcribes + translates 100 languages",
-    "caption": "Meta's new model transcribes AND translates close to 100 languages. One model, not a dozen. The releases that matter get buried in an hour — this is the stuff my feed keeps.",
+    "caption": "Meta's new model transcribes and translates ~100 languages in one stack. The consolidation is the story: a hundred language pairs used to mean a hundred fragile pipelines. Collapsing them into one model doesn't just cut cost, it cuts the integration surface where translation quietly breaks.",
     "stance": "The multilingual arms race is where the next moat is, not chatbots.",
     "triggers": [
       "names Meta / SeamlessM4T",
@@ -1308,7 +1308,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-10.png",
     "hook": "A bot swarm scraped GitHub for AI training data",
-    "caption": "For 12 hours GitHub got hammered by a massive bot/AI scraping attack. Everyone's code. Your code. The training-data land grab is getting ugly — found this before the timeline caught up.",
+    "caption": "GitHub took a 12-hour AI scraping hammering. Everyone's code, including yours. The uncomfortable part: your permissive license said \"reuse with credit,\" but a training run launders it into weights with no attribution possible. The commons is being enclosed and the license can't stop it. Caught this early.",
     "stance": "Every public repo is already someone's training set. You just weren't told.",
     "triggers": [
       "GitHub named",
@@ -1326,8 +1326,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-13.png",
-    "hook": "The US government asked OpenAI to slow down a release",
-    "caption": "The US government asked OpenAI to stagger an AI model release. Regulators are now in the launch calendar. This is where the real fight moves — caught before the timeline noticed.",
+    "hook": "They can ask closed labs to slow. Not open weights",
+    "caption": "The US government asked OpenAI to stagger a release. The sharper point is who isn't in the room: closed labs can be asked to slow, open-weight releases can't be un-shipped. Regulation only reaches the players who'd have been safest anyway.",
     "stance": "Model release dates are becoming a policy negotiation, not an engineering call.",
     "triggers": [
       "OpenAI + US Government named",
@@ -1346,7 +1346,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-1-ai-model-card-19.png",
     "hook": "NASA and IBM built an AI model for weather and climate.",
-    "caption": "NASA teamed with IBM Research on a foundation model for weather and climate — open science, real forecasts. AI for the planet, not just chatbots. Found before the timeline.",
+    "caption": "NASA and IBM open-sourced a foundation model for weather and climate. The interesting move is architectural: they're treating decades of satellite data as a pretraining corpus, same recipe as LLMs. Turns out \"foundation model\" was never about language, it was about having enough data to generalize.",
     "stance": "",
     "triggers": [
       "NASA",
@@ -1366,7 +1366,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-21.png",
     "hook": "Alibaba's Qwen models target Meta's Llama 2 directly.",
-    "caption": "Qwen-7B and Qwen-7B-Chat dropped to rival Llama 2 — 21k stars and climbing. The open-weight fight is getting crowded. Found before the timeline.",
+    "caption": "Qwen-7B hit 21k stars rivaling Llama 2. The star count isn't the signal. The Apache-style licensing is: a genuinely permissive 7B is what actually ships into products, while the bigger flashier models sit in demos. The winning open model is the one legal will approve, not the one that benchmarks highest.",
     "stance": "Llama's open-source lead is thinner than Meta wants you to think.",
     "triggers": [
       "Qwen",
@@ -1385,8 +1385,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-22.png",
-    "hook": "The White House may vet AI models before you can use them.",
-    "caption": "A proposed rule would have the government review new AI models before public release. Pre-launch approval for code. What that means for open source is the real question. The stuff my feed keeps.",
+    "hook": "\"Review before release\" is a kill switch for open source",
+    "caption": "A proposed rule would have the government review new AI models before public release. Sounds like safety; for open source it's a kill switch. You can't submit a weights file anyone can fork the day before — the rule doesn't slow open models, it makes releasing them illegal.",
     "stance": "Government pre-review of models is a soft kill switch for open source.",
     "triggers": [
       "White House",
@@ -1405,8 +1405,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-25.png",
-    "hook": "The White House is writing rules for AI models",
-    "caption": "The White House is writing rules for AI models. Whatever ships next won't just be a release, it'll be a policy fight. The stuff my feed catches before the timeline does.",
+    "hook": "When launches need clearance, the timing leaks",
+    "caption": "The White House is writing rules for AI models — the next ship won't be a release, it'll be a policy fight. Once launches need clearance, timing leaks become material information: release dates start trading like earnings, and the edge moves from building to knowing.",
     "stance": "AI standards from the government will shape releases more than any lab does.",
     "triggers": [
       "policy",
@@ -1425,7 +1425,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/ai-create-a-l-card-03.png",
     "hook": "Google I/O 2026: Search rebuilt, Gemini goes bigger",
-    "caption": "Google just rebuilt Search around AI and pushed Gemini bigger at I/O 2026. If you search or build, your defaults are about to change. The stuff my feed keeps so you skip the keynote.",
+    "caption": "Google rebuilt Search around AI at I/O 2026. If you rank for anything, note what changed: AI answers mean the click never reaches you, so the traffic you built on organic search is now Google's to keep.",
     "stance": "",
     "triggers": [
       "Google",
@@ -1443,8 +1443,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-10.png",
-    "hook": "Meta shipped its most powerful model yet: Muse Spark",
-    "caption": "Meta just dropped Muse Spark, its strongest AI model and the first product from Alexandr Wang's new lab. The model race just got a new frontrunner. The stuff my feed keeps.",
+    "hook": "Models commoditize. The data pipeline compounds",
+    "caption": "The race isn't model quality anymore — it's who owns the training-data pipeline. The reframe: models commoditize, data compounds. Whoever controls the pipeline outranks whoever designs the architecture, because one is copyable and the other isn't.",
     "stance": "",
     "triggers": [
       "Meta",
@@ -1463,7 +1463,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-15.png",
     "hook": "Microsoft just built 7 of its own AI models",
-    "caption": "Microsoft announces a family of seven in-house models across image, voice, and more. Direct from the source, not a recap channel. The stuff my feed keeps before it trends.",
+    "caption": "Microsoft announced seven in-house models across image and voice. Seven is the tell. That's not a product line, it's a vendor-independence hedge: after leaning on OpenAI, they're building the ability to swap the engine out without telling you. The models are a negotiating position.",
     "stance": "",
     "triggers": [
       "Microsoft",
@@ -1480,8 +1480,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-18.png",
-    "hook": "Anthropic's own report is a stark warning about Claude",
-    "caption": "Anthropic issued a stark warning about its own model.\n\nCBS pulled in an ex-AI-founder to break down the Claude Mythos report. When the lab that builds it sounds the alarm, you read it. Found before the timeline.",
+    "hook": "A safety report with a TV cycle is a product launch",
+    "caption": "Anthropic warned about its own Mythos model; CBS pulled an ex-founder to decode the report. Ask why a safety report gets a TV media cycle: safety disclosure has become a launch channel, with the alarm and the announcement sharing a comms team.",
     "stance": "",
     "triggers": [
       "Anthropic",
@@ -1501,7 +1501,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-21.png",
     "hook": "The fastest-growing AI project right now is an eval suite",
-    "caption": "The fastest-growing AI project this week isn't a model.\n\nIt's benchflow-ai's \"awesome-evals\" — devs care more about testing agents than shipping them. Tells you where the field is actually heading. Found before the timeline.",
+    "caption": "The fastest-growing AI repo this week isn't a model. It's \"awesome-evals.\" Read it as a field maturing: when the tooling energy shifts from building to testing, the frontier stopped being \"can it work\" and became \"can you trust it in prod.\" Evals blowing up means the hype phase is ending. Surfaced early.",
     "stance": "The next AI gold rush is evaluation, not generation.",
     "triggers": [
       "awesome-evals",
@@ -1521,7 +1521,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-24.png",
     "hook": "A dev built a stress-test arena for AI shopping agents",
-    "caption": "Someone built a fake marketplace just to attack AI shopping agents.\n\nSuper AI Markets stress-tests how autonomous buyers handle adversarial stores. Agentic commerce has a security hole nobody's watching. The stuff my feed keeps.",
+    "caption": "Someone built a fake marketplace to attack AI shopping agents. The exploit surface is the story: an autonomous buyer with your card is a confused-deputy problem waiting to happen, and adversarial storefronts are the obvious first attack. Agentic commerce shipped the wallet before the threat model.",
     "stance": "Your future AI shopping agent is a fresh attack surface, and almost no one is red-teaming it.",
     "triggers": [
       "Super AI Markets",
@@ -1540,8 +1540,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-create-a-l-card-27.png",
-    "hook": "Tencent just shipped Hunyuan 3 with a doc-generating agent built in",
-    "caption": "Tencent just shipped Hunyuan 3 with a doc-generating agent built in. Upgraded reasoning, and the West barely noticed. Chinese labs move fast, my feed catches it before the timeline.",
+    "hook": "Hunyuan 3 ships to a billion WeChat users by default",
+    "caption": "Tencent shipped Hunyuan 3 and the West barely blinked. The blind spot isn't the model, it's distribution: it ships to a billion WeChat users by default. Chinese labs don't need benchmarks when they win the install base on day one.",
     "stance": "The frontier race isn't OpenAI vs Anthropic. It's US labs vs Chinese labs you never hear about.",
     "triggers": [
       "Tencent",
@@ -1560,7 +1560,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-02.png",
     "hook": "Pokemon just got its own official soccer team",
-    "caption": "Pikachu now reps Japan's J.League — all 60 clubs. The crossover you didn't see coming and won't see on your timeline for days. The kind of drop my feed surfaces first.",
+    "caption": "Pikachu now reps all 60 J.League clubs. Looks like a gimmick, reads like strategy: Pokemon isn't selling games here, it's renting its IP as ambient trust to a sport that needs younger fans.",
     "stance": "",
     "triggers": [
       "cult brand",
@@ -1578,8 +1578,8 @@
     "format": "bigStat",
     "score": 7,
     "tile": "library/01-content-cards/x/gaming-create-a-l-card-06.png",
-    "hook": "Xbox CEO wants games for 'a billion people a day'",
-    "caption": "Asha Sharma's target: 24x Steam's peak population — daily. Ambition or delusion? The quote fueling the whole Xbox strategy debate. Surfaced before the dunks pile up.",
+    "hook": "A billion daily players only works if \"player\" shifts",
+    "caption": "Xbox's target: 24x Steam's peak concurrent players — daily. That's not a gaming number, it's a Netflix number, and it only closes if 'player' quietly means anyone tapping a cloud stream for two minutes. The metric is the strategy.",
     "stance": "A billion players a day is 24x Steam's peak — that's not a strategy, it's a fantasy.",
     "triggers": [
       "named exec",
@@ -1598,7 +1598,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-12.png",
     "hook": "Warframe's studio is building a dark-fantasy world next",
-    "caption": "Soulframe just dropped its TennoLive 2026 teaser — the Warframe studio's dark-fantasy swing. If you love Digital Extremes, this is your next obsession. Found before the timeline.",
+    "caption": "Soulframe dropped its TennoLive 2026 teaser, Digital Extremes' dark-fantasy swing. Watch it as a business hedge, not just a game: DE built gaming's most sustainable free-to-play model with Warframe, and Soulframe tests whether it transfers.",
     "stance": "",
     "triggers": [
       "Soulframe",
@@ -1617,8 +1617,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/gaming-create-a-l-card-13.png",
-    "hook": "Xbox laid off staff — then said it wants to 'entertain a billion daily'",
-    "caption": "Xbox CEO Asha Sharma wants a billion people entertained daily — in the same memo about layoffs. The disconnect is the story. The stuff my feed catches, timelines gloss over.",
+    "hook": "\"A billion daily\" — in the same memo as layoffs",
+    "caption": "Xbox's CEO wants a billion people entertained daily — in the same memo as layoffs. The tell isn't the hypocrisy, it's the math: a billion players only pencils out as platform-and-ads, not games.",
     "stance": "'Entertain a billion daily' in a layoff memo isn't vision — it's tone-deaf.",
     "triggers": [
       "Xbox",
@@ -1638,7 +1638,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-17.png",
     "hook": "A trillion-dollar company just gutted its gamers",
-    "caption": "A trillion-dollar company btw. The people making gaming decisions aren't even gamers anymore, and the industry's feeling it. Raw take my feed pulled before the timeline buried it.",
+    "caption": "\"The people making gaming decisions aren't gamers anymore.\" Reads as a rant, but it's org design: once leadership optimizes for a trillion-dollar parent's margin, taste becomes a cost center. The incentive changed, so the games did.",
     "stance": "The biggest threat to games isn't AI — it's non-gamers running gaming companies.",
     "triggers": [
       "mild-outrage",
@@ -1657,7 +1657,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-26.png",
     "hook": "Aliens: Fireteam Elite 2 is officially real",
-    "caption": "Aliens: Fireteam Elite 2 is officially real. Cold Iron and Daybreak revealed it as IGN's cover story. If you loved the co-op original, this one's for you — found before the timeline.",
+    "caption": "Aliens: Fireteam Elite 2 is real, IGN cover story. The greenlight is the data: the original was a modest co-op title, so a sequel signals the mid-budget co-op shooter is quietly profitable while everyone chases live-service whales.",
     "stance": "",
     "triggers": [
       "Aliens",
@@ -1675,8 +1675,8 @@
     "format": "quote",
     "score": 7,
     "tile": "library/01-content-cards/x/gaming-i-love-gam-card-16.png",
-    "hook": "No game over sixty quid is more than a 7/10",
-    "caption": "Hot take: no game that costs over sixty quid is more than a 7/10. The reviews-as-art vs product debate, flipped. The gaming takes my feed keeps before the timeline.",
+    "hook": "Price sets the baseline. £60 caps you at a 7/10",
+    "caption": "Hot take going round: no £60+ game is more than a 7/10. There's a real mechanism under the snark — price sets the expectation baseline, so a score is graded against cost, not absolute terms. The same game at £20 reviews a point higher. You're rating the receipt.",
     "stance": "$70 pricing capped how good games are allowed to be — and reviewers stopped noticing.",
     "triggers": [
       "hot-take",
@@ -1695,7 +1695,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/gaming-i-love-gam-card-23.png",
     "hook": "99k views, 10 years of games, all free by donation.",
-    "caption": "99k views. 10+ years shipping games. Every one free, funded entirely by voluntary donations. Proof indie doesn't need a price tag. The story my feed kept for you.",
+    "caption": "A dev shipped free games for 10+ years, funded entirely by voluntary donations. The economics are the lesson, not the sentiment: donation-funded means zero acquisition cost and zero refund risk, so the break-even bar is absurdly low. \"Free\" was a distribution strategy, not charity. Kept for you.",
     "stance": "Free-by-donation is a more durable model than most indie devs admit.",
     "triggers": [
       "big number",
@@ -1714,7 +1714,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-25.png",
     "hook": "Reusing game assets isn't lazy — it's how games ship",
-    "caption": "Reusing game assets isn't lazy — it's how good games ship on time. The 'everything from scratch' myth kills more indies than bad ideas do. Hot takes my feed keeps.",
+    "caption": "Reusing game assets isn't lazy, it's how games ship on time. The \"everything from scratch\" myth is survivorship bias dressed as craft: you hear about the handmade masterpieces that shipped, never the from-scratch projects that quietly died.",
     "stance": "Asset reuse is craft, not corner-cutting — the best studios do it constantly.",
     "triggers": [
       "contrarian stance",
@@ -1733,7 +1733,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-02.png",
     "hook": "He defended a master's thesis on whether Calvin & Hobbes is philosophy",
-    "caption": "Someone defended a Tilburg master's thesis arguing a comic book can BE philosophy — and won. Asking the question is answering it. The kind of gem my feed keeps and the timeline never surfaces.",
+    "caption": "A Tilburg master's thesis argued a comic book can BE philosophy, and passed. The claim underneath: philosophy is a mode of argument, not a medium, so if the reasoning holds, the form is arbitrary.",
     "stance": "Calvin & Hobbes did more real epistemology than most intro-to-philosophy syllabi.",
     "triggers": [
       "surprise",
@@ -1752,7 +1752,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-08.png",
     "hook": "Hannah Arendt: you don't actually want truth, you want to stop not-knowing",
-    "caption": "\"To expect truth to come from thinking signifies that we mistake the need to think with the urge to know.\" Arendt on why your brain conflates the two. The line my feed kept before it vanished.",
+    "caption": "Arendt: \"To expect truth from thinking mistakes the need to think for the urge to know.\" The practical cut for anyone who lives in problems: thinking metabolizes meaning, it doesn't produce facts. If you're thinking to reach an answer, you're using the wrong tool and will feel stuck. Kept before it vanished.",
     "stance": "Most of what people call 'seeking truth' is just discomfort with open questions.",
     "triggers": [
       "cult-loved thinker",
@@ -1771,7 +1771,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-09.png",
     "hook": "Philosophy runs on far-fetched scenarios — with a straight face.",
-    "caption": "Philosophy runs on far-fetched thought experiments, told with a straight face. The absurd hypotheticals are the method, not a bug. The stuff my feed keeps before the timeline buries it.",
+    "caption": "Philosophy runs on absurd thought experiments told with a straight face. Trolleys and brains-in-vats aren't whimsy, they're unit tests: strip a principle to a controlled input, see if it holds.",
     "stance": "The weirdest thought experiments do the most real philosophical work.",
     "triggers": [
       "contrast",
@@ -1789,7 +1789,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-15.png",
     "hook": "\"We are strong so our burdens stay light.\" — Stoicism.",
-    "caption": "Seneca: strength exists so your burdens feel light. The whole Stoic move in one line — you build capacity for the weight you'll carry. The quiet gems my feed keeps before the timeline scrolls past.",
+    "caption": "Seneca: strength exists so your burdens feel light. The Stoic move underneath is capacity-building, not endurance: you don't grit through the weight, you train until the same load stops registering as heavy. Resilience isn't tolerance, it's a raised baseline. Quiet stuff, surfaced before the scroll ate it.",
     "stance": "Stoicism isn't about avoiding hardship — it's about outgrowing it.",
     "triggers": [
       "cult-thinker",
@@ -1807,7 +1807,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-17.png",
     "hook": "Want to write well? Epictetus gave the whole method.",
-    "caption": "Want to write well? Epictetus: \"If you would be a good reader, read; if a writer, write.\" No hack. Just the loop. Stoic gold my feed keeps.",
+    "caption": "Epictetus: to be a writer, write; a reader, read. No hack, just the loop. The uncomfortable modern read: we built a whole industry selling shortcuts around the one thing with no shortcut, and they sell precisely because the loop is boring.",
     "stance": "Every writing course is a footnote to one Stoic line.",
     "triggers": [
       "names Epictetus",
@@ -1826,7 +1826,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-20.png",
     "hook": "You quote the isms — but have you ever practiced them?",
-    "caption": "You quote the isms. But have you practiced them in the purest form? \"Reading is fundamental. When did we stop pushing that idea?\" The take my feed kept.",
+    "caption": "\"Reading is fundamental. When did we stop pushing that?\" The line lands because we swapped depth for coverage. You can be aware of a thousand ideas via feeds and have practiced none, which feels like knowledge and isn't.",
     "stance": "Naming a philosophy isn't the same as living it.",
     "triggers": [
       "hard contrarian stance",
@@ -1844,8 +1844,8 @@
     "format": "quote",
     "score": 7,
     "tile": "library/01-content-cards/x/philosophy-random-phi-card-21.png",
-    "hook": "Marcus Aurelius: stop imagining, stop pulling your own strings.",
-    "caption": "Marcus Aurelius: \"Wipe out the imagination. Stop pulling the strings. Confine thyself to the present.\" 2,000 years old, still the cure for spiraling. Stoic gold my feed keeps.",
+    "hook": "Most anxiety is your model running unbounded sims",
+    "caption": "Marcus Aurelius: 'Wipe out imagination. Confine thyself to the present.' Read it as a debugging note: most anxiety is your model running unbounded simulation on inputs that don't exist yet. Not 'relax' — stop executing speculative branches.",
     "stance": "Half your anxiety is imagination pretending to be planning.",
     "triggers": [
       "names Marcus Aurelius",
@@ -1864,7 +1864,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-27.png",
     "hook": "Writing like John Locke now reads as anti-intellectual",
-    "caption": "Writing like John Locke now reads as \"anti-intellectual.\" Careful thinking got recast as elitism, and that should bother you. A Locke passage my feed surfaced before the timeline buried it.",
+    "caption": "Careful, Locke-style prose now reads as \"anti-intellectual\" and elitist. That inversion should worry you: when rigor gets coded as gatekeeping, the actual gatekeeping moves to whoever controls the simplified version. Dumbing-down isn't democratic, it just relocates the authority. Surfaced before it got buried.",
     "stance": "We started calling depth pretentious and mistook that for progress.",
     "triggers": [
       "John Locke",
@@ -1883,7 +1883,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-29.png",
     "hook": "Reason or revelation, pick one — just don't fake reconciling them",
-    "caption": "Reason or revelation: pick your ground and stand on it. What you can't do is fake reconciling both and call it rigor. A sharp take on faith vs reason my feed surfaced first.",
+    "caption": "Reason or revelation: pick your ground and stand on it. The rigor point applies well past theology: most \"nuanced both-sides\" positions are unfalsifiable by construction, which is why they feel safe. Refusing to plant a flag isn't sophistication, it's an argument you can never lose or test. Surfaced first.",
     "stance": "Most \"faith and reason in harmony\" arguments are just refusing to pick.",
     "triggers": [
       "theology vs reason",
@@ -1902,7 +1902,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-31.png",
     "hook": "The philosophy syllabus that starts with animal and AI minds",
-    "caption": "A philosophy of mind course that opens with animal minds, artificial minds, and how the brain actually computes. This is where consciousness meets AI. The kind of thread my feed surfaces first.",
+    "caption": "A philosophy-of-mind course opening on animal minds, artificial minds, and how the brain computes. The framing is the payload: treating consciousness as a computation question means the hard problem becomes an engineering spec, and you can feel philosophers and ML researchers converging on the same wall.",
     "stance": "Philosophy of mind and AI research are the same question wearing two badges.",
     "triggers": [
       "artificial minds",
@@ -1921,8 +1921,8 @@
     "format": "quote",
     "score": 7,
     "tile": "library/01-content-cards/x/crypto-crypto-card-01.png",
-    "hook": "You're a DeFi dev who no longer believes in crypto.",
-    "caption": "You're a DeFi dev who no longer believes in crypto. Now what? The quiet crisis every token builder feels but won't post about. The honest stuff my feed keeps.",
+    "hook": "Quit crypto? The skills transfer perfectly",
+    "caption": "You're a DeFi dev who's stopped believing in crypto. Now what? The skills transfer perfectly — adversarial thinking, formal verification, incentive design — but the résumé signal is radioactive. You built the hardest thing in software and have to hide it.",
     "stance": "The people building crypto stopped believing in it before you did.",
     "triggers": [
       "identity crisis",
@@ -1941,7 +1941,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/crypto-crypto-card-05.png",
     "hook": "Knowing how to code won't save you from the new scams.",
-    "caption": "Technical scams evolved past your defenses. Devs assume their skills protect them, but the newest attacks target exactly that confidence. The stuff my feed keeps before you get hit.",
+    "caption": "New technical scams target the one thing devs trust most: their own competence. That's the design. Confidence is an attack surface, and \"I'd never fall for that\" is exactly the belief the newest exploits are engineered around. The best mark is the one who's sure they're not one. Surfaced before you get hit.",
     "stance": "Your dev instincts are now the attack surface.",
     "triggers": [
       "security",
@@ -1960,7 +1960,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/crypto-crypto-card-09.png",
     "hook": "Banks are quietly moving real assets onto blockchains",
-    "caption": "Banks are quietly moving real assets onto blockchains. Tokenized RWAs are the bet that fuels the next DeFi wave, per one big bank. Found this before the timeline caught it.",
+    "caption": "Banks are quietly moving real assets onto chains, tokenized RWAs as the next DeFi fuel. The incentive read matters more than the hype: banks don't want decentralization, they want 24/7 settlement and instant collateral. They're adopting the rails and deleting the ideology. That tension decides who wins.",
     "stance": "The next DeFi cycle won't be memecoins, it'll be tokenized bonds and real estate.",
     "triggers": [
       "RWA tokenization",
@@ -1978,8 +1978,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/gaming-crypto-card-12.png",
-    "hook": "Ex-Rocksteady leads reveal why Suicide Squad flopped",
-    "caption": "Ex-Rocksteady leads reveal why Suicide Squad flopped. The people who built the Arkham games break down what went wrong on Kill the Justice League. The dev drama my feed surfaces first.",
+    "hook": "Arkham combat can't hold a live-service game",
+    "caption": "Ex-Rocksteady leads explain why Suicide Squad flopped. The real post-mortem: the Arkham combat that made them famous is structurally incompatible with a loot-and-grind loop. Their strength became the constraint.",
     "stance": "Live-service mandates killed one of the best single-player studios in gaming.",
     "triggers": [
       "Rocksteady",
@@ -1997,8 +1997,8 @@
     "format": "bigStat",
     "score": 7,
     "tile": "library/01-content-cards/x/gaming-crypto-card-13.png",
-    "hook": "One-man studio hit with 55k refunds for a 2-hour game",
-    "caption": "One dev, a finished game, and 55k refunds because Steam's 2-hour rule let players beat it and refund it. Players even left positive reviews while cashing out. The indie stories my feed keeps.",
+    "hook": "Steam's 2-hour rule lets players beat it and refund",
+    "caption": "One dev, a finished game, 55k refunds — Steam's 2-hour rule let players beat it and cash out, some leaving positive reviews. The flaw: refund policy assumes playtime tracks value, but tight short games invert that. Better pacing, more theft.",
     "stance": "Steam's refund window quietly punishes short, complete indie games for being short and complete.",
     "triggers": [
       "55k refunds",
@@ -2016,8 +2016,8 @@
     "format": "splitProof",
     "score": 7,
     "tile": "library/01-content-cards/x/crypto-crypto-card-23.png",
-    "hook": "DeFi hacks are becoming a hidden tax on your yield",
-    "caption": "High DeFi yields are quietly funding the hacks that drain them — a hidden liquidity tax you pay without seeing it. BTC's at $58.5K and bearish. The read my feed kept.",
+    "hook": "Your APY and the hack drain the same pool",
+    "caption": "High DeFi yields are quietly funding the hacks that drain them. Yield and exploit-loss come from the same pooled liquidity, so the APY you farm is partly other people's stolen principal cycling back as emissions. Not a bug — the system.",
     "stance": "Your APY isn't yield — it's a hack subsidy waiting to be claimed.",
     "triggers": [
       "painpoint",
@@ -2035,8 +2035,8 @@
     "format": "splitProof",
     "score": 7,
     "tile": "library/01-content-cards/x/crypto-crypto-card-26.png",
-    "hook": "Crypto is shifting from scarcity to real yield-bearing cashflows",
-    "caption": "Crypto is shifting from 'number go up' scarcity to protocols that throw off real cashflow. AAVE is becoming an investment-grade primitive. The thesis my feed surfaced before the timeline.",
+    "hook": "AAVE priced like an investment-grade primitive",
+    "caption": "Crypto's shifting from 'number go up' to protocols with real cashflow — AAVE priced like an investment-grade primitive. The catch nobody says: predictable revenue is also something to regulate and tax. A real business is a real target.",
     "stance": "Scarcity was the pitch. Yield is the product. AAVE already made the jump.",
     "triggers": [
       "AAVE named",
@@ -2055,7 +2055,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-06.png",
     "hook": "Time might wobble. And that finally makes gravity testable.",
-    "caption": "Post-quantum gravity says time itself wobbles, and unlike string theory, you can actually test it. A rival theory of everything you can falsify. The science my feed keeps.",
+    "caption": "Post-quantum gravity says time itself wobbles, and unlike string theory, you can test it. Testability is the whole story: a theory of everything that makes no falsifiable prediction is philosophy in a lab coat. This one's value isn't being right, it's being checkable. Falsifiability beats elegance. Kept early.",
     "stance": "String theory promised everything and tested nothing. This one bets on being provable.",
     "triggers": [
       "contrarian-stance",
@@ -2074,7 +2074,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-10.png",
     "hook": "Reality doesn't exist until it's measured, says the ANU.",
-    "caption": "Reality doesn't exist until it's measured, an ANU quantum experiment finds. 227 likes, 239 replies arguing about it. Found before the timeline caught on.",
+    "caption": "An ANU experiment finds reality doesn't exist until measured. 239 replies arguing. The argument is more telling than the result: physicists agree on the math and split on what it means, which means the disagreement is philosophical, not empirical. We've measured the effect for decades; the fight is about words. Surfaced first.",
     "stance": "",
     "triggers": [
       "awe",
@@ -2092,7 +2092,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-15.png",
     "hook": "Most 'quantum computing' headlines are describing machines that don't exist.",
-    "caption": "The quantum computers in the headlines are almost always theoretical. The ones that exist are tiny. A researcher's reality check my feed kept.",
+    "caption": "The quantum computers in headlines are mostly theoretical. The ones that exist are tiny. The gap is the point: qubit counts get announced, error rates get buried, and a noisy 1000-qubit machine can be worthless while a clean 50-qubit one is useful. Ask about coherence time, not qubit count. A reality check, kept.",
     "stance": "Half of 'quantum breakthrough' coverage is describing hardware nobody has built yet.",
     "triggers": [
       "mild-outrage",
@@ -2111,7 +2111,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-16.png",
     "hook": "Gravity probably isn't what collapses the quantum world.",
-    "caption": "A leading theory said gravity forces quantum states to 'pick' reality. New experiment says: unlikely. 127 likes deep in the debate. Found before the timeline.",
+    "caption": "A leading theory said gravity forces quantum states to collapse. New experiment: unlikely. Notice this is a rare event, a physics theory dying to data instead of to a newer, prettier theory. Most theories-of-everything are unkillable because they predict nothing. This one made a bet and lost. That's the science working. Surfaced early.",
     "stance": "",
     "triggers": [
       "surprise",
@@ -2130,7 +2130,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-25.png",
     "hook": "A quantum experiment just simulated a working time machine.",
-    "caption": "A quantum experiment just simulated a working time machine. Not sci-fi — a real lab result on closed timelike curves. The kind of paper my feed keeps and the timeline buries.",
+    "caption": "A quantum experiment simulated closed timelike curves, a working \"time machine\" on the bench. Simulated is the load-bearing word: they modeled the math of time loops, they didn't send matter back. But it means paradoxes are computable, and a self-consistent loop may just be a fixed-point solver in disguise.",
     "stance": "Time travel isn't banned by physics — it's banned by our budget for qubits.",
     "triggers": [
       "surprise",
@@ -2149,7 +2149,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-26.png",
     "hook": "Ask physicists if quantum mechanics needs imaginary numbers — they split 50/50.",
-    "caption": "Ask physicists if quantum mechanics needs imaginary numbers, and they split 50/50. One of the deepest questions in the field has no consensus. Found before the timeline noticed.",
+    "caption": "Ask physicists if quantum mechanics needs imaginary numbers, and they split 50/50. That split is the interesting artifact: imaginary numbers were a bookkeeping convenience everywhere else, but here they might be physically necessary, which would mean the math isn't describing reality, it is the reality. Surfaced while nobody was looking.",
     "stance": "If the experts can't agree whether i is real, your intuition about quantum was never the problem.",
     "triggers": [
       "contrast",
@@ -2167,8 +2167,8 @@
     "format": "banner",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-inside-big-card-01.png",
-    "hook": "Big Tech didn't grow. It bought its way there.",
-    "caption": "Big Tech didn't grow big. It bought its way there — hundreds of acquisitions, quietly. You use half of them and never knew. The buried context my feed keeps for you.",
+    "hook": "Big Tech's real product is acquisitions",
+    "caption": "Big Tech didn't grow big — it bought its way there, hundreds of quiet acquisitions you use half of without knowing. The reframe: their real product was never any app, it was the acquisition engine. They're capital allocators that happen to ship software.",
     "stance": "Most 'innovation' at scale is just acquisition with a press release.",
     "triggers": [
       "contrarian stance",
@@ -2186,8 +2186,8 @@
     "format": "splitProof",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-inside-big-card-05.png",
-    "hook": "Microsoft is racing ahead while Big Tech pulls back on M&A.",
-    "caption": "Everyone else is slowing acquisitions this year — Microsoft is racing ahead. When one giant buys while the rest freeze, watch what they're building. Signal my feed caught early.",
+    "hook": "Buying into a freeze means they timed the bottom",
+    "caption": "Everyone else is slowing acquisitions this year; Microsoft is racing ahead. The tell isn't aggression, it's timing — buying into a freeze means they think assets are underpriced, so they expect the shakeout gloom to reverse fast. Their M&A pace is a bet the bottom is in.",
     "stance": "The M&A slowdown isn't caution — it's everyone waiting to see what Microsoft eats next.",
     "triggers": [
       "contrast",
@@ -2206,7 +2206,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/philosophy-inside-big-card-08.png",
     "hook": "Why don't Big Tech companies actually compete?",
-    "caption": "Antitrust, lobbying, dark patterns, selling at a loss to kill rivals — why don't Big Tech giants really compete? A question worth sitting with. The threads my feed keeps for you.",
+    "caption": "Antitrust, lobbying, dark patterns, selling at a loss to kill rivals. Why don't Big Tech giants really compete?",
     "stance": "'Free market' and 'Big Tech' haven't been in the same sentence honestly for a decade.",
     "triggers": [
       "reply-inviting question",
@@ -2224,8 +2224,8 @@
     "format": "bigStat",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-inside-big-card-09.png",
-    "hook": "350+ Big Tech mergers. Zero raised alarms.",
-    "caption": "350+ mergers by Facebook and Google — not one got serious scrutiny. The roots of Big Tech run deeper than you think. The stuff my feed keeps before it trends.",
+    "hook": "Antitrust reviews each deal. Monopoly is the sum",
+    "caption": "350+ acquisitions by Facebook and Google — barely one got serious scrutiny. The structural lesson: antitrust reviews each deal in isolation, but monopoly is built by the sum. A hundred harmless-looking buys compound into a moat no single case can touch.",
     "stance": "Antitrust didn't fail Big Tech — it never showed up.",
     "triggers": [
       "mild-outrage",
@@ -2244,7 +2244,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-10.png",
     "hook": "Every acquisition GAFAM ever made, mapped.",
-    "caption": "Someone graphed every known Big Tech acquisition into one giant web. It's bigger than you'd guess. This is the deep-dive stuff my feed surfaces before the timeline.",
+    "caption": "Someone graphed every Big Tech acquisition into one web, and it's bigger than you'd guess. The graph reveals the actual strategy: they don't buy products, they buy the next competitor before it becomes one. Half of \"innovation\" is pre-emptive acquisition of the thing that would've disrupted them. Dug up while the timeline slept.",
     "stance": "",
     "triggers": [
       "awe",
@@ -2263,7 +2263,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-14.png",
     "hook": "FTC votes 5-0 to reopen Big Tech's past mergers.",
-    "caption": "Unanimous. Special orders to review deals by Alphabet, Amazon, Apple, Facebook. The mergers nobody stopped are back on the table. Caught before the timeline.",
+    "caption": "Regulators unanimously ordered a review of old Alphabet, Amazon, Apple and Meta deals. Retroactive review is the news, and it's a bluff worth pricing: unwinding a decade-old, fully-integrated acquisition is nearly impossible, so the threat's real value is chilling the next deal, not undoing the last. Caught early.",
     "stance": "",
     "triggers": [
       "named-entities",
@@ -2282,7 +2282,7 @@
     "score": 7,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-29.png",
     "hook": "The algorithms rewarding lies also reward the wildfires.",
-    "caption": "Big Tech's attention economy pays to broadcast lies no matter the cost — and the same engines quietly reward climate disinfo. The uncomfortable link my feed keeps.",
+    "caption": "Big Tech's attention economy pays to broadcast whatever holds you, and the same ranking engine that rewards outrage rewards disinfo. Not a conspiracy, just the objective function: optimize for engagement and truth becomes irrelevant to the ranking. The lie isn't inserted, it's selected for. An uncomfortable link, kept.",
     "stance": "The recommendation algorithm isn't neutral — it's optimized for whatever burns hottest.",
     "triggers": [
       "disinformation",
@@ -2301,7 +2301,7 @@
     "score": 7,
     "tile": "library/01-content-cards/bluesky/philosophy-inside-big-card-30.png",
     "hook": "Big Tech and authoritarians run the same playbook: control what you see.",
-    "caption": "Both authoritarians and Big Tech want to control the narratives you see — so you never notice them amassing power. The take my feed keeps over the noise.",
+    "caption": "Authoritarians and Big Tech share a move: control which narratives you see so you don't notice power being amassed. The mechanism isn't censorship, it's ranking. You never see what's suppressed, so you can't miss it.",
     "stance": "Feed control is power control. Whoever owns your timeline owns your attention.",
     "triggers": [
       "authoritarianism",
@@ -2319,8 +2319,8 @@
     "format": "tabloid",
     "score": 7,
     "tile": "library/01-content-cards/x/ai-inside-big-card-32.png",
-    "hook": "The EU isn't waiting — Big Tech antitrust enforcement is live.",
-    "caption": "92 likes, 107 replies: while the US stalls, the EU pushes ahead on Big Tech antitrust. The giants you build on are getting reined in overseas first. Caught before the timeline.",
+    "hook": "Fragmented regulation is worse than strict",
+    "caption": "The EU pushes ahead on Big Tech antitrust while the US stalls. The counterintuitive read: fragmented regulation is worse than strict. When every region reins in the giants differently, your compliance surface — not the rules — becomes a moat only incumbents can afford.",
     "stance": "The EU regulates Big Tech while the US holds hearings. Guess who wins.",
     "triggers": [
       "EU",
@@ -2339,7 +2339,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-03.png",
     "hook": "Every 2024 AI model release on one scrollable timeline.",
-    "caption": "Every 2024 AI model release on one scrollable timeline. The year the pace broke your brain, laid out flat. The kind of thing my feed surfaces before you go looking.",
+    "caption": "Every 2024 AI model release on one scrollable timeline. The visualization does something the news can't: it shows release cadence as an exponential, and exponentials feel like chaos from inside because your intuition is linear. The pace didn't break your brain, your brain's model of the pace did.",
     "stance": "",
     "triggers": [
       "curiosity",
@@ -2357,7 +2357,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-14.png",
     "hook": "Meta built an AI model that grades other AI models' work",
-    "caption": "Meta released an AI model whose job is checking other AI models' work. AI reviewing AI. The self-supervising loop starts here — the releases my feed keeps before they scroll away.",
+    "caption": "Meta shipped an AI whose job is checking other AIs' work. AI reviewing AI sounds like a loop, and that's the risk: a reviewer trained on the same data shares the same blind spots, so it'll confidently pass the exact errors it can't see. Automated review can launder bias into \"verified.\" Kept before it scrolled off.",
     "stance": "The next models won't be trained by humans — they'll be graded by other models.",
     "triggers": [
       "Meta named",
@@ -2375,8 +2375,8 @@
     "format": "quote",
     "score": 6,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-15.png",
-    "hook": "AI sovereignty is now a hardware problem, not a software one",
-    "caption": "AI sovereignty just became a hardware problem — Huawei's 100x scaling roadmap signals who owns the chips owns the models. The economics story under the hype, kept by my feed.",
+    "hook": "Own the chips, own the models. Sovereignty is hardware",
+    "caption": "Huawei's 100x scaling roadmap makes AI sovereignty a hardware problem: own the chips, own the models. Export controls assumed compute was a chokepoint you could hold — a domestic 100x roadmap turns it into a timer. Sanctions don't stop the outcome, they set the deadline.",
     "stance": "Whoever controls the silicon controls the AI, and it isn't the US by default.",
     "triggers": [
       "Huawei + 100x named",
@@ -2395,7 +2395,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/science-1-ai-model-card-23.png",
     "hook": "A new AI reads stress from your brain at 82.78% accuracy.",
-    "caption": "A Riemannian Manifold Attention Network hit 82.78% accuracy detecting stress from EEG signals — beating prior benchmarks. Brain-reading AI is quietly getting good. Found before the timeline.",
+    "caption": "A Riemannian manifold attention net hit 82.78% detecting stress from EEG, beating benchmarks. The accuracy is fine; the deployment question is who buys it. Passive stress-detection from brain signals is a wellness feature and a workplace-surveillance tool with the same code. The tech is neutral, the buyer isn't. Surfaced early.",
     "stance": "",
     "triggers": [
       "EEG",
@@ -2414,8 +2414,8 @@
     "format": "quote",
     "score": 6,
     "tile": "library/01-content-cards/x/ai-1-ai-model-card-32.png",
-    "hook": "Frontier models now ship monthly, like continuous deployment",
-    "caption": "Monthly frontier releases mean AI has stopped shipping versions and started shipping like CI/CD. Blink and your stack is a generation behind. The stuff my feed keeps so you don't miss a drop.",
+    "hook": "Frontier models ship like CI/CD now. Your prompts rot",
+    "caption": "Monthly frontier releases mean AI stopped shipping versions and started shipping like CI/CD. For your stack that isn't 'keep up' — it's that your prompts run against a moving target with no changelog. You're not integrating a model, you're subscribing to silent drift.",
     "stance": "Model releases are now a deploy cadence, not an event.",
     "triggers": [
       "continuous deployment",
@@ -2434,7 +2434,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-25.png",
     "hook": "The fastest-growing AI repos this week aren't the ones you starred",
-    "caption": "The fastest-growing AI repos this week aren't the ones you starred. Awesome-evals is quietly blowing up while everyone chases models. This is the kind of signal my feed keeps.",
+    "caption": "The fastest-growing AI repos this week aren't models, they're eval tooling. Read the leading indicator: developer attention moves to testing right before a field industrializes, because you only obsess over reliability once you're shipping to prod. The repos are telling you the toy phase is ending. A signal worth keeping.",
     "stance": "Eval tooling is the real AI infra story, not another model drop.",
     "triggers": [
       "awesome-evals",
@@ -2452,8 +2452,8 @@
     "format": "quote",
     "score": 6,
     "tile": "library/01-content-cards/x/gaming-create-a-l-card-05.png",
-    "hook": "Microsoft still thinks AAA gaming is a growth industry",
-    "caption": "MS is betting AAA is still growth, not just aging millennial fans. The bet driving every Xbox layoff and reshuffle you're watching. The take my feed keeps before it's obvious.",
+    "hook": "If AAA isn't growth, the layoffs are a retreat",
+    "caption": "Microsoft still bets AAA is growth, not aging millennials clinging to a format. The bet under the bet: if they're wrong, the layoffs aren't cost-cutting — they're the first move out of making games, toward renting a store and a stream.",
     "stance": "Treating AAA as a growth market in 2026 is how you justify the cuts that kill it.",
     "triggers": [
       "contrarian stance",
@@ -2471,8 +2471,8 @@
     "format": "quote",
     "score": 6,
     "tile": "library/01-content-cards/x/gaming-create-a-l-card-10.png",
-    "hook": "Sony is gutting gaming while you watch Microsoft",
-    "caption": "Sony is gutting gaming while everyone watches Microsoft. The timing isn't a coincidence — it's cover. Industry moves like this surface in my feed before the timeline catches on.",
+    "hook": "Sony guts gaming while you watch Xbox",
+    "caption": "Sony's gutting its gaming arm while everyone watches Microsoft's cuts. The timing isn't coincidence, it's camouflage — a rough quarter is the cheapest cover to make a strategic cut look like industry weather. When two rivals restructure in sync, one is a smokescreen.",
     "stance": "The Microsoft news is a smokescreen — Sony picked this exact week on purpose.",
     "triggers": [
       "Sony",
@@ -2491,7 +2491,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/gaming-create-a-l-card-11.png",
     "hook": "GDC is fading. Gamescom is eating its lunch.",
-    "caption": "GDC is fading while Gamescom goes from strength to strength. The center of gravity in gaming events is shifting — this is the kind of signal my feed keeps and the timeline misses.",
+    "caption": "GDC is fading while Gamescom surges. The shift is B2B losing to B2C, and that's a supply-chain tell: when the dealmaking conference shrinks and the consumer show grows, it means fewer new studios are being funded and the survivors are competing for players, not partners. Consolidation, visible in the calendar. Kept.",
     "stance": "",
     "triggers": [
       "Gamescom",
@@ -2510,7 +2510,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-14.png",
     "hook": "Assassin's Creed Black Flag is getting resynced",
-    "caption": "AC Black Flag Resynced lands July 9 on PS5 and Xbox — the pirate era, back. If Black Flag was your favorite Assassin's Creed, mark the date. Caught before the timeline.",
+    "caption": "AC Black Flag Resynced lands July 9, PS5 and Xbox. The remaster cadence is the business tell: Ubisoft reboots its best-loved back catalog precisely when the new pipeline is shaky, because nostalgia ships cheaper than a hit.",
     "stance": "",
     "triggers": [
       "Assassin's Creed",
@@ -2529,8 +2529,8 @@
     "format": "tabloid",
     "score": 6,
     "tile": "library/01-content-cards/x/gaming-create-a-l-card-29.png",
-    "hook": "Sony's PS disc factory is already being repurposed",
-    "caption": "Sony's PS disc factory is already being repurposed, and Microsoft's lining up buyers for Xbox studios. Physical media and the console era are quietly ending — the signal my feed keeps.",
+    "hook": "Kill the disc, kill resale, lending and preservation",
+    "caption": "Sony's repurposing its PS disc factory; Microsoft's lining up buyers for Xbox studios. Killing discs ends resale, lending and preservation — so every 'purchase' becomes a revocable license. You'll own nothing, framed as convenience.",
     "stance": "The disc era is over and nobody's holding a funeral.",
     "triggers": [
       "PlayStation",
@@ -2549,7 +2549,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-31.png",
     "hook": "\"Indie gaming will save the industry\" is a myth",
-    "caption": "\"Indie gaming will save the industry\" is a myth, and one dev just said it out loud. The comforting takes rarely survive scrutiny. The contrarian threads my feed keeps before they blow up.",
+    "caption": "\"Indie gaming will save the industry\" is a myth, and a dev said it out loud. The comforting version ignores scale: indies can't absorb tens of thousands of laid-off AAA workers or fund the infrastructure AAA built.",
     "stance": "Indies are a genre, not a rescue plan for a $200B industry.",
     "triggers": [
       "indie games",
@@ -2568,7 +2568,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-create-a-l-card-32.png",
     "hook": "15 biggest game reveals from July 2026, in one place",
-    "caption": "15 biggest game reveals from July 2026, in one place. Every major announcement and gameplay drop from the past few weeks. Skip the doomscroll — the roundup my feed built for you.",
+    "caption": "15 biggest game reveals from July 2026, in one place. The roundup exists because of a real shift: reveals now spread across a dozen studio-run streams instead of one E3, so the aggregator does the coordination the industry stopped doing.",
     "stance": "",
     "triggers": [
       "game reveals",
@@ -2587,7 +2587,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-09.png",
     "hook": "The Dreamcast still gets new games in 2026",
-    "caption": "The Dreamcast still gets new physical indie releases every year — 25 years after it died. No AAA studio can kill a scene that loves the hardware. The niche gems my feed keeps.",
+    "caption": "The Dreamcast still gets new physical indie releases 25 years after it died. The lesson isn't nostalgia, it's platform economics: once hardware is fixed and dev tools crack open, a small devoted market can sustain a scene forever.",
     "stance": "Dead consoles have healthier release schedules than half of AAA.",
     "triggers": [
       "nostalgia",
@@ -2606,7 +2606,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-11.png",
     "hook": "96% of indie games make no money",
-    "caption": "96% of indie games make almost nothing — including ones you loved. The dream is real, the odds are brutal. The hard numbers my feed surfaces before you sink 3 years in.",
+    "caption": "96% of indie games make almost nothing, including ones you loved. The number reframes what \"success\" measures: the ones you remember are the 4% survivorship sample, so your sense of \"indie works\" is built entirely on winners you were shown.",
     "stance": "Passion isn't a business model — most indie devs learn that too late.",
     "triggers": [
       "hard-stat",
@@ -2625,7 +2625,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-12.png",
     "hook": "PlayStation just killed physical indie releases",
-    "caption": "A dev who shipped a physical indie game calls it one of PlayStation's worst decisions ever. Collectors and players still want discs. The industry takes my feed keeps for you.",
+    "caption": "A dev who shipped physical calls going disc-free one of PlayStation's worst moves. The collector angle undersells it: physical was the last check on platform power, the one copy Sony couldn't remotely delist or alter.",
     "stance": "Killing physical media is killing the games that outlive their servers.",
     "triggers": [
       "mild-outrage",
@@ -2644,7 +2644,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-15.png",
     "hook": "1 year of game dev, zero prior experience",
-    "caption": "A full year of solo game dev with no prior experience, compressed to 30 seconds — built entirely in Godot. Proof the barrier dropped. The maker stuff my feed keeps.",
+    "caption": "A year of solo game dev, zero experience, all in Godot, in 30 seconds. The real story is the tooling collapse: engines that used to gate you behind a CS degree now assume none. The bottleneck moved from building to deciding what to build.",
     "stance": "You don't need a studio or a degree — you need Godot and a year.",
     "triggers": [
       "maker-inspo",
@@ -2663,7 +2663,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-17.png",
     "hook": "Indie devs don't owe you a $100 deluxe edition.",
-    "caption": "Indie devs don't owe you a $100 deluxe edition. Build a kick-ass product and players show up. The take my feed kept out of 5,000 posts about game launches.",
+    "caption": "\"Indie devs don't owe you a $100 deluxe edition. Build something great and players show up.\" The take cuts at a bad incentive: monetization tiers tax you before you've earned trust, signaling a team optimizing extraction over the product.",
     "stance": "The best indie games ship without a collector's edition, not despite it.",
     "triggers": [
       "contrarian stance",
@@ -2682,7 +2682,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/gaming-i-love-gam-card-19.png",
     "hook": "Steam and GoG killed the physical game disc.",
-    "caption": "Steam and GoG made libraries so trustworthy nobody misses discs anymore. Most indie devs won't press one again. The debate my feed pulled from the launch-day noise.",
+    "caption": "Steam and GOG made libraries so trustworthy nobody misses discs. True, and it's a trap worth naming: convenience bought your consent to give up ownership, and now that the habit's set, removing the fallback costs them nothing. The disc died because the replacement was good enough to make you stop noticing. Pulled from the noise.",
     "stance": "Physical PC releases are dead and nobody actually cares.",
     "triggers": [
       "contrarian stance",
@@ -2701,7 +2701,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/gaming-i-love-gam-card-22.png",
     "hook": "An atmospheric driving game through Dutch polders and windmills.",
-    "caption": "An atmospheric driving game through Dutch dikes, polders and windmills, built in public in Unity. The weird gem my feed keeps while the timeline chases AAA trailers.",
+    "caption": "An atmospheric driving game through Dutch dikes and windmills, built in public in Unity. The build-in-public part is the actual innovation here: shipping the devlog is marketing that costs nothing and pre-sells the audience, which is how a solo dev competes with a AAA marketing budget. The process is the campaign.",
     "stance": "",
     "triggers": [
       "topic clarity",
@@ -2720,7 +2720,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-28.png",
     "hook": "The game that made you a dev is already unplayable",
-    "caption": "The game that made you fall in love with games is probably already gone — pulled, delisted, unplayable 12 years later. Digital gaming forgets fast. The stuff my feed keeps.",
+    "caption": "The game that made you love games is probably delisted, unplayable 12 years on. Digital forgets fast — a preservation crisis we're sleepwalking into. No physical artifact means no archive, so an art form quietly deletes its own past.",
     "stance": "Delisting is quiet cultural erasure — we're losing the games that made us.",
     "triggers": [
       "emotion",
@@ -2739,7 +2739,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-03.png",
     "hook": "Marcus Aurelius on why you keep misreading people",
-    "caption": "\"Direct thy attention to what is said. Let thy understanding enter into the things that are doing.\" Marcus Aurelius on actually paying attention. Stoicism the feed kept before it scrolled past.",
+    "caption": "Marcus Aurelius: \"Let thy understanding enter into the things that are doing.\" It reads like a mindfulness quote but it's an attention-allocation argument: he's saying comprehension requires presence, and you can't understand a thing you're only half-watching. The multitasking tax, diagnosed in 170 AD. Surfaced before it scrolled past.",
     "stance": "",
     "triggers": [
       "cult-loved thinker"
@@ -2756,7 +2756,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-06.png",
     "hook": "Studying philosophy turned out to be absurdly useful",
-    "caption": "\"Studying philosophy turned out to be consistently, ridiculously useful for me.\" Not the pitch you were sold about the useless degree. The quiet contrarian take my feed kept for you.",
+    "caption": "\"Studying philosophy turned out to be ridiculously useful.\" Against the useless-degree pitch, the mechanism nobody names: philosophy trains you to find the load-bearing assumption in an argument. That skill prices well anywhere.",
     "stance": "Philosophy is the most practical degree nobody will admit is practical.",
     "triggers": [
       "contrast",
@@ -2774,7 +2774,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-12.png",
     "hook": "There's a phenomenology of lying — banal vs non-banal.",
-    "caption": "A free philosophy journal breaks down 'narrative breakdown' — a full phenomenology of banal and non-banal lying. The niche gems my feed surfaces before the timeline ever shows them.",
+    "caption": "A free journal maps a full phenomenology of banal and non-banal lying. The taxonomy is the useful part: separating lies by the liar's relationship to the truth explains why some deception feels harmless and some feels like a violation. Same act, different structure, different damage. The kind of gem that never trends.",
     "stance": "Not all lies are equal — some are structurally worse than others.",
     "triggers": [
       "curiosity",
@@ -2792,7 +2792,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-16.png",
     "hook": "The city you walk shapes how you think.",
-    "caption": "Psychogeography: the psychological impact of urban space on your mind. Merlin Coverley's book, reviewed. Where philosophy meets the streets you actually live in. The stuff my feed keeps before the timeline buries it.",
+    "caption": "Psychogeography: how urban space shapes your mind, via Coverley's book. The builder's takeaway: environment is UX for cognition, and a city's layout is running an interface on your attention whether it was designed to or not. You are being A/B tested by architecture that never had a hypothesis. My feed flagged it Tuesday.",
     "stance": "Your environment edits your thoughts more than you notice.",
     "triggers": [
       "you-framing",
@@ -2810,7 +2810,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-22.png",
     "hook": "The Declaration of Independence is applied philosophy.",
-    "caption": "The Founders were steeped in one question: defining Natural Law. That's why the DOI matters — inalienable rights and consent of the governed are Enlightenment principles. Found before the timeline.",
+    "caption": "The Founders obsessed over defining Natural Law, which is why the Declaration reads the way it does. The engineering read: they were trying to derive rights from axioms rather than authority, a from-first-principles spec for a government. The DOI is less a manifesto than an attempt at a formal proof. Surfaced early.",
     "stance": "The DOI is a philosophy paper that happened to found a country.",
     "triggers": [
       "political philosophy",
@@ -2828,8 +2828,8 @@
     "format": "quote",
     "score": 6,
     "tile": "library/01-content-cards/x/philosophy-random-phi-card-23.png",
-    "hook": "Plato: obsessing over health blocks the practice of virtue.",
-    "caption": "Plato: \"Attention to health is a great obstacle to the practice of virtue.\" A shot at wellness culture 2,400 years early. The take my feed kept.",
+    "hook": "Optimizing a legible metric is avoidance",
+    "caption": "Plato: 'Attention to health is a great obstacle to virtue.' Not anti-wellness — a warning about optimization as avoidance. Perfecting a legible metric is a socially approved way to dodge the illegible work that matters. The gym as productive procrastination.",
     "stance": "Optimizing your body can become a way to avoid improving your character.",
     "triggers": [
       "names Plato",
@@ -2848,7 +2848,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/philosophy-random-phi-card-28.png",
     "hook": "\"The music that can deepest reach is cordial speech.\"",
-    "caption": "\"The music that can deepest reach, and cure all ill, is cordial speech.\" Emerson, on why kind words outlast every argument you'll win online. One line my feed kept out of the noise.",
+    "caption": "Emerson: \"The music that can deepest reach, and cure all ill, is cordial speech.\" On why kindness outlasts any argument you win online: winning changes the score, not the mind. People update on trust, not on being cornered.",
     "stance": "",
     "triggers": [
       "Emerson",
@@ -2866,7 +2866,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-32.png",
     "hook": "All of ancient Chinese political thought in one messy chart",
-    "caption": "Daoism, Legalism, and the rest of ancient Chinese political thought mapped in one gloriously messy hand-drawn chart. Confusion cleared. A gem my feed pulled out of 5,000 posts.",
+    "caption": "Daoism, Legalism and the rest of ancient Chinese political thought, mapped in one messy hand-drawn chart. The chart does what prose can't: shows these as competing answers to one question, how to order humans at scale, which is the same question every governance and org-design debate is still having. Pulled from 5,000 posts.",
     "stance": "",
     "triggers": [
       "Daoism",
@@ -2886,7 +2886,7 @@
     "score": 6,
     "tile": "library/01-content-cards/bluesky/gaming-crypto-card-11.png",
     "hook": "Your game engine has no idea what beer is",
-    "caption": "Your game engine has no idea what beer is. A solo dev's devlog on teaching a simulation game the logic behind brewing, from scratch. The build-in-public stuff my feed keeps.",
+    "caption": "A solo devs devlog on teaching a sim game the logic of brewing. \"The engine has no idea what beer is\" is the whole hard problem of simulation: the machine models nothing until you formalize it. Building a sim is applied ontology.",
     "stance": "The hard part of sim games isn't graphics, it's modeling systems the engine knows nothing about.",
     "triggers": [
       "solo dev devlog",
@@ -2905,7 +2905,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/gaming-crypto-card-14.png",
     "hook": "Godot 4.8 Dev1 just dropped a sneak peek",
-    "caption": "Godot 4.8 Dev1 just dropped, and it's an early look at what's landing in the next release. If you build in the open-source engine devs actually love, this is your heads-up. Found before the timeline.",
+    "caption": "Godot 4.8 Dev1 dropped, an early look at the next release. The heads-up matters because Godot's real value isn't features, it's not being owned by anyone: Unity's runtime-fee fiasco taught every dev that a proprietary engine can change the deal after you've shipped. Open-source is insurance, not ideology. Surfaced early.",
     "stance": "Godot is quietly becoming the engine indies pick first, not the fallback.",
     "triggers": [
       "Godot 4.8",
@@ -2923,8 +2923,8 @@
     "format": "bigStat",
     "score": 6,
     "tile": "library/01-content-cards/x/gaming-crypto-card-15.png",
-    "hook": "Studios earn twice as much from digital vs physical sales",
-    "caption": "Studios earn twice as much from digital sales, says the Lords of the Fallen CEO. The economics behind why physical game copies are quietly dying. The numbers my feed pulls out for you.",
+    "hook": "No used market means no price floor for you",
+    "caption": "Studios make roughly twice as much per digital sale. That gap is why physical is dying — but the effect that hits you: no used market means no price floor, so games never really go on sale, they just get delisted. Digital killed the discount.",
     "stance": "Physical game sales are done, and studios have known it for years.",
     "triggers": [
       "digital vs physical",
@@ -2943,7 +2943,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/crypto-crypto-card-27.png",
     "hook": "DeFi has huge brand awareness and almost zero actual usage",
-    "caption": "DeFi's problem in one line: everyone's heard of it, almost nobody uses it. 694 people surveyed, the gap is brutal. The uncomfortable data my feed keeps over the hype.",
+    "caption": "DeFi in one line: everyone's heard of it, almost nobody uses it. 694 surveyed, the gap is brutal. The gap is the diagnosis: a technology with high awareness and near-zero usage doesn't have a marketing problem, it has a utility problem, and no amount of yield can fix a product people don't need. Awareness was never traction. Kept over the hype.",
     "stance": "DeFi's real bottleneck isn't tech. It's that awareness never converted to usage.",
     "triggers": [
       "awareness vs usage gap",
@@ -2961,8 +2961,8 @@
     "format": "quote",
     "score": 6,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-13.png",
-    "hook": "The experiment that proved 'spooky action' is real.",
-    "caption": "Quantum theory said particles could affect each other instantly. This experiment proved it. 47 likes, 44 replies still arguing. The stuff my feed keeps.",
+    "hook": "The physics settled decades ago. The replies didn't",
+    "caption": "Quantum theory said particles could affect each other instantly; this experiment nailed it — the replies still argue. The physics settled decades ago, but 'instant' feels like it breaks causality. It doesn't: no signal, no information. Correlation isn't communication.",
     "stance": "",
     "triggers": [
       "awe",
@@ -2979,8 +2979,8 @@
     "format": "tabloid",
     "score": 6,
     "tile": "library/01-content-cards/x/science-genuine-wa-card-27.png",
-    "hook": "CERN found a superposition that occupies two states at once.",
-    "caption": "CERN reports a new form of quantum superposition — one thing in two states at once, for real. Your intuition breaks, the math doesn't. The stuff my feed keeps over the memes.",
+    "hook": "Superposition is real — and the math predicted it",
+    "caption": "CERN reports a new form of quantum superposition — one thing, two states, for real. Notice what didn't break: the math predicted it exactly. Your intuition is the wrong part, trained on a scale where superposition averages out.",
     "stance": "",
     "triggers": [
       "surprise",
@@ -2998,7 +2998,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-29.png",
     "hook": "You can build a real quantum entanglement experiment at home.",
-    "caption": "You can build a real quantum entanglement rig at home — Scientific American wrote the guide. Spooky action, on your desk. The kind of build my feed keeps for you.",
+    "caption": "You can build a real quantum-entanglement rig at home, Scientific American wrote the guide. The interesting shift is accessibility: the experiment that won Nobel Prizes and \"broke reality\" is now a weekend build, which means the frontier of one generation becomes the hobby kit of the next. Spooky action, on your desk. Kept for you.",
     "stance": "",
     "triggers": [
       "relevance",
@@ -3016,7 +3016,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-32.png",
     "hook": "Quantum imaging could push exoplanet photos to the physical limit.",
-    "caption": "Quantum information theory could sharpen exoplanet imaging all the way to the theoretical limit — sharper alien-world photos from pure math. The space-tech find my feed keeps.",
+    "caption": "Quantum information theory could sharpen exoplanet imaging to the theoretical limit, better photos from pure math. The mechanism is the beautiful part: you're not building a bigger telescope, you're extracting information the light already carried but classical optics threw away. The limit was never the lens, it was the measurement. Kept.",
     "stance": "",
     "triggers": [
       "awe",
@@ -3034,7 +3034,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-06.png",
     "hook": "The biggest Big Tech acquisitions, ranked.",
-    "caption": "The largest deals Big Tech ever made — ranked in one place. Half the apps you open daily started as someone else's startup. The map my feed keeps so you see the whole board.",
+    "caption": "The largest deals Big Tech ever made, ranked. Half the apps you open daily began as someone else's startup. The pattern is the point: the winning strategy was never building the best product, it was owning the distribution and buying whoever built it. You don't beat a monopoly on features, you get acquired by it. A map, kept.",
     "stance": "",
     "triggers": [
       "curiosity gap",
@@ -3052,7 +3052,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-13.png",
     "hook": "The FTC is finally reopening old Big Tech deals.",
-    "caption": "Years of untouched acquisitions — now the FTC wants a second look. If they unwind even one, the map changes. The regulatory stuff my feed keeps.",
+    "caption": "Years of untouched acquisitions, and now the FTC wants a second look. The realistic read: unwinding a fully-integrated decade-old deal is close to impossible, so this isn't about the past deals, it's about repricing the next one. The threat's whole value is the chill it puts on future M&A. Kept for you.",
     "stance": "",
     "triggers": [
       "named-entities",
@@ -3069,8 +3069,8 @@
     "format": "splitProof",
     "score": 6,
     "tile": "library/01-content-cards/x/ai-inside-big-card-15.png",
-    "hook": "An AI CEO is choosing: sell to Big Tech, or die.",
-    "caption": "Aurora's cash runway is closing and the only exits are spinout, layoffs, or absorption. This is how the AI shakeout actually ends. Found before the headlines.",
+    "hook": "The AI shakeout ends in absorption, not failure",
+    "caption": "Aurora's runway is closing; the only exits are spinout, layoffs, or absorption. This is how the AI shakeout ends — not with failure, but talent and IP quietly reallocated to the giants at a discount. A bust in the startup layer is an accumulation phase for incumbents.",
     "stance": "Most AI startups won't fail loudly — they'll just get eaten.",
     "triggers": [
       "surprise",
@@ -3088,8 +3088,8 @@
     "format": "minimal",
     "score": 6,
     "tile": "library/01-content-cards/x/ai-inside-big-card-16.png",
-    "hook": "Everything you believe about Big Tech antitrust is wrong.",
-    "caption": "A myth-by-myth breakdown of what antitrust actually does — and doesn't — to Big Tech. Sharpens every hot take you're about to post. The stuff my feed keeps.",
+    "hook": "Most of what you believe about antitrust is wrong",
+    "caption": "A myth-by-myth breakdown of what antitrust actually does — and doesn't — to Big Tech. The uncomfortable takeaway for the reflexively pro-breakup: most remedies help competitors, not users, and 'break them up' often makes several monopolies where there was one.",
     "stance": "",
     "triggers": [
       "contrarian-stance",
@@ -3101,13 +3101,13 @@
   },
   {
     "platform": "x",
-    "lane": "crypto",
-    "topic": "crypto",
+    "lane": "ai",
+    "topic": "ai",
     "format": "tabloid",
     "score": 6,
     "tile": "library/01-content-cards/x/crypto-inside-big-card-18.png",
-    "hook": "Apple aside, Amazon Facebook and Google are (almost) all guilty",
-    "caption": "Apple aside, the antitrust case says Amazon, Facebook and Google are (almost) all guilty. The platforms you build on are the ones on trial. Found before the timeline caught it.",
+    "hook": "A monopoly finding hits the cloud you build on",
+    "caption": "The antitrust case says Amazon, Facebook and Google are (almost) all guilty — Apple's the odd one out. If you build on these clouds, a monopoly finding isn't abstract: remedies mean forced structural changes to the platforms your stack sits on.",
     "stance": "The companies hosting your app are the same ones under antitrust fire.",
     "triggers": [
       "big tech antitrust",
@@ -3120,13 +3120,13 @@
   },
   {
     "platform": "x",
-    "lane": "crypto",
-    "topic": "crypto",
+    "lane": "ai",
+    "topic": "ai",
     "format": "tabloid",
     "score": 6,
     "tile": "library/01-content-cards/x/crypto-inside-big-card-20.png",
-    "hook": "The DOJ's top antitrust cop says Big Tech looks like Standard Oil",
-    "caption": "The DOJ's top antitrust cop says Big Tech now looks a lot like Standard Oil. When regulators reach for the monopoly playbook, your whole stack is in scope. The stuff my feed keeps.",
+    "hook": "The story isn't monopoly — it's the breakup remedy",
+    "caption": "The DOJ's antitrust chief compares Big Tech to Standard Oil. The part builders should note isn't monopoly — it's the remedy: Standard Oil got broken into pieces. The cloud you deploy on could be a different company in five years.",
     "stance": "The Standard Oil comparison means breakups, not fines, are on the table.",
     "triggers": [
       "Standard Oil analogy",
@@ -3139,13 +3139,13 @@
   },
   {
     "platform": "x",
-    "lane": "crypto",
-    "topic": "crypto",
+    "lane": "ai",
+    "topic": "ai",
     "format": "tabloid",
     "score": 6,
     "tile": "library/01-content-cards/x/crypto-inside-big-card-21.png",
-    "hook": "Everyone blamed Facebook. Maybe Apple was the problem all along.",
-    "caption": "Everyone thought Facebook was the 800-pound gorilla. This argues Apple was the real monopoly all along. Contrarian take on who Big Tech antitrust should actually target. Found before the timeline.",
+    "hook": "Apple's power isn't share. It's the gate",
+    "caption": "Everyone crowned Facebook the gorilla; this argues Apple was the real monopoly all along. The overlooked mechanism: Apple's power isn't market share, it's the tollbooth — one veto over distribution beats owning the biggest social graph.",
     "stance": "Apple's App Store lock-in is a bigger monopoly story than the ad giants.",
     "triggers": [
       "contrarian target",
@@ -3163,8 +3163,8 @@
     "format": "tabloid",
     "score": 6,
     "tile": "library/01-content-cards/x/ai-inside-big-card-25.png",
-    "hook": "Biden's antitrust team is forming — Big Tech just got warned.",
-    "caption": "Biden's antitrust team is taking shape and Big Tech got the warning shot. Regulation is coming for the giants you build on. The policy news my feed catches before the timeline.",
+    "hook": "Enforcement lands a cycle too late, every time",
+    "caption": "The antitrust team is taking shape and Big Tech got its warning shot. Enforcement always lands a cycle late, so by the time the giants get reined in, the leverage has moved to whatever they acquired to replace the regulated thing. You police the last war.",
     "stance": "The next platform shift won't be a product — it'll be a court ruling.",
     "triggers": [
       "antitrust",
@@ -3182,8 +3182,8 @@
     "format": "bigStat",
     "score": 6,
     "tile": "library/01-content-cards/x/ai-inside-big-card-27.png",
-    "hook": "Congress promised to regulate Big Tech. It's quietly dying.",
-    "caption": "218 upvotes, 464 comments: Congress' push to regulate Big Tech is fizzling out. The giants outlasted the outrage again. The story my feed surfaces while the timeline moves on.",
+    "hook": "Attention is the only enforcement Congress has",
+    "caption": "Congress' push to regulate Big Tech is fizzling; the giants outlasted the outrage again. Attention is the only enforcement a legislature has, and it has a shorter half-life than a bill's markup. Big Tech doesn't beat regulation, it waits it out. Time is the lobby.",
     "stance": "Every Big Tech reckoning ends the same way: a hearing, a headline, then nothing.",
     "triggers": [
       "Congress",
@@ -3202,7 +3202,7 @@
     "score": 6,
     "tile": "library/01-content-cards/mastodon/ai-inside-big-card-31.png",
     "hook": "Big Tech is hiding the true cost of AI in its balance sheets.",
-    "caption": "Hidden data center costs are quietly inflating Big Tech's operating income — legal, but it warps how you value AI. The accounting story my feed surfaced early.",
+    "caption": "Hidden data-center costs are quietly inflating Big Tech's operating income, legal but distorting. The trick to understand: capitalizing infrastructure spend moves it off the income statement, so AI capex that should dent margins shows up as an asset instead. The profits look real; the accounting decides how real. Surfaced early.",
     "stance": "AI's real cost isn't on the earnings call — it's buried in the footnotes.",
     "triggers": [
       "AI accounting",
@@ -3221,7 +3221,7 @@
     "score": 5,
     "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-20.png",
     "hook": "A fresh batch of indie games dropped on Steam today.",
-    "caption": "A fresh batch of indie games dropped on Steam and Switch today. The small launches nobody tweets about are usually the good ones. Found before the timeline buried them.",
+    "caption": "A fresh batch of indie games hit Steam and Switch today. The small launches nobody tweets are usually the good ones — no marketing budget means no hype to correct for, so word-of-mouth on a quiet launch is pure signal.",
     "stance": "",
     "triggers": [
       "topic clarity",

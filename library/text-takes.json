@@ -1,0 +1,256 @@
+[
+  {
+    "topic": "ai",
+    "score": 8,
+    "caption": "The scary AI model isn't the one a lab says is 'too dangerous to release.' It's the boring open one you're already running in prod, that nobody's stress-testing because it doesn't make headlines."
+  },
+  {
+    "topic": "ai",
+    "score": 8,
+    "caption": "If AI writing your code scares you, ask an honest question: were you being paid to type, or to decide what's worth building? The typing was never the moat."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "'Staying informed' is how sharp people avoid thinking. You read forty takes so you never have to risk one of your own. Reading feels like progress; it isn't."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "Frontier models ship like CI/CD now — no version pinned, silent rolling updates. Nobody prices the cost: you can't reproduce a result or prove which model wrote what. Continuous deployment quietly killed accountability."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "The acqui-hire replaced the acquisition for one reason: buying a company triggers antitrust review, hiring its founders doesn't. It's a legal wrapper for a purchase regulators can't see."
+  },
+  {
+    "topic": "science",
+    "score": 8,
+    "caption": "Measuring a photon doesn't read its state — it creates it. Observation is a write, not a read. Most 'spooky' quantum weirdness is just that one sentence, restated."
+  },
+  {
+    "topic": "science",
+    "score": 7,
+    "caption": "The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "No £60 game reviews above a 7. Not because they're worse — price sets the baseline the score is graded against. The same game at £20 reviews a point higher. You're rating the receipt."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "When two rival studios restructure in the same week, one of them is using the other as cover. A rough quarter is the cheapest camouflage for an unpopular strategic cut."
+  },
+  {
+    "topic": "crypto",
+    "score": 7,
+    "caption": "DeFi's real story isn't 'number go up' — it's that immutability is the feature and the liability in one contract. No support desk, no undo. A typo isn't a bug, it's a burn."
+  },
+  {
+    "topic": "crypto",
+    "score": 6,
+    "caption": "Privacy that scales invites the crackdown that ends it. The moment on-chain yield outruns a king's estate for opacity, it stops being a loophole and becomes the reason surveillance gets mandated."
+  },
+  {
+    "topic": "philosophy",
+    "score": 7,
+    "caption": "Marcus Aurelius, as a debugging note: most anxiety is your brain running unbounded simulation on inputs that don't exist yet. 'Confine thyself to the present' means stop executing speculative branches."
+  },
+  {
+    "topic": "philosophy",
+    "score": 6,
+    "caption": "Analytic philosophy is the rare field with no taboo against calling a colleague simply wrong. That's not rudeness — it's the only norm that lets a field compound instead of accrete. You can't build on an idea nobody's allowed to kill."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "The real cost of a coding agent isn't tokens. It's that you stop holding the whole system in your head. Six months in you can prompt your codebase but you can no longer reason about it. You outsourced the map, not just the typing."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "Fine-tuning a model on your own outputs is a slow-motion photocopy of a photocopy. Each generation loses the tails. The distribution narrows, the model gets more agreeable, and you mistake the collapse for alignment."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community."
+  },
+  {
+    "topic": "ai",
+    "score": 7,
+    "caption": "The context window is a memory leak with a marketing team. A million tokens doesn't mean the model remembers a million tokens, it means attention gets thinner across all of them. You didn't buy more memory, you diluted the memory you had."
+  },
+  {
+    "topic": "science",
+    "score": 7,
+    "caption": "A p-value under 0.05 was never evidence something is true. It's the odds you'd see this data if nothing were going on. Half of science's replication crisis is people reading a statement about noise as a statement about reality."
+  },
+  {
+    "topic": "science",
+    "score": 7,
+    "caption": "Entropy isn't disorder, that's the pop-sci lie. It's the count of arrangements you can't tell apart. Your desk looks messy because you know where things go; to a stranger it's already maximally uncertain. Entropy is about the observer."
+  },
+  {
+    "topic": "science",
+    "score": 7,
+    "caption": "Half of what a cell does is spend energy to stay out of equilibrium. Equilibrium is death. Life isn't a stable state you reach, it's a pump that never turns off. Stop pumping for four minutes and you find out what stability actually means."
+  },
+  {
+    "topic": "science",
+    "score": 7,
+    "caption": "The gut has more neurons than a cat's brain and runs mostly without asking upstairs. 'Trust your gut' isn't a metaphor, it's a second controller with its own reflex loops. You're not one mind deciding, you're a committee that mostly agrees."
+  },
+  {
+    "topic": "science",
+    "score": 7,
+    "caption": "Aging isn't wear and tear, you can rebuild and a machine can't. It's that repair is selected to work great until you've reproduced, then coast. Evolution never optimized the second half of your life. Nothing broke; the warranty just ended."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "A skill tree isn't for the player. It's a UI for hiding that most of your build is locked until hour 30, dressed up as freedom. Real choice would let you pick anything now. A tree is a schedule that lets you feel like you scheduled it."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "Difficulty menus are a confession you couldn't tune one experience that works. Easy/Normal/Hard hands the hardest design problem, matching challenge to player, back to the player. Elden Ring's refusal isn't stubbornness, it's an opinion."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "Early access sells the game twice: once to those who fund the build, once to those who wait for it to be good. The first cohort pays more and reviews harsher. Your most loyal players are your worst-treated QA team."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "The reason indies feel more original isn't more creativity, it's that a small team can't afford focus-testing the weirdness out. AAA doesn't kill ideas on purpose. It kills them by consensus, one 'players found this confusing' at a time."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "caption": "A live-service game has to be slightly unsatisfying by design. A game that fully satisfies you is one you close. Retention and fun point opposite ways, and the roadmap you're excited about exists to keep you from finishing."
+  },
+  {
+    "topic": "crypto",
+    "score": 7,
+    "caption": "A DAO doesn't decentralize power, it launders it. Turnout is 4% and whoever holds the tokens holds the votes, so 'the community decided' means a few wallets did, now with a paper trail that says otherwise. Governance theater with a receipt."
+  },
+  {
+    "topic": "crypto",
+    "score": 7,
+    "caption": "The oracle problem is the whole game and nobody admits it. A smart contract is only as trustless as the feed telling it the price, and that feed is a few servers a human runs. You didn't remove trust from the system, you hid where it lives."
+  },
+  {
+    "topic": "crypto",
+    "score": 7,
+    "caption": "Gas fees aren't a tax, they're the only spam filter a permissionless system can have. Make transactions free and someone fills every block for the lulz by lunch. The fee isn't friction, it's the immune system. Free chains die of infection."
+  },
+  {
+    "topic": "crypto",
+    "score": 7,
+    "caption": "Immutability sounds like strength until it means the network can't fix a mistake without becoming a new network. A hard fork isn't an upgrade, it's an admission that 'code is law' held right up until the law got inconvenient enough."
+  },
+  {
+    "topic": "philosophy",
+    "score": 7,
+    "caption": "Occam's razor doesn't say the simplest explanation is true. It says pick it when nothing else lets you choose. Devs treat it as a law of reality when it's a rule for betting under ignorance. Simplicity is a tiebreaker, not a truth detector."
+  },
+  {
+    "topic": "philosophy",
+    "score": 7,
+    "caption": "A goal you can fully specify is one you've already half-solved, and that's the trap. Hard problems resist specification, so you retreat to ones you can write acceptance criteria for. Your backlog is a monument to what was easy to define."
+  },
+  {
+    "topic": "philosophy",
+    "score": 7,
+    "caption": "The strongest argument against your position is one you should be able to state better than its holders. If you can't, you didn't beat it, you never met it. Most 'I've considered the other side' is a straw man you've spent years rehearsing."
+  },
+  {
+    "topic": "philosophy",
+    "score": 7,
+    "caption": "Being consistent isn't a virtue, it's just cheaper than being right. Holding one view for ten years feels like integrity, but it might only mean you stopped updating. A mind that never contradicts its past self quit learning in public."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Nanite and Lumen quietly ended the LOD era — artists stopped hand-authoring detail levels and started shipping film-grade meshes raw. The craft shifted from faking detail to budgeting it. Your GPU eats the difference."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "AI NPCs are a latency problem wearing a creativity costume. The hard part was never making them talk — it is making them answer in 80ms without a cloud round-trip. On-device or it breaks immersion."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Every studio layoff is a market signal you can read: when they cut the engine team but keep live-ops, they have stopped betting on new games and started renting out the ones they have."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Upscaling (DLSS/FSR) means you no longer render the game you see — you render a smaller one and hallucinate the rest. The frame is half measured, half guessed. Nobody minds, which tells you something about perception."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Procedural generation is a compression trick, not a content trick. No Man Sky did not build a galaxy; it shipped the seed and let your machine expand it. The universe is a function, not a file."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Shader compilation stutter is the tax for cross-platform. The game cannot know your exact GPU ahead of time, so it compiles on the fly — and you feel it as a hitch. PC ports live or die on how they hide this."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Anti-cheat runs in the kernel because the fight moved below the game. To catch a cheat reading memory, the defender has to sit deeper than the attacker. You installed a rootkit to play a shooter, and agreed to it."
+  },
+  {
+    "topic": "gaming",
+    "score": 7,
+    "platforms": [
+      "bluesky"
+    ],
+    "caption": "Netcode is philosophy in disguise: rollback quietly rewrites the last few frames of shared reality so two players who disagree end up agreeing. Every fighting game is running a tiny consensus protocol."
+  }
+]

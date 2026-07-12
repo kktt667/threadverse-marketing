@@ -10,6 +10,7 @@
 // Topic → candidate tags (stored CamelCase; lowercased per-platform where that's the norm).
 const TOPIC_TAGS = {
   ai:        ['AI', 'MachineLearning', 'LLM', 'TechNews', 'ArtificialIntelligence'],
+  science:   ['Science', 'Physics', 'QuantumComputing', 'Research', 'ScienceNews'],
   crypto:    ['Crypto', 'Bitcoin', 'Web3', 'DeFi', 'CryptoNews'],
   gaming:    ['Gaming', 'IndieGames', 'GameDev', 'Gamer', 'VideoGames'],
   philosophy:['Philosophy', 'DeepThoughts', 'Thinking', 'Ideas', 'Wisdom'],
@@ -52,15 +53,15 @@ function tagsFor({ topic, format, category }, platform) {
   const picks = [];
   const push = t => { const tag = casePlatform(t, platform); if (tag && !picks.includes(tag) && picks.length < limit) picks.push(tag); };
 
-  // 1. brand tag (1) — always first
-  (BRAND[platform] || []).slice(0, platform === 'x' ? 1 : 1).forEach(push);
-
-  // 2. topic tags — the bulk of relevance
+  // 1. topic tag(s) FIRST — the lane tag matters most for discovery + fingerprint (Gate 0).
+  //    On X (limit 2) this guarantees the lane tag always lands, even when the caption is long.
   const topicKey = TOPIC_TAGS[topic] ? topic : (category === 'product-card' ? 'product' : null);
   const pool = TOPIC_TAGS[topicKey] || TOPIC_TAGS.product;
-  // X gets just 1 strong topical tag; others get 2-3
   const nTopic = platform === 'x' ? 1 : (platform === 'mastodon' ? 3 : 3);
   pool.slice(0, nTopic).forEach(push);
+
+  // 2. brand tag — second, so it's the one that drops when space is tight (product stays ambient).
+  (BRAND[platform] || []).slice(0, 1).forEach(push);
 
   // 3. a reach tag if room (skip on X — it's tight at 2)
   if (platform !== 'x') (REACH[platform] || []).forEach(push);

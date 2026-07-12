@@ -55,17 +55,21 @@ async function blueskyPost({ caption, imgPath }) {
     body: JSON.stringify({ identifier: handle, password: pw }),
   })).json();
   if (!s.accessJwt) throw new Error('bluesky auth failed: ' + JSON.stringify(s).slice(0, 160));
-  // 2. upload blob
-  const { buf, mime } = await readImage(imgPath, 976000);
-  const blobRes = await fetch(`${svc}/xrpc/com.atproto.repo.uploadBlob`, {
-    method: 'POST', headers: { 'Content-Type': mime, Authorization: `Bearer ${s.accessJwt}` }, body: buf,
-  });
-  const blobJson = await blobRes.json();
-  if (!blobJson.blob) throw new Error('bluesky blob upload failed: ' + JSON.stringify(blobJson).slice(0, 160));
-  // 3. create post
+  // 2. upload blob (image posts only)
+  let embed = null;
+  if (imgPath) {
+    const { buf, mime } = await readImage(imgPath, 976000);
+    const blobRes = await fetch(`${svc}/xrpc/com.atproto.repo.uploadBlob`, {
+      method: 'POST', headers: { 'Content-Type': mime, Authorization: `Bearer ${s.accessJwt}` }, body: buf,
+    });
+    const blobJson = await blobRes.json();
+    if (!blobJson.blob) throw new Error('bluesky blob upload failed: ' + JSON.stringify(blobJson).slice(0, 160));
+    embed = { $type: 'app.bsky.embed.images', images: [{ alt: 'Threadverse', image: blobJson.blob }] };
+  }
+  // 3. create post (embed omitted for text-only)
   const record = {
     $type: 'app.bsky.feed.post', text: caption, createdAt: nowISO(),
-    embed: { $type: 'app.bsky.embed.images', images: [{ alt: 'Threadverse', image: blobJson.blob }] },
+    ...(embed ? { embed } : {}),
   };
   const post = await (await fetch(`${svc}/xrpc/com.atproto.repo.createRecord`, {
     method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${s.accessJwt}` },
@@ -79,17 +83,21 @@ async function blueskyPost({ caption, imgPath }) {
 async function mastodonPost({ caption, imgPath }) {
   const base = (process.env.MASTODON_BASE_URL || '').replace(/\/$/, ''), tok = process.env.MASTODON_ACCESS_TOKEN;
   if (!base || !tok) throw new Error('MASTODON_BASE_URL / MASTODON_ACCESS_TOKEN not set');
-  const { buf, mime } = await readImage(imgPath, 8_000_000);
-  // 1. upload media (v2)
-  const form = new FormData();
-  form.append('file', new Blob([buf], { type: mime }), 'tile.' + (mime === 'image/png' ? 'png' : 'jpg'));
-  form.append('description', 'Threadverse');
-  const media = await (await fetch(`${base}/api/v2/media`, { method: 'POST', headers: { Authorization: `Bearer ${tok}` }, body: form })).json();
-  if (!media.id) throw new Error('mastodon media failed: ' + JSON.stringify(media).slice(0, 160));
-  // 2. status
+  // 1. upload media (v2) — image posts only
+  const media_ids = [];
+  if (imgPath) {
+    const { buf, mime } = await readImage(imgPath, 8_000_000);
+    const form = new FormData();
+    form.append('file', new Blob([buf], { type: mime }), 'tile.' + (mime === 'image/png' ? 'png' : 'jpg'));
+    form.append('description', 'Threadverse');
+    const media = await (await fetch(`${base}/api/v2/media`, { method: 'POST', headers: { Authorization: `Bearer ${tok}` }, body: form })).json();
+    if (!media.id) throw new Error('mastodon media failed: ' + JSON.stringify(media).slice(0, 160));
+    media_ids.push(media.id);
+  }
+  // 2. status (media_ids omitted when empty = text-only)
   const status = await (await fetch(`${base}/api/v1/statuses`, {
     method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${tok}` },
-    body: JSON.stringify({ status: caption, media_ids: [media.id] }),
+    body: JSON.stringify(media_ids.length ? { status: caption, media_ids } : { status: caption }),
   })).json();
   if (!status.id) throw new Error('mastodon status failed: ' + JSON.stringify(status).slice(0, 160));
   return status.url;
@@ -115,19 +123,23 @@ const enc = s => encodeURIComponent(s).replace(/[!*'()]/g, c => '%' + c.charCode
 async function xPost({ caption, imgPath }) {
   const creds = { key: process.env.X_API_KEY, secret: process.env.X_API_SECRET, token: process.env.X_ACCESS_TOKEN, tokenSecret: process.env.X_ACCESS_SECRET };
   if (!creds.key || !creds.token) throw new Error('X_API_* / X_ACCESS_* not set');
-  // 1. upload media (v1.1, multipart) — signature uses NO body params for multipart
-  const { buf } = await readImage(imgPath, 5_000_000);
-  const mediaUrl = 'https://upload.twitter.com/1.1/media/upload.json';
-  const form = new FormData();
-  form.append('media', new Blob([buf]), 'tile.png');
-  const mediaRes = await fetch(mediaUrl, { method: 'POST', headers: { Authorization: oauthHeader('POST', mediaUrl, {}, creds) }, body: form });
-  const media = await mediaRes.json();
-  if (!media.media_id_string) throw new Error('x media failed: ' + JSON.stringify(media).slice(0, 160));
-  // 2. tweet (v2 JSON) — OAuth1 header with no body params in signature base
+  // 1. upload media (v1.1, multipart) — image posts only
+  let mediaId = null;
+  if (imgPath) {
+    const { buf } = await readImage(imgPath, 5_000_000);
+    const mediaUrl = 'https://upload.twitter.com/1.1/media/upload.json';
+    const form = new FormData();
+    form.append('media', new Blob([buf]), 'tile.png');
+    const mediaRes = await fetch(mediaUrl, { method: 'POST', headers: { Authorization: oauthHeader('POST', mediaUrl, {}, creds) }, body: form });
+    const media = await mediaRes.json();
+    if (!media.media_id_string) throw new Error('x media failed: ' + JSON.stringify(media).slice(0, 160));
+    mediaId = media.media_id_string;
+  }
+  // 2. tweet (v2 JSON) — OAuth1 header with no body params in signature base; media omitted for text-only
   const tweetUrl = 'https://api.twitter.com/2/tweets';
   const res = await fetch(tweetUrl, {
     method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: oauthHeader('POST', tweetUrl, {}, creds) },
-    body: JSON.stringify({ text: caption, media: { media_ids: [media.media_id_string] } }),
+    body: JSON.stringify(mediaId ? { text: caption, media: { media_ids: [mediaId] } } : { text: caption }),
   });
   const j = await res.json();
   if (!j.data?.id) throw new Error('x tweet failed: ' + JSON.stringify(j).slice(0, 200));
@@ -141,11 +153,13 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
   if (!fs.existsSync(QUEUE)) { console.error('No queue.json — run: node postiz/build-queue.js'); process.exit(1); }
   const queue = JSON.parse(fs.readFileSync(QUEUE, 'utf8'));
   const posted = fs.existsSync(POSTED) ? JSON.parse(fs.readFileSync(POSTED, 'utf8')) : [];
-  const doneKey = new Set(posted.map(p => p.tile + '|' + p.platform));
+  // dedup key: tile for image posts; a short caption-based key for text-only (no tile)
+  const keyOf = p => (p.tile || ('txt:' + (p.id || (p.caption || '').replace(/\s+/g, ' ').trim().slice(0, 50)))) + '|' + p.platform;
+  const doneKey = new Set(posted.map(keyOf));
   const now = new Date();
 
   // due = scheduled time already passed and not yet posted; NOW_MODE = ignore time
-  let due = queue.filter(q => !doneKey.has(q.tile + '|' + q.platform))
+  let due = queue.filter(q => !doneKey.has(keyOf(q)))
     .filter(q => NOW_MODE || new Date(`${q.date}T${q.timeUTC}:00.000Z`) <= now);
   due.sort((a, b) => (a.date + a.timeUTC).localeCompare(b.date + b.timeUTC));
   // Cap per platform (drip, don't dump). Keeps chronological order within each platform.
@@ -162,12 +176,16 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
   let ok = 0, fail = 0;
   for (const q of due) {
     const poster = POSTERS[q.platform];
-    const imgPath = path.join(ROOT, q.tile);
-    if (!poster || !fs.existsSync(imgPath)) { console.log(`  ⏭️  ${q.platform} ${q.tile} (no poster/file)`); continue; }
-    if (DRY) { console.log(`  • ${q.date} ${q.timeUTC} ${q.platform} — ${q.title?.slice(0, 44)}`); ok++; continue; }
+    // text-only post = no tile (or empty). Image post = tile must exist on disk.
+    const textOnly = !q.tile;
+    const imgPath = textOnly ? null : path.join(ROOT, q.tile);
+    if (!poster) { console.log(`  ⏭️  ${q.platform} (no poster)`); continue; }
+    if (!textOnly && !fs.existsSync(imgPath)) { console.log(`  ⏭️  ${q.platform} ${q.tile} (image missing)`); continue; }
+    const label = q.title || q.caption?.slice(0, 44);
+    if (DRY) { console.log(`  • ${q.date} ${q.timeUTC} ${q.platform}${textOnly ? ' [text]' : ''} — ${label}`); ok++; continue; }
     try {
       const url = await poster({ caption: q.caption, imgPath });
-      posted.push({ tile: q.tile, platform: q.platform, at: now.toISOString(), url });
+      posted.push({ tile: q.tile || null, platform: q.platform, at: now.toISOString(), url });
       fs.writeFileSync(POSTED, JSON.stringify(posted, null, 2));
       console.log(`  ✅ ${q.platform} — ${url}`);
       ok++;
