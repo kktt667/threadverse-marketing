@@ -21,7 +21,9 @@ const arg = (n, d = null) => { const i = process.argv.indexOf(`--${n}`); if (i =
 const PLATFORMS = (arg('platforms', 'bluesky,mastodon')).split(',').map(s => s.trim());
 const PER_DAY = +(arg('per-day', 6));
 const DAYS = +(arg('days', 20));
-const START = arg('start', '2026-07-02');
+// Default START = today (UTC) so a fresh build schedules FORWARD, not back-dated (back-dating makes
+// every item read as "due now", which floods the next cron run). Override with --start YYYY-MM-DD.
+const START = arg('start', new Date().toISOString().slice(0, 10));
 // 6 slots/day at EVEN UTC hours so the 2-hourly cron fires them promptly (no delay).
 const SLOTS = ['08:00', '12:00', '14:00', '18:00', '20:00', '22:00'];
 
