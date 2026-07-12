@@ -60,11 +60,6 @@
     "caption": "Marcus Aurelius, as a debugging note: most anxiety is your brain running unbounded simulation on inputs that don't exist yet. 'Confine thyself to the present' means stop executing speculative branches."
   },
   {
-    "topic": "philosophy",
-    "score": 6,
-    "caption": "Analytic philosophy is the rare field with no taboo against calling a colleague simply wrong. That's not rudeness — it's the only norm that lets a field compound instead of accrete. You can't build on an idea nobody's allowed to kill."
-  },
-  {
     "topic": "ai",
     "score": 7,
     "caption": "RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving."

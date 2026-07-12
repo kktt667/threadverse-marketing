@@ -93,6 +93,14 @@ for (const platform of PLATFORMS) {
   let pool = content.filter(c => c.platform === platform && c.caption
     && (c.tile ? !postedTiles.has(c.tile)
                : !postedText.has(c.caption.replace(/\s+/g, ' ').trim().slice(0, 50) + '|' + platform)));
+  // Safety: never queue the same caption twice for a platform (guards against a dup text-take or a
+  // text-take that echoes an image card). Keyed on the caption body so tile+text versions collapse to one.
+  const seenCap = new Set();
+  pool = pool.filter(c => {
+    const k = (c.caption || '').replace(/\s+/g, ' ').trim().slice(0, 60).toLowerCase();
+    if (seenCap.has(k)) return false;
+    seenCap.add(k); return true;
+  });
   pool.sort((a, b) => (priority(a) - priority(b)) || ((b.score || 0) - (a.score || 0)));
 
   // Weighted interleave: draw topics in proportion to LANE_MIX, and CAP each lane at its target share of

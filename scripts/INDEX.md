@@ -8,14 +8,15 @@ The algorithm rewards consistency — batch a whole lane, post it out, then move
 
 | Lane | Scripts | File |
 |---|---|---|
-| **AI** — model releases, breakthroughs, discourse | 15 | `scripts/by-lane/ai.md` |
+| **Tech** — AI/models/industry, weekly news (contrarian hook → news body) | 12 | `scripts/by-lane/tech.md` |
 | **Science** — wait-what findings, research, depth | 9 | `scripts/by-lane/science.md` |
 | **Gaming** — releases, leaks, dev culture | 8 | `scripts/by-lane/gaming.md` |
 | **Crypto** — mechanism, exploits, adoption (not price) | 8 | `scripts/by-lane/crypto.md` |
 | **Philosophy** — how to think, attention, focus | 6 | `scripts/by-lane/philosophy.md` |
 | **Meta** — indie, honest, anti-engagement | 4 | `scripts/by-lane/meta.md` |
+| **Predictions** — Monday flagship: "calls from my feed" (recurring, ~80s, product is the engine) | 1 | `scripts/by-lane/predictions.md` |
 
-*(All 50 scripts live in `scripts/by-lane/` — one file per lane. Run `node scripts/wordcount.js` to check runtimes.)*
+*(Scripts live in `scripts/by-lane/` — one file per lane. Run `node scripts/wordcount.js` to check runtimes. Tech + Predictions are the fresh weekly lanes; the rest are the evergreen batch.)*
 
 ## How to use each script
 - Beats are tagged: **HOOK / STAKES / BIG-Q / HEAD FAKE / REHOOK**, with a `[V: …]` visual cue per beat.

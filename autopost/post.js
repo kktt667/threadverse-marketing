@@ -185,7 +185,9 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
     if (DRY) { console.log(`  • ${q.date} ${q.timeUTC} ${q.platform}${textOnly ? ' [text]' : ''} — ${label}`); ok++; continue; }
     try {
       const url = await poster({ caption: q.caption, imgPath });
-      posted.push({ tile: q.tile || null, platform: q.platform, at: now.toISOString(), url });
+      // Save caption for text-only posts so the dedup key (keyOf) can match on future runs.
+      // Without this, text posts record tile:null + no caption → key is "txt:undefined" → re-posted every run.
+      posted.push({ tile: q.tile || null, caption: q.tile ? undefined : q.caption, platform: q.platform, at: now.toISOString(), url });
       fs.writeFileSync(POSTED, JSON.stringify(posted, null, 2));
       console.log(`  ✅ ${q.platform} — ${url}`);
       ok++;
