@@ -895,5 +895,19 @@
     "platform": "mastodon",
     "at": "2026-07-12T22:54:36.755Z",
     "url": "https://mastodon.social/@threadverse/116909465918739551"
+  },
+  {
+    "tile": null,
+    "caption": "The scary AI model isn't the one a lab says is 'too dangerous to release.' It's the boring open one you're already running in prod, that nobody's stress-testing because it doesn't make headlines.\n\n#AI #MachineLearning #LLM #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-13T03:23:17.312Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqiqicpxhy27"
+  },
+  {
+    "tile": null,
+    "caption": "Measuring a photon doesn't read its state — it creates it. Observation is a write, not a read. Most 'spooky' quantum weirdness is just that one sentence, restated.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-13T03:23:17.312Z",
+    "url": "https://mastodon.social/@threadverse/116910522363603412"
   }
 ]
