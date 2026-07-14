@@ -162,19 +162,19 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
   let due = queue.filter(q => !doneKey.has(keyOf(q)))
     .filter(q => NOW_MODE || new Date(`${q.date}T${q.timeUTC}:00.000Z`) <= now);
   due.sort((a, b) => (a.date + a.timeUTC).localeCompare(b.date + b.timeUTC));
-  // Cap per platform (drip, don't dump). Keeps chronological order within each platform.
-  const perPlat = {};
-  due = due.filter(q => {
-    perPlat[q.platform] = (perPlat[q.platform] || 0);
-    if (perPlat[q.platform] >= MAX_PER_PLATFORM) return false;
-    perPlat[q.platform]++;
-    return true;
-  });
-  due = due.slice(0, MAX);
 
+  // Cap SUCCESSES per platform, not attempts: if a post fails (e.g. over-length rejected by the API),
+  // move on to the NEXT due item for that platform instead of burning the slot. Before this fix, one
+  // bad post at the head of the line stalled its whole platform forever (Bluesky was silent for a day).
   console.log(`${DRY ? 'DRY RUN — ' : ''}${due.length} due at ${now.toISOString()}`);
   let ok = 0, fail = 0;
+  const okPlat = {};
+  const MAX_ATTEMPTS_PER_PLATFORM = MAX_PER_PLATFORM + 3;   // don't hammer a fully-broken platform
+  const attemptsPlat = {};
   for (const q of due) {
+    if (ok >= MAX) break;
+    if ((okPlat[q.platform] || 0) >= MAX_PER_PLATFORM) continue;
+    if ((attemptsPlat[q.platform] || 0) >= MAX_ATTEMPTS_PER_PLATFORM) continue;
     const poster = POSTERS[q.platform];
     // text-only post = no tile (or empty). Image post = tile must exist on disk.
     const textOnly = !q.tile;
@@ -182,7 +182,8 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
     if (!poster) { console.log(`  ⏭️  ${q.platform} (no poster)`); continue; }
     if (!textOnly && !fs.existsSync(imgPath)) { console.log(`  ⏭️  ${q.platform} ${q.tile} (image missing)`); continue; }
     const label = q.title || q.caption?.slice(0, 44);
-    if (DRY) { console.log(`  • ${q.date} ${q.timeUTC} ${q.platform}${textOnly ? ' [text]' : ''} — ${label}`); ok++; continue; }
+    if (DRY) { console.log(`  • ${q.date} ${q.timeUTC} ${q.platform}${textOnly ? ' [text]' : ''} — ${label}`); ok++; okPlat[q.platform] = (okPlat[q.platform] || 0) + 1; continue; }
+    attemptsPlat[q.platform] = (attemptsPlat[q.platform] || 0) + 1;
     try {
       const url = await poster({ caption: q.caption, imgPath });
       // Save caption for text-only posts so the dedup key (keyOf) can match on future runs.
@@ -190,9 +191,9 @@ const POSTERS = { bluesky: blueskyPost, mastodon: mastodonPost, x: xPost };
       posted.push({ tile: q.tile || null, caption: q.tile ? undefined : q.caption, platform: q.platform, at: now.toISOString(), url });
       fs.writeFileSync(POSTED, JSON.stringify(posted, null, 2));
       console.log(`  ✅ ${q.platform} — ${url}`);
-      ok++;
+      ok++; okPlat[q.platform] = (okPlat[q.platform] || 0) + 1;
       await new Promise(r => setTimeout(r, 1500));
-    } catch (e) { console.log(`  ❌ ${q.platform} ${q.title?.slice(0, 30)}: ${e.message}`); fail++; }
+    } catch (e) { console.log(`  ❌ ${q.platform} ${label?.slice(0, 30)}: ${e.message} — trying next item`); fail++; }
   }
   console.log(`\nDone. ${ok} posted · ${fail} failed`);
   if (fail && !ok) process.exit(1);

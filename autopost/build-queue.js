@@ -140,11 +140,24 @@ for (const platform of PLATFORMS) {
       ordered.push(pick); recent.push(pick.topic);
     }
   }
+  // FORMAT INTERLEAVE: priority sorting front-loads image tabloids, leaving a wall of text posts at the
+  // tail — a feed that's all-images-then-all-text reads botted. Proportionally merge image and text posts
+  // (preserving each group's internal priority order) so every day gets a mix of both while supply lasts.
+  const imgs = ordered.filter(c => c.tile), txts = ordered.filter(c => !c.tile);
+  const mixed = [];
+  let ii = 0, ti = 0;
+  while (ii < imgs.length || ti < txts.length) {
+    const imgShare = imgs.length ? ii / imgs.length : 1;
+    const txtShare = txts.length ? ti / txts.length : 1;
+    if (ii < imgs.length && (imgShare <= txtShare || ti >= txts.length)) mixed.push(imgs[ii++]);
+    else mixed.push(txts[ti++]);
+  }
+
   let i = 0;
-  for (let day = 0; day < DAYS && i < ordered.length; day++) {
+  for (let day = 0; day < DAYS && i < mixed.length; day++) {
     const date = addDays(START, day);
-    for (let slot = 0; slot < PER_DAY && i < ordered.length; slot++) {
-      const c = ordered[i++];
+    for (let slot = 0; slot < PER_DAY && i < mixed.length; slot++) {
+      const c = mixed[i++];
       const caption = withHashtags(c.caption, { topic: c.topic, format: c.format, category: c.category }, platform);
       queue.push({ date, timeUTC: SLOTS[slot % SLOTS.length], platform, tile: c.tile || null, caption, title: c.title || (c.caption || '').slice(0, 48), format: c.format, topic: c.topic, priority: priority(c), sourceUrl: c.sourceUrl || null });
     }

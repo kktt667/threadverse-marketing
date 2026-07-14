@@ -69,17 +69,28 @@ function tagsFor({ topic, format, category }, platform) {
   return picks.slice(0, limit).map(t => '#' + t);
 }
 
-/** Append hashtags to a caption, respecting platform norms. */
+// Hard platform character limits. Bluesky rejects >300 outright — an over-length caption fails
+// createRecord on EVERY cron run and (before the retry fix) blocked the whole platform pipeline.
+const CHAR_LIMITS = { x: 280, bluesky: 300, mastodon: 500 };
+
+/** Append hashtags to a caption, respecting platform norms AND hard length limits.
+ *  Tags are added one at a time while they fit; the body is never truncated. */
 function withHashtags(caption, meta, platform) {
   const tags = tagsFor(meta, platform);
+  const limit = CHAR_LIMITS[platform] || 500;
   if (!tags.length) return caption;
-  // X: append tags only if they fit within 280 without cutting mid-tag; else drop to what fits.
   if (platform === 'x') {
     let out = caption;
-    for (const t of tags) { if ((out + ' ' + t).length <= 280) out += ' ' + t; }
+    for (const t of tags) { if ((out + ' ' + t).length <= limit) out += ' ' + t; }
     return out;
   }
-  return `${caption}\n\n${tags.join(' ')}`;
+  // bluesky/mastodon: tags on their own line; add tags only while the total stays under the limit
+  let out = caption, sep = '\n\n';
+  for (const t of tags) {
+    const cand = out + sep + t;
+    if ([...cand].length <= limit) { out = cand; sep = ' '; }
+  }
+  return out;
 }
 
 module.exports = { tagsFor, withHashtags };
