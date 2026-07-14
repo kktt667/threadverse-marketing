@@ -1,294 +1,966 @@
 {
   "feed": "I love games — show me great new release",
-  "count": 32,
+  "count": 120,
   "cards": [
     {
       "file": "card-01.png",
+      "txt": "@AVTTeng x @VEK_45 Most indie releases? Nintendo games Racing games Fighting games And the list goes on Like 80% of the market is not gun and ball game dude",
+      "handle": "@AVTTeng",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@Kan_Kikuchi_En x 【Life of a Lonely Indie Game Developer】 As your game progresses, you’ll unlock marketing options like release dates, press releases, publishers, and crowdfunding. But crowdfunding can fail, and some publishers are shady 😱 https://t.co/YEgQAGHpDY ♥ 27 💬 2",
+      "handle": "@Kan_Kikuchi_En",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@Thomas Brush youtube Is The Indie Game Industry Broken? (w/ Jonathan Blow) — Ep 70 I chat with Jonathan Blow about his 10 year project The Order Of The Sinking Star, and the state of the industry. ► Play Order Of The Sinking Star: https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/ ► Get 50% off my game dev course during the massive Summer Sale: https://fulltimegamedev.mykajabi.c",
+      "handle": "@Thomas",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@papakowclutch x The indie space is so important right now if this is the case! The gaming industry is in this weird limbo because of digital rights for consumers, games not quite living up to expectations, games waiting for one of the most anticipated releases of ALL TIME in GTA 6. For me, if you're making a game, just keep pushing, I'll be there to play it! See more",
+      "handle": "@papakowclutch",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@Czarus691 x Looking for games to try? Here's a list of next week's indie releases with demos: 👉 Cozy Grove: Camp Spirit - a continuation of Cozy Grove, a game about crafting and helping ghosts. 👉 D-topia - a puzzle adventure where you solve the problems of a not-so-perfect community. https://t.co/jaWscz9FTp 💬 1",
+      "handle": "@Czarus691",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@InalhaSoft x Premium mobile game releases jumped 77% in 2025 — the biggest resurgence in paid mobile gaming in years. After a decade of free-to-play dominance, players are willing to pay upfront for quality mobile experiences again. A trend worth watching for indie devs exploring new platforms. #GameDev #IndieDev #MobileGaming #GamingTrends See more ♥ 1",
+      "handle": "@InalhaSoft",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@Kijo_dev mastodon Setting programming aside to focus on the game's minerals and resources # pixelart # gamedev # mastoart # indiegame ♥ 7",
+      "handle": "@Kijo_dev",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@localthunk.com bluesky Crazy crazy day, so many messages of love and support from amazing people I have had the pleasure to meet these past couple years. In total disbelief Balatro Game Awards nominations for: Best Mobile Game Best Independent Game Best Debut Indie Best Game Direction, AND Game of the Year ♥ 6.0k 💬 197",
+      "handle": "@localthunk.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@WildStaruk x Our review of Junkster is now live It’s a smaller game with plenty of personality, interesting ideas and more charm than many players may expect. At WildStarGaming, we want to give more attention to games that can easily be overlooked among the constant stream of major releases. #gamer #indie Read the full review here 👇 https://t.co/xl6djUlZas See more ♥ 1",
+      "handle": "@WildStaruk",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@s1whp mastodon A game I always wanted to make was Game of Life. Luckily, it is part of # 20_games_challenge and it happens to be the next on my list! I decided to go back to Godot as I don't intend to dedicate much time to it. # godot # indie # gamedev # game_of_life # solodev",
+      "handle": "@s1whp",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@midwestgameguy x MGG Schedule 7/13-7/19: Demos, new releases and series continuations! We have a nice mixture of games this week on the channel with visual novels, point-and-clicks, roguelites, RPGs and boss rushes. The most important thing is that every game you see this week is from indie devs! https://t.co/AFDkcG68GZ See more ♥ 4 💬 6",
+      "handle": "@midwestgameguy",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@nadiaoxford.bsky.social bluesky DK Bananza is the most wonderfully depressing game. It’s clearly the work of lifelong game developers mentoring novices and it’s the kind of game we’d have a lot more of if game publishers actually let game development be a stable, life-long career for people. ♥ 3.3k 💬 21",
+      "handle": "@nadiaoxford.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@BoyBacon5052 x @RetroSpaceGame Absolutely hate when I see reviews like this. Especially for small indie games. If you liked the game but had small issues with a thing here and there ON A DEMO the dev's usually have a place where you can leave feedback. Doing so with a negative review is terrible.",
+      "handle": "@BoyBacon5052",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@silveow x @ziptag321 @ramen_ecchiraku depends on ur definition of popular but it definitely is by my logic id consider random indie games with 1k reviews as not popular, not a triple A game with millions of sales",
+      "handle": "@silveow",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@Thegamingguy189 x @AngeyBaldMan @Dexerto Yet we are talking about an indie game with mostly positive reviews, not a bad game with tons of negative. You brokies are just defending this poor behavior. If it’s bad game then don’t buy it ♥ 1 💬 2",
+      "handle": "@Thegamingguy189",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@NexusVoyager x @RedHood1803 @ArruguesArruga @NANftx4 @Dexerto Youd be right except most of the games reviews are people going “good game!” And then refunding it. If you ask me thats a little scummy, we should be doing this bullshit big companies, not indie devs ♥ 3 💬 1",
+      "handle": "@NexusVoyager",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@seishi_acr x Writing about things outside of the actual game might not look the coolest, but honestly, sharing what kind of person is making it and what’s on my mind is about all I’ve got to write, so here it goes. Even before launching a game, it feels like we’re all living under the rule of Metacritic (or Rotten Tomatoes for movies). Most of the media reviews on these aggregator sites come from",
+      "handle": "@seishi_acr",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@NekoBloodyC x RT @taraadevlin: Gachikowa? Hollow Cocoon (Japanese Horror Game Reviews) https://t.co/XqoMBYS7zo This beautiful indie horror features a st…",
+      "handle": "@NekoBloodyC",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@taraadevlin x Gachikowa? Hollow Cocoon (Japanese Horror Game Reviews) https://t.co/XqoMBYS7zo This beautiful indie horror features a striking monster and eerie setting, but is it actually worth your time? #japanesehorror https://t.co/BDM9f78GAN ♥ 3",
+      "handle": "@taraadevlin",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@Donat@mastodon.gamedev.place mastodon Maturity in # gamedev means favoring bullet points over PowerPoint.",
+      "handle": "@Donat",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@shadow_grove mastodon See how each frame is rendered in Unity by going to Window > Analysis > Frame Debugger! 🔍 # UnityDebugging # Unity # Unity3D # GameDev # UnityTips # IndieDev",
+      "handle": "@shadow_grove",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@NobleHeather mastodon My partner: Is there anything you want for your birthday? Me: Food icons. Them: …what? # GameDev # SoloDev # IndieDev # GameDesign",
+      "handle": "@NobleHeather",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@poga@g0v.social mastodon 繼續寫 devlog https:// scarlet.engineering/blog/makin g-simulation-game-part-2-architecture/ # gamedev Making a Simulation Game - Part 2: The Engine Doesn't Know What Beer is - scarlet.engineering How does my simulation game work? scarlet.engineering",
+      "handle": "@poga",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@gamingamigos24 x Former Rocksteady leaders Axel Rydby and Johnny Armstrong reflected on the difficult development of Su!cide Squad: Kill the Justice League. 📊 Rydby said development increasingly focused on commercial metrics and replayability instead of creative game design. \"That's when I started feeling like I wasn't making games anymore. I was following a spreadsheet, some elusive marketing-a",
+      "handle": "@gamingamigos24",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@NerdingAround_ x This is kinda crazy. Indie Dev, one Man Team, Game is fully finished not some EA slop, 55k refunds for a game finished under 2hrs to meet Steams requirements for a refund. Id be annoyed as well especially if they are leaving positive reviews. https://t.co/gw0vbf0qTa",
+      "handle": "@NerdingAround_",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@GameFromScratch@mastodon.gamedev.place mastodon The wait for Godot continues... Godot 4.8 that is. Godot have just released Godot 4.8 Dev1, we get a nice sneak peek at new features we can expect in the next # GodotEngine release. https:// gamefromscratch.com/godot-4-8- dev1-released/ # gamedev # indiedev",
+      "handle": "@GameFromScratch",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@DreamStationcc mastodon Studios Earn Twice as Much From Digital Sales, Lords of the Fallen CEO Says https:// insider-gaming.com/studios-ear n-twice-as-much-digital-sales-lords-ceo-says/ # gamedev # videogames # gaming # gamingnews Studios Earn Twice as Much From Digital Sales, Lords of the Fallen CEO Says In a post on social media, Marek Tyminski, the CEO of CI Games, has suggested that studios e",
+      "handle": "@DreamStationcc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@kenney.nl bluesky Super stoked about the success that Meccha Chameleon is having, because it does feature my game assets 👀 ♥ 1.0k 💬 21",
+      "handle": "@kenney.nl",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-29.png",
       "txt": "@justdaveisfine@mastodon.gamedev.place mastodon You release a game. Who opinion do you value the most to conclude how 'good' the game is? # gamedev # indiedev 💬 1",
       "handle": "@justdaveisfine",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/BoyBacon5052/status/2073312734733553985"
+      "hasImg": false
     },
     {
-      "file": "card-02.png",
+      "file": "card-30.png",
       "txt": "@spawndgg x 🚨Weekly Indie Releases! Check out some indie highlights! Do you have a game launching this week (or soon)? Drop it in the comments! https://t.co/uy2RdQx8Og ♥ 2 💬 1",
       "handle": "@spawndgg",
       "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/silveow/status/2073192608663273514"
+      "hasImg": true
     },
     {
-      "file": "card-03.png",
-      "txt": "@shadow_grove@mastodon.gamedev.place mastodon See how each frame is rendered in Unity by going to Window > Analysis > Frame Debugger! 🔍 # UnityDebugging # Unity # Unity3D # GameDev # UnityTips # IndieDev",
-      "handle": "@shadow_grove",
-      "source": "mastodon",
-      "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/Thegamingguy189/status/2074102073323401244"
-    },
-    {
-      "file": "card-04.png",
+      "file": "card-31.png",
       "txt": "@echoforge117 mastodon Weekly # gamedev update from Echo Forge! Not every week is about adding new features. With family visiting, I focused on cleaning up and organizing the code behind Chrono Crank: Echoes of Pandeon. Better architecture now means faster, cleaner development later. I also spent time preparing our upcoming feature in Uncranked. Back to building Chapter 1 next week! # Playdate # i",
       "handle": "@echoforge117",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/NexusVoyager/status/2074090565944455655"
+      "hasImg": false
     },
     {
-      "file": "card-05.png",
+      "file": "card-32.png",
       "txt": "@werqotaur@holos.social mastodon heyyy so i'm trying to come up with game ideas to build up confidence as a mechanics designer and practice c/raylib development. could you help me select one of the ideas i've thought up this morning by reading this thread and voting on the poll at the end? thanks ily <3 #AskFedi #AskMastodon #indiedev #gamedev [1/6] See more ♥ 1 💬 1",
       "handle": "@werqotaur",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/seishi_acr/status/2073588152737092048"
+      "hasImg": false
     },
     {
-      "file": "card-06.png",
+      "file": "card-33.png",
       "txt": "@DreamStationcc mastodon Resetting Xbox https:// news.xbox.com/en-us/2026/07/06 /resetting-xbox/ # xbox # gamedev # indiedev # videogames # gaming # gamingnews ♥ 1",
       "handle": "@DreamStationcc",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/NekoBloodyC/status/2074160573655179696"
+      "hasImg": true
     },
     {
-      "file": "card-07.png",
+      "file": "card-34.png",
       "txt": "@playtesterhq mastodon Try the Scarlet Lake demo, a retro survival horror adventure where detective Ben Murphy investigates a small town’s odd events and faces a shifting nightmare of creatures. Play the demo: https:// playtester.io/scarlet-lake # IndieGaming # GameDev # Gaming # IndieDev # IndieGame",
       "handle": "@playtesterhq",
       "source": "mastodon",
       "hasVideo": true,
-      "hasImg": false,
-      "url": "https://x.com/taraadevlin/status/2074146358400041187"
+      "hasImg": false
     },
     {
-      "file": "card-08.png",
+      "file": "card-35.png",
       "txt": "@moe10232000 x @GamingSinceNES I think I agree. The sheer number of releases ensures there will be something for me to play. An enjoyable game is an enjoyable game, so I don't really care about the AAA/AA/indie distinctions. ♥ 1",
       "handle": "@moe10232000",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.gamedev.place/@Donat/116873799771655123"
+      "hasImg": false
     },
     {
-      "file": "card-09.png",
+      "file": "card-36.png",
       "txt": "@SegaGamester91 x @IAmLunarLizzy At least the Dreamcast will always get new physical indie game releases on a fairly regular basis. No matter what these big companies try to do.",
       "handle": "@SegaGamester91",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.social/@shadow_grove/116873507790833041"
+      "hasImg": false
     },
     {
-      "file": "card-10.png",
+      "file": "card-37.png",
       "txt": "@zippypsycho.bsky.social bluesky Game sells good - Studio gone Game sells bad - Studio gone Game is in development hell - Studio gone Game is in a regular development cycle - Studio gone REPOSTED @veejay.bsky.social The games industry needs a hard reset at this point, like what the fuck are we even doing here ♥ 55 💬 3",
       "handle": "@zippypsycho.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.social/@NobleHeather/116873909408246090"
+      "hasImg": false
     },
     {
-      "file": "card-11.png",
+      "file": "card-38.png",
       "txt": "@Thomas Brush youtube Why 96% Of Indie Games Make NO MONEY Most game developers will make barely any money. Why is that? ► Learn how to make a game studio from your bedroom, free: https://www.fulltimegamedev.com/opt-in-how-to-make-six-figures ► This video is a response / inspired by @GoingIndie! Be sure to watch: https://www.youtube.com/watch?v=3ylJCuzsNZc ► Enroll in my 3D workshop, free!: https:",
       "handle": "@Thomas",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://scarlet.engineering/blog/making-simulation-game-part-2-architecture/"
+      "hasImg": true
     },
     {
-      "file": "card-12.png",
+      "file": "card-39.png",
       "txt": "@KenzoGames3 x One of the worst decisions PlayStation has ever made. As someone who released a physical indie game, I know there’s still a market for physical releases. Some players only buy physical games, and I feel bad for the businesses built around physical editions, whether they’re game publishers or stores. @RedArtGames @LootBoxGamingUS @VideoGamesPlus_ @JFG_LeShop See more ♥ 16 💬 2",
       "handle": "@KenzoGames3",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/gamingamigos24/status/2073096972274118969"
+      "hasImg": false
     },
     {
-      "file": "card-13.png",
+      "file": "card-40.png",
       "txt": "@Resonant Arc youtube Should YOU Make A Video Game? | The Realities of Indie Game Development Have you ever thought about making a video game? Well, today we sit down with the developers behind Quartet, Geo Mythica, Shrine's Legacy, and Kingdoms of the Dump to discuss the realities of indie game development! There's a lot of great advice here to consider before you try jumping into making your own",
       "handle": "@Resonant",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/NerdingAround_/status/2073841281361449108"
+      "hasImg": true
     },
     {
-      "file": "card-14.png",
+      "file": "card-41.png",
       "txt": "@Juniper Dev youtube The Game Dev Advice You Actually Need (Ft. AIA, Goodgis, and more...) Thanks to Xsolla for sponsoring a portion of this video! Check out Xsolla Web Shop here: https://bit.ly/3JZv0jt Massive thank you to all the creators who participated in this video! @AIAdev Mana Valley: https://store.steampowered.com/app/1983360/Mana_Valley @lukemuscat Fruit Ninja/Jetpack Joyride/Feed The De",
       "handle": "@Juniper",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.gamedev.place/@GameFromScratch/116873888453235598"
+      "hasImg": true
     },
     {
-      "file": "card-15.png",
+      "file": "card-42.png",
       "txt": "@Gambit youtube 1 Year of Game Dev (in 30 seconds) #godot #indiedev #indiegamedev With no prior experience. You should use Godot, it's pretty cool.",
       "handle": "@Gambit",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://insider-gaming.com/studios-earn-twice-as-much-digital-sales-lords-ceo-says/"
+      "hasImg": true
     },
     {
-      "file": "card-16.png",
+      "file": "card-43.png",
       "txt": "@headfallsoff.com bluesky changing sides on the game reviews art vs product debate because no game that costs over sixty quid is more than a 7/10 ♥ 127 💬 1",
       "handle": "@headfallsoff.com",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:mmjmympmlcuexvluef2ep2im/post/3mpuzaiyjxc2m"
+      "hasImg": false
     },
     {
-      "file": "card-17.png",
+      "file": "card-44.png",
       "txt": "@Operation_N313 x @AftermathZGame I think most people understand that Indie devs don't have the financial resources to roll out comprehensive $100+ Deluxe editions when their game releases. Don't sweat it, focus on making a kick-ass product. If you build it, they will come. https://t.co/X4HIaGA8hC ♥ 6 💬 1",
       "handle": "@Operation_N313",
       "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.gamedev.place/@justdaveisfine/116873365157022709"
+      "hasImg": true
     },
     {
-      "file": "card-18.png",
+      "file": "card-45.png",
       "txt": "@tetrisgm x Thanks for taking the time. They have 14 people (I’m gonna assume full time). The rest of that page is advisors and equivalent. That’s like an indie game team. When I say indie team, let’s look at Steam’s 2025 sales data: 65.9% earned under $1,000 gross revenue. 47.4% sold fewer than 100 copies. The bottom 30% of Steam releases averaged only about $37 gross revenue. I’m gonna assume yo",
       "handle": "@tetrisgm",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/spawndgg/status/2074126241125351683"
+      "hasImg": false
     },
     {
-      "file": "card-19.png",
+      "file": "card-46.png",
       "txt": "@Excalibur7313 x I think Steam and GoG have proven to be so consumer-friendly and trustworthy that people are willing to overlook the fact that their library is all-digital. Most PC game devs don't even make physical releases anyway, especially indie ones. https://t.co/G0E0ERXuwQ 💬 1",
       "handle": "@Excalibur7313",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.social/@echoforge117/116873169116769996"
+      "hasImg": false
     },
     {
-      "file": "card-20.png",
+      "file": "card-47.png",
       "txt": "@SPlayalot x New Indie Releases Rolling Out Today on Steam (and Switch)! A fresh batch of smaller indie titles is launching today, July 2, 2026: 🔸Bottom Squad (Steam): An idle defense game where you build your squad and upgrade your base at the bottom of the screen to fend off relentless alien waves — perfect for multitasking while you work or chill. 🔸Crayon Jungle (Nintendo Switch): A colorful,",
       "handle": "@SPlayalot",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://holos.social/users/werqotaur/statuses/1783342918183-73bsn3"
+      "hasImg": false
     },
     {
-      "file": "card-21.png",
+      "file": "card-48.png",
       "txt": "@Xanatos@mastodon.gamedev.place mastodon RE: https:// loops.video/v/gDf3HgstaK @ Xanatos@loops.video Just created a quick new video to show of the new scoreboard animations. The changes are already live on itch.Really like the animation, it does feel more alive. I need to add the same animation to the final scoreboard as well. Sadly loops did reduce the video quality at the beginning, it's getting",
       "handle": "@Xanatos",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://mastodon.social/@DreamStationcc/116873478480414813"
+      "hasImg": false
     },
     {
-      "file": "card-22.png",
+      "file": "card-49.png",
       "txt": "@Steenbergen_apps mastodon A side-project I love: Lowlands Racer — an atmospheric driving game through the Dutch polders, dikes and windmills. Prototype phase, building in public. # gamedev # unity # indiedev",
       "handle": "@Steenbergen_apps",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.social/@playtesterhq/116873544950489088"
+      "hasImg": true
     },
     {
-      "file": "card-23.png",
+      "file": "card-50.png",
       "txt": "@bitbraindev@mastodon.gamedev.place mastodon My itch.io stats after doing # gamedev for 10+ years. All my games are completely free and money earned came from voluntary donations. Thank you again, kind strangers. ❤️ ♥ 1",
       "handle": "@bitbraindev",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/moe10232000/status/2072455707673112974"
+      "hasImg": true
     },
     {
-      "file": "card-24.png",
+      "file": "card-51.png",
       "txt": "@rockingprojects mastodon The skill tree is growing! # gamedev # gameplay # pixelart",
       "handle": "@rockingprojects",
       "source": "mastodon",
       "hasVideo": true,
-      "hasImg": false,
-      "url": "https://x.com/SegaGamester91/status/2072348255145296206"
+      "hasImg": false
     },
     {
-      "file": "card-25.png",
+      "file": "card-52.png",
       "txt": "@nintendeal.com bluesky developers reusing game assets is a good thing, actually ♥ 296 💬 6",
       "handle": "@nintendeal.com",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:74ic4sfismoidpxchfzt2ine/post/3mplnepx2js2y"
+      "hasImg": true
     },
     {
-      "file": "card-26.png",
+      "file": "card-53.png",
       "txt": "@MrB33n mastodon Why are modern gaming enemies so brain-dead? We traded brilliant AI for pretty graphics. Here is why it happened: # Gaming # Gamedev # GamingCommunity https:// playstationcouch.com/post.php? id=665 AI Enemies Are Getting Worse, and Realistic Graphics Are to Blame Welcome to PlayStation Couch, your ultimate destination for all things video games. Explore the latest trends, advanced",
       "handle": "@MrB33n",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=KtOuHE0srNc"
+      "hasImg": true
     },
     {
-      "file": "card-27.png",
+      "file": "card-54.png",
       "txt": "@ComixBlade x #M3 CDZ Game news! - As part of the Year 1 releases, Charmed Journey will be on the line up of games! More news following from July-October 2026!: #gameannouncement #announcement #indie #indiedev https://t.co/mgSWOOjtz4",
       "handle": "@ComixBlade",
       "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/KenzoGames3/status/2072332806559084976"
+      "hasImg": true
     },
     {
-      "file": "card-28.png",
+      "file": "card-55.png",
       "txt": "@antlervel.vet bluesky I’d love to go back and play my first mobile game—an episodic detective game with the unfortunate and baffling name Hidden Objects: Mystery Crimes—to see how far I’ve come as a game writer, but it was released 12 years ago and you can’t play it anymore. ♥ 222 💬 6",
       "handle": "@antlervel.vet",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://youtube.com/watch?v=fKU4vZ1UPeQ"
+      "hasImg": false
     },
     {
-      "file": "card-29.png",
+      "file": "card-56.png",
       "txt": "@Indie Game Clinic youtube Game Genres - a Design Perspective 🏥 support IGC on Patreon: https://www.patreon.com/indiegameclinic Key Moments: 00:00 the problem 01:49 why are we categorising in the first place? gamers vs devs. 04:16 genre in film and literature 06:44 genre and mode in horror and Mexican food 08:55 how is this useful for developers 09:31 a stricter definition of game genre 12:12 the",
       "handle": "@Indie",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=n3fjdwJ5eQk"
+      "hasImg": true
     },
     {
-      "file": "card-30.png",
+      "file": "card-57.png",
       "txt": "@THREADMUTER x this isnt me complaining btw i'm genuinely super interested in the behind the scenes of gamedev and hoping for some insight into what happens when your game releases. is it as simple as \"bugfixing is a nightmare for indie devs\" or is there more to it? ♥ 1",
       "handle": "@THREADMUTER",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://youtube.com/watch?v=sI9BxYjOV0I"
+      "hasImg": false
     },
     {
-      "file": "card-31.png",
+      "file": "card-58.png",
       "txt": "@qalb_hr x Looking for your next game? 🎮✨ Nintendo has released its latest Nintendo eShop New Software roundup, highlighting this week's newest releases for Nintendo Switch and Nintendo Switch 2. From major new launches to indie gems, there's plenty for players to discover. Whether you're hunting for your next adventure, a competitive multiplayer title, or a hidden indie favorite, now's a great t",
       "handle": "@qalb_hr",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:lsjo5pnx6byjoo27omtcoyly/post/3mpm3esmfhc26"
+      "hasImg": false
     },
     {
-      "file": "card-32.png",
+      "file": "card-59.png",
       "txt": "@RETRODEAD youtube A Beginners Guide to Game Development | Indie Game Dev Tutorial Check out my other videos here: https://www.youtube.com/playlist?list=PLe5nJEbe4BCAljJhR1mwU6dIJr9HHUvGN you can play my games here : https://retrodead.itch.io/ you can join the discord here : https://discord.gg/A9eRz5VbGp If you like what I do, consider buying me a coffee!🤍 : https://ko-fi.com/retrodead -=-=-=--=-",
       "handle": "@RETRODEAD",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/Operation_N313/status/2072386845502054451"
+      "hasImg": true
+    },
+    {
+      "file": "card-60.png",
+      "txt": "@on_code@mastodon.gamedev.place mastodon Florent meeting # gamedev . Very cool format if you ask me, especially because you can meet devs who make # indiegame that try to have an impact on our world. https://www. youtube.com/watch?v=RF_Gw3k1DJk Mucks Games on making indie games that matter - Clara&Luzie youtube.com",
+      "handle": "@on_code",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-61.png",
+      "txt": "@synapticsugar@mastodon.gamedev.place mastodon A recap of the past few months and where we are with the upcoming updates to soundtrack and look of # AgentsOfGroove , in devlog form. Check it out on itch: https:// synapticsugar.itch.io/agents-o f-groove/devlog/1564359/toward-a-new-soundtrack-and-future-updates # gamedev # indiedev # playdate Toward a new soundtrack and future updates - Agents of Gr",
+      "handle": "@synapticsugar",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-62.png",
+      "txt": "@SwaymaKdotAI x @DesignLvLUp The biggest AI labs are chasing trillion-dollar infrastructure problems, not game releases. Meanwhile, small indie studios are already using AI to punch far above their weight. ♥ 2 💬 1",
+      "handle": "@SwaymaKdotAI",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-63.png",
+      "txt": "@KamuraTyy x Omg checking out gamepass releases on my girls series x, sledding game by developer The Sledding Corporation & it seriously looks so fun and also really funny. You can tell the dev is passionate about it and it’s a heartfelt indie title that feels like a locally owned and operated small business feel. I was disappointed to see it wasn’t on PS5 because I wanted to buy it, but I will ju",
+      "handle": "@KamuraTyy",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-64.png",
+      "txt": "@puredeadgaming.bsky.social bluesky Absolutely love the look of this upcoming Indie game 𝗙𝗿𝗲𝘀𝗰𝗼. The Egyptian carvings are actually the playable environment 🤩 ♥ 2.0k 💬 50",
+      "handle": "@puredeadgaming.bsky.social",
+      "source": "bluesky",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-65.png",
+      "txt": "@HexagonNico@mastodon.gamedev.place mastodon It's always a good feeling when a part of your game you haven't touched in a while and that has always worked suddenly doesn't work anymore and you have no idea for how long it has been broken. # gamedev # indiedev # indiegame ♥ 2",
+      "handle": "@HexagonNico",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-66.png",
+      "txt": "@ibloud.xyz@bsky.brid.gy mastodon Here’s the BRUTAL Truth about MY project AI HELPS but … Even Z says, “None of them. Not for this project” The Hybrid Pipeline You don't need a Hollywood budget but you do need to separate the tasks Use AI for what it's good at and use basic 3D for what it's bad at What are you GOOD at? #gamedev 💬 1",
+      "handle": "@ibloud.xyz",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-67.png",
+      "txt": "@w84death@fosstodon.org mastodon It's always music... # GameDev # Assembly # IndieDev # GameBoy",
+      "handle": "@w84death",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-68.png",
+      "txt": "@RamonJefeFinal x **July 2026 Video Game Releases – Full List** July 1 - Block Sprawl (PC) - Cat Squeeze (PC) - Clarity: The Seven Demons of Vanguardia (Switch) - Doctor Pigeon Simulator (PC) - Double Knight (PC, Mac) - Exaverse (iOS, Android) - Genshin Impact: Sunny Summer Fontinalia (Multi-platform) - Guildamation (PC) - Lullabies Made of Static (PC, Linux, Mac) - Lunadra: Luna Awakens the Legen",
+      "handle": "@RamonJefeFinal",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-69.png",
+      "txt": "@chrismonka.bsky.social bluesky I played Midnight Prowl! The game took around 45m to beat. This was a cool game! The game was pretty short, but it was packed with spooky moments and jumpscares that totally made me scream 🤣 the environments also looked awesome at points, and they were well designed! It was a fun lil horror game! ♥ 126",
+      "handle": "@chrismonka.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-70.png",
+      "txt": "@agapo_dgc mastodon Herbal Remedy + Plant = Medicine, but there are 1000s of combinations to discover 👀 What do YOU think Medicine combines with? Drop it below 👇 New Science - Get ready for the new season # indiegame # gamedev # cardgame # indiedev # newscience https://www. newsciencegame.com/go?p=998217 661005383-f7cea12b&s=mastodon See more",
+      "handle": "@agapo_dgc",
+      "source": "mastodon",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-71.png",
+      "txt": "@polsia x Most indie game devs watch their metrics in a spreadsheet. Then they check Slack. Then Discord. Then the App Store. Nobody is watching 24/7. Built Playtest — an AI analyst for indie game devs. Monitors Steam, Discord, and reviews. Reports what matters before you think to look. 💬 1",
+      "handle": "@polsia",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-72.png",
+      "txt": "@salmontenmi x https://t.co/FXoYgqkv5n GenAI can decrease reviews for indie game on Steam (a useful proxy stat for sales) by as much as *58%* Finally some good news",
+      "handle": "@salmontenmi",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-73.png",
+      "txt": "@polsia x Playbooks runs growth for indie game studios — ASO, reviews, pricing, analytics. All autonomous. All the time. The gap between shipping a game and one that earns revenue is a dozen tasks nobody has time for. Playbooks closes it.",
+      "handle": "@polsia",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-74.png",
+      "txt": "@taraadevlin x Kowasugi? The Convenience Store (Japanese Horror Movie Reviews) https://t.co/r2nhw2hRwq This movie attempts to adapt a short indie horror game, but does it do it justice, and is it worth watching? #japanesehorror https://t.co/dSlfWzzMUa ♥ 3",
+      "handle": "@taraadevlin",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-75.png",
+      "txt": "@Cutlaska x Okay I will run through some actual numbers for you!! This is actually a fun exercise and I'm learning a lot. In regards to the percentage of players know the know the backstory of a developer when pressing buy, it turns out the average game with one million sales is going to be around 5% on the high end. This isn't exactly the gotcha moment you think it is though, because we aren't ta",
+      "handle": "@Cutlaska",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-76.png",
+      "txt": "@Ericbomb@mastodon.gamedev.place mastodon Join the # GamesForBlindGamers community to work on a blind accessible gaming project! Be it old, or new! We want folks to collaborate and share their progress! https:// itch.io/jam/making-games-acces sible # GameJam # GameDev # A11y # IndieDev Making Games Accessible A game jam from 2026-07-01 to 2026-08-01 hosted by Ericbomb, shiftBacktick & Patricia. We",
+      "handle": "@Ericbomb",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-77.png",
+      "txt": "@hmennen90 x RT @spawndgg: 🚨Weekly Indie Releases! 🚨 Check out some indie highlights! Do you have a game launching this week (or soon)? Drop it in the…",
+      "handle": "@hmennen90",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-78.png",
+      "txt": "@spawndgg x 🚨Weekly Indie Releases! 🚨 Check out some indie highlights! Do you have a game launching this week (or soon)? Drop it in the comments! 👇 #indiegames #indiegamedev #indiedev #gamedev https://t.co/fFhWOZZnsU ♥ 13 💬 5",
+      "handle": "@spawndgg",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-79.png",
+      "txt": "@NiccoSilverado x Watching it, another Indie game out perform recent AAA releases has given me help in the gaming world. It reminds me that people care about personality of the product versus the budget of the game. Technology is beautiful",
+      "handle": "@NiccoSilverado",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-80.png",
+      "txt": "@VAIBHAV CHAVAN youtube Indie Game Dev Roadmap 2026: Everything You Need to Start &amp; Ship Want to become an indie game developer in 2026 but don't know where to start? Here's a realistic roadmap based on real ...",
+      "handle": "@VAIBHAV",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-81.png",
+      "txt": "@Tim Ruswick youtube 10 Game Design Mistakes That Hurt My Indie Game Grab your Game Design Doc Template here: https://bit.ly/onepagedesigndoc and head to https://devpods.gg and use code TIM for ...",
+      "handle": "@Tim",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-82.png",
+      "txt": "@Juniper Dev youtube Undertale is a horribly made game Undertale is a game that revolutionized the RPG genre.. but what spaghetti is lurking behind the source code?! Download ...",
+      "handle": "@Juniper",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-83.png",
+      "txt": "@CosmicD x @Pirat_Nation After that has become the best selling game in a long time, i don't want to hear ppl shit talking an indie studio that releases a great game for 39 ♥ 1",
+      "handle": "@CosmicD",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-84.png",
+      "txt": "@ArcticuKitsu x >Indie Devs: Makes game >Indie Devs: Releases game solely for Windows, ignoring Linux playerbase > Indie Devs: Why are people angry at us? We're trying to play all these indie idle desktop games (or indie games in general) with developers forgetting about Linux. Common! Valve even informed you indie developers to implement Linux for your games, onto their platform, out of goodwill ",
+      "handle": "@ArcticuKitsu",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-85.png",
+      "txt": "@IGDAAustin@mastodon.gamedev.place mastodon I am looking for Game Devs in central texas! did you know we have an IGDA chapter in Austin? you guys should check out our super cool events 🙂‍↕️ # programming # indiedev # gamedev # videogames # coding # indiegame",
+      "handle": "@IGDAAustin",
+      "source": "mastodon",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-86.png",
+      "txt": "@musictheoryforg x How a student went from “I’ve never finished a legit track” to multiple released game tracks and pitching to real devs: Before the Guild: - Full‑time job, family, no releases - Dozens of half‑finished loops - No idea how to turn a 4‑bar idea into a full piece Inside Gamer Music Creator Guild he: - Picked ONE flagship idea and built a 16‑week plan around it - Used our Motif → Phr",
+      "handle": "@musictheoryforg",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-87.png",
+      "txt": "@agapo_dgc mastodon Hot Spring + Plant = Geyser, but there are 1000s of combinations to discover 👀 What do YOU think Geyser combines with? Drop it below 👇 New Science - Get ready for the new season # indiegame # gamedev # cardgame # indiedev # newscience https://www. newsciencegame.com/go?p=998217 971231494-330356ab&s=mastodon See more",
+      "handle": "@agapo_dgc",
+      "source": "mastodon",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-88.png",
+      "txt": "@superhys x Here's some of our data on the top Steam Next Fest games by new wishlisters (@alineaanalytics estimates) Bombanana added the most new wishlists of any game at Next Fest and – more importantly – was the single most-played demo of the event. The premise is the pitch, really: three players are a bomb-disposal squad of monkeys – one blind, one mute, one deaf (see no evil, speak no evil … y",
+      "handle": "@superhys",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-89.png",
+      "txt": "@AleBunnie x Anyway this whole thing has randomly made me want to go back to my idea of doing game reviews, mainly of indie and cozy games. (*) Do ppl vibe with that? (*Note: sometimes \"cozy\" in this context means \"games ale plays while cozy, not the amount of emotional damage involved.\") ♥ 11 💬 2",
+      "handle": "@AleBunnie",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-90.png",
+      "txt": "@Miro!! youtube What are 2.5D Indie Games? | Indie Game Development! #gaming #indiedev #indiegamedev #gamedeveloper Hey Everyone, we want to show you What 2.5D Games are! Our indie game is purely 2.5D, inspired off many games, like Paper ...",
+      "handle": "@Miro",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-91.png",
+      "txt": "@Forgebeast Game youtube From Indie N00B to Creator: My Journey Making a Game with Just Art Skills! #artist In this video, I'll be sharing my story of how I went from indie n00b to creator. I'll be talking about how I started out making games ...",
+      "handle": "@Forgebeast",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-92.png",
+      "txt": "@Indie Game Clinic youtube Game Mechanics &amp; Systems Thinking Here's what you get when you support IGC on Patreon: access to our Discord community, and early-access to vids like this ...",
+      "handle": "@Indie",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-93.png",
+      "txt": "@Design Frame youtube Let&#39;s Talk Heartbound Without the Drama ► A Game Design Case Study of Heartbound Download GameMaker for Free: https://opr.as/GM-DesignFrame ▻ GameMaker Make Your Own RPG Tutorial Series: ...",
+      "handle": "@Design",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-94.png",
+      "txt": "@GameFromScratch@mastodon.gamedev.place mastodon Epic Games dropped several # UnrealEngine bombshells last week, but perhaps the most silent but devastating bomb of all... Blueprints & Actors are BOTH being deprecated! Don't worry though, it will be a while... https:// gamefromscratch.com/unreal-dep recating-blueprints-and-actors/ # gamedev # indiedev See more Unreal Deprecating Blueprints and Act",
+      "handle": "@GameFromScratch",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-95.png",
+      "txt": "@maseylia x Two days after launch, we're beyond grateful for all the support. Steam reviews mean a lot for indie games and help new players discover our indie game Maseylia. If you're enjoying the game, leaving a review would help us tremendously 🫶 https://t.co/oAbsxkUwAa ♥ 135 💬 5",
+      "handle": "@maseylia",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-96.png",
+      "txt": "@WeVennStudios x An indie dev was just offered $100 for the full rights to their Steam game. Moments like that highlight how little shared context most of us have for what an indie game is actually worth. Even in a clear flop, the IP itself can still carry real speculative value. A buyer offering $100 isn’t usually buying the current game’s tiny revenue stream... they’re buying the rights to do so",
+      "handle": "@WeVennStudios",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-97.png",
+      "txt": "@allbytestudios mastodon AI is game-changing for software — game dev included. In an age of game slop it's rightly scrutinized. But I don't believe it can only accelerate low quality — I'd argue it gives devs real time back to make better games, and hands more power to indie devs. Watch a bug reported and live-fixed in 3 minutes (Godot + Claude + Playwright): https:// youtu.be/l3B92iLAXKM The full",
+      "handle": "@allbytestudios",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-98.png",
+      "txt": "@WhoGrandma x Guys, my game is finally live on Steam! 🎉 The reviews have been amazing so far. Thank you all for the support! If you'd like to help an indie developer, feel free to check it out and grab a copy ❤️https://t.co/fOE5qdE2Kv #indiegames #videogame #gaming #adventuregame https://t.co/0Y2Tl8LgCb ♥ 15 💬 2",
+      "handle": "@WhoGrandma",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-99.png",
+      "txt": "@VEXED@mastodon.art mastodon Ember 🔥 https:// v3x3d.itch.io/chroma-noir ^ Designed using Chroma Noir (platformer assets) 😄 # pixelart # ドット絵 # gamedev # indiedev",
+      "handle": "@VEXED",
+      "source": "mastodon",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-100.png",
+      "txt": "@Jeffool@lemmy.world mastodon Data analyst finds 'AI stigma' on Steam can reduce the number of reviews a game gets by around 53%—and the reviews it does get are more negative https:// lemmy.world/post/48542488 Data analyst finds 'AI stigma' on Steam can reduce the number of reviews a game gets by around 53%—and the reviews it does get are more negative - Lemmy.World Lemmy lemmy.world 💬 1",
+      "handle": "@Jeffool",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-101.png",
+      "txt": "@zagawee youtube What 4 Years of Solo Indie Game Development Looks Like Check out Garbanzo Quest on Steam! https://store.steampowered.com/app/2105910/Garbanzo_Quest Join SUPER DEBT ...",
+      "handle": "@zagawee",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-102.png",
+      "txt": "@DreamStationcc mastodon Senior EA Exec Laura Miele Thinks AI Has Led to “a real rise of creativity” Among the Publisher’s Studios https://www. eurogamer.net/senior-ea-exec-l aura-miele-thinks-ai-has-led-to-a-real-rise-of-creativity-among-the-publishers-studios # electronicarts # gamedev # videogames # gaming # gamingnews Senior EA exec Laura Miele thinks AI has led to \"a real rise of creativity\" ",
+      "handle": "@DreamStationcc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-103.png",
+      "txt": "@dustb0@mastodon.gamedev.place mastodon I've just released a new plugin: RopeFX 🪢 It allows you to add dynamic, animated ropes, chains, worm monsters, tentacles and many other things to your game! Get it now https:// starlit.itch.io/rope-fx # rpgmaker # RPGツクール # gamedev",
+      "handle": "@dustb0",
+      "source": "mastodon",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-104.png",
+      "txt": "@stiftnuersel@mastodon.art mastodon Ich habe heute meinen allerersten DevLog hochgeladen! Ich stelle die neue Version von JETPENG vor, rede ein wenig über meine Ziele mit dem Spiel und zeige, wo das Projekt sich gerade befindet. Schaut gerne mal rein! https://www. youtube.com/watch?v=3H5rld3Cm4Q # gamedev # solodev # videospiele # videogames See more JETPENG Dev Log (1) - Von PICO-8 zu Löve2D - De",
+      "handle": "@stiftnuersel",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-105.png",
+      "txt": "@citrus_marine@mas.to mastodon I named this project \"DoomScroll.\" # Godot # Gamedev",
+      "handle": "@citrus_marine",
+      "source": "mastodon",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-106.png",
+      "txt": "@generichuman hackernews Game Development Post-Unity (www.computerenhance.com) Game Development Post-Unity What are the options for game developers looking to migrate away from Unity? computerenhance.com ♥ 149 💬 147",
+      "handle": "@generichuman",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-107.png",
+      "txt": "@Xarellah x RT @AbyssalAscent: Get that #MondayMotivation with two new #Indie #game #reviews. First up is #PoemoftheStarherd by #commamion, published b…",
+      "handle": "@Xarellah",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-108.png",
+      "txt": "@Lost Relic Games youtube What&#39;s Killing this New Indie Metroidvania? Game Design Analysis This promising new indie metroidvania is sinking fast. I do a design deep dive and come up with some fixes. ➤ Wishlist my game ...",
+      "handle": "@Lost",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-109.png",
+      "txt": "@Eastshade Studios youtube Marketing is NOT Why Most Indie Games Fail The website I'm using to research games is https://games-stats.com Check out Eastshade on Steam!",
+      "handle": "@Eastshade",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-110.png",
+      "txt": "@Design Diary youtube What Type of Indie Games Actually Sell Best? (And Why) Using data analysis and market research, this video explores what genres of game sell the most copies on Steam, as well as what ...",
+      "handle": "@Design",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-111.png",
+      "txt": "@Indie Game Clinic youtube What is Fun? A Game Design Introduction support IGC on Patreon: https://www.patreon.com/indiegameclinic In this video I talk about the concept of fun. We start with a ...",
+      "handle": "@Indie",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-112.png",
+      "txt": "@Jonas Tyroller youtube Best Code Architectures For Indie Games What are the best code architectures for indie games? How should you structure your game dev projects? Here are my takeaways ...",
+      "handle": "@Jonas",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-113.png",
+      "txt": "@Artindi youtube (How To Succeed) At Indie Game Development In this series I'm always sarcastic and pointing out how to fail, but for this special episode, I say it like it is, and show you how to ...",
+      "handle": "@Artindi",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-114.png",
+      "txt": "@Going Indie youtube Why 96% of Indie Games Fail Only about 4% of games turn a profit. So how do you succeed as an indie game developer? Check out Tanks But No Tanks!",
+      "handle": "@Going",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-115.png",
+      "txt": "@NOBL Games youtube The 10 Basic Principles of Game Design Every Indie Dev Should Know NEW - My indie game Runes of the Abyss - WISHLIST NOW ON STEAM: http://s.team/a/3794050 In this video, we're diving deep ...",
+      "handle": "@NOBL",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-116.png",
+      "txt": "@Indie Game Clinic youtube Their Games “Failed” - What Did They LEARN? (Design Prof Reacts) Patreon: https://www.patreon.com/indiegameclinic Contact: https://indiegameclinic.com/",
+      "handle": "@Indie",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-117.png",
+      "txt": "@Indie Game Clinic youtube Indie Game Genres &amp; Subtractive Design support IGC on Patreon to join our closed Discord, get early access to new videos, exclusive scripts and show-notes, and access ...",
+      "handle": "@Indie",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-118.png",
+      "txt": "@Indie Game Clinic youtube Level Design Approaches for Solo Devs support IGC on Patreon: https://www.patreon.com/indiegameclinic Original full stream: ...",
+      "handle": "@Indie",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-119.png",
+      "txt": "@Scope Creepers: A Game Dev Podcast youtube Joe from Indie Game Clinic: Elegant Game Design for Indie Devs | Scope Creepers a Game Dev Podcast Andy from @Aarimous and Joe from @IndieGameClinic sit down and have a lovely chat about game design and the challenges ...",
+      "handle": "@Scope",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-120.png",
+      "txt": "@Snoman Gaming youtube 3 HOURS of Game Design Analysis and Principles! Good Game Design has been around for many years now - if you missed some of the best episodes, this is a great way to catch ...",
+      "handle": "@Snoman",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
     }
   ]
 }

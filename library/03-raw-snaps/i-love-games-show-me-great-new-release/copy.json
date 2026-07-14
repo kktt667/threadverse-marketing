@@ -1,528 +1,1685 @@
 {
-  "feed": "I love games",
-  "slug": "i-love-games-show-me-great-new-release",
+  "feed": "I love games — show me great new release",
   "cards": [
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-01.png",
+      "file": "card-01.png",
       "keep": false,
-      "score": 3,
-      "vibe": "esoteric",
-      "title": "The Godfather of Near-Death Studies",
-      "caption": "An interview with Raymond Moody, the man who coined 'near-death experience.' Niche but heartfelt. Surfaced from ~5,000 posts.",
-      "quote": "",
-      "povText": "",
-      "format": "banner",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-02.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "snarky",
-      "title": "Cited a philosophy journal for a 'biology' argument",
-      "caption": "The kind of dunk that only lands if you saw the original. Too much missing context to fly on its own.",
-      "quote": "Lol he cited a philosophy journal to support his \"biological\" argument",
-      "povText": "",
-      "format": "quote",
-      "bestPlatform": "bluesky",
-      "triggers": [
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-03.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "wry",
-      "title": "The journey there is also funny",
-      "caption": "A recommendation for a dialogue on why to fund philosophy grad schools. Charming, but cryptic without the link.",
-      "quote": "The prescience of the conclusion is one thing; the journey there is also funny.",
+      "score": 2,
+      "vibe": "muddled",
+      "title": "",
+      "caption": "",
       "povText": "",
       "format": "minimal",
       "bestPlatform": "bluesky",
-      "triggers": [
-        "novelty"
-      ]
+      "triggers": []
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-04.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "defiant",
-      "title": "Writing well is now 'anti-intellectualism'",
-      "caption": "A John Locke quote on learning from children, plus a sharp modern read: write clearly and people call it dangerous. Which side are you on? Curated by Threadverse.",
-      "quote": "These days it's sort of dangerous to play when you write like this as people will take it as anti-intellectualism.",
-      "povText": "",
-      "format": "splitProof",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "identity",
-        "emotion",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-05.png",
-      "keep": true,
-      "score": 9,
-      "vibe": "savage",
-      "title": "What are you gonna DO with a philosophy degree?",
-      "caption": "Every philosophy major has heard the smug question. This is the most ruthless comeback we've seen. 361 likes and climbing. What's your answer?",
-      "quote": "provide a veneer of intellectual respectability to a nasty hate movement targeting a vulnerable minority",
-      "povText": "POV: someone just asked what you'll do with your philosophy degree",
-      "format": "quote",
-      "bestPlatform": "bluesky",
-      "triggers": [
-        "identity",
-        "social_currency",
-        "emotion",
-        "participation"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-06.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "lyrical",
-      "title": "The cure for all ill is cordial speech",
-      "caption": "Emerson, quoted by a bot named after him, and it still hits. A small line worth carrying around. Threadverse kept this one.",
-      "quote": "The music that can deepest reach, And cure all ill, is cordial speech.",
-      "povText": "",
-      "format": "minimal",
-      "bestPlatform": "instagram",
-      "triggers": [
-        "emotion",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-07.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "unbothered",
-      "title": "Reason, revelation, whatever — don't expect me to fix it",
-      "caption": "The most freeing take on faith vs reason: do what you want, just don't make me reconcile it for you. Team reason or team revelation?",
-      "quote": "Just don't expect me to reconcile those things on your behalf.",
-      "povText": "",
-      "format": "quote",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "identity",
-        "social_currency",
-        "participation"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-08.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "cheeky",
-      "title": "The one field famous for name-calling",
-      "caption": "Attributed to Jerry Fodor: analytic philosophy is the one discipline with zero norm against calling people names. Accurate, and hilarious. Surfaced by Threadverse.",
-      "quote": "we are, very famously, the one field that doesn't have that norm",
-      "povText": "",
-      "format": "quote",
-      "bestPlatform": "bluesky",
-      "triggers": [
-        "social_currency",
-        "identity",
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-09.png",
+      "file": "card-02.png",
       "keep": true,
       "score": 6,
-      "vibe": "analytical",
-      "title": "Why \"GORE\" Is a Design Choice",
-      "caption": "A whole design breakdown on how game genres shape everything from pacing to gore. Indie Game Clinic goes deep. Surfaced from the noise. What genre do you defend to the death?",
-      "quote": "",
+      "vibe": "meta",
+      "title": "The gamedev sim where the publisher screws you",
+      "caption": "A dev-life sim where crowdfunding fails and publishers are shady. The most honest gamedev tutorial is a game — simulators teach market mechanics faster than postmortems, because you pay the tuition in save files.",
       "povText": "",
-      "format": "banner",
-      "bestPlatform": "instagram",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
       "triggers": [
         "novelty",
         "identity"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-10.png",
+      "file": "card-03.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "sober",
+      "title": "Jonathan Blow spent ten years on one game",
+      "caption": "Blow on whether indie is broken, a decade into one project. Indie's edge was never taste — it was iteration speed. When auteurs adopt AAA timelines they inherit AAA risk with none of the hedges.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "mushy",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-05.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "pragmatic",
+      "title": "Demos are back as indie marketing's default",
+      "caption": "Next week's indie slate ships with demos attached. A demo is a refund-proof trial — Steam's 2-hour window made short games returnable anyway, so giving away hour one costs nothing and filters refunders. Demo lists are half my weekend queue.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-06.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "stat",
+      "title": "Paid mobile games up 77% — the F2P math broke",
+      "caption": "Premium mobile releases jumped 77% in 2025. Not nostalgia — arithmetic: when acquiring whales costs more than their LTV, charging everyone $8 upfront wins. The pendulum is priced, not cultural. Caught it in my gaming lane before the trades.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-07.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "pretty",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-08.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "triumph",
+      "title": "One dev, a poker roguelike, five Game Awards nods",
+      "caption": "Balatro is up for GOTY against nine-figure budgets. The market pays for a novel mechanic, not production value — one new game loop beats a thousand artists polishing a known one. Budgets hedge; they don't invent.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-09.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "discovery",
+      "title": "Quality isn't the bottleneck. Discovery is",
+      "caption": "A reviewer betting on games 'easily overlooked' in the release flood. With ~19k Steam launches a year, visibility is the scarce resource — good games fail at distribution, not craft. Which is basically why I outsourced my scroll.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-10.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "scoped",
+      "title": "Pick the engine by how little time you have",
+      "caption": "A dev going back to Godot because the project doesn't deserve much time. Scoping tools to ambition is the senior move — engine choice is a time budget, not a loyalty. Most abandoned games died of over-tooling, not lack of talent.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-11.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-12.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "poignant",
+      "title": "Nintendo's moat is 30-year careers, not IP",
+      "caption": "DK Bananza reads as veterans mentoring novices — and that's the tell. Craft compounds only where devs aren't laid off every cycle. Nintendo's real advantage is retention: institutional knowledge the rest of the industry keeps torching.",
+      "quote": "It's clearly the work of lifelong game developers mentoring novices",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "social-currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-13.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "leverage",
+      "title": "Steam reviews are a bug tracker with leverage",
+      "caption": "Players file demo nitpicks as negative reviews because reviews are the one channel devs visibly answer. Not malice — leverage. Every other feedback path is a suggestion box; the review is the only one that moves the score.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-14.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "thin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-15.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ragey",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-16.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-17.png",
       "keep": true,
       "score": 7,
-      "vibe": "curious",
-      "title": "What Really Happens at Launch?",
-      "caption": "Genuine question every gamer has wondered: is shipping a game just \"bugfixing is a nightmare\" or is there way more to it? Devs, sound off in the replies.",
-      "quote": "is it as simple as \"bugfixing is a nightmare for indie devs\" or is there more to it?",
-      "povText": "POV: you just finished a game and wonder what the devs went through",
+      "vibe": "exposed",
+      "title": "One outlier review can decide an indie launch",
+      "caption": "A solo dev on shipping under Metacritic's rule. Aggregators are lossy compression — and small games have tiny samples, so one outlier review moves the score like a whale in a thin order book. Big games get averaged; small ones get decided.",
+      "quote": "it feels like we're all living under the rule of Metacritic",
+      "povText": "",
       "format": "quote",
-      "bestPlatform": "x",
+      "bestPlatform": "bluesky",
       "triggers": [
-        "participation",
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-18.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "truncated",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-19.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-20.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "dry",
+      "title": "Maturity in gamedev: bullet points over PowerPoint",
+      "caption": "Process weight is a tax on iteration, and iteration is the only edge a small team has. Every artifact polished for stakeholders is a build you didn't ship. Pulled from the gamedev fediverse, where the good one-liners live.",
+      "quote": "Maturity in gamedev means favoring bullet points over PowerPoint.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "tipsy",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-22.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "scrappy",
+      "title": "A solo dev's birthday wish: food icons",
+      "caption": "The joke is the economics: for a solo dev, code is free evenings but art is cash. Asset scarcity, not programming, is the real bottleneck — which is why icon packs are a market and the engines are free.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-23.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "elegant",
+      "title": "Good sim engines don't know what beer is",
+      "caption": "A devlog rule worth stealing: keep the engine ignorant. The moment your engine 'knows' a domain concept you've hard-coded the design space — beer as pure data is what lets next month's whiskey ship without a refactor.",
+      "quote": "The Engine Doesn't Know What Beer Is",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-24.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "damning",
+      "title": "'I was following a spreadsheet' — how design dies",
+      "caption": "Ex-Rocksteady leads on Suicide Squad: design steered by commercial metrics. Metrics optimize proxies, and players buy what proxies can't see — the harder you chase replayability numbers, the faster the fun leaks out. Goodhart, playable.",
+      "quote": "I started feeling like I wasn't making games anymore. I was following a spreadsheet",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-25.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "absurd",
+      "title": "55,000 refunds for finishing the game too fast",
+      "caption": "Solo dev ships a complete sub-2-hour game; players finish it and refund inside Steam's window. Refund rules are game design pressure nobody votes on — they tax short games and subsidize padding. Surfaced a day before the discourse.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-26.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "momentum",
+      "title": "Godot ships previews while Unity ships apologies",
+      "caption": "Godot 4.8 Dev1 is out. The cadence is the story: an open engine iterating in public while Unity rebuilds trust means the default for new indies already flipped. Engines are won by momentum, not feature lists.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "social-currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-27.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "margin",
+      "title": "Digital pays studios 2x. Physical never had a chance",
+      "caption": "Lords of the Fallen's CEO: studios earn twice as much from digital sales. Every 'players prefer digital' narrative is a margin story wearing a demand costume — the storefront didn't win your heart, it won the P&L.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-28.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "generous",
+      "title": "A hit built on stock assets proves the point",
+      "caption": "Kenney cheering a hit game that ships with his asset packs. Asset packs are gamedev's open-source libraries — reuse isn't cutting corners, it's comparative advantage. Design is the scarce input; art was always importable.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-29.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "thin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-30.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "routine",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "thin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-33.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "terminal",
+      "title": "'Resetting Xbox' is the console business admitting it",
+      "caption": "Xbox's own blog calls it a reset. Read it as an exit: hardware becomes a Game Pass endpoint, and 'console' shifts from business model to distribution layer. The generation war ends not with a winner but with a subscription.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-35.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "label",
+      "title": "AAA was a financing tier, not a quality tier",
+      "caption": "Players never bought budgets — the AAA/AA/indie split was investor vocabulary that leaked into reviews. When release volume guarantees supply at every price point, the label stops predicting anything a player can actually feel.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-36.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "cult",
+      "title": "The Dreamcast still gets new games. On purpose",
+      "caption": "Dead platforms are great targets: frozen hardware, no cert process, and collectors who pre-order everything. A 26-year-old console with a healthier physical scene than PS5 is niche economics, not nostalgia.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-37.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "bleak",
+      "title": "Studios close whether the game sells or not",
+      "caption": "When outcomes stop correlating with sales, sales were never the variable. Studios are balance-sheet items now — closures get triggered by acquisition accounting and interest rates, not by whether anyone bought the game.",
+      "quote": "Game sells good - Studio gone. Game sells bad - Studio gone.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "social-currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-38.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "blunt",
+      "title": "96% of indie games make no money — by design",
+      "caption": "That failure rate isn't the market breaking; it's gatekeeping's removal made visible. Publishers used to reject the slush pile in private — Steam publishes it. The median game always earned zero; now there's just a chart.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-39.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "merch",
+      "title": "Physical games are merch now — and that's a market",
+      "caption": "A dev who shipped a physical indie run, on PlayStation's retreat: discs stopped being distribution years ago. The buyers are collectors, not players — physical is a merch-margin business, and Sony just handed it to the boutiques.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "generic",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "title": "Sponsored gamedev-advice compilation video",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-42.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "migration",
+      "title": "New devs aren't choosing Godot. They're fleeing Unity.",
+      "caption": "Every '1 year of gamedev, no experience' video is a Godot video now. That's not preference — it's Unity's runtime-fee trust collapse compounding. Engines lose beginners first and revenue five years later.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-43.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "title": "Review scores were always price-adjusted",
+      "caption": "The art-vs-product debate ends the moment price enters the score. Critics have quietly graded value-per-pound forever — a £70 tag just makes the deduction visible. Score the game, invoice separately.",
+      "quote": "no game that costs over sixty quid is more than a 7/10",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-44.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "sobering",
+      "title": "'Build it and they will come' is survivorship bias",
+      "caption": "Comforting advice for indie devs — from the third of Steam games that ever cleared $1,000. Discovery isn't a reward for quality; it's a second product you ship or you don't. The graveyard is full of kick-ass games nobody found.",
+      "quote": "If you build it, they will come.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-45.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "brutal",
+      "title": "65.9% of Steam games gross under $1,000",
+      "caption": "The indie boom sold more lottery tickets, not more prizes. Median outcome on Steam is a hobby with an invoice attached. The real dividing line isn't quality — it's whether anyone was ever told the game exists.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-46.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sharp",
+      "title": "Steam made ownership obsolete by being reliable",
+      "caption": "Nobody misses discs because Valve never gave them a reason to. Trust turned out to be a substitute for property rights — which means the whole ownership debate is one bad outage away from reopening.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "listicle",
+      "title": "Daily indie release roundup",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-48.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "devlog",
+      "title": "Scoreboard animation devlog, nothing non-obvious",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-49.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "cozy",
+      "title": "Dutch polders are an indie moat",
+      "caption": "A driving game through Dutch dikes and windmills, built in public. Hyper-local settings are terrain AAA can't touch — nobody greenlights the Netherlands. Specificity is the cheapest moat left. A tuned feed catches these at prototype stage.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-50.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "honest",
+      "title": "10 years of free games: 99k views, donation income",
+      "caption": "A decade of shipped games earns roughly one viral tweet's worth of attention. itch.io isn't a market, it's patronage — and knowing which economy you're actually in beats pretending they're the same one.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "devlog",
+      "title": "Skill tree pixel-art clip, no take available",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-52.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "title": "Asset reuse is a design-risk budget",
+      "caption": "Majora's Mask exists because Ocarina's assets were already paid for. Reuse isn't laziness — it's amortizing production so the weird ideas get funded. Teams that rebuild everything spend their risk budget on rocks and doors.",
+      "quote": "developers reusing game assets is a good thing, actually",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-53.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "mechanism",
+      "title": "Game AI didn't get dumber. It got quieter.",
+      "caption": "F.E.A.R.'s soldiers felt brilliant because they announced their flanks out loud. Perceived intelligence is a communication problem — photoreal enemies stopped narrating, so their smarts turned invisible. Then studios cut them.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-54.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "title": "Game announcement, pure promo",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-55.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "elegiac",
+      "title": "A writer locked out of her own first game",
+      "caption": "Mobile is the first medium where authors lose access to their own back catalog. No manuscripts, no reprints — when the server dies, the work never existed. Preservation isn't nostalgia, it's version control for an art form.",
+      "quote": "it was released 12 years ago and you can't play it anymore",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-56.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "taxonomy",
+      "title": "Genre is a search index, not a design taxonomy",
+      "caption": "Players use genre to find games; devs mistake it for rules to follow. Steam tags already replaced the old taxonomy — 'roguelike deckbuilder' is a query, not a tradition. Design for the search, break the canon.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "question",
+      "title": "Open question with no content to build on",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-58.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "listicle",
+      "title": "Nintendo eShop roundup promo",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-59.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "tutorial",
+      "title": "Generic beginner gamedev tutorial",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-60.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "subversive",
+      "title": "An indie game that wins when you stop playing",
+      "caption": "'We wanted you to fall asleep' — a game whose success metric is ending your session. In an industry KPI'd on retention, that's not a gimmick, it's a critique in playable form. The anti-engagement genre is quietly forming.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-61.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "devlog",
+      "title": "Soundtrack devlog recap, no angle",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-62.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "signal",
+      "title": "The AI dividend in games is skipping AAA",
+      "caption": "Big labs chase infrastructure; big studios have pipelines and legal exposure to protect. Indies have neither — so AI leverage compounds where there's no legacy to defend. Tooling revolutions land on the smallest teams first.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-63.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "wholesome",
+      "title": "Game Pass is a variance machine for weird games",
+      "caption": "A heartfelt sledding sim gets played because subscriptions flatten the price signal — trying a marginal-cost-zero game is free. Weird indie ideas don't need better marketing; they need pricing that removes the decision.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-64.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "striking",
+      "title": "When the art is the collision map, clips market themselves",
+      "caption": "Fresco's Egyptian carvings are the playable surface — 2k likes off one clip. The viral engine isn't polish, it's a verb you can read in a screenshot. If a mechanic needs explaining, the trailer's losing. Caught early in a curated lane.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-65.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "relatable",
+      "title": "Games are the least-tested software we ship",
+      "caption": "'Fun' has no assert statement, so regressions in games get found by vibes, weeks late. Every dev knows this exact feeling — the fix isn't more QA hours, it's replay-based tests that treat old sessions as fixtures.",
+      "quote": "has always worked suddenly doesn't work anymore and you have no idea for how long it has been broken",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-66.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "pragmatic",
+      "title": "AI cut the costs that were never the bottleneck",
+      "caption": "The honest indie pipeline: AI for backgrounds and grunt work, real 3D where it fails. Asset cost collapses; taste doesn't. The constraint just moved from budget to judgment — and judgment doesn't scale with tokens.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-67.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "retro",
+      "title": "On a Game Boy cart, the music outweighs the code",
+      "caption": "An assembly dev's ROM budget: song data is the single biggest line item — bigger than the engine. Audio has been games' heaviest asset since the 80s. Chiptune wasn't an aesthetic choice; it was a compression algorithm with style.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-68.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "listicle",
+      "title": "Monthly release list, no take",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-69.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "concise",
+      "title": "45-minute games are a format, not a flaw",
+      "caption": "A horror game beaten in 45 minutes, praised for exactly that. Dread doesn't scale — runtime inflation is a AAA pricing pathology, not a design goal. Short horror is games rediscovering the short story.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "bait",
+      "title": "Crafting-game promo with engagement bait",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-71.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "signal",
+      "title": "The indie studio is becoming one human plus agents",
+      "caption": "An AI analyst that watches Steam, Discord and reviews so a solo dev doesn't tab between five dashboards. The signal isn't this product — it's that 'staffing' a small studio now means renting attention, not hiring it.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 9,
+      "vibe": "watershed",
+      "title": "GenAI disclosure can cut a Steam game's reviews 58%",
+      "caption": "First quantified price of AI backlash: disclosed GenAI assets can cut a game's Steam reviews — a decent sales proxy — by 58%. 'Human-made' is becoming a paid label; organic-food economics, arriving in games.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency",
+        "emotion"
+      ],
+      "_dedup": "same study as card-100 (53% vs 58% framing)"
+    },
+    {
+      "file": "card-73.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "duplicate",
+      "title": "Same account and pitch as card-71",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-74.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "crossover",
+      "title": "Indie games are the new film option market",
+      "caption": "A Japanese horror film adapted from a short indie game. The pipeline inverted: a 2-hour game is a storyboard with a proven audience attached — cheaper to option than a script, pre-marketed by Let's Plays. Spotted in my horror lane.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "truncated",
+      "title": "Stat thread cut off before the payoff number",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-76.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "generative",
+      "title": "Audio-first design finds mechanics sighted devs miss",
+      "caption": "A jam for blind-accessible games. Constraints are generators: designing without the screen forces spatial audio, rhythm and haptic verbs that sighted-first design never discovers. Accessibility is R&D wearing a compliance badge.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "duplicate",
+      "title": "Retweet of card-78's promo",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "title": "Weekly releases promo grid, engagement bait",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-79.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "structural",
+      "title": "Budget buys polish by sanding off personality",
+      "caption": "Indies keep out-charting AAA and it isn't romance — it's variance. A $200M budget forces median taste through ten approval layers; a 5-person team can price risk. Personality isn't what survives the budget, it's what budget removes.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "tutorial",
+      "title": "Generic 2026 gamedev roadmap video",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-81.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "candid",
+      "title": "Failure postmortems are the only honest gamedev data",
+      "caption": "Dev lists 10 design mistakes that hurt his own game. Success postmortems are marketing; failure ones are data — nobody retrofits a narrative onto a flop. Want real base rates? Read the losers. The postmortem lane is the one worth curating.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-82.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "heretical",
+      "title": "Undertale's code is a mess. It didn't matter.",
+      "caption": "Undertale's dialogue famously lives in one giant switch statement — and it still rewired the RPG genre. Code quality is a maintenance cost, not a product feature. Players ship with the design, not the repo.",
+      "quote": "Toby Fox is a bad developer",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
         "identity",
         "emotion"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-11.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "promotional",
-      "title": "This Week's Switch Drops",
-      "caption": "A weekly eShop roundup of the newest Switch releases. Useful but generic listicle energy. Threadverse pulled it, but it's low-signal.",
-      "quote": "",
-      "povText": "",
-      "format": "minimal",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-12.png",
+      "file": "card-83.png",
       "keep": true,
       "score": 6,
-      "vibe": "encouraging",
-      "title": "How Do You Actually Start?",
-      "caption": "The scariest question in gamedev, answered. RETRODEAD's beginner guide for anyone who's ever wanted to make a game but froze at step one. Playable demos included.",
-      "quote": "",
-      "povText": "POV: you want to make a game but have no idea where to start",
-      "format": "pov",
-      "bestPlatform": "tiktok",
-      "triggers": [
-        "identity",
-        "participation",
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-13.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "playful",
-      "title": "\"We Wanted You to Fall Asleep\"",
-      "caption": "A game literally designed to put you to sleep, from devs making indie games that matter. The chaotic thumbnail alone earned the repost. Would you play a game meant to knock you out?",
-      "quote": "We wanted you to fall asleep!",
-      "povText": "",
-      "format": "banner",
-      "bestPlatform": "instagram",
-      "triggers": [
-        "novelty",
-        "emotion",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-14.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "devlog",
-      "title": "Agents of Groove Devlog",
-      "caption": "A soundtrack-and-art-update devlog for Agents of Groove on Playdate. Nice for fans, but too niche and in-the-weeds to travel.",
-      "quote": "",
+      "vibe": "pointed",
+      "title": "A $39 indie just outsold the $70 crowd",
+      "caption": "When a $39 indie becomes the best-seller in years, the price anchor moves. AAA pricing was never about value — it was production-cost recovery. Players just got shown the difference in sales-chart form.",
       "povText": "",
       "format": "minimal",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-15.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "provocative",
-      "title": "Big AI Chases Trillions. Indies Just Ship.",
-      "caption": "The sharpest take on AI in games this week: the giants chase infrastructure while small studios quietly punch above their weight. Agree or hype?",
-      "quote": "The biggest AI labs are chasing trillion-dollar infrastructure problems. Meanwhile, small indie studios are already using AI to punch far above their weight.",
-      "povText": "",
-      "format": "splitProof",
-      "bestPlatform": "x",
-      "triggers": [
-        "identity",
-        "social_currency",
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-16.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "wholesome",
-      "title": "A Sledding Game Made With Heart",
-      "caption": "New on Game Pass: a sledding game from The Sledding Corporation that's fun, funny, and clearly a labor of love. You can feel the passion. What's your latest cozy find?",
-      "quote": "it seriously looks so fun and also really funny. You can tell the dev is passionate about it and it's a heartfelt...",
-      "povText": "",
-      "format": "banner",
-      "bestPlatform": "instagram",
-      "triggers": [
-        "emotion",
-        "novelty",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-17.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "awe",
-      "title": "The Egyptian carvings are the level",
-      "caption": "An indie game called Fresco where the ancient Egyptian wall carvings ARE the playable environment. Wild art direction. What upcoming indie has your attention? Surfaced by Threadverse.",
-      "quote": "The Egyptian carvings are actually the playable environment",
-      "povText": "",
-      "format": "banner",
-      "bestPlatform": "instagram",
-      "triggers": [
-        "novelty",
-        "emotion",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-18.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "relatable",
-      "title": "It broke and nobody knows when",
-      "caption": "Every dev knows this exact horror: a part of the game that always worked suddenly doesn't, and you have no idea how long it's been broken. Threadverse found the most relatable gamedev post of the day.",
-      "quote": "you have no idea for how long it has been broken",
-      "povText": "POV: you open an old feature and it's just... gone",
-      "format": "quote",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "identity",
-        "emotion",
-        "participation"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-19.png",
-      "keep": false,
-      "score": 4,
-      "vibe": "preachy",
-      "title": "Use AI for what you're bad at",
-      "caption": "A gamedev's take on the hybrid AI pipeline: use AI for what you're bad at, keep the good stuff human. Solid but wordy. Surfaced by Threadverse.",
-      "quote": "Use AI for what it's good at and use basic 3D for what it's bad at",
-      "povText": "",
-      "format": "splitProof",
       "bestPlatform": "bluesky",
       "triggers": [
-        "identity",
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-20.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "nerdy",
-      "title": "What eats your Game Boy ROM?",
-      "caption": "A dev breaks down exactly what devours the most ROM space on a Game Boy game. Spoiler: it's the music. Beautiful nerd content. Threadverse pulled this from the feed.",
-      "quote": "It's always music...",
-      "povText": "",
-      "format": "bigStat",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "novelty",
-        "social_currency",
+        "social-currency",
         "identity"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-21.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "listy",
-      "title": "July 2026 game releases",
-      "caption": "The full July 2026 video game release list. Useful, but it's a list with no payoff in the crop. Surfaced by Threadverse.",
-      "quote": "",
-      "povText": "",
-      "format": "minimal",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-22.png",
+      "file": "card-84.png",
       "keep": true,
       "score": 7,
-      "vibe": "charming",
-      "title": "45 minutes of pure jumpscares",
-      "caption": "A tiny horror game called Midnight Prowl: 45 minutes, packed with jumpscares that made the player literally scream, gorgeous environments. Perfect spooky snack. Found by Threadverse.",
-      "quote": "packed with spooky moments and jumpscares that totally made me scream",
+      "vibe": "systemic",
+      "title": "Proton quietly killed the native Linux port",
+      "caption": "Gamers mad that indies skip Linux builds miss the mechanism: Proton made native ports economically irrational. Valve's compatibility layer absorbed the very incentive Valve preached — it works so well nobody has to ship for it.",
       "povText": "",
-      "format": "banner",
-      "bestPlatform": "bluesky",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
       "triggers": [
-        "emotion",
         "novelty",
-        "social_currency"
+        "identity"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-23.png",
+      "file": "card-85.png",
       "keep": false,
-      "score": 4,
-      "vibe": "curious",
-      "title": "Plant + remedy = medicine",
-      "caption": "A crafting game where Herbal Remedy + Plant = Medicine, with thousands of combos to discover. Fun hook but the crop is busy. Surfaced by Threadverse.",
-      "quote": "What do YOU think Medicine combines with?",
+      "score": 2,
+      "vibe": "local",
+      "title": "",
+      "caption": "",
       "povText": "",
-      "format": "banner",
-      "bestPlatform": "instagram",
-      "triggers": [
-        "participation",
-        "novelty"
-      ]
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-24.png",
+      "file": "card-86.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "salesy",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-87.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-88.png",
       "keep": true,
       "score": 8,
       "vibe": "sharp",
-      "title": "Nobody is watching 24/7",
-      "caption": "Devs track metrics in a spreadsheet, then Slack, then Discord, then the App Store. Nobody watches 24/7. A clean pitch for an AI analyst that does. Threadverse found the sharpest gamedev take today.",
-      "quote": "Nobody is watching 24/7.",
-      "povText": "POV: you're refreshing your Steam reviews for the 40th time today",
-      "format": "quote",
-      "bestPlatform": "x",
-      "triggers": [
-        "identity",
-        "novelty",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-25.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "vindicated",
-      "title": "AI Reviews Drop 58% For Indie Games",
-      "caption": "A stat every indie dev is quietly panicking about: AI-generated reviews can cut Steam reviews for indie games by up to 58%. Good news or the end of the honest review? Surfaced by Threadverse.",
-      "quote": "GenAI can decrease reviews for indie game on Steam by as much as 58%",
+      "title": "Next Fest's top demo: the pitch is the mechanic",
+      "caption": "Bombanana won Next Fest: three monkeys defusing a bomb — one blind, one mute, one deaf. The one-line premise IS the design doc. Wishlist charts increasingly reward describable games over screenshottable ones. Worth a lane in your reader.",
       "povText": "",
-      "format": "bigStat",
-      "bestPlatform": "x",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
       "triggers": [
         "novelty",
-        "social_currency",
-        "identity"
+        "social-currency"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-26.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "salesy",
-      "title": "The Gap Between Shipping And Earning",
-      "caption": "Every indie dev knows the gap: shipping a game and earning from it are a dozen tasks apart. Reads like a product pitch though. Surfaced by Threadverse.",
-      "quote": "The gap between shipping a game and one that earns revenue is a dozen tasks nobody has time for.",
-      "povText": "",
-      "format": "quote",
-      "bestPlatform": "x",
-      "triggers": [
-        "identity"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-27.png",
-      "keep": true,
-      "score": 6,
-      "vibe": "eerie",
-      "title": "A Horror Game Became A Movie",
-      "caption": "The Convenience Store: a short indie horror game reborn as a Japanese horror film. Does the adaptation do it justice? Curated by Threadverse.",
-      "quote": "",
-      "povText": "POV: your favorite indie horror game just became a movie",
-      "format": "banner",
-      "bestPlatform": "instagram",
-      "triggers": [
-        "novelty",
-        "emotion",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-28.png",
+      "file": "card-89.png",
       "keep": false,
       "score": 2,
-      "vibe": "cutoff",
-      "title": "Running The Actual Numbers",
-      "caption": "A dev promising to crunch real player-backstory numbers, but the post cuts off mid-sentence. No payoff to share yet. Surfaced by Threadverse.",
-      "quote": "",
+      "vibe": "musing",
+      "title": "",
+      "caption": "",
       "povText": "",
       "format": "minimal",
-      "bestPlatform": "x",
-      "triggers": [
-        "participation"
-      ]
+      "bestPlatform": "bluesky",
+      "triggers": []
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-29.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "wholesome",
-      "title": "A Game Jam To Build Games Blind Gamers Can Play",
-      "caption": "A whole game jam dedicated to making games blind gamers can actually play. Old or new, they want devs to collaborate. This is the good internet. Curated by Threadverse.",
-      "quote": "",
-      "povText": "",
-      "format": "minimal",
-      "bestPlatform": "mastodon",
-      "triggers": [
-        "emotion",
-        "identity",
-        "participation"
-      ]
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-30.png",
+      "file": "card-90.png",
       "keep": false,
       "score": 3,
-      "vibe": "cutoff",
-      "title": "Drop Your Indie Launch In The...",
-      "caption": "A weekly indie releases roundup call, but this snap is just the truncated RT with no visuals. The fuller version exists elsewhere. Surfaced by Threadverse.",
-      "quote": "",
+      "vibe": "explainer",
+      "title": "",
+      "caption": "",
       "povText": "",
       "format": "minimal",
-      "bestPlatform": "x",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-91.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "shifted",
+      "title": "Engines commoditized code. Art is the new moat.",
+      "caption": "An artist shipping a game with 'just art skills' isn't an underdog story anymore. Godot and Unity commoditized the programming; the scarce input flipped. In 2026 gamedev, art direction is the one part you can't download.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
       "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-92.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-93.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "disciplined",
+      "title": "Reviewing the game, not the developer's drama",
+      "caption": "A Heartbound design study that skips the Pirate Software discourse entirely. Rare move — games criticism usually can't separate design from developer reputation, which is exactly why most of it tells you nothing about the game.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-94.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "seismic",
+      "title": "Epic is deprecating Blueprints — and a decade of tutorials",
+      "caption": "Blueprints and Actors, both deprecated. The real cost isn't migration — it's that ten years of tutorials, courses and marketplace assets just became legacy content overnight. Engine churn is a tax indies pay and never budget for.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-95.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "mechanical",
+      "title": "Why every indie launch post begs for reviews",
+      "caption": "It's not neediness — Steam hides your review score until 10 reviews land, and the algorithm feeds on that signal. Launch-week review asks are a rational response to a threshold Valve designed. The gratitude is real; so is the gate.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-96.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "shrewd",
+      "title": "The $100 offer isn't for the game",
+      "caption": "Lowball rights offers aren't buying revenue — they're buying a live Steam app ID, its review history and IP optionality. A shipped store page has a speculative floor value even when the game flopped. Most devs don't know they hold an asset.",
+      "quote": "An indie dev was just offered $100 for the full rights to their Steam game.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-97.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "practical",
+      "title": "AI's gamedev win isn't assets — it's the bug loop",
+      "caption": "Everyone scrutinizes AI art slop. Meanwhile a dev wires Godot + Claude + Playwright and fixes a player-reported bug live in three minutes. The leverage isn't generating content — it's collapsing maintenance time back into design time.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-98.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-99.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "meta",
+      "title": "The demo is the ad: asset-pack economics",
+      "caption": "A pixel artist ships a polished platformer scene to sell the tileset behind it. Asset stores flipped the funnel — the demo exists to market the middleware. A growing share of 'indie games' in your feed are storefronts for their own parts.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-100.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "perverse",
+      "title": "The AI label costs a Steam game 53% of its reviews",
+      "caption": "Disclose AI use on Steam and reviews drop ~53% — and skew more negative. The disclosure checkbox became a punishment mechanism, which trains devs to hide usage. A transparency system that prices honesty negatively will produce less of it.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-101.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "sober",
+      "title": "4 years is the real price tag on a solo indie game",
+      "caption": "Every solo-dev revenue screenshot hides the denominator. Four years of full-time work is the actual cost basis — divide any indie 'success' by that and most wins land near minimum wage. Time math is the least-shared stat in gamedev.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-102.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "cynical",
+      "title": "When an EA exec says 'creativity,' read 'margin'",
+      "caption": "EA's Laura Miele credits AI with a rise of creativity across studios. Decode the exec-speak: publishers narrate AI to investors as output-per-headcount. Watch what actually ships, not what gets said on an earnings-adjacent press tour.",
+      "quote": "a real rise of creativity",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-103.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "plugin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-104.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "devlog",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-105.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "thin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-106.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "reckoning",
+      "title": "The Unity exodus question won't die. That's the story.",
+      "caption": "'Game Development Post-Unity' still pulls 147 comments on HN. Unity walked back the runtime fee; the migration talk never walked back. Trust is a dependency — no patch release restores it. Engine choice is now risk analysis.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-107.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "broken",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-108.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "surgical",
+      "title": "A live design autopsy — the patient can still patch",
+      "caption": "New metroidvania sits at 65% Mixed and gets a public design teardown with proposed fixes. Post-launch criticism used to be an obituary; on Steam it's free QA the dev can ship against. In an oversupplied genre, that's survival advice.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
         "participation"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-31.png",
+      "file": "card-109.png",
       "keep": true,
-      "score": 7,
-      "vibe": "showcase",
-      "title": "This Week's Indie Drops, All In One Grid",
-      "caption": "Weekly indie releases, laid out like a menu of tiny worlds. Launching something soon? Drop it in the replies. Curated by Threadverse.",
-      "quote": "",
+      "score": 8,
+      "vibe": "uncomfortable",
+      "title": "'Bad marketing' is indie dev's most comforting myth",
+      "caption": "Eastshade's data argues most indies don't fail from marketing. The harsher read: Steam's algorithm IS distribution — it tests every game for conversion. 'I failed at marketing' usually means the store ran the experiment and the game lost.",
       "povText": "",
       "format": "banner",
-      "bestPlatform": "x",
+      "bestPlatform": "bluesky",
       "triggers": [
-        "participation",
         "novelty",
-        "social_currency"
+        "identity",
+        "emotion"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/i-love-games-show-me-great-new-release/card-32.png",
+      "file": "card-110.png",
       "keep": true,
-      "score": 8,
-      "vibe": "heartfelt",
-      "title": "An Indie Game Outperforming AAA Gave Him Hope",
-      "caption": "Watching an indie game outperform recent AAA titles reminded him people care about personality over budget. What indie beat the blockbusters for you? Surfaced by Threadverse.",
-      "quote": "People care about personality of the product versus the budget of the game.",
+      "score": 7,
+      "vibe": "contrarian",
+      "title": "The 'genres that sell' chart invalidates itself",
+      "caption": "Every dev sees the same Steam genre data, so the green bars attract a flood of supply. Demand-side charts used as supply-side advice self-destruct — by the time a genre tops the list, you're late. The red bars might be the actual arbitrage.",
       "povText": "",
-      "format": "quote",
-      "bestPlatform": "x",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
       "triggers": [
-        "emotion",
-        "identity",
-        "social_currency"
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-111.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-112.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "pragmatic",
+      "title": "Indie codebases are disposable. Designs aren't.",
+      "caption": "Jonas Tyroller on indie architecture, and the quiet heresy inside it: clean code protects a future most unshipped games never reach. Optimize for iteration speed, treat the repo as scaffolding — the design is the asset, not the codebase.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-113.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "inverted",
+      "title": "Gamedev advice works better inverted",
+      "caption": "A whole series that teaches indie dev by how-to-fail. Via negativa beats success advice here: failure modes repeat across projects, success paths don't. You can't copy a hit, but you can reliably stop repeating the known losses.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-114.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "skeptical",
+      "title": "96% of indie games fail — and the stat is unfalsifiable",
+      "caption": "Only ~4% of Steam games turn a profit. But the 96% includes jam entries, portfolios and hobby uploads with zero commercial intent. The real base rate for serious attempts is unknowable — which is exactly why the scary number never dies.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-115.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "listicle",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-116.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-117.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "essential",
+      "title": "Don't make smaller games. Make subtracted ones.",
+      "caption": "Subtractive design through the genre lens: find which 20% of a genre's mechanics carry the fun, cut the inherited rest. Scope discipline isn't shrinking your idea — it's refusing to pay for conventions the genre only kept out of habit.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-118.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-119.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-120.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "archival",
+      "title": "Game design's canon is being written on YouTube",
+      "caption": "Three hours of design analysis in one video — it will outlive half the games it covers. Design education skipped academia; the canon forms in community-curated essays. A good reader works the same way: someone did the three hours for you.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "social-currency",
+        "novelty"
       ]
     }
   ]

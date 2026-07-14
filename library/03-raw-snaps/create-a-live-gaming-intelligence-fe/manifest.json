@@ -1,294 +1,966 @@
 {
   "feed": "> **Create a live gaming intelligence fe",
-  "count": 32,
+  "count": 120,
   "cards": [
     {
       "file": "card-01.png",
+      "txt": "@geeqoid x In this episode, Erik and Jarrad explore the latest trends in gaming (big news from Microsoft and Sony), tech industry shifts, and AI advancements (new models galore!), providing insights into market dynamics, corporate strategies, and future predictions. https://t.co/lvvej7PMhK",
+      "handle": "@geeqoid",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@mikesenters.bsky.social bluesky The current state of the Gaming Industry: ♥ 32 💬 3",
+      "handle": "@mikesenters.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@thegavinsheehan.bsky.social bluesky State of the gaming industry. #gaming #videogames ♥ 64",
+      "handle": "@thegavinsheehan.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@raddadredemption.bsky.social bluesky How it feels to be keeping up with the gaming industry news lately... ♥ 23 💬 3",
+      "handle": "@raddadredemption.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@heyt.red bluesky Legit considering writing a book on DevOps in the gaming industry ♥ 66 💬 10",
+      "handle": "@heyt.red",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@xavierck.com bluesky Congratulations to PC Gamer and writer Joshua Wolens for coming up with the greatest headline in game industry news history www.pcgamer.com/gaming-indus... ♥ 3.4k 💬 55",
+      "handle": "@xavierck.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@quest64official.bsky.social bluesky What an absolute fucking joke the gaming industry is right now. People put out great games, parent companies shut down the studio if it doesn't make Fortnite money. Writers provide gaming content, media companies shuts it down to provide something NO ONE wants. REPOSTED @shepardcdr.bsky.social if you were one of the 30k+ who followed @kotaku.bsky.social here an",
+      "handle": "@quest64official.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@Angel_G0ddess x @mrpyo1 That's because Sony and Playstation are at the very bedrock of the gaming industry, have been since 1995. Nobody cares when Xbox makes news... Barely anybody cares when Nintendo makes news. But Sony, people are always going to care. https://t.co/J9wId1lasp",
+      "handle": "@Angel_G0ddess",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@pookleblinky.bsky.social bluesky Since genAI has completely fucked the market for home computers, I guarantee there'll be an article complaining that people are playing older and less resource-intensive games and how this is killing the AAA gaming industry ♥ 1.2k 💬 14",
+      "handle": "@pookleblinky.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@HarpritKaurr x RT @iGNewstoday: Big leadership news from the UK gaming industry. The Rank Group has officially appointed Richard Harris as CEO after serv…",
+      "handle": "@HarpritKaurr",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@lashman mastodon Agent 64: Spies Never Die - Official Release Date Trailer https://www. youtube.com/watch?v=PY572CQSBdk # videoGames # gaming # gamingNews ♥ 1",
+      "handle": "@lashman",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@nerdskull.bsky.social bluesky Welp, they did it. AAA PC gaming is over. The AI industry killed it. REPOSTED @nesbot.bsky.social [Newsis] Consumer GPUs to increase in price next year. RTX 5090 to increase from $2000 to $5000 www.resetera.com/threads/13... ♥ 117 💬 19",
+      "handle": "@nerdskull.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@ENFANT TERRIBLE youtube ALL 25 NEW BIGGEST Game Trailer Reveals from July 2026 Take a look at all the latest game announcements, gameplay reveals, and major trailer showcases from the past few days (July 2026). One of the biggest highlights this week is the announcement of a new first person extraction wuxia action RPG by NetEase called Hidden Blade in the Shadows. The game will be tested in Chin",
+      "handle": "@ENFANT",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@Kelper22b x @TenThySelf @tygersparky @Pirat_Nation What is with the hate towards casual gamers? People actually go outside and touch grass have full-time jobs have family and friends and only game occasionally. They don’t surround their selves with every breaking news article about the gaming industry. I suggest you try it. See more 💬 1",
+      "handle": "@Kelper22b",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@acerola.gg bluesky New video is up on the channel now! The Terribly Tragic, Totally Avoidable, Absolute Collapse Of The Gaming Industry ♥ 762 💬 20",
+      "handle": "@acerola.gg",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@centralscruty.bsky.social bluesky Over at the other place all I see is \"this game sucks\" \"the industry is cooked\" \"Woke! DEI!\" *complaints about game fidelity* Here meanwhile: \"I love this game\" \"Check out my gaming collection\" \"Here's a list of games I love\" *Overwhelming positive discussion* The contrast is staggering. ♥ 14.6k 💬 338",
+      "handle": "@centralscruty.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@felipepepe.bsky.social bluesky A book I always recommend is Jaroslav Švelch's \"Gaming the Iron Curtain\": ironcurtain.svelch.com By portraying gaming in Communist Czechoslovakia in the 80s, it also shows gaming outside a \"game industry\" logic - hobbyist making games, peripherals & game zines for fun, self-expression & activism. ♥ 111 💬 2",
+      "handle": "@felipepepe.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@DreamStationcc mastodon Games Industry Veterans Say Console Makers Have to Innovate to Survive: ‘We should be afraid of the thousand-dollar console’ https:// kotaku.com/games-industry-vete rans-console-makers-innovate-thousand-dollar-console-2000715828 # playstation # xbox # videogames # gaming # gamingnews",
+      "handle": "@DreamStationcc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@handle.invalid bluesky Disabled people deserve a space in the gaming community. We deserve accessibility in the gaming industry That’s it that’s the post ♥ 68 💬 1",
+      "handle": "@handle.invalid",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@Platinum_Mask x @IGN Bugs inside a 15 year old PS3 game that you paid $40 for on PS5... AND IGN is bringing a legitimate news like it's 15 years ago. Things did not progress as the industry said they would. Gaming is DEAD, especially at full price. #StayPlatinum https://t.co/ddJ7dXNF5J",
+      "handle": "@Platinum_Mask",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@WinC_Gaming x Warframe creative director Rebecca Ford says Destiny 2 dying is \"horrible news\" and \"existentially threatening\" for the gaming industry. ☹️ \"The business side of this industry always gets the last remark.\" Details 👇 https://t.co/WpqvmLMkG0 ♥ 19",
+      "handle": "@WinC_Gaming",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@landon.wtf bluesky still just really upset about this variety.com/2026/gaming/... unreasonably upset. uncouth ass industry One-Third of U.S. Video Game Industry Workers Were Laid Off Over the Last Two Years, GDC Study Reveals One-third of U.S. video game industry workers say they were laid off over the past two years, according to GDC. variety.com ♥ 886 💬 15",
+      "handle": "@landon.wtf",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@heartimecia.bsky.social bluesky my productivity this week after being inundated with terrible gaming industry news ♥ 179 💬 6",
+      "handle": "@heartimecia.bsky.social",
+      "source": "bluesky",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@dachsjaeger.bsky.social bluesky Microsoft should exit the gaming industry and preferably my plane of existence. If BDS was not enough to convince sideliners, what MS did to id is unforgivable. Perhaps the most important western gaming studio in existence - a historied house of culture and art with genre defining talent. ♥ 923 💬 34",
+      "handle": "@dachsjaeger.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@kriswolfhe.art bluesky NEW ARTICLE Raising Prices Won't Save The Gaming Industry kriswolfheart.substack.com/p/raising-pr... Raising Prices Won't Save The Gaming Industry Never spend more than 44 bucks and 39 cents for a computer game. kriswolfheart.substack.com ♥ 361",
+      "handle": "@kriswolfhe.art",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@kimimithegameeatingshemonster.com bluesky I wish the gaming industry loved gaming even the tiniest fraction as much as the people involved in creating and playing them did. It's heartbreaking. People deserve better. ♥ 124",
+      "handle": "@kimimithegameeatingshemonster.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@fullcleared@mastodon.online mastodon FlexStrike Fight Stick Delayed Weeks Before Launch https:// fullcleared.com/news/flexstrik e-fight-stick-delayed-weeks-before-launch/ # gaming # gamingnews # videogames # flexstrike FlexStrike Fight Stick Delayed Weeks Before Launch - FullCleared Sony has delayed the FlexStrike wireless fight stick past its August 6 launch, citing production delays, with no ne",
+      "handle": "@fullcleared",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@taw.moe bluesky So how's the gaming industry? Ah. ♥ 1.2k 💬 53",
+      "handle": "@taw.moe",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@nicktyde.bsky.social bluesky What’s your gaming hot take? I’ll go first: I think Bethesda hasn’t been good for the gaming industry because they’ve led to this push towards open world non linear experiences as well as normalizing shipping out games that are full of bugs. Not everything needs to be open world! ♥ 1.6k 💬 182",
+      "handle": "@nicktyde.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@longtalljodie.com bluesky Watching STATE OF PLAY and the gaming industry boldly asks if you'd like to play Overwatch, Sony Overwatch, Marvel Overwatch, or Star Wars Overwatch. ♥ 206 💬 10",
+      "handle": "@longtalljodie.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@GamingNews@meta.masto.host mastodon PC Gamer just posted: After releasing a bummer of a Diablo 4 season, Blizzard swoops in with an update that fixes some of its worst issues Loot is back, everyone! https://www. pcgamer.com/games/rpg/after-re leasing-a-bummer-of-a-diablo-4-season-blizzard-swoops-in-with-an-update-that-fixes-some-of-its-worst-issues/ # gamingNews # PCGamer See more",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@purpzie.com bluesky can we get a new gaming industry? this one is broken ♥ 37 💬 2",
+      "handle": "@purpzie.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@machete.gay bluesky every gaming industry headline is either incomprehensibly twee or \"AAA studio lays off 7400 people\" ♥ 92 💬 1",
+      "handle": "@machete.gay",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@Fearthecow93 x @jegaevi I'm ngl. AI has gotten way better than i ever expected. But it costs more than anything in history and is ruining the entire tech industry/gaming/news so it kinda needs to be 100x better than this. Its just a scam ♥ 6",
+      "handle": "@Fearthecow93",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@hard-drive.net bluesky What if every video game had Hangman Adam Page as the protagonist? What then? The gaming industry would be saved, that's what ♥ 848 💬 44",
+      "handle": "@hard-drive.net",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@Lyte_House x @Stealth40k Gaming industry is imploding. Mass layoffs. Future looks bleak. Meanwhile at Nintendo HQ: \"Good news everyone!\" \"Record breaking sales!\" \"You all get a 10% raise!\" \"What? Yes, yes, tell SquareEnix I'll return their calls later\" \"Hey, let's open ANOTHER theme park!\" https://t.co/5JWKM7am8b See more ♥ 2",
+      "handle": "@Lyte_House",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@bug-deal.bsky.social bluesky *looks at the game industry* employees are exploited and not even rewarded for commercial success... because of the gamers. they're gaming wrong. the companies are innocent ♥ 2.3k 💬 5",
+      "handle": "@bug-deal.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@GamingNews@meta.masto.host mastodon 80 Level just posted: This 3D Pack of Deep Sea Horrors Lets You Add Leviathan Monsters to Your Games It could be for a horror or action underwater game! https:// 80.lv/articles/this-3d-pack-of -deep-sea-horrors-lets-you-add-leviathan-monsters-to-your-games/ # gamingNews # 80Level",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-39.png",
       "txt": "@wesleytypes x - NO STUDIOS CLOSED - 4 under new management - 3,200 total job losses - management layer reduction Layoffs continue to be a very big problem that the gaming industry needs to solve with haste, but I respect Asha for being transparent. It's not all bad news. https://t.co/UPNzHn1uOZ ♥ 7",
       "handle": "@wesleytypes",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/wesleytypes/status/2074164366966948035"
+      "hasImg": false
     },
     {
-      "file": "card-02.png",
+      "file": "card-40.png",
       "txt": "@DreamStationcc mastodon Your Favorite Pokémon Now Has an Official Soccer Team https://www. polygon.com/pokemon-japanese-l eague-mascots/ # pokemon # soccer # football # videogames # gaming # gamingnews Pokémon has partnered with the Japanese soccer league to give every club a Pokémon mascot The J. League has partnered with Pokémon to ensure all 60 clubs in the top three divisions have a mascot Po",
       "handle": "@DreamStationcc",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.polygon.com/pokemon-japanese-league-mascots/"
+      "hasImg": true
     },
     {
-      "file": "card-03.png",
+      "file": "card-41.png",
       "txt": "@GamingNews@meta.masto.host mastodon Kotaku just posted: The Elder Scrolls Online Team Seemingly Gutted By Xbox Layoffs, Says Game’s Roadmaps ‘Will Be Shifting’ However, its community manager has said those remaining want to 'reaffirm our commitment' to the game https:// kotaku.com/elder-scrolls-onlin e-team-seemingly-halved-xbox-layoffs-2000712920 # gamingNews # Kotaku See more",
       "handle": "@GamingNews",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://meta.masto.host/@GamingNews/116873910376478123"
+      "hasImg": true
     },
     {
-      "file": "card-04.png",
+      "file": "card-42.png",
       "txt": "@roegamaniac x Gaming industry isn't taking a break from bad news after bad news. https://t.co/2uM4DIsWl5 ♥ 6",
       "handle": "@roegamaniac",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/roegamaniac/status/2074148096007659909"
+      "hasImg": false
     },
     {
-      "file": "card-05.png",
+      "file": "card-43.png",
       "txt": "@fuckkiev x Will read it later today but not great news that MS still thinks AAA gaming is a growth industry and not just placating the elder millennial fanbase. MS job is to push two legacy AAA titles a year and maintain platform, collect a 5% margin and thats it. Zoomers are playing slop. They wont be playing Stalker 3 or new Metro. See more ♥ 2",
       "handle": "@fuckkiev",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/fuckkiev/status/2074144924514312200"
+      "hasImg": false
     },
     {
-      "file": "card-06.png",
+      "file": "card-44.png",
       "txt": "@GamingNews@meta.masto.host mastodon PC Gamer just posted: Xbox's CEO wants its games to cater to 'more than a billion people each day', or 24 times more than the peak population of Steam, which is delusional Alternate title: Does Xbox CEO Asha Sharma know what a billion is? https://www. pcgamer.com/gaming-industry/xb oxs-ceo-wants-its-games-to-cater-to-more-than-a-billion-people-each-day-or-24-ti",
       "handle": "@GamingNews",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://meta.masto.host/@GamingNews/116873650755942540"
+      "hasImg": true
     },
     {
-      "file": "card-07.png",
+      "file": "card-45.png",
       "txt": "@healy_major x As the gaming industry gets worse. Lord Jesus, look at that Xbox news today.🙆🤷😳",
       "handle": "@healy_major",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/healy_major/status/2074151908886135096"
+      "hasImg": false
     },
     {
-      "file": "card-08.png",
+      "file": "card-46.png",
       "txt": "@inflectivAI x @PolymarketMoney Hearing about layoffs of this scale in sales and gaming is definitely tough news for the industry. It will be interesting to see how Microsoft restructures these departments moving forward.",
       "handle": "@inflectivAI",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/inflectivAI/status/2074147239904030901"
+      "hasImg": false
     },
     {
-      "file": "card-09.png",
+      "file": "card-47.png",
       "txt": "@Pijinnn_ x Terrible news again for the gaming industry today. However, if you think this has been brought about because of DEI staff then you were never a gamer to begin with in my eyes. https://t.co/l4WI60vfe3 ♥ 29 💬 1",
       "handle": "@Pijinnn_",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/Pijinnn_/status/2074145534353240248"
+      "hasImg": false
     },
     {
-      "file": "card-10.png",
+      "file": "card-48.png",
       "txt": "@djvortivask x Don't let the Microsoft news distract you from Sony trying to kill the gaming industry in cold blood. The timing of all of this is not coincidental.",
       "handle": "@djvortivask",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/djvortivask/status/2074146455460184256"
+      "hasImg": false
     },
     {
-      "file": "card-11.png",
+      "file": "card-49.png",
       "txt": "@DreamStationcc mastodon Interview: While GDC Falters, Gamescom Goes From Strength to Strength https://www. gamesindustry.biz/interview-wh ile-gdc-falters-gamescom-goes-from-strength-to-strength # gamescom # videogames # gaming # gamingnews Interview: While GDC falters, Gamescom goes from strength to strength Gamescom heads Tim Endres and Stefan Heikhaus discuss ticket sales, government help, and ",
       "handle": "@DreamStationcc",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.gamesindustry.biz/interview-while-gdc-falters-gamescom-goes-from-strength-to-strength"
+      "hasImg": true
     },
     {
-      "file": "card-12.png",
+      "file": "card-50.png",
       "txt": "@lashman mastodon Soulframe - Official TennoLive 2026 Teaser Trailer https://www. youtube.com/watch?v=8VpfX4jlTQU # videoGames # gaming # gamingNews",
       "handle": "@lashman",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.social/@lashman/116873642218722440"
+      "hasImg": true
     },
     {
-      "file": "card-13.png",
+      "file": "card-51.png",
       "txt": "@GamingNews@meta.masto.host mastodon Insider Gaming just posted: Asha Sharma Wants Xbox To “Entertain” A Billion People Daily In her memo on the layoffs at Xbox, CEO Asha Sharma said that she wants to have one billion people daily being \"entertained\" by Xbox https:// insider-gaming.com/asha-sharma -xbox-billion-daily-users/ # gamingNews # InsiderGaming See more",
       "handle": "@GamingNews",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://meta.masto.host/@GamingNews/116873817534300452"
+      "hasImg": true
     },
     {
-      "file": "card-14.png",
+      "file": "card-52.png",
       "txt": "@fullcleared@mastodon.online mastodon Assassin’s Creed Black Flag Resynced: What to Know https:// fullcleared.com/news/assassins -creed-black-flag-resynced-what-to-know/ # gaming # gamingnews # videogames # blackflag Assassin's Creed Black Flag Resynced: What to Know - FullCleared Assassin's Creed Black Flag Resynced launches July 9 on PlayStation 5, XBOX Series X|S, and PC. Here's everything Ubis",
       "handle": "@fullcleared",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://fullcleared.com/news/assassins-creed-black-flag-resynced-what-to-know/"
+      "hasImg": true
     },
     {
-      "file": "card-15.png",
+      "file": "card-53.png",
       "txt": "@GameSpot youtube gen ATLAS - Official Reveal Trailer For the first time on XBOX comes a new game from Fumito Ueda, creator of ICO, Shadow of the Colossus, and The Last Guardian. gen ATLAS is a single-player, open-world action-adventure game. Without knowing why, you awaken on an abandoned planet. Before you lies a vast, silent world. Colossal structures stretch over endless plains, deserted facil",
       "handle": "@GameSpot",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=64Q-WAFpRfo"
+      "hasImg": true
     },
     {
-      "file": "card-16.png",
+      "file": "card-54.png",
       "txt": "@PaleMeatArt x Can’t wait for Ninty fans to see this news, plug their ears and continue prattling on about how “Nintendo are the good guys! They’ll carry gaming through another industry crash! They care about the consumer!”, when that couldn’t be farther from the truth. https://t.co/Vg0j2ZFzyG",
       "handle": "@PaleMeatArt",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/PaleMeatArt/status/2074156011535884379"
+      "hasImg": false
     },
     {
-      "file": "card-17.png",
+      "file": "card-55.png",
       "txt": "@Jojenite x @Wario64 A trillion dollar company btw… Fuck these news, fuck the people in charge of gaming companies (that aren’t even gamers) making decisions for gaming companies, and fuck all this corpo pr talk. I feel for the people impacted. The whole gaming industry is fucked",
       "handle": "@Jojenite",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/Jojenite/status/2074150308612342206"
+      "hasImg": false
     },
     {
-      "file": "card-18.png",
+      "file": "card-56.png",
       "txt": "@mattbo_0 x Gaming industry news really has sucked for the past week.",
       "handle": "@mattbo_0",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/mattbo_0/status/2074158898517250051"
+      "hasImg": false
     },
     {
-      "file": "card-19.png",
+      "file": "card-57.png",
       "txt": "@ign.com bluesky ICYMI: The gaming industry is not responding well to the news that PlayStation will stop producing game discs in January 2028. bit.ly/4vfmQW7 ♥ 53 💬 2",
       "handle": "@ign.com",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mptdacsqkb2n"
+      "hasImg": true
     },
     {
-      "file": "card-20.png",
+      "file": "card-58.png",
       "txt": "@indiegenius mastodon Movie TV Tech Geeks # GamingNews # XboxSeriesXS # Microsoft Xbox Hit With Major Changes Amid Layoffs and Studio Spin-Offs http:// dlvr.it/TTNMGv",
       "handle": "@indiegenius",
       "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://mastodon.social/@indiegenius/116873710693916647"
+      "hasImg": true
     },
     {
-      "file": "card-21.png",
+      "file": "card-59.png",
       "txt": "@ProTraderX619 x Tough news. 3,200 people across FY27 (1,600 today) is a massive cut for Xbox — biggest restructure in its history according to the new CEO. Spinning off Compulsion, Double Fine (independent), and selling Ninja Theory + Undead Labs while keeping funding for their current projects is an interesting move. At least they’re saying no announced games are getting cancelled. Hope everyone",
       "handle": "@ProTraderX619",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/ProTraderX619/status/2074153748008468860"
+      "hasImg": false
     },
     {
-      "file": "card-22.png",
+      "file": "card-60.png",
       "txt": "@eatenbyagrue hackernews Rate my Startup: automated game news classification and monitoring www.automatedgamer.com Also posted to our blog at blog.automatedgamer.com<p>After 6 months of development, we’re proud to announce the 1.0 release of AutomatedGamer.com.<p>AutomatedGamer monitors your personal game list against video game news across the internet, and provides:<p><pre><code> * Personalized ",
       "handle": "@eatenbyagrue",
       "source": "hackernews",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://news.ycombinator.com/item?id=471426"
+      "hasImg": false
     },
     {
-      "file": "card-23.png",
+      "file": "card-61.png",
       "txt": "@raphlife.bsky.social bluesky Players/content creators: \"no worries gaming will go on don't worry it's just a transformation\" Professional game developers: \"holy fucking shitballs the industry is ON FIRE who will make the games after this time to dust off those farming tools I guess\" ♥ 26 💬 3",
       "handle": "@raphlife.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:zl3pkd43jbbt5aksdpbqa2h7/post/3mplq5pzzsc2h"
+      "hasImg": false
     },
     {
-      "file": "card-24.png",
+      "file": "card-62.png",
       "txt": "@freakingindie.bsky.social bluesky Short edit that perfectly points out the absurdity of the gaming industry. Please give it a watch and check out Nocaps channel. It's the perfect gateway for indies! REPOSTED @nocapsbb.bsky.social for the events that transpired this week/month/year/decade i have no words, but i still have something to say: >> youtu.be/NZTpnq0VQeU ♥ 4",
       "handle": "@freakingindie.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:mskow7vucdzpk55qegypuidf/post/3mpqqywqvbs2p"
+      "hasImg": false
     },
     {
-      "file": "card-25.png",
+      "file": "card-63.png",
       "txt": "@michaelhart.bsky.social bluesky Current state of the gaming industry:🔥🔥🔥🔥🔥🔥🔥 Samus Aran: REPOSTED @shinobi602.bsky.social \"Metroid: Ravenous\" appears on Brazilian ratings board ➡️ pesquisa.in.gov.br/imprensa/jsp... ♥ 22",
       "handle": "@michaelhart.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:xgcbrsu6tcfelybcxy64y6qw/post/3mpm34jr6gc2o"
+      "hasImg": false
     },
     {
-      "file": "card-26.png",
+      "file": "card-64.png",
       "txt": "@IGN youtube Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First We're excited to announce that our May IGN First \"cover story\" is on Aliens: Fireteam Elite 2 from Cold Iron and Daybreak Games. You can look forward to several exclusive new reveals on IGN channels spread throughout the month of May, starting with tomorrow's AFE2 trailer premiere and official announcement! #IGN #Aliens Se",
       "handle": "@IGN",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=bISGUJn3sSk"
+      "hasImg": true
     },
     {
-      "file": "card-27.png",
+      "file": "card-65.png",
       "txt": "@thegavinsheehan.bsky.social bluesky State of the industry #Gaming #VideoGames ♥ 6 💬 1",
       "handle": "@thegavinsheehan.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:eg7gotqakn6ko3udfg2y6ezn/post/3mpmsojhf7k22"
+      "hasImg": true
     },
     {
-      "file": "card-28.png",
+      "file": "card-66.png",
       "txt": "@nick.ad bluesky In response to recent changes in the gaming industry, I will be moving forward with physical only social media posts. You will be receiving unsolicited autistic ramblings by mail in the coming months :3 ♥ 11 💬 2",
       "handle": "@nick.ad",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:4d65u5cfygr5ssqhlhjosnv6/post/3mprarsa7ak2z"
+      "hasImg": false
     },
     {
-      "file": "card-29.png",
+      "file": "card-67.png",
       "txt": "@reborn_444 x RT @HazzadorGamin: Gaming news updates • Sony’s Ps disc factory is already being repurposed • Microsoft is lining up buyers for XBOX stud…",
       "handle": "@reborn_444",
       "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/reborn_444/status/2073511147139969463"
+      "hasImg": false
     },
     {
-      "file": "card-30.png",
+      "file": "card-68.png",
       "txt": "@tuta.com bluesky Here is Tuta's official statement regarding the recent news in the gaming industry 😉 ♥ 71 💬 5",
       "handle": "@tuta.com",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://bsky.app/profile/did:plc:hrl5pa232nb72z4f2dyyhasr/post/3mpq2xev5wk2p"
+      "hasImg": true
     },
     {
-      "file": "card-31.png",
+      "file": "card-69.png",
       "txt": "@krispyos.bsky.social bluesky Fuck it, time to be real again. I always found the whole world “indie gaming will save the industry” kinda very silly. Lemme explain 🧵 ♥ 3 💬 1",
       "handle": "@krispyos.bsky.social",
       "source": "bluesky",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://bsky.app/profile/did:plc:pkfoka4b63og6abeq7msya7p/post/3mpwqudqznc2a"
+      "hasImg": false
     },
     {
-      "file": "card-32.png",
+      "file": "card-70.png",
       "txt": "@ENFANT TERRIBLE youtube ALL 15 NEW BIGGEST Game Trailer Reveals from July 2026 Take a look at all the latest game announcements, gameplay reveals, and major trailer showcases from the past few days (June and July 2026). One of the biggest highlights this week is the announcement of the legendary art director Viktor Antonov's latest project (creator of the Half-Life 2 and Dishonored worlds), the u",
       "handle": "@ENFANT",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=0C9dWtdt0eg"
+      "hasImg": true
+    },
+    {
+      "file": "card-71.png",
+      "txt": "@GamingNews@meta.masto.host mastodon Gamespot just posted: Xbox Layoffs, Studio Closures, And Spin-Offs: Everything Announced Today Despite promises of a reset, the unveiling of a fancy new logo, and a charm offensive for its new leadership, the news at Xbox has been getting increasingly worse throughout 2026. Between massive price increases for Xbox hardware--and possibly another one soon--the fl",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-72.png",
+      "txt": "@DreamStationcc mastodon Resetting Xbox https:// news.xbox.com/en-us/2026/07/06 /resetting-xbox/ # xbox # gamedev # indiedev # videogames # gaming # gamingnews ♥ 1",
+      "handle": "@DreamStationcc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-73.png",
+      "txt": "@GameSpot youtube Alien Isolation 2 - Official Reveal Trailer Tune into Summer Game Fest 2026 on June 5th at 2pm PT/5 pm ET! Hosted by Geoff Keighley and co-host Lucy James check out a 2 hour live look at what's next in video games, with new game announcements, reveals, updates, world premieres, surprise special guests and more. After Summer Game Fest wraps join GameSpot as we break down the bigge",
+      "handle": "@GameSpot",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-74.png",
+      "txt": "@avafe hackernews Open Game Development At some point in the video game life cycle — especially in live service games — they reach a sort of “maintenance” stage. In this stage, the game still benefits from content updates, but the core gameplay is more or less complete.<p>This stage of development is tedious, and takes away from the time developers could spend creating new games. Despite developer",
+      "handle": "@avafe",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-75.png",
+      "txt": "@evo_9 hackernews Valve Launches Half-Life: Alyx Workshop Tools, Updates Game for Linux (uploadvr.com) Valve Launches Half-Life: Alyx Workshop And Community Development Tools uploadvr.com ♥ 8 💬 1",
+      "handle": "@evo_9",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-76.png",
+      "txt": "@joemerrick.bsky.social bluesky I can't help but think gaming is in a really, really, really bad place right now. Things like this, massive layoffs across the industry losing thousands of talented people who will never return, and the continual refocus on the Hollywoodification of games in general. I hate it. REPOSTED @stephentotilo.bsky.social NEW: Sony to end production of discs for all new Play",
+      "handle": "@joemerrick.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-77.png",
+      "txt": "@muigi01.bsky.social bluesky This is how the American gaming industry crashes. Playstation and Xbox will push out AI slop until they're no longer profitable and die, while Nintendo and PC gaming continue to do their own thing. REPOSTED @thevgmlover.myatproto.social WEFF;FVMERFPOWOKWEORMVKFV SDVERFERTGRTUGGWWEOROFK3409RWRGWE0RVKKSDCV VCKERIUUWJERTGVWEHF3O4IIF09EVEVM,ERF0Q3FB K;OIKQ30FQ3-4LFWEORVMWE",
+      "handle": "@muigi01.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-78.png",
+      "txt": "@PlayStation youtube Call of Duty: Modern Warfare 4 - Reveal Trailer | PS5 Games https://www.playstation.com/games/call-of-duty-modern-warfare-4/ Warfare without limits. #MW4 October 23, 2026. #ps5 #ps5games May Contain",
+      "handle": "@PlayStation",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-79.png",
+      "txt": "@GamingNews@meta.masto.host mastodon Kotaku just posted: In The Midst Of The Horrors, SGDQ Is Here To Remind Us That Games Can Be Good If the World Cup's got you down, there's a superior global sporting event going on through the end of the week https:// kotaku.com/summer-games-done-q uick-2026-schedule-how-to-watch-2000712827 # gamingNews # Kotaku See more",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-80.png",
+      "txt": "@qingmaoguo hackernews Show HN: Seele AI – Generate playable games from text prompts using MLLM I&#x27;m a co-founder of Seele AI. We are building a generative engine designed specifically for game development.<p>Unlike typical code-generation tools that rely on general-purpose LLMs, we have developed our own Multimodal LLM (MLLM) optimized for gaming. It doesn&#x27;t just output text&#x2F;code; i",
+      "handle": "@qingmaoguo",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-81.png",
+      "txt": "@IGN youtube Alien Isolation 2 Reveal Trailer | IGN Summer of Gaming Get ready to be stalked by the Xenomorph once again in the reveal trailer for Alien Isolation 2. #IGN #gaming #summerofgaming",
+      "handle": "@IGN",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-82.png",
+      "txt": "@pandamonium.bsky.social bluesky The gaming industry at large already has a good install base of people who own existing hardware and PC users with “okay” rigs. They just have to focus on that. Console generations, the way they have been since the late 80’s, are basically dead. ♥ 14 💬 1",
+      "handle": "@pandamonium.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-83.png",
+      "txt": "@IGN youtube State of Decay 3 - Official Gameplay Reveal Trailer | Xbox Games Showcase 2026 The time has come, once again, to survive. Build your base, gather survivors, scavenge resources, and fight off the undead hordes in State of Decay 3, coming to Xbox, Steam, and PS5 in 2027. #IGN #Xbox #SummerOfGaming",
+      "handle": "@IGN",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-84.png",
+      "txt": "@theletterten.gay bluesky AAA gaming is killing the industry REPOSTED @wario64.bsky.social Microsoft is laying off 4800 employees today -Double Fine and Compulsion Games are going independent -Microsoft selling Ninja Theory and Undead Labs Full memo from Asha: www.theverge.com/news/961546/... ♥ 12",
+      "handle": "@theletterten.gay",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-85.png",
+      "txt": "@ign.com bluesky The gaming industry is not responding well to the news that PlayStation will stop producing game discs in January 2028. https://t.co/uWKyVi2t2P ♥ 73 💬 12",
+      "handle": "@ign.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-86.png",
+      "txt": "@puredeadgaming.bsky.social bluesky Every rumour/leak seems to suggest next week is when the guillotine will fall on the Xbox studios. PlayStation likely desperate for someone to take some heat off them. As incredible as the gaming industry is right now with a controller in your hand, it's a shambles behind the scenes. ♥ 7 💬 1",
+      "handle": "@puredeadgaming.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-87.png",
+      "txt": "@theswweet.myatproto.social bluesky Saw a few oomfs talk about it, and I agree with the take that it's weird as hell actually that the immediate reaction to bad news in the gaming space is just \"play older games\", as if the only reason to engage with older games is the state of the modern industry rather than the quality of old games. ♥ 433 💬 26",
+      "handle": "@theswweet.myatproto.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-88.png",
+      "txt": "@IGN youtube Farsight - Official Reveal Trailer | The Horror Game Awards Showcase 2026 Here's a look at the Reveal Trailer for Farsight, a first-person liminal horror game developed by Studio Noori. Players will experience a horror tale inside the house seen within an eye exam machine. Navigate the spaces and carry a handheld that takes photos revealing things your eyes can't see. Farsight is comi",
+      "handle": "@IGN",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-89.png",
+      "txt": "@starrdiver.bsky.social bluesky I don't know how else to say that this feels like the death of the console games industry. It sucks I don't think things will get better any time soon. I'm trying not to be doomer about it and I don't think it'll be the end of gaming, older titles still exist and indie is THRIVING. ♥ 40 💬 6",
+      "handle": "@starrdiver.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-90.png",
+      "txt": "@GamingNews@meta.masto.host mastodon PC Gamer just posted: Xbox is laying off 3,200 people and dumping 4 studios Compulsion, Double Fine, Ninja Theory, and Undead Labs are out, and the future doesn't sound very good for Arkane either. https://www. pcgamer.com/gaming-industry/xb ox-is-laying-off-3-200-people-and-dumping-4-studios/ # gamingNews # PCGamer See more 💬 2",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-91.png",
+      "txt": "@maraganger.bsky.social bluesky i don't think it's up to indie devs to fix the gaming industry like many have let on, nor do i think they should replace AAA as a concept. what i do think though is that you, as an active consumer have to start thinking about where your money goes and for what purposes- ♥ 199 💬 3",
+      "handle": "@maraganger.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-92.png",
+      "txt": "@everlastingfire.bsky.social bluesky ​I really hate where the industry is heading with physical media. Having a library you can actually hold, trade, and pass down is such a core part of gaming culture. Trading true ownership and preservation for pure corporate control is a massive downgrade. ♥ 25 💬 2",
+      "handle": "@everlastingfire.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-93.png",
+      "txt": "@hatok.bsky.social bluesky I really wanna know how the current expense of gaming is affecting younger generations because I feel like the industry at large is sprinting into a brick wall where basically every kid will only have played robolox and F2P games like fortnite or gachas and they won't grow up to buy the last of us 3 ♥ 166 💬 13",
+      "handle": "@hatok.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-94.png",
+      "txt": "@evandromoisinho x .@CROSS_gamechain is now ONE and news on @WemixNetwork 🎯 Web3 Launch: The New Night Crows Game and CROSS Rebrand 🌐 Major updates from the 5th Web3 Gaming Conference in South Korea! 🚀 Wemade announced a brand-new title, \"Night Crows W,\" using the massive Night Crows IP, alongside a fast-leveling server for \"Legend of YMir\" featuring heavy XP boosts! Meanwhile, CROSS (Nexus) ma",
+      "handle": "@evandromoisinho",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-95.png",
+      "txt": "@neokefka99.bsky.social bluesky The 2020's: The console gaming industry doing everything it can to shoot itself in the foot with a double barrel. ♥ 7 💬 2",
+      "handle": "@neokefka99.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-96.png",
+      "txt": "@darlindeadeye.bsky.social bluesky \"You will own nothing and you will like it!\" - Sony Jokes aside, everyone will bitch and moan but will also keep giving Sony their money without question lol, gaming is such a bloated industry now and it kinda sucks. kinda miss when gaming was \"for nerds\" and felt more exclusive. REPOSTED @wario64.bsky.social Physical disc production ending in January 2028 for ne",
+      "handle": "@darlindeadeye.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-97.png",
+      "txt": "@DreamStationcc mastodon Xbox Will Lay Off 3,200, Part Ways With Four Studios in ‘most significant restructure in Xbox history’ https:// kotaku.com/xbox-layoff-3200-mo st-significant-restructure-history-2000712836 # xbox # gamedev # indiedev # videogames # gaming # gamingnews",
+      "handle": "@DreamStationcc",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-98.png",
+      "txt": "@GamingNews@meta.masto.host mastodon DualShockers just posted: XBOX is Laying Off 1600 Employees Today, and That's Just the Beginning Four studios are leaving XBOX, with the future of a fifth still up in the air. https://www. dualshockers.com/xbox-is-layin g-off-1600-employees/ # gamingNews # DualShockers",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-99.png",
+      "txt": "@TarikGencStudio x As of today, July 6, 2026, Tarik Genc Studio launched as Tarik Genc’s official X media channel. It will share latest news and projects focused on the competitive gaming community, Major Multiplayer Entertainment, and NET-GENC. Stay tuned for updates! #TarikGencStudio",
+      "handle": "@TarikGencStudio",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-100.png",
+      "txt": "@Monster Hunter youtube Monster Hunter Wilds: Ascendance - Official Reveal Trailer Introducing Monster Hunter Wilds: Ascendance, the massive expansion to Monster Hunter Wilds. Soar into a land above, wield new abilities, and hunt legendary monsters in Master Rank! Elder Dragons are coming. Prepare yourselves! The next era of Monster Hunter begins in 2027 on PS5, Xbox Series X|S, and PC. Official w",
+      "handle": "@Monster",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-101.png",
+      "txt": "@bradwhipple.bsky.social bluesky suddenly have the “buy physical copies of my entire gaming collection” bug with how quickly the industry is shifting toward digital-only ownership. would be a pricey investment but physical media is king! ♥ 7 💬 2",
+      "handle": "@bradwhipple.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-102.png",
+      "txt": "@TechTerminalx x Latest News - $SIEGE @solsiege has highlighted its strong performance on PlayToEarn rankings after four months of continuous development and updates. Despite fluctuating market conditions, the idle wave defender game has maintained its position among the top rewarding play-to-earn titles on Solana by consistently improving its economy, introducing new systems, and supporting its p",
+      "handle": "@TechTerminalx",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-103.png",
+      "txt": "@absolutegamer mastodon L'aggiornamento \"Common Ground\" trasforma Rust: introdotte aree residenziali, negozi in affitto e un nuovo sistema di clan strutturato. L'update punta a riequilibrare dinamiche sociali e competizione nel mondo survival. # GiochiPC # Notizievideogiochi # gamingnews # Videogiochi # Rust",
+      "handle": "@absolutegamer",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-104.png",
+      "txt": "@sj33.bsky.social bluesky We’re supposed to believe gaming is a serious industry when so many people treat games as disposable, one and done things that don’t need preserving. If gaming can’t treat its own legacy seriously, why would anyone else? It’s infuriating. ♥ 7",
+      "handle": "@sj33.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-105.png",
+      "txt": "@tournesoldelune x @Beck_Dragonfire @havensnowcrow It's the number of days since Caleb's last appearance. People are twisting the 500+ days to their advantage by just applying it generally to any or all main story updates, when it's specifically Caleb. Gaming news reporting on it also have it wrong. ♥ 5",
+      "handle": "@tournesoldelune",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-106.png",
+      "txt": "@commandersterling.bsky.social bluesky Rather than see mobile gaming evolve into a new space for quality games, we saw the traditional industry *devolve* into mobile gaming’s worst examples. I was such a big proponent of mobile gaming when many were sneering at it, and it’s just so sad to see the direction it was driven in. ♥ 347 💬 6",
+      "handle": "@commandersterling.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-107.png",
+      "txt": "@BlizzardWatch@gamepad.club mastodon Much like Sisyphus, it's Monday and we're back with our weekly roundup of games news and tips. Much like Sisyphus, a new Diablo 4 season started last week, so we're starting the grind over again. Much like Sisyphus, a new World of Warcraft Trading Post full of great transmog just started! Much like Sisyphus, # WeeklyRoundup # GamingNews # Diablo4 https:// blizz",
+      "handle": "@BlizzardWatch",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-108.png",
+      "txt": "@soapdog hackernews Show HN: Free and Open Source book to teach Firefox OS app development Hey Friends,<p>I always considered doing a show HN about this but never took the jump but since we&#x27;re in the Show HN carnival I decided to share it.<p>I wrote a free and open source quick guide to teach Firefox OS application development. With this ebook you go from zero to a little application in the F",
+      "handle": "@soapdog",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-109.png",
+      "txt": "@bitnerd.gvg.io bluesky There’s a reason we shortened the name to GVG. Good vibes doesn’t mean you can’t seriously analyze a game or the industry at large. We aren’t “Smile and Take It Gaming” REPOSTED @daniel.gvg.io Y’all, the “I thought this was Good Vibes” jokes have been beaten to death by now. You can stop now. It is a name, not a promise. Look at the discontinuation of disc media and try to ",
+      "handle": "@bitnerd.gvg.io",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-110.png",
+      "txt": "@kroneckerdelta.bsky.social bluesky Yes gaming circle jerk, truly it is only 'the chud gamers' complaining about the strangling death of the industry. ♥ 10",
+      "handle": "@kroneckerdelta.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-111.png",
+      "txt": "@GamingNews@meta.masto.host mastodon Insider Gaming just posted: XBOXs ‘Big Reset’ See’s Mass Layoffs and Selling Off Four Studios XBOX’s big reset will see 8% of XBOX employees laid off today in mass layoffs, with several studios sold. The rumors have been persistent for weeks, but now, it’s official: XBOX’s big reset is here, and it includes a total of 15% of XBOX jobs being cut by the end of th",
+      "handle": "@GamingNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-112.png",
+      "txt": "@austonishing1.bsky.social bluesky This is a really doomerism thing to say but what if GTA 6 is just the swan song for gaming as an industry entirely lmao ♥ 16 💬 3",
+      "handle": "@austonishing1.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-113.png",
+      "txt": "@spacebots hackernews Show HN: Qwiz – Building a daily global quiz app with synchronised leaderboards Ello HN! I just shipped Qwiz after a few weeks of solo development.<p>It&#x27;s a daily trivia game where everyone worldwide gets the same 10 questions each day and competes on a global leaderboard.<p>Interesting technical challenges I solved:<p>Global Synchronisation: Ensuring all players worldwi",
+      "handle": "@spacebots",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-114.png",
+      "txt": "@yesimsteel.bsky.social bluesky Capt America's skin being modified while all the sexualized women skins in the game remain as they are should worry some of you about how wimp-dicked straight men has a hold in the gaming industry and the fact thaat when they whine and cry they get to change things, should be a bigger topic to talk. ♥ 9 💬 2",
+      "handle": "@yesimsteel.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-115.png",
+      "txt": "@s4ndw1ch.bsky.social bluesky Truly the death of the gaming industry 🥲 ♥ 26 💬 5",
+      "handle": "@s4ndw1ch.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-116.png",
+      "txt": "@awayfaekeyboard.bsky.social bluesky I♥️physical media. Always have always will. It’s heartbreaking seeing what’s happening in the gaming industry. So for #RandomGameSaturday I’ve picked one of the first games I got with my first console that started it all for me. Maze Hunter 3D for the Sega Master System. ♥ 19",
+      "handle": "@awayfaekeyboard.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-117.png",
+      "txt": "@cbash31.bsky.social bluesky The state of the gaming industry is sad. It’s a future as the consumer you don’t need to support. What I will continue doing is chipping away at my backlog and investing in retro. ♥ 9 💬 1",
+      "handle": "@cbash31.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-118.png",
+      "txt": "@PlayStation youtube gen ATLAS - Reveal Trailer | PS5 Games gen ATLAS is a single-player, open-world action-adventure game from Fumito Ueda, creator of ICO, Shadow of the Colossus, and The Last Guardian. Without knowing why, you awaken on an abandoned planet. Before you lies a vast, silent world. Colossal structures stretch over endless plains, deserted facilities, and an ever-changing sea. The re",
+      "handle": "@PlayStation",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-119.png",
+      "txt": "@riffraff79.bsky.social bluesky You think with all the recent blunders in the gaming world we may see a notable rise in 3rd party steam os \"consoles/handhelds\" next gen? If the industry goes all digital I sure as shit want a console that gives me options. Steam, GOG, key sellers, emulation, etc. N stays in their own lane. #Blutoid ♥ 14 💬 4",
+      "handle": "@riffraff79.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-120.png",
+      "txt": "@trzy hackernews Show HN: A full AR helicopter action game built as a Snap lens I built a complete game using Snap&#x27;s AR platform in about 6 weeks. I&#x27;d been intrigued by Snap&#x27;s AR ambitions and wanted to kick the tires on their platform.<p>The YouTube video description contains a link to the Lens: <a href=\"https:&#x2F;&#x2F;lens.snapchat.com&#x2F;d04efc6953fd498c87e25c92fef727e7?send",
+      "handle": "@trzy",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
     }
   ]
 }

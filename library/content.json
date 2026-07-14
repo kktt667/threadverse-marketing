@@ -3230,5 +3230,2157 @@
     "sourceUrl": "https://holos.social/users/werqotaur/statuses/1783342918183-73bsn3",
     "visualSource": null,
     "visualLicense": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "wry",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-02-minimal.png",
+    "title": "Nintendo isn't lucky. It never joined the arms race.",
+    "caption": "Xbox and PlayStation are bleeding while Nintendo sells plushies. Not luck: skip the graphics arms race and you skip its cost structure — no $400M budgets, no layoff cycle. Restraint as strategy.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "blunt",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-03-quote.png",
+    "title": "Fired either way — because quality was never the variable",
+    "caption": "Make a bad game, fired. Make a good game, fired. When outcomes decouple from quality, layoffs aren't performance reviews — they're balance-sheet corrections from the cheap-money hiring binge. Devs were collateral, not cause.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "craft",
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-liv-card-05-minimal.png",
+    "title": "Game DevOps is the hardest DevOps nobody wrote down",
+    "caption": "Someone's finally writing a book on DevOps in games. Overdue: 100GB builds, console cert pipelines, million-player launch days — and it all lives as tribal knowledge because studios treat ops like a trade secret, not a discipline.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-06-tabloid.png",
+    "title": "EA's AI pitch is really a Roblox pitch",
+    "caption": "PC Gamer's instant-classic headline aside — 'a billion people creating EA's games' isn't an AI vision, it's UGC economics. Players as unpaid dev workforce, EA as the platform collecting rent. AI just defrays the tooling cost.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "cold",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-07-tabloid.png",
+    "title": "Good games get studios closed. That's portfolio math.",
+    "caption": "Under a conglomerate, a modestly profitable studio isn't judged against profit — it's judged against opportunity cost. If the capital earns more elsewhere, success still gets you shut down. Fortnite money or no money.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "prescient",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-09-tabloid.png",
+    "title": "AI didn't just take GPUs. It re-priced AAA's audience.",
+    "caption": "When datacenters outbid gamers for silicon, players drift to older, lighter games — and the back catalog becomes AAA's biggest competitor. The next 'gamers are killing gaming' thinkpiece writes itself. My feed flagged this one early.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "retro",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-11-banner.png",
+    "title": "N64 aesthetics are a business model now",
+    "caption": "Agent 64 sells GoldenEye nostalgia on purpose. Retro style isn't a constraint anymore — it compresses dev cost and marketing cost at once, since the look IS the pitch. Demakes are the most capital-efficient genre in gaming.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "ominous",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-12-bigStat.png",
+    "title": "$2,000 to $5,000: the GPU is now an AI asset class",
+    "caption": "RTX 5090 reportedly jumping to $5,000. Consumer GPUs aren't priced for gamers anymore — they're priced against datacenter demand for the same fabs. PC gaming's real rival isn't consoles, it's inference.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "eastward",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-13-banner.png",
+    "title": "New IP risk moved east while the West restructures",
+    "caption": "Buried in the trailer dump: NetEase greenlighting a first-person wuxia extraction RPG — new IP, new genre mash. Western AAA is consolidating; China's studios are doing the risk-taking. Watch where the experiments come from now.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-15-tabloid.png",
+    "title": "Gaming isn't collapsing. The middle of it is.",
+    "caption": "'Totally avoidable' is the key phrase — playtime is at record highs while studios die. That's not demand collapse, it's capital allocation failure: everything funds the top 10 games or nothing. The medium's fine; the middle is gone.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "meta",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-16-splitProof.png",
+    "title": "Same hobby, two feeds, opposite realities",
+    "caption": "14.6k people agree: one platform reads as 'gaming is cooked,' the other as 'look at my collection.' Your read on an entire industry is downstream of ranking choices. Worth asking what your feed optimizes for.",
+    "triggers": [
+      "identity",
+      "participation",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 8,
+    "vibe": "perspective",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-17-minimal.png",
+    "title": "Gaming without an industry: the Czech control group",
+    "caption": "80s Czechoslovakia had games with no market — hobbyists building titles, zines, even peripherals for self-expression and dissent. Proof the 'industry' is one way to organize games, not the only one. Relevant reading this year.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "reckoning",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-18-quote.png",
+    "title": "The $1,000 console is just honest accounting",
+    "caption": "Consoles were always subsidized razors — hardware sold at a loss, recouped on software cuts. If subscriptions cannibalize the attach rate, the subsidy math dies, and the $1,000 console is what unit economics look like without it.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "ecosystem",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-21-quote.png",
+    "title": "Why Warframe fears Destiny dying",
+    "caption": "A rival dying should be good news. Instead Warframe's director calls it 'existentially threatening' — live-service titles share one funding narrative, and every big failure teaches publishers the genre is dead. Funding dries up for all.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "sobering",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-22-bigStat.png",
+    "title": "1 in 3 US game workers laid off in two years",
+    "caption": "That's not a downturn — no tech sector sheds a third of its people while revenue holds. It's a structural re-base: outsourcing, support studios, AI tooling. The jobs aren't coming back in the same shape.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "classic",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-25-quote.png",
+    "title": "$80 games meet the one market with infinite substitutes",
+    "caption": "Guybrush had it right. Price elasticity in games is brutal because the substitute isn't a rival — it's your backlog, F2P, and a 10-year-old masterpiece on sale for $4. Pricing power lives with platforms, not publishers.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "tell",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-27-minimal.png",
+    "title": "Sony's fight stick matters more than its delay",
+    "caption": "Sony owns EVO, and now it's building the controller the scene plays on. A delayed peripheral is the boring read — the real story is vertical integration of an entire esport, from tournament to hardware. Small news, big tell.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-29-tabloid.png",
+    "title": "Bethesda's real legacy: ship broken, patch later",
+    "caption": "The open-world push is the visible legacy. The quieter one: modders as unpaid QA taught publishers that shipping broken is survivable. Once your community fixes the game for free, the release-date math changes forever.",
+    "triggers": [
+      "participation",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "monoculture",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-30-quote.png",
+    "title": "Hero-shooter monoculture is a capital problem",
+    "caption": "When money is scared, execs greenlight the same game in different costumes — IP is the only de-risking they believe in. The monoculture isn't a creativity failure, it's a financing one. Genres consolidate when capital does.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "barbell",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-33-minimal.png",
+    "title": "Games news lost its middle. So did games.",
+    "caption": "'Incomprehensibly twee or 7,400 layoffs' — the barbell in your headlines mirrors the barbell in budgets. Mid-tier studios and mid-stakes stories got squeezed out together. The coverage isn't broken; it's accurate.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "asymmetry",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-37-tabloid.png",
+    "title": "Devs carry the downside. Shareholders keep the upside.",
+    "caption": "The 'gamers are gaming wrong' spin dodges the real asymmetry: game workers hold no equity in hits. Success pays the cap table; failure fires the team that shipped it. That's why layoffs follow record revenue without contradiction.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "craft",
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-liv-card-38-minimal.png",
+    "title": "Asset packs are indie gaming's open-source moment",
+    "caption": "A leviathan pack any dev can drop into their game — the same monster will surface in fifty titles, and that's the point. Shared assets are the quiet subsidy that lets solo devs ship at all. Reuse isn't lazy; it's infrastructure.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "reversal",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-39-splitProof.png",
+    "title": "Studio spin-offs: the quiet admission M&A failed",
+    "caption": "3,200 cuts, zero closures, four studios 'under new management.' Selling studios instead of shuttering them says the asset was fine — the owner wasn't. A decade of consolidation just started running in reverse. Watch who buys.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "playful",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-40-banner.png",
+    "title": "Pokemon's real product is licensing surface area",
+    "caption": "60 J.League clubs, 60 Pokemon mascots. The games are the ad; the empire is IP that attaches to anything — soccer, planes, manhole covers. The model western publishers keep failing to build. A fun one the feed surfaced.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "sobering",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-41-tabloid.png",
+    "title": "Live-service 'forever games' die by roadmap memo",
+    "caption": "Xbox layoffs cut the Elder Scrolls Online team in half. An MMO's real asset is tribal knowledge — you can't rehire ten years of spaghetti systems. 'Roadmaps will be shifting' is how a forever game starts ending.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-43-quote.png",
+    "title": "What if AAA is a demographic, not a market?",
+    "caption": "The darkest read on Xbox's restructure isn't the cuts — it's that console AAA might be a cohort that ages out, not a market that grows. You can't invest your way out of demographics.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "revealing",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-44-bigStat.png",
+    "title": "Xbox's target: 24x Steam's peak, every single day",
+    "caption": "A billion people 'entertained daily' isn't a games KPI — no game business has ever had one. It's an ads-and-media KPI. The memo quietly tells you what Xbox is becoming, and it isn't a console company.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "cynical",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-48-minimal.png",
+    "title": "Bad news travels in convoys, on purpose",
+    "caption": "Sony's disc exit dropped the same week Xbox gutted studios. Not conspiracy — coverage arbitrage. Platform holders bank bad announcements and release them under a rival's news cycle. Watch the timing, not the spin.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "diagnostic",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-49-splitProof.png",
+    "title": "GDC shrinks, Gamescom booms — follow the budgets",
+    "caption": "Dev conferences run on studio training budgets, the first line item cut. Consumer shows run on marketing budgets, the last. The two events diverging is a clean read on where gaming money still flows. Surfaced by a well-tuned feed.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "hopeful",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-50-banner.png",
+    "title": "Warframe's players are funding its sibling MMO",
+    "caption": "Soulframe's teaser is the quiet flex: Digital Extremes has no publisher, so a decade of Warframe revenue bankrolls the next game. In a layoff year, the self-funded studios are the ones announcing, not apologizing.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "analytical",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-52-tabloid.png",
+    "title": "The remaster wave is a risk-appetite index",
+    "caption": "Black Flag Resynced isn't nostalgia — it's inventory financing. When funding dries up, publishers re-ship proven IP because it's the only bet that underwrites itself. Count the remasters per quarter and you can chart the industry's fear.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "vibe": "shrewd",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-53-banner.png",
+    "title": "Xbox is renting auteurs while selling studios",
+    "caption": "Fumito Ueda's gen ATLAS lands on Xbox the same season Xbox offloads its own teams. Renting a legend per-project is cheaper than owning a studio — prestige without payroll. That's the new first-party strategy in one trailer.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 9,
+    "vibe": "incisive",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-57-tabloid.png",
+    "title": "Killing discs kills price competition, not plastic",
+    "caption": "PlayStation ends game discs in 2028. The format isn't the story — resale is. No used market means no price floor pressure, and $70 stays $70 forever. Digital-only was always about pricing power.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-59-bigStat.png",
+    "title": "A spin-off with a funded runway is a quiet shutdown",
+    "caption": "Xbox's biggest restructure ever: 3,200 roles across FY27, studios spun off 'with funding for current projects.' That funding clause is severance by another name. Watch what happens the day those projects ship.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "meta",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-60-minimal.png",
+    "title": "Someone built a startup just to filter game news",
+    "caption": "A Show HN pitches automated game-news monitoring against your personal backlog. The signal isn't the product — it's that filtering became a product category at all. Feeds fail hard enough that people now pay to route around them.",
+    "triggers": [
+      "participation",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "clarifying",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-61-splitProof.png",
+    "title": "Players see the pipeline. Devs see the funding.",
+    "caption": "Fans: 'gaming's fine, it's a transformation.' Devs: 'who makes the games after this?' Both are right — games ship on 3-year pipelines, so players see output while devs watch input stop. The crash already happened; it hasn't rendered yet.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "savvy",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-63-minimal.png",
+    "title": "Ratings boards out-leak every industry insider",
+    "caption": "'Metroid: Ravenous' surfaced on Brazil's ratings board, not a stage. Regulatory filings are the one leak channel that can't be embargoed — compliance runs on legal deadlines, not marketing calendars. The paperwork beat the press again.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "knowing",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-64-banner.png",
+    "title": "The 'exclusive reveal' is inventory the press sells",
+    "caption": "Aliens: Fireteam Elite 2 debuts as an IGN 'cover story' — a month of scheduled exclusive drops. Games media doesn't cover launches anymore; it retails reveal windows to publishers. The firewall moved upstream to the announcement.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "wry",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-65-minimal.png",
+    "title": "Xbox survived the red ring. This is harder.",
+    "caption": "Someone answered 'state of the industry' with a red ring of death. Apt, but backwards: a 30% hardware failure rate was survivable because Xbox kept investing through it. Brands recover from defects. Disinvestment is the terminal kind.",
+    "triggers": [
+      "emotion",
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "vibe": "amused",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-68-quote.png",
+    "title": "An email company is dunking on digital ownership",
+    "caption": "Tuta's satire — going 'fully physical' — lands because the joke needs zero setup now. When non-gaming brands can farm engagement from 'you own nothing,' the ownership backlash has gone mainstream. Marketers are a lagging trust indicator.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "recursive",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-70-banner.png",
+    "title": "Trailer compilations exist because discovery broke",
+    "caption": "Fifteen 'biggest reveals' stitched into one video, because announcements scatter across a dozen showcases nobody tracks. Aggregation channels are a symptom: when discovery breaks, curation becomes the content. Why I run a filtered feed.",
+    "triggers": [
+      "participation",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "pattern",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-71-tabloid.png",
+    "title": "The rebrand always ships before the layoffs",
+    "caption": "New logo, new leadership charm offensive — then studio closures. Rebrand-before-restructure is a standard playbook: a fresh identity gives execs a 'new era' to pin the cuts on. When the logo changes, check the org chart next.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "vibe": "vindicated",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-73-banner.png",
+    "title": "Alien Isolation 'flopped.' The long tail disagreed.",
+    "caption": "Sega called Isolation a miss in 2014; a decade of steady Steam sales bought it a sequel. Launch-window accounting says flop, long-tail revenue says classic — and sequels are now getting greenlit on the second ledger.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "constructive",
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-liv-card-74-minimal.png",
+    "title": "Open-source the maintenance-mode games",
+    "caption": "An HN proposal: when a live-service game hits maintenance stage, hand development to the community. It solves preservation and converts a cost center into free content — mod-scene economics, formalized. The blocker is control, not money.",
+    "triggers": [
+      "participation",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "admiring",
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-liv-card-75-minimal.png",
+    "title": "Alyx mod tools: unpaid live-service, by design",
+    "caption": "Valve shipping workshop tools plus a Linux update for a five-year-old game isn't generosity — mods extend the sales curve for free, and Linux support feeds the Deck flywheel. Valve monetizes patience better than anyone monetizes launches.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "vibe": "ironic",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-78-banner.png",
+    "title": "Xbox's $69B game gets its reveal on PlayStation",
+    "caption": "MW4's trailer premieres on PlayStation's channel — a game Microsoft owns, marketed on the rival's storefront. The Activision deal's concessions mean Xbox bought Call of Duty while PlayStation kept the customer relationship.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "warm",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-79-minimal.png",
+    "title": "Speedrunning is the layoff-proof corner of gaming",
+    "caption": "SGDQ runs on decade-old games, volunteer labor, and charity money — a scene fully decoupled from the release calendar. While the industry contracts, the one community needing zero new products keeps growing. A good filter keeps finding it.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "curious",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-80-tabloid.png",
+    "title": "Text-to-game needs a new model, not better prompts",
+    "caption": "Seele AI trained a multimodal model just for game generation, betting general LLMs can't do it — games are spatial logic plus assets plus rules, not code completion. If they're right, 'AI game engine' becomes its own model class.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "patient",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-81-tabloid.png",
+    "title": "Alien Isolation 2 exists because the first one never died",
+    "caption": "Alien Isolation 2, eleven years on. The original 'underperformed' in 2014, then sold for a decade on catalog. Long-tail revenue now green-lights the sequels that day-one charts once killed. Surfaced in my Threadverse gaming lane.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "vibe": "structural",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-82-banner.png",
+    "title": "Console generations were a retail invention, not a tech one",
+    "caption": "Console 'generations' are basically dead — and they were never a hardware truth anyway, just a retail cadence built to force repurchase. Games now target a rolling spec floor, like phones. The box stopped mattering years ago.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "telling",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-83-tabloid.png",
+    "title": "State of Decay 3 on PS5: exclusivity just died on stage",
+    "caption": "State of Decay 3, revealed at the Xbox Showcase, ships on PS5 day one. Exclusives were the whole point of owning a console — Xbox just conceded it's a publisher now, and the hardware is a legacy peripheral.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-84-banner.png",
+    "title": "Microsoft's layoffs are accidentally rebuilding the AA tier",
+    "caption": "4,800 gone, Double Fine and Compulsion cut loose as independents. A decade of consolidation is running in reverse — platform divestitures are how the mid-size studio tier gets rebuilt, one severance package at a time.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-86-quote.png",
+    "title": "Best games ever, worst economics ever — both are true",
+    "caption": "Games have never been better; the business has never been shakier. Not a paradox — the golden age was bought with cheap-money overexpansion, and the layoffs are the invoice arriving. From the gaming lane of my Threadverse feed.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "economic",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-87-quote.png",
+    "title": "New games' biggest competitor is the last 30 years of games",
+    "caption": "'Just play older games' isn't coping — it's the market working. Games don't depreciate: every $70 launch competes with 30 years of catalog at $5. The backlog is pricing pressure no publisher will name. Caught in my Threadverse feed.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "clever",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-88-minimal.png",
+    "title": "Horror inside an eye-exam machine is a budget strategy",
+    "caption": "Farsight sets its horror inside the tiny house from the eye-exam machine. Great pitch — and shrewd engineering: horror is the one genre where a tight, weird constraint reliably beats an open-world budget.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "structural",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-89-splitProof.png",
+    "title": "Consoles aren't dying. The middle of the market is",
+    "caption": "'Death of the console industry' — yet indie is thriving and the top ten prints money. What's dying is the middle: the $30M game, the same extinction film went through. Barbell markets always feel like collapse from the inside.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "cold",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-90-bigStat.png",
+    "title": "3,200 layoffs is what going multiplatform actually costs",
+    "caption": "Xbox cuts 3,200 and dumps four studios. Those studios were bought to make hardware exclusive — once Xbox became a publisher on every platform, their strategic reason to exist evaporated. The layoffs are the ledger catching up.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-91-banner.png",
+    "title": "Your game purchases are venture capital, spent blindly",
+    "caption": "Indie devs won't fix the industry, and shouldn't have to. Every purchase funds the next five years of games — players are gaming's actual VCs, they just rarely check what the money builds. Found via my Threadverse gaming lane.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "dry",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-92-minimal.png",
+    "title": "Your game library is now a service-level agreement",
+    "caption": "Digital-only means your collection isn't property, it's a contract — playable exactly as long as a server, a license deal, and a storefront's quarterly math allow. 'Buy' is the most generous word in gaming.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 9,
+    "vibe": "prescient",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-93-tabloid.png",
+    "title": "Kids raised on Roblox may never buy a $70 game",
+    "caption": "A generation is growing up on Roblox, Fortnite and gachas — and the $70 single-player game assumes they'll graduate to it. They might not. Premium gaming could age like print media: beloved, prestigious, demographically doomed.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "cynical",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-96-quote.png",
+    "title": "Outrage isn't a market signal. Churn is",
+    "caption": "Everyone's furious about disc production ending — and pre-orders won't move an inch. Platforms price revealed preference, not discourse: as long as anger and spending stay uncorrelated, the anger is free. Sony reads dashboards, not replies.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "shrewd",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-100-tabloid.png",
+    "title": "Capcom found the third way: neither sequel nor live service",
+    "caption": "Monster Hunter Wilds gets a mega-expansion, not a sequel. Selling Master Rank to an installed base costs a fraction of acquiring new players — the paid expansion is quietly the sanest business model left in AAA.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "market",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-101-minimal.png",
+    "title": "Discs became collectibles the day Sony set an end date",
+    "caption": "The 'buy everything physical' itch is rational: an announced end date turns commodity discs into scarce assets overnight. Retro pricing already runs on supply cutoffs — 2028 just added an entire console generation to the asset class.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-104-banner.png",
+    "title": "No archives, no canon: why gaming stays 'not serious'",
+    "caption": "Games get treated as disposable, then we wonder why the medium isn't taken seriously. Film earned prestige when archives made its history studyable. A craft that can't cite its own past can't compound — that's the real preservation stake.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "gravity",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-106-quote.png",
+    "title": "Mobile's worst ideas won because spreadsheets lack taste",
+    "caption": "Consoles didn't copy mobile's battle passes out of laziness — revenue-per-user math pulls every platform toward the same design. Monetization is gravity: it flows wherever the dashboard rewards, and dashboards don't have taste.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "wry",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-107-tabloid.png",
+    "title": "Diablo's seasons are Sisyphus, implemented on purpose",
+    "caption": "A new Diablo 4 season means your progress rolls back downhill — by design. Seasonal resets aren't content, they're the retention mechanic: the climb is the product, so the boulder has to fall. One must imagine the player subscribed.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-112-tabloid.png",
+    "title": "GTA 6 isn't gaming's swan song — it's the megabudget's",
+    "caption": "GTA 6 as the industry's swan song is doomer math, but it's half right: budget escalation means only one game a decade can justify that spend. The blockbuster model dies at the exact moment it peaks — ask Hollywood about Avatar.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "indie",
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-liv-card-113-minimal.png",
+    "title": "The hard part of a daily quiz app is the whole product",
+    "caption": "Solo dev ships a global daily quiz with synced leaderboards. The engineering headache — everyone gets the same 10 questions at once — is also the entire product: synchronization is what made Wordle social. Scarcity does the retention.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 9,
+    "vibe": "follow-the-money",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-115-tabloid.png",
+    "title": "Sony isn't killing discs. It's firing its retailers",
+    "caption": "'Death of gaming' misses who actually got shot: retail. Discs existed to give Walmart and GameStop their cut — going digital-only reroutes that margin straight to the PlayStation Store. The disc was never the product; the shelf was.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "prestige",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-118-tabloid.png",
+    "title": "Sony funds its least commercial auteur on purpose",
+    "caption": "gen ATLAS: Fumito Ueda, single-player, no live service — green-lit while the industry guts itself. Prestige games aren't P&L bets, they're brand insurance: the Ueda title is what lets PlayStation charge $80 for everything else.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "strategic",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-119-splitProof.png",
+    "title": "All-digital consoles are Valve's opening, not Sony's win",
+    "caption": "If consoles go all-digital, the box stops mattering — and SteamOS becomes gaming's Android: any OEM ships a handheld, the store is the moat. Sony killing discs may be the best thing to happen to Valve. Via my Threadverse gaming feed.",
+    "triggers": [
+      "novelty",
+      "social-currency",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "signal",
+    "tile": "library/01-content-cards/mastodon/gaming-create-a-liv-card-120-minimal.png",
+    "title": "A full AR game in 6 weeks says more about Snap than AR",
+    "caption": "Solo dev ships a complete AR helicopter game as a Snap lens in six weeks. The game is the benchmark, not the point — when platform tooling lets one person move that fast, the ecosystem bet gets real. Games are how platforms prove tooling.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "meta",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-02-tabloid.png",
+    "title": "The gamedev sim where the publisher screws you",
+    "caption": "A dev-life sim where crowdfunding fails and publishers are shady. The most honest gamedev tutorial is a game — simulators teach market mechanics faster than postmortems, because you pay the tuition in save files.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-03-tabloid.png",
+    "title": "Jonathan Blow spent ten years on one game",
+    "caption": "Blow on whether indie is broken, a decade into one project. Indie's edge was never taste — it was iteration speed. When auteurs adopt AAA timelines they inherit AAA risk with none of the hedges.",
+    "triggers": [
+      "social-currency",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "pragmatic",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-05-minimal.png",
+    "title": "Demos are back as indie marketing's default",
+    "caption": "Next week's indie slate ships with demos attached. A demo is a refund-proof trial — Steam's 2-hour window made short games returnable anyway, so giving away hour one costs nothing and filters refunders. Demo lists are half my weekend queue.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "stat",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-06-bigStat.png",
+    "title": "Paid mobile games up 77% — the F2P math broke",
+    "caption": "Premium mobile releases jumped 77% in 2025. Not nostalgia — arithmetic: when acquiring whales costs more than their LTV, charging everyone $8 upfront wins. The pendulum is priced, not cultural. Caught it in my gaming lane before the trades.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "triumph",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-08-splitProof.png",
+    "title": "One dev, a poker roguelike, five Game Awards nods",
+    "caption": "Balatro is up for GOTY against nine-figure budgets. The market pays for a novel mechanic, not production value — one new game loop beats a thousand artists polishing a known one. Budgets hedge; they don't invent.",
+    "triggers": [
+      "social-currency",
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "discovery",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-09-tabloid.png",
+    "title": "Quality isn't the bottleneck. Discovery is",
+    "caption": "A reviewer betting on games 'easily overlooked' in the release flood. With ~19k Steam launches a year, visibility is the scarce resource — good games fail at distribution, not craft. Which is basically why I outsourced my scroll.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "scoped",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-10-minimal.png",
+    "title": "Pick the engine by how little time you have",
+    "caption": "A dev going back to Godot because the project doesn't deserve much time. Scoping tools to ambition is the senior move — engine choice is a time budget, not a loyalty. Most abandoned games died of over-tooling, not lack of talent.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 9,
+    "vibe": "poignant",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-12-quote.png",
+    "title": "Nintendo's moat is 30-year careers, not IP",
+    "caption": "DK Bananza reads as veterans mentoring novices — and that's the tell. Craft compounds only where devs aren't laid off every cycle. Nintendo's real advantage is retention: institutional knowledge the rest of the industry keeps torching.",
+    "triggers": [
+      "emotion",
+      "social-currency",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 5,
+    "vibe": "leverage",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-13-tabloid.png",
+    "title": "Steam reviews are a bug tracker with leverage",
+    "caption": "Players file demo nitpicks as negative reviews because reviews are the one channel devs visibly answer. Not malice — leverage. Every other feedback path is a suggestion box; the review is the only one that moves the score.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "exposed",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-17-quote.png",
+    "title": "One outlier review can decide an indie launch",
+    "caption": "A solo dev on shipping under Metacritic's rule. Aggregators are lossy compression — and small games have tiny samples, so one outlier review moves the score like a whale in a thin order book. Big games get averaged; small ones get decided.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "vibe": "dry",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-20-quote.png",
+    "title": "Maturity in gamedev: bullet points over PowerPoint",
+    "caption": "Process weight is a tax on iteration, and iteration is the only edge a small team has. Every artifact polished for stakeholders is a build you didn't ship. Pulled from the gamedev fediverse, where the good one-liners live.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "scrappy",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-22-minimal.png",
+    "title": "A solo dev's birthday wish: food icons",
+    "caption": "The joke is the economics: for a solo dev, code is free evenings but art is cash. Asset scarcity, not programming, is the real bottleneck — which is why icon packs are a market and the engines are free.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "elegant",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-23-quote.png",
+    "title": "Good sim engines don't know what beer is",
+    "caption": "A devlog rule worth stealing: keep the engine ignorant. The moment your engine 'knows' a domain concept you've hard-coded the design space — beer as pure data is what lets next month's whiskey ship without a refactor.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "damning",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-24-quote.png",
+    "title": "'I was following a spreadsheet' — how design dies",
+    "caption": "Ex-Rocksteady leads on Suicide Squad: design steered by commercial metrics. Metrics optimize proxies, and players buy what proxies can't see — the harder you chase replayability numbers, the faster the fun leaks out. Goodhart, playable.",
+    "triggers": [
+      "social-currency",
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "absurd",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-25-bigStat.png",
+    "title": "55,000 refunds for finishing the game too fast",
+    "caption": "Solo dev ships a complete sub-2-hour game; players finish it and refund inside Steam's window. Refund rules are game design pressure nobody votes on — they tax short games and subsidize padding. Surfaced a day before the discourse.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "momentum",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-26-banner.png",
+    "title": "Godot ships previews while Unity ships apologies",
+    "caption": "Godot 4.8 Dev1 is out. The cadence is the story: an open engine iterating in public while Unity rebuilds trust means the default for new indies already flipped. Engines are won by momentum, not feature lists.",
+    "triggers": [
+      "social-currency",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "margin",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-27-bigStat.png",
+    "title": "Digital pays studios 2x. Physical never had a chance",
+    "caption": "Lords of the Fallen's CEO: studios earn twice as much from digital sales. Every 'players prefer digital' narrative is a margin story wearing a demand costume — the storefront didn't win your heart, it won the P&L.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "generous",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-28-tabloid.png",
+    "title": "A hit built on stock assets proves the point",
+    "caption": "Kenney cheering a hit game that ships with his asset packs. Asset packs are gamedev's open-source libraries — reuse isn't cutting corners, it's comparative advantage. Design is the scarce input; art was always importable.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 6,
+    "vibe": "terminal",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-33-banner.png",
+    "title": "'Resetting Xbox' is the console business admitting it",
+    "caption": "Xbox's own blog calls it a reset. Read it as an exit: hardware becomes a Game Pass endpoint, and 'console' shifts from business model to distribution layer. The generation war ends not with a winner but with a subscription.",
+    "triggers": [
+      "social-currency",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "label",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-35-minimal.png",
+    "title": "AAA was a financing tier, not a quality tier",
+    "caption": "Players never bought budgets — the AAA/AA/indie split was investor vocabulary that leaked into reviews. When release volume guarantees supply at every price point, the label stops predicting anything a player can actually feel.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "cult",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-36-minimal.png",
+    "title": "The Dreamcast still gets new games. On purpose",
+    "caption": "Dead platforms are great targets: frozen hardware, no cert process, and collectors who pre-order everything. A 26-year-old console with a healthier physical scene than PS5 is niche economics, not nostalgia.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "bleak",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-37-quote.png",
+    "title": "Studios close whether the game sells or not",
+    "caption": "When outcomes stop correlating with sales, sales were never the variable. Studios are balance-sheet items now — closures get triggered by acquisition accounting and interest rates, not by whether anyone bought the game.",
+    "triggers": [
+      "emotion",
+      "social-currency",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "blunt",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-38-bigStat.png",
+    "title": "96% of indie games make no money — by design",
+    "caption": "That failure rate isn't the market breaking; it's gatekeeping's removal made visible. Publishers used to reject the slush pile in private — Steam publishes it. The median game always earned zero; now there's just a chart.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "merch",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-39-tabloid.png",
+    "title": "Physical games are merch now — and that's a market",
+    "caption": "A dev who shipped a physical indie run, on PlayStation's retreat: discs stopped being distribution years ago. The buyers are collectors, not players — physical is a merch-margin business, and Sony just handed it to the boutiques.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "migration",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-42-minimal.png",
+    "title": "New devs aren't choosing Godot. They're fleeing Unity.",
+    "caption": "Every '1 year of gamedev, no experience' video is a Godot video now. That's not preference — it's Unity's runtime-fee trust collapse compounding. Engines lose beginners first and revenue five years later.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-43-quote.png",
+    "title": "Review scores were always price-adjusted",
+    "caption": "The art-vs-product debate ends the moment price enters the score. Critics have quietly graded value-per-pound forever — a £70 tag just makes the deduction visible. Score the game, invoice separately.",
+    "triggers": [
+      "novelty",
+      "social-currency",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "vibe": "sobering",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-44-quote.png",
+    "title": "'Build it and they will come' is survivorship bias",
+    "caption": "Comforting advice for indie devs — from the third of Steam games that ever cleared $1,000. Discovery isn't a reward for quality; it's a second product you ship or you don't. The graveyard is full of kick-ass games nobody found.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "brutal",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-45-bigStat.png",
+    "title": "65.9% of Steam games gross under $1,000",
+    "caption": "The indie boom sold more lottery tickets, not more prizes. Median outcome on Steam is a hobby with an invoice attached. The real dividing line isn't quality — it's whether anyone was ever told the game exists.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-46-tabloid.png",
+    "title": "Steam made ownership obsolete by being reliable",
+    "caption": "Nobody misses discs because Valve never gave them a reason to. Trust turned out to be a substitute for property rights — which means the whole ownership debate is one bad outage away from reopening.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "cozy",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-49-minimal.png",
+    "title": "Dutch polders are an indie moat",
+    "caption": "A driving game through Dutch dikes and windmills, built in public. Hyper-local settings are terrain AAA can't touch — nobody greenlights the Netherlands. Specificity is the cheapest moat left. A tuned feed catches these at prototype stage.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 6,
+    "vibe": "honest",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-50-bigStat.png",
+    "title": "10 years of free games: 99k views, donation income",
+    "caption": "A decade of shipped games earns roughly one viral tweet's worth of attention. itch.io isn't a market, it's patronage — and knowing which economy you're actually in beats pretending they're the same one.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-52-quote.png",
+    "title": "Asset reuse is a design-risk budget",
+    "caption": "Majora's Mask exists because Ocarina's assets were already paid for. Reuse isn't laziness — it's amortizing production so the weird ideas get funded. Teams that rebuild everything spend their risk budget on rocks and doors.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "mechanism",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-53-tabloid.png",
+    "title": "Game AI didn't get dumber. It got quieter.",
+    "caption": "F.E.A.R.'s soldiers felt brilliant because they announced their flanks out loud. Perceived intelligence is a communication problem — photoreal enemies stopped narrating, so their smarts turned invisible. Then studios cut them.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "elegiac",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-55-quote.png",
+    "title": "A writer locked out of her own first game",
+    "caption": "Mobile is the first medium where authors lose access to their own back catalog. No manuscripts, no reprints — when the server dies, the work never existed. Preservation isn't nostalgia, it's version control for an art form.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "taxonomy",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-56-minimal.png",
+    "title": "Genre is a search index, not a design taxonomy",
+    "caption": "Players use genre to find games; devs mistake it for rules to follow. Steam tags already replaced the old taxonomy — 'roguelike deckbuilder' is a query, not a tradition. Design for the search, break the canon.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "subversive",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-60-tabloid.png",
+    "title": "An indie game that wins when you stop playing",
+    "caption": "'We wanted you to fall asleep' — a game whose success metric is ending your session. In an industry KPI'd on retention, that's not a gimmick, it's a critique in playable form. The anti-engagement genre is quietly forming.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "signal",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-62-splitProof.png",
+    "title": "The AI dividend in games is skipping AAA",
+    "caption": "Big labs chase infrastructure; big studios have pipelines and legal exposure to protect. Indies have neither — so AI leverage compounds where there's no legacy to defend. Tooling revolutions land on the smallest teams first.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "wholesome",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-63-minimal.png",
+    "title": "Game Pass is a variance machine for weird games",
+    "caption": "A heartfelt sledding sim gets played because subscriptions flatten the price signal — trying a marginal-cost-zero game is free. Weird indie ideas don't need better marketing; they need pricing that removes the decision.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "vibe": "striking",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-64-banner.png",
+    "title": "When the art is the collision map, clips market themselves",
+    "caption": "Fresco's Egyptian carvings are the playable surface — 2k likes off one clip. The viral engine isn't polish, it's a verb you can read in a screenshot. If a mechanic needs explaining, the trailer's losing. Caught early in a curated lane.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "relatable",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-65-quote.png",
+    "title": "Games are the least-tested software we ship",
+    "caption": "'Fun' has no assert statement, so regressions in games get found by vibes, weeks late. Every dev knows this exact feeling — the fix isn't more QA hours, it's replay-based tests that treat old sessions as fixtures.",
+    "triggers": [
+      "identity",
+      "emotion",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "pragmatic",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-66-tabloid.png",
+    "title": "AI cut the costs that were never the bottleneck",
+    "caption": "The honest indie pipeline: AI for backgrounds and grunt work, real 3D where it fails. Asset cost collapses; taste doesn't. The constraint just moved from budget to judgment — and judgment doesn't scale with tokens.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "retro",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-67-tabloid.png",
+    "title": "On a Game Boy cart, the music outweighs the code",
+    "caption": "An assembly dev's ROM budget: song data is the single biggest line item — bigger than the engine. Audio has been games' heaviest asset since the 80s. Chiptune wasn't an aesthetic choice; it was a compression algorithm with style.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "concise",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-69-minimal.png",
+    "title": "45-minute games are a format, not a flaw",
+    "caption": "A horror game beaten in 45 minutes, praised for exactly that. Dread doesn't scale — runtime inflation is a AAA pricing pathology, not a design goal. Short horror is games rediscovering the short story.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "signal",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-71-tabloid.png",
+    "title": "The indie studio is becoming one human plus agents",
+    "caption": "An AI analyst that watches Steam, Discord and reviews so a solo dev doesn't tab between five dashboards. The signal isn't this product — it's that 'staffing' a small studio now means renting attention, not hiring it.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "crossover",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-74-minimal.png",
+    "title": "Indie games are the new film option market",
+    "caption": "A Japanese horror film adapted from a short indie game. The pipeline inverted: a 2-hour game is a storyboard with a proven audience attached — cheaper to option than a script, pre-marketed by Let's Plays. Spotted in my horror lane.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 7,
+    "vibe": "generative",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-76-banner.png",
+    "title": "Audio-first design finds mechanics sighted devs miss",
+    "caption": "A jam for blind-accessible games. Constraints are generators: designing without the screen forces spatial audio, rhythm and haptic verbs that sighted-first design never discovers. Accessibility is R&D wearing a compliance badge.",
+    "triggers": [
+      "novelty",
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "structural",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-79-tabloid.png",
+    "title": "Budget buys polish by sanding off personality",
+    "caption": "Indies keep out-charting AAA and it isn't romance — it's variance. A $200M budget forces median taste through ten approval layers; a 5-person team can price risk. Personality isn't what survives the budget, it's what budget removes.",
+    "triggers": [
+      "novelty",
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "candid",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-81-tabloid.png",
+    "title": "Failure postmortems are the only honest gamedev data",
+    "caption": "Dev lists 10 design mistakes that hurt his own game. Success postmortems are marketing; failure ones are data — nobody retrofits a narrative onto a flop. Want real base rates? Read the losers. The postmortem lane is the one worth curating.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "heretical",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-82-quote.png",
+    "title": "Undertale's code is a mess. It didn't matter.",
+    "caption": "Undertale's dialogue famously lives in one giant switch statement — and it still rewired the RPG genre. Code quality is a maintenance cost, not a product feature. Players ship with the design, not the repo.",
+    "triggers": [
+      "novelty",
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-83-minimal.png",
+    "title": "A $39 indie just outsold the $70 crowd",
+    "caption": "When a $39 indie becomes the best-seller in years, the price anchor moves. AAA pricing was never about value — it was production-cost recovery. Players just got shown the difference in sales-chart form.",
+    "triggers": [
+      "social-currency",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "systemic",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-84-tabloid.png",
+    "title": "Proton quietly killed the native Linux port",
+    "caption": "Gamers mad that indies skip Linux builds miss the mechanism: Proton made native ports economically irrational. Valve's compatibility layer absorbed the very incentive Valve preached — it works so well nobody has to ship for it.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-88-splitProof.png",
+    "title": "Next Fest's top demo: the pitch is the mechanic",
+    "caption": "Bombanana won Next Fest: three monkeys defusing a bomb — one blind, one mute, one deaf. The one-line premise IS the design doc. Wishlist charts increasingly reward describable games over screenshottable ones. Worth a lane in your reader.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "shifted",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-91-minimal.png",
+    "title": "Engines commoditized code. Art is the new moat.",
+    "caption": "An artist shipping a game with 'just art skills' isn't an underdog story anymore. Godot and Unity commoditized the programming; the scarce input flipped. In 2026 gamedev, art direction is the one part you can't download.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "disciplined",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-93-tabloid.png",
+    "title": "Reviewing the game, not the developer's drama",
+    "caption": "A Heartbound design study that skips the Pirate Software discourse entirely. Rare move — games criticism usually can't separate design from developer reputation, which is exactly why most of it tells you nothing about the game.",
+    "triggers": [
+      "social-currency",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "vibe": "seismic",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-94-banner.png",
+    "title": "Epic is deprecating Blueprints — and a decade of tutorials",
+    "caption": "Blueprints and Actors, both deprecated. The real cost isn't migration — it's that ten years of tutorials, courses and marketplace assets just became legacy content overnight. Engine churn is a tax indies pay and never budget for.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "mechanical",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-95-tabloid.png",
+    "title": "Why every indie launch post begs for reviews",
+    "caption": "It's not neediness — Steam hides your review score until 10 reviews land, and the algorithm feeds on that signal. Launch-week review asks are a rational response to a threshold Valve designed. The gratitude is real; so is the gate.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "shrewd",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-96-quote.png",
+    "title": "The $100 offer isn't for the game",
+    "caption": "Lowball rights offers aren't buying revenue — they're buying a live Steam app ID, its review history and IP optionality. A shipped store page has a speculative floor value even when the game flopped. Most devs don't know they hold an asset.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "practical",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-97-tabloid.png",
+    "title": "AI's gamedev win isn't assets — it's the bug loop",
+    "caption": "Everyone scrutinizes AI art slop. Meanwhile a dev wires Godot + Claude + Playwright and fixes a player-reported bug live in three minutes. The leverage isn't generating content — it's collapsing maintenance time back into design time.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "meta",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-99-minimal.png",
+    "title": "The demo is the ad: asset-pack economics",
+    "caption": "A pixel artist ships a polished platformer scene to sell the tileset behind it. Asset stores flipped the funnel — the demo exists to market the middleware. A growing share of 'indie games' in your feed are storefronts for their own parts.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 9,
+    "vibe": "perverse",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-100-bigStat.png",
+    "title": "The AI label costs a Steam game 53% of its reviews",
+    "caption": "Disclose AI use on Steam and reviews drop ~53% — and skew more negative. The disclosure checkbox became a punishment mechanism, which trains devs to hide usage. A transparency system that prices honesty negatively will produce less of it.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-101-minimal.png",
+    "title": "4 years is the real price tag on a solo indie game",
+    "caption": "Every solo-dev revenue screenshot hides the denominator. Four years of full-time work is the actual cost basis — divide any indie 'success' by that and most wins land near minimum wage. Time math is the least-shared stat in gamedev.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "cynical",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-102-quote.png",
+    "title": "When an EA exec says 'creativity,' read 'margin'",
+    "caption": "EA's Laura Miele credits AI with a rise of creativity across studios. Decode the exec-speak: publishers narrate AI to investors as output-per-headcount. Watch what actually ships, not what gets said on an earnings-adjacent press tour.",
+    "triggers": [
+      "social-currency",
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "reckoning",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-106-tabloid.png",
+    "title": "The Unity exodus question won't die. That's the story.",
+    "caption": "'Game Development Post-Unity' still pulls 147 comments on HN. Unity walked back the runtime fee; the migration talk never walked back. Trust is a dependency — no patch release restores it. Engine choice is now risk analysis.",
+    "triggers": [
+      "social-currency",
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "surgical",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-108-splitProof.png",
+    "title": "A live design autopsy — the patient can still patch",
+    "caption": "New metroidvania sits at 65% Mixed and gets a public design teardown with proposed fixes. Post-launch criticism used to be an obituary; on Steam it's free QA the dev can ship against. In an oversupplied genre, that's survival advice.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "banner",
+    "score": 8,
+    "vibe": "uncomfortable",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-109-banner.png",
+    "title": "'Bad marketing' is indie dev's most comforting myth",
+    "caption": "Eastshade's data argues most indies don't fail from marketing. The harsher read: Steam's algorithm IS distribution — it tests every game for conversion. 'I failed at marketing' usually means the store ran the experiment and the game lost.",
+    "triggers": [
+      "novelty",
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-110-splitProof.png",
+    "title": "The 'genres that sell' chart invalidates itself",
+    "caption": "Every dev sees the same Steam genre data, so the green bars attract a flood of supply. Demand-side charts used as supply-side advice self-destruct — by the time a genre tops the list, you're late. The red bars might be the actual arbitrage.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "pragmatic",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-112-tabloid.png",
+    "title": "Indie codebases are disposable. Designs aren't.",
+    "caption": "Jonas Tyroller on indie architecture, and the quiet heresy inside it: clean code protects a future most unshipped games never reach. Optimize for iteration speed, treat the repo as scaffolding — the design is the asset, not the codebase.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "inverted",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-113-minimal.png",
+    "title": "Gamedev advice works better inverted",
+    "caption": "A whole series that teaches indie dev by how-to-fail. Via negativa beats success advice here: failure modes repeat across projects, success paths don't. You can't copy a hit, but you can reliably stop repeating the known losses.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "skeptical",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-114-bigStat.png",
+    "title": "96% of indie games fail — and the stat is unfalsifiable",
+    "caption": "Only ~4% of Steam games turn a profit. But the 96% includes jam entries, portfolios and hobby uploads with zero commercial intent. The real base rate for serious attempts is unknowable — which is exactly why the scary number never dies.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "essential",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-117-tabloid.png",
+    "title": "Don't make smaller games. Make subtracted ones.",
+    "caption": "Subtractive design through the genre lens: find which 20% of a genre's mechanics carry the fun, cut the inherited rest. Scope discipline isn't shrinking your idea — it's refusing to pay for conventions the genre only kept out of habit.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "archival",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-120-minimal.png",
+    "title": "Game design's canon is being written on YouTube",
+    "caption": "Three hours of design analysis in one video — it will outlive half the games it covers. Design education skipped academia; the canon forms in community-curated essays. A good reader works the same way: someone did the three hours for you.",
+    "triggers": [
+      "social-currency",
+      "novelty"
+    ],
+    "sourceUrl": null
   }
 ]

@@ -6,8 +6,10 @@
  *   library/01-content-cards/<platform>/<topic>-<card>-<format>.png
  * where <platform> = the agent's bestPlatform (x/bluesky/mastodon/instagram/tiktok).
  *
- *   node edit/format-run.js            # all feeds, kept cards
- *   node edit/format-run.js --min 6    # score gate
+ *   node edit/format-run.js                       # all feeds, kept cards — MERGES into content.json
+ *   node edit/format-run.js --min 6               # score gate
+ *   node edit/format-run.js --feeds slug1,slug2   # only these raw-snap dirs
+ *   node edit/format-run.js --overwrite           # legacy: replace content.json wholesale (dangerous)
  */
 const fs = require('fs');
 const path = require('path');
@@ -21,6 +23,7 @@ const TOPIC = {
   '1-ai-model-releases-breakthroughs-pro': 'ai', 'crypto': 'crypto',
   'genuinely-wholesome-and-uplifting-posts': 'wholesome', 'gimme-some-good-youtube-content-for-bust': 'youtube',
   'i-love-games-show-me-great-new-release': 'gaming', 'random-philosophy': 'philosophy',
+  'create-a-live-gaming-intelligence-fe': 'gaming',
   'the-funniest-single-replies-and-cursed-c': 'funny', 'wildlife-wonders': 'wildlife',
   'good-news-today': 'goodnews', 'honest-founder-stories-with-engagement': 'founders',
   'latest-internet-drama-feuds-callouts': 'drama', 'true-crime-files': 'truecrime',
@@ -46,12 +49,15 @@ async function renderCard(c, cardPath, meta) {
 
 (async () => {
   const min = arg('min') ? +arg('min') : 0;
+  // --feeds slug1,slug2 → only process these raw-snap dirs (default: all)
+  const onlyFeeds = arg('feeds') ? String(arg('feeds')).split(',').map(s => s.trim()).filter(Boolean) : null;
   const sheet = [];
   let made = 0, skipped = 0;
 
   for (const slug of fs.readdirSync(SNAPS)) {
     const dir = path.join(SNAPS, slug);
     if (slug.startsWith('_') || !fs.statSync(dir).isDirectory()) continue;
+    if (onlyFeeds && !onlyFeeds.includes(slug)) continue;
     const copyPath = path.join(dir, 'copy.json');
     const manPath = path.join(dir, 'manifest.json');
     if (!fs.existsSync(copyPath)) continue;
@@ -69,7 +75,9 @@ async function renderCard(c, cardPath, meta) {
       const platform = VALID_PLATFORM.includes(c.bestPlatform) ? c.bestPlatform : 'x';
       const outDir = path.join(ROOT, 'library', '01-content-cards', platform);
       fs.mkdirSync(outDir, { recursive: true });
-      const outName = `${topic}-${fileName.replace('.png', '')}-${c.format}.png`;
+      // include a feed-slug fragment: both gaming feeds have card-NN.png files, and topic+file alone
+      // collides across feeds (second feed silently overwrote the first's tiles).
+      const outName = `${topic}-${slug.slice(0, 12)}-${fileName.replace('.png', '')}-${c.format}.png`;
       const out = path.join(outDir, outName);
       try {
         const buf = await renderCard(c, cardPath, meta);
@@ -87,7 +95,20 @@ async function renderCard(c, cardPath, meta) {
   // per-platform / per-format tallies
   const byP = {}, byF = {};
   sheet.forEach(s => { byP[s.platform] = (byP[s.platform] || 0) + 1; byF[s.format] = (byF[s.format] || 0) + 1; });
-  fs.writeFileSync(path.join(ROOT, 'library', 'content.json'), JSON.stringify(sheet, null, 2));
+
+  // MERGE into content.json by default: replace any existing entry whose tile matches a re-rendered
+  // one, keep everything else (hand-edited captions, other feeds, text-take state), append the new.
+  // The old wholesale overwrite destroyed curated content — it's now opt-in via --overwrite.
+  const contentPath = path.join(ROOT, 'library', 'content.json');
+  if (arg('overwrite')) {
+    fs.writeFileSync(contentPath, JSON.stringify(sheet, null, 2));
+  } else {
+    const existing = fs.existsSync(contentPath) ? JSON.parse(fs.readFileSync(contentPath, 'utf8')) : [];
+    const newTiles = new Set(sheet.map(s => s.tile));
+    const kept = existing.filter(c => !newTiles.has(c.tile));
+    fs.writeFileSync(contentPath, JSON.stringify(kept.concat(sheet), null, 2));
+    console.log(`   content.json: kept ${kept.length} existing + added ${sheet.length} (merge)`);
+  }
   console.log(`\n✅ ${made} tiles · ${skipped} skipped`);
   console.log('   by platform:', Object.entries(byP).map(([k, v]) => `${k}:${v}`).join(' '));
   console.log('   by format:  ', Object.entries(byF).map(([k, v]) => `${k}:${v}`).join(' '));

@@ -1,0 +1,1705 @@
+{
+  "feed": "> **Create a live gaming intelligence fe",
+  "cards": [
+    {
+      "file": "card-01.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-02.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "wry",
+      "title": "Nintendo isn't lucky. It never joined the arms race.",
+      "caption": "Xbox and PlayStation are bleeding while Nintendo sells plushies. Not luck: skip the graphics arms race and you skip its cost structure — no $400M budgets, no layoff cycle. Restraint as strategy.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-03.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "blunt",
+      "title": "Fired either way — because quality was never the variable",
+      "caption": "Make a bad game, fired. Make a good game, fired. When outcomes decouple from quality, layoffs aren't performance reviews — they're balance-sheet corrections from the cheap-money hiring binge. Devs were collateral, not cause.",
+      "quote": "Make bad game? Fired. Make good game? Fired",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "doom",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-05.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "craft",
+      "title": "Game DevOps is the hardest DevOps nobody wrote down",
+      "caption": "Someone's finally writing a book on DevOps in games. Overdue: 100GB builds, console cert pipelines, million-player launch days — and it all lives as tribal knowledge because studios treat ops like a trade secret, not a discipline.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-06.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sharp",
+      "title": "EA's AI pitch is really a Roblox pitch",
+      "caption": "PC Gamer's instant-classic headline aside — 'a billion people creating EA's games' isn't an AI vision, it's UGC economics. Players as unpaid dev workforce, EA as the platform collecting rent. AI just defrays the tooling cost.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-07.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "cold",
+      "title": "Good games get studios closed. That's portfolio math.",
+      "caption": "Under a conglomerate, a modestly profitable studio isn't judged against profit — it's judged against opportunity cost. If the capital earns more elsewhere, success still gets you shut down. Fortnite money or no money.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-08.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "console-war",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-09.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "prescient",
+      "title": "AI didn't just take GPUs. It re-priced AAA's audience.",
+      "caption": "When datacenters outbid gamers for silicon, players drift to older, lighter games — and the back catalog becomes AAA's biggest competitor. The next 'gamers are killing gaming' thinkpiece writes itself. My feed flagged this one early.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-10.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "off-niche",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-11.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "retro",
+      "title": "N64 aesthetics are a business model now",
+      "caption": "Agent 64 sells GoldenEye nostalgia on purpose. Retro style isn't a constraint anymore — it compresses dev cost and marketing cost at once, since the look IS the pitch. Demakes are the most capital-efficient genre in gaming.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-12.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "ominous",
+      "title": "$2,000 to $5,000: the GPU is now an AI asset class",
+      "caption": "RTX 5090 reportedly jumping to $5,000. Consumer GPUs aren't priced for gamers anymore — they're priced against datacenter demand for the same fabs. PC gaming's real rival isn't consoles, it's inference.",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-13.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "eastward",
+      "title": "New IP risk moved east while the West restructures",
+      "caption": "Buried in the trailer dump: NetEase greenlighting a first-person wuxia extraction RPG — new IP, new genre mash. Western AAA is consolidating; China's studios are doing the risk-taking. Watch where the experiments come from now.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-14.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "squabble",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-15.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "title": "Gaming isn't collapsing. The middle of it is.",
+      "caption": "'Totally avoidable' is the key phrase — playtime is at record highs while studios die. That's not demand collapse, it's capital allocation failure: everything funds the top 10 games or nothing. The medium's fine; the middle is gone.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-16.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "meta",
+      "title": "Same hobby, two feeds, opposite realities",
+      "caption": "14.6k people agree: one platform reads as 'gaming is cooked,' the other as 'look at my collection.' Your read on an entire industry is downstream of ranking choices. Worth asking what your feed optimizes for.",
+      "quote": "",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "participation",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-17.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "perspective",
+      "title": "Gaming without an industry: the Czech control group",
+      "caption": "80s Czechoslovakia had games with no market — hobbyists building titles, zines, even peripherals for self-expression and dissent. Proof the 'industry' is one way to organize games, not the only one. Relevant reading this year.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-18.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "reckoning",
+      "title": "The $1,000 console is just honest accounting",
+      "caption": "Consoles were always subsidized razors — hardware sold at a loss, recouped on software cuts. If subscriptions cannibalize the attach rate, the subsidy math dies, and the $1,000 console is what unit economics look like without it.",
+      "quote": "We should be afraid of the thousand-dollar console",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-19.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "earnest",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-20.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "rage",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-21.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "ecosystem",
+      "title": "Why Warframe fears Destiny dying",
+      "caption": "A rival dying should be good news. Instead Warframe's director calls it 'existentially threatening' — live-service titles share one funding narrative, and every big failure teaches publishers the genre is dead. Funding dries up for all.",
+      "quote": "The business side of this industry always gets the last remark.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-22.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sobering",
+      "title": "1 in 3 US game workers laid off in two years",
+      "caption": "That's not a downturn — no tech sector sheds a third of its people while revenue holds. It's a structural re-base: outsourcing, support studios, AI tooling. The jobs aren't coming back in the same shape.",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-23.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "meme",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-24.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "rage",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-25.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "classic",
+      "title": "$80 games meet the one market with infinite substitutes",
+      "caption": "Guybrush had it right. Price elasticity in games is brutal because the substitute isn't a rival — it's your backlog, F2P, and a 10-year-old masterpiece on sale for $4. Pricing power lives with platforms, not publishers.",
+      "quote": "Never spend more than 44 bucks and 39 cents for a computer game.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-26.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "lament",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-27.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "tell",
+      "title": "Sony's fight stick matters more than its delay",
+      "caption": "Sony owns EVO, and now it's building the controller the scene plays on. A delayed peripheral is the boring read — the real story is vertical integration of an entire esport, from tournament to hardware. Small news, big tell.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-28.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "messy",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-29.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "title": "Bethesda's real legacy: ship broken, patch later",
+      "caption": "The open-world push is the visible legacy. The quieter one: modders as unpaid QA taught publishers that shipping broken is survivable. Once your community fixes the game for free, the release-date math changes forever.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-30.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "monoculture",
+      "title": "Hero-shooter monoculture is a capital problem",
+      "caption": "When money is scared, execs greenlight the same game in different costumes — IP is the only de-risking they believe in. The monoculture isn't a creativity failure, it's a financing one. Genres consolidate when capital does.",
+      "quote": "Overwatch, Sony Overwatch, Marvel Overwatch, or Star Wars Overwatch.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "routine",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "empty",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-33.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "barbell",
+      "title": "Games news lost its middle. So did games.",
+      "caption": "'Incomprehensibly twee or 7,400 layoffs' — the barbell in your headlines mirrors the barbell in budgets. Mid-tier studios and mid-stakes stories got squeezed out together. The coverage isn't broken; it's accurate.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "rant",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-35.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "shitpost",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-37.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "asymmetry",
+      "title": "Devs carry the downside. Shareholders keep the upside.",
+      "caption": "The 'gamers are gaming wrong' spin dodges the real asymmetry: game workers hold no equity in hits. Success pays the cap table; failure fires the team that shipped it. That's why layoffs follow record revenue without contradiction.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-38.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "craft",
+      "title": "Asset packs are indie gaming's open-source moment",
+      "caption": "A leviathan pack any dev can drop into their game — the same monster will surface in fifty titles, and that's the point. Shared assets are the quiet subsidy that lets solo devs ship at all. Reuse isn't lazy; it's infrastructure.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-39.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "reversal",
+      "title": "Studio spin-offs: the quiet admission M&A failed",
+      "caption": "3,200 cuts, zero closures, four studios 'under new management.' Selling studios instead of shuttering them says the asset was fine — the owner wasn't. A decade of consolidation just started running in reverse. Watch who buys.",
+      "quote": "",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-40.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "playful",
+      "title": "Pokemon's real product is licensing surface area",
+      "caption": "60 J.League clubs, 60 Pokemon mascots. The games are the ad; the empire is IP that attaches to anything — soccer, planes, manhole covers. The model western publishers keep failing to build. A fun one the feed surfaced.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-41.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sobering",
+      "title": "Live-service 'forever games' die by roadmap memo",
+      "caption": "Xbox layoffs cut the Elder Scrolls Online team in half. An MMO's real asset is tribal knowledge — you can't rehire ten years of spaghetti systems. 'Roadmaps will be shifting' is how a forever game starts ending.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-42.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "vague",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-43.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "title": "What if AAA is a demographic, not a market?",
+      "caption": "The darkest read on Xbox's restructure isn't the cuts — it's that console AAA might be a cohort that ages out, not a market that grows. You can't invest your way out of demographics.",
+      "quote": "MS still thinks AAA gaming is a growth industry and not just placating the elder millennial fanbase",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-44.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "revealing",
+      "title": "Xbox's target: 24x Steam's peak, every single day",
+      "caption": "A billion people 'entertained daily' isn't a games KPI — no game business has ever had one. It's an ads-and-media KPI. The memo quietly tells you what Xbox is becoming, and it isn't a console company.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "venting",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "generic",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "culture-war",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-48.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "cynical",
+      "title": "Bad news travels in convoys, on purpose",
+      "caption": "Sony's disc exit dropped the same week Xbox gutted studios. Not conspiracy — coverage arbitrage. Platform holders bank bad announcements and release them under a rival's news cycle. Watch the timing, not the spin.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-49.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "diagnostic",
+      "title": "GDC shrinks, Gamescom booms — follow the budgets",
+      "caption": "Dev conferences run on studio training budgets, the first line item cut. Consumer shows run on marketing budgets, the last. The two events diverging is a clean read on where gaming money still flows. Surfaced by a well-tuned feed.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-50.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "hopeful",
+      "title": "Warframe's players are funding its sibling MMO",
+      "caption": "Soulframe's teaser is the quiet flex: Digital Extremes has no publisher, so a decade of Warframe revenue bankrolls the next game. In a layoff year, the self-funded studios are the ones announcing, not apologizing.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-52.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "analytical",
+      "title": "The remaster wave is a risk-appetite index",
+      "caption": "Black Flag Resynced isn't nostalgia — it's inventory financing. When funding dries up, publishers re-ship proven IP because it's the only bet that underwrites itself. Count the remasters per quarter and you can chart the industry's fear.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-53.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "shrewd",
+      "title": "Xbox is renting auteurs while selling studios",
+      "caption": "Fumito Ueda's gen ATLAS lands on Xbox the same season Xbox offloads its own teams. Renting a legend per-project is cheaper than owning a studio — prestige without payroll. That's the new first-party strategy in one trailer.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-54.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "fandom-rage",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "rage",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-56.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "empty",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-57.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "incisive",
+      "title": "Killing discs kills price competition, not plastic",
+      "caption": "PlayStation ends game discs in 2028. The format isn't the story — resale is. No used market means no price floor pressure, and $70 stays $70 forever. Digital-only was always about pricing power.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-58.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-59.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "title": "A spin-off with a funded runway is a quiet shutdown",
+      "caption": "Xbox's biggest restructure ever: 3,200 roles across FY27, studios spun off 'with funding for current projects.' That funding clause is severance by another name. Watch what happens the day those projects ship.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-60.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "meta",
+      "title": "Someone built a startup just to filter game news",
+      "caption": "A Show HN pitches automated game-news monitoring against your personal backlog. The signal isn't the product — it's that filtering became a product category at all. Feeds fail hard enough that people now pay to route around them.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-61.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "clarifying",
+      "title": "Players see the pipeline. Devs see the funding.",
+      "caption": "Fans: 'gaming's fine, it's a transformation.' Devs: 'who makes the games after this?' Both are right — games ship on 3-year pipelines, so players see output while devs watch input stop. The crash already happened; it hasn't rendered yet.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-62.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-63.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "savvy",
+      "title": "Ratings boards out-leak every industry insider",
+      "caption": "'Metroid: Ravenous' surfaced on Brazil's ratings board, not a stage. Regulatory filings are the one leak channel that can't be embargoed — compliance runs on legal deadlines, not marketing calendars. The paperwork beat the press again.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-64.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "knowing",
+      "title": "The 'exclusive reveal' is inventory the press sells",
+      "caption": "Aliens: Fireteam Elite 2 debuts as an IGN 'cover story' — a month of scheduled exclusive drops. Games media doesn't cover launches anymore; it retails reveal windows to publishers. The firewall moved upstream to the announcement.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-65.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "wry",
+      "title": "Xbox survived the red ring. This is harder.",
+      "caption": "Someone answered 'state of the industry' with a red ring of death. Apt, but backwards: a 30% hardware failure rate was survivable because Xbox kept investing through it. Brands recover from defects. Disinvestment is the terminal kind.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-66.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "joke",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "truncated",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-68.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "amused",
+      "title": "An email company is dunking on digital ownership",
+      "caption": "Tuta's satire — going 'fully physical' — lands because the joke needs zero setup now. When non-gaming brands can farm engagement from 'you own nothing,' the ownership backlash has gone mainstream. Marketers are a lagging trust indicator.",
+      "quote": "Tuta Mail will become your personal physical mailbox to which our team will deliver your handwritten encrypted letters personally to you.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-69.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "teaser",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-70.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "recursive",
+      "title": "Trailer compilations exist because discovery broke",
+      "caption": "Fifteen 'biggest reveals' stitched into one video, because announcements scatter across a dozen showcases nobody tracks. Aggregation channels are a symptom: when discovery breaks, curation becomes the content. Why I run a filtered feed.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-71.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "pattern",
+      "title": "The rebrand always ships before the layoffs",
+      "caption": "New logo, new leadership charm offensive — then studio closures. Rebrand-before-restructure is a standard playbook: a fresh identity gives execs a 'new era' to pin the cuts on. When the logo changes, check the org chart next.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-73.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "vindicated",
+      "title": "Alien Isolation 'flopped.' The long tail disagreed.",
+      "caption": "Sega called Isolation a miss in 2014; a decade of steady Steam sales bought it a sequel. Launch-window accounting says flop, long-tail revenue says classic — and sequels are now getting greenlit on the second ledger.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-74.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "constructive",
+      "title": "Open-source the maintenance-mode games",
+      "caption": "An HN proposal: when a live-service game hits maintenance stage, hand development to the community. It solves preservation and converts a cost center into free content — mod-scene economics, formalized. The blocker is control, not money.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-75.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "admiring",
+      "title": "Alyx mod tools: unpaid live-service, by design",
+      "caption": "Valve shipping workshop tools plus a Linux update for a five-year-old game isn't generosity — mods extend the sales curve for free, and Linux support feeds the Deck flywheel. Valve monetizes patience better than anyone monetizes launches.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "doomer",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-78.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "ironic",
+      "title": "Xbox's $69B game gets its reveal on PlayStation",
+      "caption": "MW4's trailer premieres on PlayStation's channel — a game Microsoft owns, marketed on the rival's storefront. The Activision deal's concessions mean Xbox bought Call of Duty while PlayStation kept the customer relationship.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-79.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "warm",
+      "title": "Speedrunning is the layoff-proof corner of gaming",
+      "caption": "SGDQ runs on decade-old games, volunteer labor, and charity money — a scene fully decoupled from the release calendar. While the industry contracts, the one community needing zero new products keeps growing. A good filter keeps finding it.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-80.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "curious",
+      "title": "Text-to-game needs a new model, not better prompts",
+      "caption": "Seele AI trained a multimodal model just for game generation, betting general LLMs can't do it — games are spatial logic plus assets plus rules, not code completion. If they're right, 'AI game engine' becomes its own model class.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-81.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "patient",
+      "title": "Alien Isolation 2 exists because the first one never died",
+      "caption": "Alien Isolation 2, eleven years on. The original 'underperformed' in 2014, then sold for a decade on catalog. Long-tail revenue now green-lights the sequels that day-one charts once killed. Surfaced in my Threadverse gaming lane.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-82.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "structural",
+      "title": "Console generations were a retail invention, not a tech one",
+      "caption": "Console 'generations' are basically dead — and they were never a hardware truth anyway, just a retail cadence built to force repurchase. Games now target a rolling spec floor, like phones. The box stopped mattering years ago.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-83.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "telling",
+      "title": "State of Decay 3 on PS5: exclusivity just died on stage",
+      "caption": "State of Decay 3, revealed at the Xbox Showcase, ships on PS5 day one. Exclusives were the whole point of owning a console — Xbox just conceded it's a publisher now, and the hardware is a legacy peripheral.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-84.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "title": "Microsoft's layoffs are accidentally rebuilding the AA tier",
+      "caption": "4,800 gone, Double Fine and Compulsion cut loose as independents. A decade of consolidation is running in reverse — platform divestitures are how the mid-size studio tier gets rebuilt, one severance package at a time.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-85.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-86.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sober",
+      "title": "Best games ever, worst economics ever — both are true",
+      "caption": "Games have never been better; the business has never been shakier. Not a paradox — the golden age was bought with cheap-money overexpansion, and the layoffs are the invoice arriving. From the gaming lane of my Threadverse feed.",
+      "quote": "As incredible as the gaming industry is right now with a controller in your hand, it's a shambles behind the scenes.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-87.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "economic",
+      "title": "New games' biggest competitor is the last 30 years of games",
+      "caption": "'Just play older games' isn't coping — it's the market working. Games don't depreciate: every $70 launch competes with 30 years of catalog at $5. The backlog is pricing pressure no publisher will name. Caught in my Threadverse feed.",
+      "quote": "the immediate reaction to bad news in the gaming space is just \"play older games\"",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-88.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "clever",
+      "title": "Horror inside an eye-exam machine is a budget strategy",
+      "caption": "Farsight sets its horror inside the tiny house from the eye-exam machine. Great pitch — and shrewd engineering: horror is the one genre where a tight, weird constraint reliably beats an open-world budget.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-89.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "structural",
+      "title": "Consoles aren't dying. The middle of the market is",
+      "caption": "'Death of the console industry' — yet indie is thriving and the top ten prints money. What's dying is the middle: the $30M game, the same extinction film went through. Barbell markets always feel like collapse from the inside.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-90.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "cold",
+      "title": "3,200 layoffs is what going multiplatform actually costs",
+      "caption": "Xbox cuts 3,200 and dumps four studios. Those studios were bought to make hardware exclusive — once Xbox became a publisher on every platform, their strategic reason to exist evaporated. The layoffs are the ledger catching up.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-91.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "pointed",
+      "title": "Your game purchases are venture capital, spent blindly",
+      "caption": "Indie devs won't fix the industry, and shouldn't have to. Every purchase funds the next five years of games — players are gaming's actual VCs, they just rarely check what the money builds. Found via my Threadverse gaming lane.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-92.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "dry",
+      "title": "Your game library is now a service-level agreement",
+      "caption": "Digital-only means your collection isn't property, it's a contract — playable exactly as long as a server, a license deal, and a storefront's quarterly math allow. 'Buy' is the most generous word in gaming.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-93.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "prescient",
+      "title": "Kids raised on Roblox may never buy a $70 game",
+      "caption": "A generation is growing up on Roblox, Fortnite and gachas — and the $70 single-player game assumes they'll graduate to it. They might not. Premium gaming could age like print media: beloved, prestigious, demographically doomed.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-94.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "shill",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-95.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "thin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-96.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "cynical",
+      "title": "Outrage isn't a market signal. Churn is",
+      "caption": "Everyone's furious about disc production ending — and pre-orders won't move an inch. Platforms price revealed preference, not discourse: as long as anger and spending stay uncorrelated, the anger is free. Sony reads dashboards, not replies.",
+      "quote": "\"You will own nothing and you will like it!\" - Sony",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-97.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-98.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-99.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "promo",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-100.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "shrewd",
+      "title": "Capcom found the third way: neither sequel nor live service",
+      "caption": "Monster Hunter Wilds gets a mega-expansion, not a sequel. Selling Master Rank to an installed base costs a fraction of acquiring new players — the paid expansion is quietly the sanest business model left in AAA.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-101.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "market",
+      "title": "Discs became collectibles the day Sony set an end date",
+      "caption": "The 'buy everything physical' itch is rational: an announced end date turns commodity discs into scarce assets overnight. Retro pricing already runs on supply cutoffs — 2028 just added an entire console generation to the asset class.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-102.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "shill",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-103.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "untranslated",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-104.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "title": "No archives, no canon: why gaming stays 'not serious'",
+      "caption": "Games get treated as disposable, then we wonder why the medium isn't taken seriously. Film earned prestige when archives made its history studyable. A craft that can't cite its own past can't compound — that's the real preservation stake.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-105.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "fandom",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-106.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "gravity",
+      "title": "Mobile's worst ideas won because spreadsheets lack taste",
+      "caption": "Consoles didn't copy mobile's battle passes out of laziness — revenue-per-user math pulls every platform toward the same design. Monetization is gravity: it flows wherever the dashboard rewards, and dashboards don't have taste.",
+      "quote": "we saw the traditional industry *devolve* into mobile gaming's worst examples",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-107.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "wry",
+      "title": "Diablo's seasons are Sisyphus, implemented on purpose",
+      "caption": "A new Diablo 4 season means your progress rolls back downhill — by design. Seasonal resets aren't content, they're the retention mechanic: the climb is the product, so the boulder has to fall. One must imagine the player subscribed.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-108.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "off-niche",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-109.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "inside-baseball",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-110.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "snark",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-111.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-112.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "title": "GTA 6 isn't gaming's swan song — it's the megabudget's",
+      "caption": "GTA 6 as the industry's swan song is doomer math, but it's half right: budget escalation means only one game a decade can justify that spend. The blockbuster model dies at the exact moment it peaks — ask Hollywood about Avatar.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-113.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "indie",
+      "title": "The hard part of a daily quiz app is the whole product",
+      "caption": "Solo dev ships a global daily quiz with synced leaderboards. The engineering headache — everyone gets the same 10 questions at once — is also the entire product: synchronization is what made Wordle social. Scarcity does the retention.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-114.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "culture-war",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-115.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "follow-the-money",
+      "title": "Sony isn't killing discs. It's firing its retailers",
+      "caption": "'Death of gaming' misses who actually got shot: retail. Discs existed to give Walmart and GameStop their cut — going digital-only reroutes that margin straight to the PlayStation Store. The disc was never the product; the shelf was.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-116.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "nostalgia",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-117.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "thin",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "bluesky",
+      "triggers": []
+    },
+    {
+      "file": "card-118.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "prestige",
+      "title": "Sony funds its least commercial auteur on purpose",
+      "caption": "gen ATLAS: Fumito Ueda, single-player, no live service — green-lit while the industry guts itself. Prestige games aren't P&L bets, they're brand insurance: the Ueda title is what lets PlayStation charge $80 for everything else.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-119.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "strategic",
+      "title": "All-digital consoles are Valve's opening, not Sony's win",
+      "caption": "If consoles go all-digital, the box stops mattering — and SteamOS becomes gaming's Android: any OEM ships a handheld, the store is the moat. Sony killing discs may be the best thing to happen to Valve. Via my Threadverse gaming feed.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "bluesky",
+      "triggers": [
+        "novelty",
+        "social-currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-120.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "signal",
+      "title": "A full AR game in 6 weeks says more about Snap than AR",
+      "caption": "Solo dev ships a complete AR helicopter game as a Snap lens in six weeks. The game is the benchmark, not the point — when platform tooling lets one person move that fast, the ecosystem bet gets real. Games are how platforms prove tooling.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    }
+  ]
+}
