@@ -1026,5 +1026,12 @@
     "platform": "mastodon",
     "at": "2026-07-14T19:24:55.415Z",
     "url": "https://mastodon.social/@threadverse/116919965866968365"
+  },
+  {
+    "tile": null,
+    "caption": "Frontier models ship like CI/CD now — no version pinned, silent rolling updates. Nobody prices the cost: you can't reproduce a result or prove which model wrote what. Continuous deployment quietly killed accountability.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-14T21:03:34.334Z",
+    "url": "https://mastodon.social/@threadverse/116920353776017454"
   }
 ]
