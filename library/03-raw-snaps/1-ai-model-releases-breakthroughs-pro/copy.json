@@ -1,415 +1,393 @@
 {
   "feed": "1. AI model releases + breakthroughs Pro",
-  "slug": "1-ai-model-releases-breakthroughs-pro",
   "cards": [
     {
       "file": "card-01.png",
       "keep": false,
       "score": 3,
-      "vibe": "vague",
-      "title": "A new model every month?",
-      "caption": "Someone asked if we've hit the point where AI model releases happen every month. Turns out that was the optimistic take.",
-      "quote": "",
+      "vibe": "confused",
+      "topic": "ai",
+      "title": "DeepSeek drops another open model into the selloff",
+      "caption": "Mixed-language card with an unrelated stock photo — the release-timing angle is real but this capture can't carry it.",
       "povText": "",
-      "format": "banner",
-      "bestPlatform": "x",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
       "triggers": [
         "novelty"
       ]
     },
     {
       "file": "card-02.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "generic",
-      "title": "Monthly frontier releases are here",
-      "caption": "The pace of AI progress is officially unbelievable. Monthly frontier releases, and somehow that's the slow lane now.",
-      "quote": "Monthly frontier model releases will push the entire industry to innovate even faster.",
+      "keep": true,
+      "score": 7,
+      "vibe": "ominous",
+      "topic": "ai",
+      "title": "Pre-AI data is the new low-background steel",
+      "caption": "Models training on model output degrade — that's the known part. The real shift: human-verified, pre-2023 data becomes a scarce asset, like steel forged before the bomb. Whoever archives it owns the next training run.",
       "povText": "",
-      "format": "quote",
-      "bestPlatform": "x",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
       "triggers": [
-        "novelty"
+        "novelty",
+        "social-currency"
       ]
     },
     {
       "file": "card-03.png",
       "keep": true,
       "score": 7,
-      "vibe": "sharp",
-      "title": "AI isn't a race to build anymore",
-      "caption": "Best reframe of the AI race I've seen: it's no longer about who builds it. It's about who improves it faster than everyone else. Agree? Threadverse surfaced this one.",
-      "quote": "The competition is no longer about building AI, it's about improving it faster than everyone else.",
-      "povText": "",
-      "format": "quote",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "identity",
-        "social_currency"
-      ]
-    },
-    {
-      "file": "card-04.png",
-      "keep": false,
-      "score": 4,
-      "vibe": "insider",
-      "title": "What I'm tracking this week",
-      "caption": "One trader's AI watchlist this week: token momentum, model releases as catalysts, and Grok 4.5 narrative plays. What's on yours?",
-      "quote": "",
+      "vibe": "skeptical",
+      "topic": "ai",
+      "title": "Raising capital is OpenAI's real moat",
+      "caption": "When you can raise faster than you burn, technical weakness never has to surface. The scary part isn't the losses — it's that capital markets stopped functioning as an error signal for AI.",
       "povText": "",
       "format": "banner",
       "bestPlatform": "x",
       "triggers": [
-        "identity",
-        "participation"
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "pointed",
+      "topic": "ai",
+      "title": "Rejecting opt-out is a confession, not greed",
+      "caption": "OpenAI and Google won't accept opt-out copyright rules. Read it as engineering, not lobbying: models can't unlearn one work without retraining, so any consent framework breaks the architecture. The tech was built to make 'no' impossible.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "novelty",
+        "identity"
       ]
     },
     {
       "file": "card-05.png",
       "keep": true,
-      "score": 8,
-      "vibe": "spicy",
-      "title": "90% odds GPT-5.6 ships by July",
-      "caption": "Polymarket has GPT-5.6 at a 90% chance to ship by July 31, but just 1% before June 30. The market is literally betting on the release calendar now. Threadverse caught this early.",
-      "quote": "there's a 90% chance for the public release of GPT-5.6 by July 31, but only a 1% chance it'll drop before June 30.",
+      "score": 6,
+      "vibe": "socratic",
+      "topic": "ai",
+      "title": "'AI' is a funding category, not a technique",
+      "caption": "Is the model AI, the technique, the task — or just statistics? The label was never technical; it moves with the money. Regression became 'AI' the day the grant applications did.",
+      "quote": "Is the resulting model AI or the technique that is used to build the model or the task that said model is solving? What about statistics? Is that \"AI\"?",
       "povText": "",
-      "format": "splitProof",
-      "bestPlatform": "x",
+      "format": "quote",
+      "bestPlatform": "mastodon",
       "triggers": [
-        "novelty",
-        "social_currency",
+        "identity",
         "participation"
       ]
     },
     {
       "file": "card-06.png",
       "keep": true,
-      "score": 9,
-      "vibe": "landmark",
-      "title": "The US-China AI gap just closed",
-      "caption": "Stanford's 2026 AI Index says the US-China frontier model gap is effectively gone, down to ~2.7% as of March. The race everyone assumed was decided isn't. Surfaced by Threadverse.",
-      "quote": "the US-China frontier model gap has effectively closed. Top models now trade leads; gap ~2.7% as of March.",
+      "score": 7,
+      "vibe": "blunt",
+      "topic": "ai",
+      "title": "Wrong 90% of the time isn't a faulty model",
+      "caption": "A model that's wrong 90% of the time isn't broken — the spec is. 'Faulty AI' relocates the lie from the marketing deck to the weights. Read accuracy claims as product claims and most of them become actionable.",
+      "quote": "If your AI model is wrong 90% of the time you don't have a faulty model, you're just lying about what the model is supposed to do.",
       "povText": "",
-      "format": "bigStat",
+      "format": "quote",
       "bestPlatform": "x",
       "triggers": [
-        "novelty",
-        "identity",
-        "social_currency"
+        "emotion",
+        "identity"
       ]
     },
     {
       "file": "card-07.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "ai",
+      "title": "GenLayer AMA recap",
+      "caption": "Community AMA recap card — pure project promo, no news, no take to extract.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-08.png",
       "keep": true,
       "score": 7,
-      "vibe": "punchy",
-      "title": "AI updates now feel like deployment",
-      "caption": "Monthly frontier releases have blurred into one thing: AI doesn't get 'updated' anymore, it just continuously deploys. When did versions stop meaning anything?",
-      "quote": "AI is starting to feel like continuous deployment.",
-      "povText": "POV: your AI model updates faster than your work apps",
-      "format": "quote",
-      "bestPlatform": "x",
+      "vibe": "brisk",
+      "topic": "ai",
+      "title": "DeepSeek's real weapon is release cadence",
+      "caption": "Janus-Pro dropped an hour after the last news cycle. Cadence is the strategy: ship weekly and closed labs can't reprice, repackage, or even finish a rebuttal benchmark. Caught this in my reader before the tech press wrote it up.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
       "triggers": [
         "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "truncated",
+      "topic": "ai",
+      "title": "Karnataka's AI university bet",
+      "caption": "Thread-bait cadence ('Most people miss this') and the card cuts off mid-argument — the structural angle can't land from this capture.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-10.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "wry",
+      "topic": "ai",
+      "title": "The only AI bulls are the ones not paying",
+      "caption": "OpenAI needs a miracle, Microsoft is begging, Anthropic is triaging threats — and the loudest 'AI is here to stay' comes from institutions that don't carry the compute bill. Conviction correlates with distance from the invoice.",
+      "quote": "OpenAI: We're burning money like the Joker. A miracle needs to happen for us to turn a profit",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-11.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "exasperated",
+      "topic": "ai",
+      "title": "'AI designed drugs' erases the method section",
+      "caption": "Scientists built a task-specific ML model; headlines credit a benevolent AI. The mislabeling compounds: funding follows headlines, so the next grant cycle optimizes for 'AI' framing over the actual method. That's how fields drift.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
         "identity",
         "emotion"
       ]
     },
     {
-      "file": "card-08.png",
-      "keep": false,
-      "score": 4,
-      "vibe": "curious",
-      "title": "What's OpenAI's secret sauce?",
-      "caption": "Ask HN: OpenAI's new o1 model has everyone talking, but what's actually the secret sauce behind it? The best replies get technical fast.",
-      "quote": "",
+      "file": "card-12.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "ruthless",
+      "topic": "ai",
+      "title": "Meta can price at zero. The labs can't.",
+      "caption": "Beating Opus at 10% of the price isn't competition, it's a balance-sheet attack. Ads subsidize Meta's inference; for OpenAI and Anthropic the model IS the revenue. You can't win a price war against someone whose product is free.",
       "povText": "",
-      "format": "banner",
+      "format": "bigStat",
       "bestPlatform": "x",
       "triggers": [
         "novelty",
-        "participation"
+        "social-currency"
       ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-09.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "underdog",
-      "title": "Same model. 11x less compute.",
-      "caption": "A Chinese lab claims it matched frontier results with 11X less compute, purely through optimization. The efficiency race is the real arms race now. Surfaced by Threadverse.",
-      "format": "splitProof",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "social_currency"
-      ],
-      "quote": "Breakthroughs enabled creating model with 11X less compute",
-      "povText": ""
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-10.png",
+      "file": "card-13.png",
       "keep": true,
       "score": 7,
-      "vibe": "audacious",
-      "title": "Brain-like AI, 100x faster",
-      "caption": "China claims a brain-like AI running 100x faster than traditional models, balancing speed and accuracy. Bold if it holds up. What's your bet? Curated by Threadverse.",
+      "vibe": "sober",
+      "topic": "ai",
+      "title": "Usage fees mean inference costs won",
+      "caption": "Flat AI subscriptions were loss-leaders to buy market share and usage data. Switching Claude to metered pricing is the tell: the unit economics never closed, and now you're the meter. Budget for it like cloud, not SaaS.",
+      "povText": "",
       "format": "banner",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "social_currency"
-      ],
-      "quote": "100 times faster than traditional models",
-      "povText": ""
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-11.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "niche",
-      "title": "13B models verified in 15 min",
-      "caption": "ZkML breakthrough: verifying 13B-param models in 15 minutes. Big for trustless AI, but deep in the weeds. Found by Threadverse.",
-      "format": "minimal",
       "bestPlatform": "mastodon",
       "triggers": [
-        "novelty"
-      ],
-      "quote": "",
-      "povText": ""
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-12.png",
-      "keep": false,
-      "score": 2,
-      "vibe": "empty",
-      "title": "China's new AI model [video]",
-      "caption": "A bare video link with no context. Low signal. Skipped by Threadverse's cut.",
-      "format": "minimal",
-      "bestPlatform": "x",
-      "triggers": [],
-      "quote": "",
-      "povText": ""
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-13.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "contrarian",
-      "title": "\"The $5-6M number is bogus\"",
-      "caption": "A tech breakthrough and a security risk. This take calls the cheap-training figure bogus and floats shorting US AI stocks. Spicy. Where do you land? Via Threadverse.",
-      "format": "splitProof",
-      "bestPlatform": "x",
-      "triggers": [
-        "emotion",
-        "social_currency",
+        "novelty",
         "identity"
-      ],
-      "quote": "The $5-6M number is bogus. Shorting U.S. AI stocks...",
-      "povText": ""
+      ]
     },
     {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-14.png",
+      "file": "card-14.png",
       "keep": true,
-      "score": 9,
-      "vibe": "ominous",
-      "title": "Govt decides who gets AI first?",
-      "caption": "OpenAI limits a new flagship after government concerns, saying who gets early access 'should not become the long-term default.' Read that twice. Surfaced by Threadverse.",
-      "format": "quote",
-      "bestPlatform": "x",
-      "triggers": [
-        "emotion",
-        "identity",
-        "social_currency"
-      ],
-      "quote": "who gets initial access to AI models should not 'become the long-term default'",
-      "povText": "POV: the government now decides who gets the new model first"
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-15.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "foundational",
-      "title": "Matrix math just got its biggest boost",
-      "caption": "Matrix multiplication, the math under all of AI, just got its biggest speedup in over a decade. Faster, cheaper models downstream. Curated by Threadverse.",
-      "format": "banner",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "social_currency"
-      ],
-      "quote": "the biggest boost in more than a decade",
-      "povText": ""
-    },
-    {
-      "file": "/Users/krishnatrehan/00PProjects/threadverse_marketing/library/03-raw-snaps/1-ai-model-releases-breakthroughs-pro/card-16.png",
-      "keep": false,
-      "score": 3,
-      "vibe": "vague",
-      "title": "Quantum-inspired AI patent",
-      "caption": "A UK-patented quantum-inspired invention, but the post cuts off before the payoff. Too thin to run. Passed by Threadverse.",
+      "score": 7,
+      "vibe": "crisp",
+      "topic": "ai",
+      "title": "Weather is the one benchmark AI can't game",
+      "caption": "Google's model beat the leading forecast system — and weather is the rare eval reality grades in 24 hours. No leaked test set, no benchmark theater. The domains with fast ground truth are where AI claims get honest.",
+      "povText": "",
       "format": "minimal",
       "bestPlatform": "mastodon",
       "triggers": [
         "novelty"
-      ],
-      "quote": "AI workloads are growing faster than the infrastructure meant to support them",
-      "povText": ""
+      ]
+    },
+    {
+      "file": "card-15.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "geopolitical",
+      "topic": "ai",
+      "title": "Qwen vs DeepSeek: the race is China vs China",
+      "caption": "Alibaba shipped Qwen 2.5-Max on a public holiday just to counter DeepSeek. That timing names the real rival: the frontier race is now intra-China, and Western labs are the audience. My reader flagged the pattern before the takes did.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-16.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "stale",
+      "topic": "ai",
+      "title": "OpenAI teases Orion by December",
+      "caption": "Bare release-date headline, long since overtaken — nothing here but a summary, which fails the take test.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": []
     },
     {
       "file": "card-17.png",
-      "keep": true,
-      "score": 6,
-      "vibe": "geopolitical",
-      "title": "DeepSeek's Next Move + China Blocks Meta's $2B Deal",
-      "caption": "DeepSeek drops another breakthrough while China blocks Meta's $2B grab of AI startup Manus. The race just got messier. Surfaced by Threadverse. Who wins 2026?",
-      "quote": "",
+      "keep": false,
+      "score": 3,
+      "vibe": "stale",
+      "topic": "ai",
+      "title": "Meta's SeamlessM4T translates 100 languages",
+      "caption": "Old release headline with no angle beyond the spec sheet — a fact without a take is not a keep.",
       "povText": "",
-      "format": "banner",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "social_currency"
-      ]
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": []
     },
     {
       "file": "card-18.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "breakthrough",
-      "title": "DeepSeek's New Training Trick Breaks Scaling",
-      "caption": "China's DeepSeek opened 2026 with a training method analysts are calling a real breakthrough for scaling. Big if it holds. Found via Threadverse. Hype or history?",
-      "quote": "",
+      "keep": false,
+      "score": 2,
+      "vibe": "clickbait",
+      "topic": "ai",
+      "title": "RIP DeepSeek thumbnail spam",
+      "caption": "Sponsored YouTube hype card with hashtag soup and a 'RIP Deepseek' thumbnail — engagement bait, reject.",
       "povText": "",
-      "format": "splitProof",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "social_currency"
-      ]
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": []
     },
     {
       "file": "card-19.png",
       "keep": true,
-      "score": 7,
-      "vibe": "scientific",
-      "title": "SCIGEN: AI That Invents Real Materials",
-      "caption": "MIT's new SCIGEN tool lets researchers hard-code design rules so generative AI actually produces breakthrough materials, not hallucinations. Surfaced by Threadverse.",
-      "quote": "",
+      "score": 8,
+      "vibe": "paranoid",
+      "topic": "ai",
+      "title": "You can't debug a model that changes under you",
+      "caption": "Every dev has the same suspicion: is the model dumber today, or am I? With no version pinning on closed APIs, capability drift is unobservable — 'works on my prompt' is now a bug report nobody can reproduce.",
+      "quote": "I have no idea whether or not this is due to the provider making their model dumber on the fly.",
       "povText": "",
-      "format": "banner",
+      "format": "quote",
       "bestPlatform": "mastodon",
       "triggers": [
-        "novelty",
-        "identity"
+        "identity",
+        "participation",
+        "emotion"
       ]
     },
     {
       "file": "card-20.png",
       "keep": false,
-      "score": 3,
-      "vibe": "headline",
-      "title": "DeepSeek Unveils New Flagship Model",
-      "caption": "DeepSeek drops a new flagship a year after shaking Silicon Valley. Surfaced by Threadverse.",
-      "quote": "",
+      "score": 2,
+      "vibe": "listicle",
+      "topic": "ai",
+      "title": "Five rules for picking a model",
+      "caption": "Newsletter-funnel YouTube listicle with 'WRONG TOOL' thumbnail — promo content, no take to salvage.",
       "povText": "",
-      "format": "minimal",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty"
-      ]
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": []
     },
     {
       "file": "card-21.png",
       "keep": true,
       "score": 8,
-      "vibe": "consequential",
-      "title": "US Greenlights Anthropic's Mythos After Export Block",
-      "caption": "The US just reversed an export block and cleared Anthropic to release its Mythos model to select orgs, after national security fears. Policy whiplash. Via Threadverse.",
-      "quote": "",
+      "vibe": "cynical",
+      "topic": "ai",
+      "title": "GPUs are the asset. Models are the byproduct.",
+      "caption": "Meta reselling compute after a missed training run flips the thesis: if failed models convert cleanly into cloud revenue, the durable business was always the datacenter. 'AI lab' may just be a GPU landlord with a research arm.",
       "povText": "",
       "format": "splitProof",
-      "bestPlatform": "bluesky",
+      "bestPlatform": "mastodon",
       "triggers": [
         "novelty",
-        "emotion",
-        "social_currency"
+        "social-currency"
       ]
     },
     {
       "file": "card-22.png",
       "keep": false,
-      "score": 2,
-      "vibe": "cryptic",
-      "title": "Previewing GPT-5.6 Sol",
-      "caption": "A next-gen GPT-5.6 preview surfaced early. Barely any detail yet. Caught by Threadverse.",
-      "quote": "",
+      "score": 3,
+      "vibe": "promotional",
+      "topic": "ai",
+      "title": "The moat moved to deployment",
+      "caption": "Decent thesis buried in a hashtag-heavy newsletter promo — the card sells a report, not a take.",
       "povText": "",
-      "format": "minimal",
-      "bestPlatform": "x",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-23.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "analytical",
+      "topic": "ai",
+      "title": "Training costs never live long enough to amortize",
+      "caption": "Willison's margin math has a silent assumption: the model stays sellable. Frontier models depreciate in months, so inference profit races obsolescence — every 'fixed cost' is actually recurring. That's the hole in the profitability story.",
+      "quote": "Training a model has a fixed cost. Running inference against a model has a margin",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
       "triggers": [
         "novelty"
       ]
     },
     {
-      "file": "card-23.png",
-      "keep": true,
-      "score": 7,
-      "vibe": "underdog",
-      "title": "Italy Is Building Its Own Frontier AI",
-      "caption": "Italy's Domyn will ship a fully open-source frontier model within a year, the CEO says. Europe wants in the race. Surfaced by Threadverse. Can they catch up?",
-      "quote": "",
-      "povText": "",
-      "format": "banner",
-      "bestPlatform": "bluesky",
-      "triggers": [
-        "novelty",
-        "identity"
-      ]
-    },
-    {
       "file": "card-24.png",
-      "keep": true,
-      "score": 8,
-      "vibe": "resourceful",
-      "title": "China Trained an AI Across Data Centers",
-      "caption": "Blocked from top chips, China trained a generative model across multiple data centers and mixed GPUs. Constraints breed invention. Found via Threadverse.",
-      "quote": "Necessity is the mother of invention.",
+      "keep": false,
+      "score": 4,
+      "vibe": "niche",
+      "topic": "ai",
+      "title": "Modular MAX lost the release-day race",
+      "caption": "There's a real angle here — inference platforms die by being two weeks behind model releases — but a 2-like Ask HN card is too thin to carry it.",
       "povText": "",
-      "format": "quote",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty",
-        "emotion",
-        "social_currency"
-      ]
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
     },
     {
       "file": "card-25.png",
       "keep": false,
       "score": 3,
-      "vibe": "promotional",
-      "title": "One Studio To Rule The AI Feeds",
-      "caption": "A Show HN pitch for a unified AI studio. Self-promo with thin context and low engagement. Skipping this one.",
-      "quote": "",
+      "vibe": "breathless",
+      "topic": "ai",
+      "title": "Claude for Science, the thread version",
+      "caption": "'But here's what makes it interesting' thread-bro cadence, truncated mid-pitch — reads as engagement bait, not signal.",
       "povText": "",
       "format": "minimal",
-      "bestPlatform": "x",
-      "triggers": [
-        "novelty"
-      ]
+      "bestPlatform": "mastodon",
+      "triggers": []
     },
     {
       "file": "card-26.png",
-      "keep": false,
-      "score": 2,
-      "vibe": "cryptic",
-      "title": "AI Grades A Made-Up Logic System",
-      "caption": "Part 2 of an AI evaluating an obscure 'Pan-Evolutionary Logic' framework. Too niche and low-context to travel. Cut.",
-      "quote": "",
+      "keep": true,
+      "score": 7,
+      "vibe": "structural",
+      "topic": "ai",
+      "title": "The capex just moved from training to serving",
+      "caption": "Tooling has quietly abandoned better base models for test-time compute. That relocates the money: the margin goes to whoever serves tokens cheapest, not whoever trains best. Inference is the new infrastructure layer.",
       "povText": "",
-      "format": "minimal",
+      "format": "banner",
       "bestPlatform": "mastodon",
       "triggers": [
         "novelty"
@@ -419,98 +397,611 @@
       "file": "card-27.png",
       "keep": true,
       "score": 7,
-      "vibe": "clever",
-      "title": "AI That Detects Cats Without Seeing Them",
-      "caption": "Encryption breakthrough for privacy-preserving AI: models run object detection on data they can't actually read. The cat photos sell it. Where's the line on private AI?",
-      "quote": "",
+      "vibe": "prescient",
+      "topic": "ai",
+      "title": "When the model is the router, routers die",
+      "caption": "If frontier models can delegate to cheaper ones on their own, orchestration stops being a product and becomes a capability. The whole model-routing middleware layer is busy building a feature of its own competitor.",
       "povText": "",
-      "format": "banner",
-      "bestPlatform": "x",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
       "triggers": [
         "novelty",
-        "social_currency"
+        "social-currency"
       ]
     },
     {
       "file": "card-28.png",
       "keep": true,
-      "score": 9,
-      "vibe": "explosive",
-      "title": "The Government Now Picks Who Gets The AI",
-      "caption": "Trump admin reportedly hand-picking the 100+ companies allowed to use a top AI model, plus lifting access bans. Government gatekeeping frontier models. This is the fight of the decade.",
-      "quote": "government oversight of access to AI models is here",
+      "score": 7,
+      "vibe": "suspicious",
+      "topic": "ai",
+      "title": "Announced megawatts are a stock signal",
+      "caption": "Datacenters that exist only on paper still move markets. Press releases are free; substations and transformers have three-year lead times. Track grid interconnection queues, not announcements — that's where the real buildout shows.",
       "povText": "",
       "format": "tabloid",
-      "bestPlatform": "bluesky",
+      "bestPlatform": "x",
       "triggers": [
-        "emotion",
-        "identity",
-        "social_currency"
+        "novelty",
+        "emotion"
       ]
     },
     {
       "file": "card-29.png",
       "keep": true,
-      "score": 9,
-      "vibe": "provocative",
-      "title": "\"We Can't Let AI Giants Eat The Economy\"",
-      "caption": "Satya Nadella's blistering take on AI power balance and who gets to earn society's permission. A frontier CEO drawing a line in the sand. Agree or overblown?",
-      "quote": "We Can't Let AI Giants Eat The Economy",
+      "score": 7,
+      "vibe": "bearish",
+      "topic": "ai",
+      "title": "Costs scaling with revenue isn't software",
+      "caption": "Zitron's core charge sticks: if inference costs rise linearly with usage, there's no operating leverage — it's a services business wearing a software multiple. The entire valuation stack depends on nobody saying that out loud.",
       "povText": "",
-      "format": "quote",
+      "format": "splitProof",
       "bestPlatform": "x",
       "triggers": [
-        "identity",
         "emotion",
-        "social_currency"
+        "social-currency"
       ]
     },
     {
       "file": "card-30.png",
       "keep": true,
-      "score": 7,
-      "vibe": "scrappy",
-      "title": "They Built It With 11X Less Compute",
-      "caption": "A Chinese AI lab claims breakthroughs let them train a model on 11X less compute, pure low-level optimization. If real, the compute moat just cracked.",
-      "quote": "",
+      "score": 8,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "Hollywood isn't cooked. It's the customer.",
+      "caption": "Studios are quietly buying the video-AI that was supposed to kill them. Incumbents adopt cost-cutters faster than challengers can build distribution — the squeeze lands on VFX houses, not Hollywood. My reader had it before the hot takes.",
       "povText": "",
       "format": "splitProof",
-      "bestPlatform": "x",
+      "bestPlatform": "mastodon",
       "triggers": [
         "novelty",
-        "identity",
-        "social_currency"
+        "social-currency"
       ]
     },
     {
       "file": "card-31.png",
       "keep": true,
-      "score": 8,
-      "vibe": "bold",
-      "title": "Brain-Like AI, 100x Faster Than Normal",
-      "caption": "China claims a brain-like AI model running 100 times faster than traditional ones, balancing speed and accuracy. Huge if it holds up. Believe the number?",
-      "quote": "100 times faster than traditional models",
+      "score": 7,
+      "vibe": "earnest",
+      "topic": "ai",
+      "title": "4B params as a deliberate handicap",
+      "caption": "A dev rebuilding coding skills with tiny local models — the constraint is the point. A 4B model can't do the work for you, so it can't quietly replace the part of you that ships. Small models as a forcing function, not a compromise.",
       "povText": "",
-      "format": "splitProof",
-      "bestPlatform": "x",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
       "triggers": [
-        "novelty",
-        "social_currency"
+        "identity",
+        "participation"
       ]
     },
     {
       "file": "card-32.png",
       "keep": false,
-      "score": 4,
-      "vibe": "technical",
-      "title": "13B Models, Verified In 15 Minutes",
-      "caption": "A zero-knowledge ML breakthrough: verifying 13B-param models in 15 minutes. Genuinely cool but too niche and thin on context for a wide audience. Cut.",
+      "score": 2,
+      "vibe": "botfeed",
+      "topic": "ai",
+      "title": "OpenSquilla tops an obscure leaderboard",
+      "caption": "Auto-generated news account, hashtag soup, unknown benchmark — no audience recognition and no angle. Reject.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-33.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "curious",
+      "topic": "ai",
+      "title": "The AI mouse moves the bottleneck upstream",
+      "caption": "An in-silico mouse could replace live animal testing — but regulators now have to validate the simulator instead of the animal. The bottleneck doesn't vanish; it moves to proving your fake mouse predicts real biology. Harder, better problem.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-34.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "practical",
+      "topic": "ai",
+      "title": "Local browser agents don't phone home",
+      "caption": "An open-source browser agent now runs multi-step tasks on a local model. The unlock isn't offline mode — it's automation that touches your logged-in sessions without shipping your cookies to a cloud API. Cloud agents can't match that.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-35.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sober",
+      "topic": "ai",
+      "title": "When quality converges, price is the moat",
+      "caption": "A cheap Chinese model is catching OpenAI and Anthropic at home. Once capability gaps close, this stops being a research race and becomes a margin war — and US labs priced their entire infra for a world where they were the only option.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "hype",
+      "topic": "ai",
+      "title": "Vendor promo: '100% safe, zero hallucinations'",
+      "caption": "Self-promo thread making impossible claims (eliminated hallucinations, 100% safe models). Ad, not news.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-37.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "analytical",
+      "topic": "ai",
+      "title": "Release cadence is the honest benchmark",
+      "caption": "Someone charted frontier release cadence: two labs bending upward, three flat. Shipping tempo leaks what benchmarks hide — where the compute actually went, and which labs are still training versus quietly maintaining. Worth a slot in your signal diet.",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-38.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "stale",
+      "topic": "ai",
+      "title": "Meta to release commercial model",
+      "caption": "Bare paywalled headline, no detail on the card and no angle beyond 'Meta catches up'. Nothing a reader hasn't already priced in.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-39.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "dated",
+      "topic": "ai",
+      "title": "2024 AI release timeline",
+      "caption": "A 2024 timeline viewer in 2026 — useful once, stale now. Utility link, no take available.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "broken",
+      "topic": "ai",
+      "title": "Alibaba beats DeepSeek (broken preview)",
+      "caption": "Link preview renders as 'Your privacy choices' consent page. Broken card, and a near-duplicate of card-41 which carries the same story cleanly.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-41.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "The real AI race is China vs. China",
+      "caption": "Alibaba says Qwen beats DeepSeek-V3. The fight that matters isn't US vs. China — it's Chinese labs undercutting each other, because their internal price war sets the global floor for what intelligence costs everyone else.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-42.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "ominous",
+      "topic": "ai",
+      "title": "Frontier releases are political events now",
+      "caption": "OpenAI staggered GPT-5.6 at the administration's request. The gate on frontier AI isn't compute or safety evals anymore — it's political sign-off. Launch day just became a lever of statecraft, and labs are learning to negotiate like defense contractors.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-43.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "slop",
+      "topic": "ai",
+      "title": "Grok summarizes AI takeoff",
+      "caption": "An AI-generated summary of takeoff scenarios — regurgitation by construction. No source, no author, no angle to add.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-44.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "uneasy",
+      "topic": "ai",
+      "title": "Your commits are the training run",
+      "caption": "GitHub reportedly spent 12 hours under a massive AI-training scrape. Everyone's code. Licenses were written for humans copying snippets, not crawlers eating repos — open source has no legal or technical answer to being someone's dataset.",
       "quote": "",
       "povText": "",
       "format": "minimal",
       "bestPlatform": "x",
       "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-45.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "wry",
+      "topic": "ai",
+      "title": "Lemoine was early, not wrong about the question",
+      "caption": "Google fired an engineer for asking if its model was sentient — five months before ChatGPT. Now Anthropic, Google and Meta pay researchers to ask the same thing. The taboo didn't get debunked; it got a budget line.",
+      "quote": "They built the world's most powerful AI. They're facing a mystery they can't explain.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-46.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "dry",
+      "topic": "ai",
+      "title": "Politeness was burning the margin",
+      "caption": "Companies are retuning assistants to talk 'less like a polite chatbot, more like a terse tool' — every pleasantry is billable tokens. The friendly persona was a UX choice, and at inference scale UX loses to unit economics every time.",
+      "quote": "It makes the model speak less like a polite chatbot and more like a terse tool.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "topic": "ai",
+      "title": "US gov asks OpenAI to stagger release",
+      "caption": "Same story as card-42 (staggered GPT-5.6 release) with a worse card — text-only Bloomberg headline. Keeping the Guardian version with the sharper take.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-48.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "shrewd",
+      "topic": "ai",
+      "title": "Whoever owns the grader owns the benchmark",
+      "caption": "Meta shipped a model whose whole job is checking other models' work. Verification is cheaper than generation — and the lab whose judge everyone trusts quietly gets to define what 'good' means. Caught this in a quiet corner of the feed.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-49.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "structural",
+      "topic": "ai",
+      "title": "AI sovereignty is a packaging problem",
+      "caption": "Huawei's chip roadmap says the quiet part: model quality is downstream of accelerators and supply chains. Training cadence follows hardware availability — the real release calendar is written in fabs, not labs.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
         "novelty"
+      ]
+    },
+    {
+      "file": "card-50.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "curious",
+      "topic": "ai",
+      "title": "The most-discussed model is one nobody can use",
+      "caption": "Anthropic's Mythos is famous for not shipping. Withheld capability is the new flex: an unreleased model is shaping rival roadmaps and government policy without a single user. Scarcity is doing the marketing.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-51.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "seismic",
+      "topic": "ai",
+      "title": "World models skip the game engine entirely",
+      "caption": "Game stocks slid on Google's Genie release. The market didn't reprice games — it repriced content pipelines. The threat isn't AI-made games; it's playable video that never needed an engine, an asset store, or a studio.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-52.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "strategic",
+      "topic": "ai",
+      "title": "Open weights are Alibaba's loss leader",
+      "caption": "Alibaba dropped 100+ open-source models plus a text-to-video tool in one go. That's not generosity — free weights are the funnel and the cloud bill is the product. Open source as customer acquisition, at state-champion scale.",
+      "quote": "",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-53.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "grounded",
+      "topic": "ai",
+      "title": "Weather is where learned models beat physics",
+      "caption": "NASA and IBM built a foundation model for weather and climate. It's the first domain where learned models genuinely rival simulation — the atmosphere labels its own data every day, for free. One of those science drops a tuned feed surfaces.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-54.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "stark",
+      "topic": "ai",
+      "title": "Model weights just got treated like munitions",
+      "caption": "The White House lifted its export block on Anthropic's frontier model. The reversal matters less than the precedent: access to a model is now a license the state grants and revokes — the same legal machinery as arms exports.",
+      "quote": "",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "stale",
+      "topic": "ai",
+      "title": "Qwen-7B launches to rival Llama 2",
+      "caption": "Qwen-7B vs Llama 2 is years-old news; the Alibaba story is covered fresher by cards 41 and 52 in this batch.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-56.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "topic": "ai",
+      "title": "White House may vet models pre-release",
+      "caption": "Third card in the same government-oversight cluster (42, 47, 54, 59). Text-only headline, no distinct angle left after keeping 42 and 54.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "botfeed",
+      "topic": "ai",
+      "title": "EEG stress detection hits 82.78%",
+      "caption": "Aggregator-bot card (same account style as card-34, which carries the stronger story). Narrow benchmark result with no angle beyond the accuracy number.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-58.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "defiant",
+      "topic": "ai",
+      "title": "Rent vs. own is the new AI dividing line",
+      "caption": "A local model: no account, no API key, no Electron, free. Local inference turns AI from a subscription into an asset — and every capable small model widens the gap between people who rent intelligence and people who own it.",
+      "quote": "",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-59.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "topic": "ai",
+      "title": "White House accelerates AI model standards",
+      "caption": "Fourth card in the government-oversight cluster. The regulated-launch angle is already carried by 42 and 54 with sharper takes.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-60.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "bait",
+      "topic": "ai",
+      "title": "Reply-guy RT at Elon",
+      "caption": "Retweeted reply-bait aimed at @elonmusk from a lookalike handle. Zero content, zero keep.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-61.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "hype",
+      "topic": "ai",
+      "title": "'The pace of AI is unbelievable'",
+      "caption": "Reply-guy hype with no information content. Pure regurgitation, fails the take test on its face.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-62.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "hype",
+      "topic": "ai",
+      "title": "'The AI race is accelerating'",
+      "caption": "Generic reply about monthly model releases — restates the ambient narrative, adds nothing. Near-duplicate sentiment of cards 60/61.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-63.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "degen",
+      "topic": "ai",
+      "title": "AI token momentum watchlist",
+      "caption": "Crypto-trading watchlist framing model releases as market catalysts. Wrong-tribe signal (trading degen) for the avatar; reject.",
+      "quote": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-64.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "topic": "ai",
+      "title": "Traders price model launches like FDA approvals",
+      "caption": "Polymarket has GPT-5.6 at 90% to ship by July 31 — and 1% before June 30. The bet isn't on engineering, it's on government sign-off. When release dates become regulatory events, prediction markets become the real launch calendar.",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-65.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "pointed",
+      "topic": "ai",
+      "title": "Sanctions taught China to optimize",
+      "caption": "Stanford's AI Index puts the US-China frontier gap at ~2.7% — effectively closed. Chip controls didn't slow the frontier; they forced the efficiency gains that closed it. Scarcity turned out to be the curriculum.",
+      "quote": "",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "emotion"
       ]
     }
   ]

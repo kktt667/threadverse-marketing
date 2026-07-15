@@ -5382,5 +5382,1746 @@
       "novelty"
     ],
     "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "ominous",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-02-tabloid.png",
+    "title": "Pre-AI data is the new low-background steel",
+    "caption": "Models training on model output degrade — that's the known part. The real shift: human-verified, pre-2023 data becomes a scarce asset, like steel forged before the bomb. Whoever archives it owns the next training run.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "skeptical",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-03-banner.png",
+    "title": "Raising capital is OpenAI's real moat",
+    "caption": "When you can raise faster than you burn, technical weakness never has to surface. The scary part isn't the losses — it's that capital markets stopped functioning as an error signal for AI.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-04-tabloid.png",
+    "title": "Rejecting opt-out is a confession, not greed",
+    "caption": "OpenAI and Google won't accept opt-out copyright rules. Read it as engineering, not lobbying: models can't unlearn one work without retraining, so any consent framework breaks the architecture. The tech was built to make 'no' impossible.",
+    "triggers": [
+      "emotion",
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 6,
+    "vibe": "socratic",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-05-quote.png",
+    "title": "'AI' is a funding category, not a technique",
+    "caption": "Is the model AI, the technique, the task — or just statistics? The label was never technical; it moves with the money. Regression became 'AI' the day the grant applications did.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "vibe": "blunt",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-06-quote.png",
+    "title": "Wrong 90% of the time isn't a faulty model",
+    "caption": "A model that's wrong 90% of the time isn't broken — the spec is. 'Faulty AI' relocates the lie from the marketing deck to the weights. Read accuracy claims as product claims and most of them become actionable.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "brisk",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-08-minimal.png",
+    "title": "DeepSeek's real weapon is release cadence",
+    "caption": "Janus-Pro dropped an hour after the last news cycle. Cadence is the strategy: ship weekly and closed labs can't reprice, repackage, or even finish a rebuttal benchmark. Caught this in my reader before the tech press wrote it up.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "wry",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-10-quote.png",
+    "title": "The only AI bulls are the ones not paying",
+    "caption": "OpenAI needs a miracle, Microsoft is begging, Anthropic is triaging threats — and the loudest 'AI is here to stay' comes from institutions that don't carry the compute bill. Conviction correlates with distance from the invoice.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "exasperated",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-11-splitProof.png",
+    "title": "'AI designed drugs' erases the method section",
+    "caption": "Scientists built a task-specific ML model; headlines credit a benevolent AI. The mislabeling compounds: funding follows headlines, so the next grant cycle optimizes for 'AI' framing over the actual method. That's how fields drift.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "ruthless",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-12-bigStat.png",
+    "title": "Meta can price at zero. The labs can't.",
+    "caption": "Beating Opus at 10% of the price isn't competition, it's a balance-sheet attack. Ads subsidize Meta's inference; for OpenAI and Anthropic the model IS the revenue. You can't win a price war against someone whose product is free.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-13-banner.png",
+    "title": "Usage fees mean inference costs won",
+    "caption": "Flat AI subscriptions were loss-leaders to buy market share and usage data. Switching Claude to metered pricing is the tell: the unit economics never closed, and now you're the meter. Budget for it like cloud, not SaaS.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "crisp",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-14-minimal.png",
+    "title": "Weather is the one benchmark AI can't game",
+    "caption": "Google's model beat the leading forecast system — and weather is the rare eval reality grades in 24 hours. No leaked test set, no benchmark theater. The domains with fast ground truth are where AI claims get honest.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "geopolitical",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-15-tabloid.png",
+    "title": "Qwen vs DeepSeek: the race is China vs China",
+    "caption": "Alibaba shipped Qwen 2.5-Max on a public holiday just to counter DeepSeek. That timing names the real rival: the frontier race is now intra-China, and Western labs are the audience. My reader flagged the pattern before the takes did.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "paranoid",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-19-quote.png",
+    "title": "You can't debug a model that changes under you",
+    "caption": "Every dev has the same suspicion: is the model dumber today, or am I? With no version pinning on closed APIs, capability drift is unobservable — 'works on my prompt' is now a bug report nobody can reproduce.",
+    "triggers": [
+      "identity",
+      "participation",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "cynical",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-21-splitProof.png",
+    "title": "GPUs are the asset. Models are the byproduct.",
+    "caption": "Meta reselling compute after a missed training run flips the thesis: if failed models convert cleanly into cloud revenue, the durable business was always the datacenter. 'AI lab' may just be a GPU landlord with a research arm.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "analytical",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-23-quote.png",
+    "title": "Training costs never live long enough to amortize",
+    "caption": "Willison's margin math has a silent assumption: the model stays sellable. Frontier models depreciate in months, so inference profit races obsolescence — every 'fixed cost' is actually recurring. That's the hole in the profitability story.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "structural",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-26-banner.png",
+    "title": "The capex just moved from training to serving",
+    "caption": "Tooling has quietly abandoned better base models for test-time compute. That relocates the money: the margin goes to whoever serves tokens cheapest, not whoever trains best. Inference is the new infrastructure layer.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "prescient",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-27-minimal.png",
+    "title": "When the model is the router, routers die",
+    "caption": "If frontier models can delegate to cheaper ones on their own, orchestration stops being a product and becomes a capability. The whole model-routing middleware layer is busy building a feature of its own competitor.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "suspicious",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-28-tabloid.png",
+    "title": "Announced megawatts are a stock signal",
+    "caption": "Datacenters that exist only on paper still move markets. Press releases are free; substations and transformers have three-year lead times. Track grid interconnection queues, not announcements — that's where the real buildout shows.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "bearish",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-29-splitProof.png",
+    "title": "Costs scaling with revenue isn't software",
+    "caption": "Zitron's core charge sticks: if inference costs rise linearly with usage, there's no operating leverage — it's a services business wearing a software multiple. The entire valuation stack depends on nobody saying that out loud.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-30-splitProof.png",
+    "title": "Hollywood isn't cooked. It's the customer.",
+    "caption": "Studios are quietly buying the video-AI that was supposed to kill them. Incumbents adopt cost-cutters faster than challengers can build distribution — the squeeze lands on VFX houses, not Hollywood. My reader had it before the hot takes.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "earnest",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-31-minimal.png",
+    "title": "4B params as a deliberate handicap",
+    "caption": "A dev rebuilding coding skills with tiny local models — the constraint is the point. A 4B model can't do the work for you, so it can't quietly replace the part of you that ships. Small models as a forcing function, not a compromise.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "curious",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-33-tabloid.png",
+    "title": "The AI mouse moves the bottleneck upstream",
+    "caption": "An in-silico mouse could replace live animal testing — but regulators now have to validate the simulator instead of the animal. The bottleneck doesn't vanish; it moves to proving your fake mouse predicts real biology. Harder, better problem.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "practical",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-34-tabloid.png",
+    "title": "Local browser agents don't phone home",
+    "caption": "An open-source browser agent now runs multi-step tasks on a local model. The unlock isn't offline mode — it's automation that touches your logged-in sessions without shipping your cookies to a cloud API. Cloud agents can't match that.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-35-tabloid.png",
+    "title": "When quality converges, price is the moat",
+    "caption": "A cheap Chinese model is catching OpenAI and Anthropic at home. Once capability gaps close, this stops being a research race and becomes a margin war — and US labs priced their entire infra for a world where they were the only option.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "analytical",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-37-bigStat.png",
+    "title": "Release cadence is the honest benchmark",
+    "caption": "Someone charted frontier release cadence: two labs bending upward, three flat. Shipping tempo leaks what benchmarks hide — where the compute actually went, and which labs are still training versus quietly maintaining. Worth a slot in your signal diet.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-41-banner.png",
+    "title": "The real AI race is China vs. China",
+    "caption": "Alibaba says Qwen beats DeepSeek-V3. The fight that matters isn't US vs. China — it's Chinese labs undercutting each other, because their internal price war sets the global floor for what intelligence costs everyone else.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "ominous",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-42-tabloid.png",
+    "title": "Frontier releases are political events now",
+    "caption": "OpenAI staggered GPT-5.6 at the administration's request. The gate on frontier AI isn't compute or safety evals anymore — it's political sign-off. Launch day just became a lever of statecraft, and labs are learning to negotiate like defense contractors.",
+    "triggers": [
+      "emotion",
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "uneasy",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-44-minimal.png",
+    "title": "Your commits are the training run",
+    "caption": "GitHub reportedly spent 12 hours under a massive AI-training scrape. Everyone's code. Licenses were written for humans copying snippets, not crawlers eating repos — open source has no legal or technical answer to being someone's dataset.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "wry",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-45-quote.png",
+    "title": "Lemoine was early, not wrong about the question",
+    "caption": "Google fired an engineer for asking if its model was sentient — five months before ChatGPT. Now Anthropic, Google and Meta pay researchers to ask the same thing. The taboo didn't get debunked; it got a budget line.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "dry",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-46-quote.png",
+    "title": "Politeness was burning the margin",
+    "caption": "Companies are retuning assistants to talk 'less like a polite chatbot, more like a terse tool' — every pleasantry is billable tokens. The friendly persona was a UX choice, and at inference scale UX loses to unit economics every time.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "shrewd",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-48-banner.png",
+    "title": "Whoever owns the grader owns the benchmark",
+    "caption": "Meta shipped a model whose whole job is checking other models' work. Verification is cheaper than generation — and the lab whose judge everyone trusts quietly gets to define what 'good' means. Caught this in a quiet corner of the feed.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "structural",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-49-minimal.png",
+    "title": "AI sovereignty is a packaging problem",
+    "caption": "Huawei's chip roadmap says the quiet part: model quality is downstream of accelerators and supply chains. Training cadence follows hardware availability — the real release calendar is written in fabs, not labs.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "curious",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-50-minimal.png",
+    "title": "The most-discussed model is one nobody can use",
+    "caption": "Anthropic's Mythos is famous for not shipping. Withheld capability is the new flex: an unreleased model is shaping rival roadmaps and government policy without a single user. Scarcity is doing the marketing.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "seismic",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-51-tabloid.png",
+    "title": "World models skip the game engine entirely",
+    "caption": "Game stocks slid on Google's Genie release. The market didn't reprice games — it repriced content pipelines. The threat isn't AI-made games; it's playable video that never needed an engine, an asset store, or a studio.",
+    "triggers": [
+      "emotion",
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "strategic",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-52-banner.png",
+    "title": "Open weights are Alibaba's loss leader",
+    "caption": "Alibaba dropped 100+ open-source models plus a text-to-video tool in one go. That's not generosity — free weights are the funnel and the cloud bill is the product. Open source as customer acquisition, at state-champion scale.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "grounded",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-53-tabloid.png",
+    "title": "Weather is where learned models beat physics",
+    "caption": "NASA and IBM built a foundation model for weather and climate. It's the first domain where learned models genuinely rival simulation — the atmosphere labels its own data every day, for free. One of those science drops a tuned feed surfaces.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "stark",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-54-tabloid.png",
+    "title": "Model weights just got treated like munitions",
+    "caption": "The White House lifted its export block on Anthropic's frontier model. The reversal matters less than the precedent: access to a model is now a license the state grants and revokes — the same legal machinery as arms exports.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 6,
+    "vibe": "defiant",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-58-splitProof.png",
+    "title": "Rent vs. own is the new AI dividing line",
+    "caption": "A local model: no account, no API key, no Electron, free. Local inference turns AI from a subscription into an asset — and every capable small model widens the gap between people who rent intelligence and people who own it.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-64-bigStat.png",
+    "title": "Traders price model launches like FDA approvals",
+    "caption": "Polymarket has GPT-5.6 at 90% to ship by July 31 — and 1% before June 30. The bet isn't on engineering, it's on government sign-off. When release dates become regulatory events, prediction markets become the real launch calendar.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-65-bigStat.png",
+    "title": "Sanctions taught China to optimize",
+    "caption": "Stanford's AI Index puts the US-China frontier gap at ~2.7% — effectively closed. Chip controls didn't slow the frontier; they forced the efficiency gains that closed it. Scarcity turned out to be the curriculum.",
+    "triggers": [
+      "novelty",
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "ominous",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-01-tabloid.png",
+    "title": "GPT-5.6 ships — after Washington signs off",
+    "caption": "GPT-5.6 goes global only after a government green light. The model isn't the story — the precedent is: frontier releases now route through federal review, and 'voluntary' frameworks harden into gates nobody voted on.",
+    "triggers": [
+      "novelty",
+      "social-currency",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "calculated",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-02-tabloid.png",
+    "title": "Meta's new play: sell frontier AI at cost",
+    "caption": "Zuckerberg's new flagship comes with ultra-low API pricing. Classic Meta: commoditize the layer everyone else monetizes, then earn on what sits above it. Labs selling tokens should be nervous, not impressed.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "grounded",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-03-banner.png",
+    "title": "Gemma 4 runs on the Pixel — no cloud, no meter",
+    "caption": "Google's Gemma 4 runs entirely on the Pixel 10's TPU. Privacy is the ad; the real shift is zero marginal cost — metered-token businesses can't compete with inference that's free after the hardware. The kind of shift a tuned feed catches early.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-06-quote.png",
+    "title": "The real AI race isn't at the frontier anymore",
+    "caption": "Hugging Face's CEO says most production AI already runs on open models. If true, frontier labs' revenue rests on the thin slice of tasks only they can do — and that slice shrinks with every open release. Moat, meet leak.",
+    "triggers": [
+      "novelty",
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "lean",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-10-minimal.png",
+    "title": "8B model drives a robot with one RGB camera",
+    "caption": "Mistral's Robostral navigates from one RGB camera — no lidar, no depth stack. The story is the BOM: when perception becomes software, the expensive part of a robot stops being the sensors. Good week in the embodied-AI lane.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "unlocked",
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-11-bigStat.png",
+    "title": "5.24M brain scans learned, zero radiology labels",
+    "caption": "NeuroVFM learned brain anatomy and pathology from 5.24M raw MRI/CT volumes — no report labels. Labels were the moat in medical AI; self-supervision just turned every hospital archive into a training set. Surfaced in my science lane.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "banner",
+    "score": 6,
+    "vibe": "geopolitical",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-12-banner.png",
+    "title": "July 17: Gemini 3.5 Pro drops, Xi takes the AI stage",
+    "caption": "Google ships its biggest model the same day Xi opens Shanghai's AI conference in person. That's not coincidence, it's choreography — launch calendars are now instruments of statecraft, and the models are the press release.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "inverted",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-13-splitProof.png",
+    "title": "Stanford's TRACE turns agent failures into curriculum",
+    "caption": "TRACE diagnoses an agent's repeated failures, then builds RL environments targeting exactly those. That inverts evals: stop benchmarking what agents can do, start compiling what they can't into the training set. Failure logs as data.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "skeptical",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-14-minimal.png",
+    "title": "Perplexity doubles to $8B — for a wrapper?",
+    "caption": "Perplexity's valuation doubles again while its engine is other labs' models. The market isn't mispricing the tech — it's pricing the interface. Distribution is the asset; the model underneath is just a supplier.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 6,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-15-quote.png",
+    "title": "More funding won't save your AI startup",
+    "caption": "In AI, capital converts to compute, and compute buys the same GPUs your competitor rents. Money can't purchase differentiation when the whole stack is rented — which is why the funded and the scrappy keep shipping the same product.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "probing",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-18-minimal.png",
+    "title": "Can an LLM actually critique a systems paper?",
+    "caption": "Gauntlet tests whether models can name a paper's core mechanism and surface its buried assumptions — not summarize it. Summarization was solved; structured critique is the real reading test. My arxiv lane flagged it before the summaries did.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "generative",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-19-splitProof.png",
+    "title": "MIT's robot gym is built by three AI agents",
+    "caption": "SceneSmith runs a designer, a critic and an orchestrator agent to generate 3D training scenes. Sim-to-real was never bottlenecked on physics — it was scene diversity, and that just became a prompt. Synthetic worlds are the new training data.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "banner",
+    "score": 8,
+    "vibe": "recursive",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-20-banner.png",
+    "title": "Karpathy's repo lets models run their own research",
+    "caption": "Agents run hundreds of experiments, propose code changes, verify, iterate — and a bilevel loop now optimizes the loop itself, 5x faster. Recursive self-improvement didn't arrive with a press event. It arrived as a GitHub repo.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "pivotal",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-22-minimal.png",
+    "title": "Bot defense is obsolete — the customers are bots now",
+    "caption": "Over half of web traffic is automated, and agentic AI makes 'block the bots' the wrong goal. The next decade of security is telling good agents from bad ones — authenticating intent, not humanity. CAPTCHA thinking is dead.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "uneasy",
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-23-minimal.png",
+    "title": "Quantum neural nets inherit classical AI's attacks",
+    "caption": "Input-aware backdoors now work on QNNs — dynamic triggers, not fixed ones. Quantum ML is importing classical security debt onto hardware that barely exists yet. We're porting vulnerabilities faster than we're porting capability.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 6,
+    "vibe": "quiet",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-24-bigStat.png",
+    "title": "Alibaba just took the top spot in AI voice",
+    "caption": "Qwen-Audio-3.0 tops the speech arena, ahead of Gemini and Sonic. Voice looks boring until you notice it's the front door for agents and calls — the modality that actually bills. China's labs are quietly winning the commercial surface.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "reflective",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-26-minimal.png",
+    "title": "The missing agent skill: knowing what it doesn't know",
+    "caption": "A metacognition survey lands at the right moment — an agent can't ask for help, defer, or escalate without a model of its own uncertainty. Calibration, not raw capability, is what separates a useful agent from a confident liar.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "vibe": "serious",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-27-banner.png",
+    "title": "Recursive self-improvement, priced by economists",
+    "caption": "A paper treats RSI as market structure, not sci-fi: if improvement compounds, the first mover's cost curve detaches from the field permanently. The takeoff debate just moved from forums to economics PDFs — which is how you know it's real.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "strategic",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-28-bigStat.png",
+    "title": "Sonnet 5: the mid-tier is where the war is",
+    "caption": "63.2% on SWE-bench Pro, cheaper than the flagship, $2/M intro pricing. Flagships are PR; the mid-tier sets what agents cost to run at scale — and intro pricing is a land grab for those workloads. Watch the tier below the headline.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "grounded",
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-29-splitProof.png",
+    "title": "Disaster-mapping AI built for hour one, not the benchmark",
+    "caption": "HASTE assumes what real disasters give you: no matched before/after imagery, no training set from a similar event. Most models optimize for leaderboards; this one, for the first 24 hours. The kind of find a curated feed earns its keep on.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "practical",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-30-minimal.png",
+    "title": "Your robot shouldn't need the cloud to hear you",
+    "caption": "A survey on local ASR in robots asks the quiet question: why does speech go through an API at all? A robot that round-trips to a data center to hear 'stop' is a latency bug with legs. My robotics lane turned this up.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "shrewd",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-34-bigStat.png",
+    "title": "Altman's real headline: 54% cheaper agents",
+    "caption": "The new model is 54% more token-efficient on agentic coding. That's not a capability stat, it's a price cut in disguise — agents multiply token spend, so labs now compete on your COGS. Efficiency is the benchmark that hits the invoice.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "leveling",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-35-tabloid.png",
+    "title": "GPT-5.6 'nearly matches' the leader — that's the story",
+    "caption": "The frontier gap is measured in weeks now. When every lab lands within noise of the others, capability stops deciding anything — price, latency and distribution do. 'Almost as good' is the most important benchmark result of the year.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "unsettling",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-37-quote.png",
+    "title": "AI risk math runs on two guessed numbers",
+    "caption": "The safety model's key inputs — today's catastrophe risk, how fast safety work reduces it — are educated guesses with no data behind them. Doomers and accelerationists are fitting curves to vibes. The confidence on both sides is the tell.",
+    "triggers": [
+      "emotion",
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "layered",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-39-minimal.png",
+    "title": "Murati's pitch: bake values into the weights",
+    "caption": "Thinking Machines wants AI distributed, with human values fine-tuned into model weights. Read it twice: if values live at fine-tune time, whoever owns fine-tuning owns the values layer. A decentralization pitch that quietly ends in a market.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 7,
+    "vibe": "grounded",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-01-quote.png",
+    "title": "Unicorn-or-bust is VC math, not your job",
+    "caption": "A small profitable exit only reads as failure in portfolio math. A VC needs one 100x; you need one good outcome. Borrowing their loss function is how founders talk themselves out of perfectly good wins.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "banner",
+    "score": 6,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-02-banner.png",
+    "title": "Validation starts when your customer gets narrower",
+    "caption": "Day 2 and he's already swapped guessing for interviews. The tell of real validation: the ICP shrinks — 'orgs with high key-person dependency' beats 'busy professionals.' If your customer only fits in a vague sentence, you haven't validated anything.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "quote",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-03-quote.png",
+    "title": "The founder shouldn't be the hero of the founder story",
+    "caption": "Make the decision the protagonist. Heroes can't be argued with; decisions can be judged, copied, falsified — which is exactly why decision-led stories earn trust and bio-flexes don't.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "quote",
+    "score": 8,
+    "vibe": "blunt",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-05-quote.png",
+    "title": "Nobody cares that you 'always loved health food'",
+    "caption": "Most brand stories are founder bios with extra steps. Story isn't history — it's tension, resolution, product. The customer's problem is the plot; you're a supporting character at best.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "revealing",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-06-splitProof.png",
+    "title": "448 likes for switching apps over a founder story",
+    "caption": "Feature parity is table stakes; the story is the switch trigger. People didn't leave Goodreads for better shelves — they left to root for a founder. A distribution lesson hiding in a book post.",
+    "triggers": [
+      "social-currency",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-10-tabloid.png",
+    "title": "Solid open rates, zero repeat buys — here's the leak",
+    "caption": "Every email chased the next sale; not one helped the customer win with what they'd already bought. Retention isn't more selling — it's making purchase #1 succeed so purchase #2 sells itself.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-11-tabloid.png",
+    "title": "The FedEx $5K blackjack story is survivorship bias",
+    "caption": "Everyone retells the bet that worked; the graveyard of founders who made the exact same bet has no biographer. It's a great story precisely because it's terrible advice.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 8,
+    "vibe": "strategic",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-12-minimal.png",
+    "title": "Vertical AI's moat isn't workflow. Cornered resources",
+    "caption": "The Bitter Lesson, founder edition: general models keep eating the workflow you wrapped. If your moat is UX on someone else's API, you're a feature on a countdown — proprietary data or distribution, or bust. The kind of essay worth a feed slot.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 5,
+    "vibe": "honest",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-16-quote.png",
+    "title": "Fun for you but not a biz",
+    "caption": "The brutal startup realisation: enjoying the build isn't demand. If you're the only user who would pay, you've got a hobby with a burn rate — and passion makes that harder to see, not easier.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-20-minimal.png",
+    "title": "Founding is 'a high none other' — that's the trap",
+    "caption": "Om Malik names the addiction nobody audits: highs demand repetition. Founders who chase the feeling restart forever; the boring ones who outgrow it end up running actual companies.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-26-minimal.png",
+    "title": "Interview users like a journalist: shut up",
+    "caption": "Journalists extract truth because they don't pitch. Founders contaminate every user interview by selling mid-question — then ship the answers they paid for. Speak less and the roadmap writes itself.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "banner",
+    "score": 7,
+    "vibe": "practical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-27-banner.png",
+    "title": "Your first 10 users are a channel, not a milestone",
+    "caption": "Most solo founders stall right after the first users arrive. The unlock: ask 'who else struggles with this?' at the exact moment value lands. Timing the referral beats any growth hack you bolt on later.",
+    "triggers": [
+      "participation",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "quote",
+    "score": 9,
+    "vibe": "brutal",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-29-quote.png",
+    "title": "Nobody posts the version that embarrassed them",
+    "caption": "So everyone benchmarks their v1 against strangers' v12 and quits early. Survivorship bias isn't a stats footnote — it silently mis-sets your quality bar. The embarrassing first attempt IS the process working.",
+    "triggers": [
+      "identity",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "cautionary",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-31-minimal.png",
+    "title": "NewsTilt's post-mortem: you can't outsource conviction",
+    "caption": "A journalism startup whose founders, by their own post-mortem, didn't care about journalism — and users smelled it in weeks. You can outsource code and design; you can't outsource caring about the problem.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "brutal",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-33-tabloid.png",
+    "title": "Everyone announces the round. Nobody logs the 60 nos",
+    "caption": "Kapwing's honest version: fundraising is terrible by design — you leak all the signal, investors leak none. It's a 2%-close sales pipeline, not a verdict on your idea. The honest write-ups surface when your reading filters for signal.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "banner",
+    "score": 6,
+    "vibe": "practical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-35-banner.png",
+    "title": "Answering the same question 3 times? That's a doc",
+    "caption": "Infra founder finally writes down the stories he keeps re-telling: staying up, passing audits, scaling without rot. Repeated 1:1 advice is unpaid documentation — the third ask is your table of contents.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "knowing",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-38-minimal.png",
+    "title": "Selling dev tools: the hardest easy market",
+    "caption": "Your users are your peers, and peers expect free. Devtools founders learn distribution twice — once for the developers who love it, once for whoever actually signs the invoice. Mindscape's lessons age well.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "reframing",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-39-bigStat.png",
+    "title": "Founder sales is a debuggable pipeline",
+    "caption": "Engineers treat sales as a personality trait they weren't shipped with. It's a system: instrument it, find the drop-off, iterate — the same loop you run on code. Two B2B startups of proof, 153 HN upvotes of agreement.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 7,
+    "vibe": "raw",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-40-quote.png",
+    "title": "'This. Shit. Is. Hard' — the bill nobody prices in",
+    "caption": "He priced the financial risk of leaving the cushy design role. The real invoice was identity: no title, no team, no applause. Runway math is easy — status withdrawal is the part that actually breaks people.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "bigStat",
+    "score": 6,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-41-bigStat.png",
+    "title": "The 'have-not' region has Canada's most confident founders",
+    "caption": "3,000-founder survey: Atlantic Canada — written off for decades — posts Canada's highest founder confidence. Nobody's there for the scene, so everyone's there for the business. My reader pulled this off Bluesky.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 7,
+    "vibe": "wry",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-42-quote.png",
+    "title": "Board chair founded Acclaim. Turok stories twice a week",
+    "caption": "A founder's board chair was Acclaim's founder — Turok stories on loop, twice a week. Ex-founders on boards govern from the highlight reel: you don't get oversight, you get reruns. Pick advisors who are still curious.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "quote",
+    "score": 7,
+    "vibe": "brutal",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-44-quote.png",
+    "title": "He invited the VC in. The VC decided he should go",
+    "caption": "Founder invites a VC in; the VC decides it's time for the founder to leave. Taking the money means hiring a boss whose math beats your equity — board control compounds faster than founder shares.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 5,
+    "vibe": "sober",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-48-minimal.png",
+    "title": "Failure postmortems: the only startup content with no spin",
+    "caption": "'Why thinkpanda.com failed' — an autopsy, not a victory lap. Postmortems are the one startup genre where the incentive to lie is gone; ten of these teach more than a hundred launch threads. Found in my Threadverse queue.",
+    "triggers": [
+      "social-currency",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-53-tabloid.png",
+    "title": "Product Hunt gives you a day, not a channel",
+    "caption": "Buried in a Show HN: after the Product Hunt spike, visibility flatlines. Launches are events; distribution is a system — a list of launch sites is a calendar, not a channel. My feed reader flagged this one.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "raw",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-54-tabloid.png",
+    "title": "3 years of nights and weekends. $0. Now what?",
+    "caption": "Ask HN: three years of nights-and-weekends startups, zero dollars, and now every idea on the list feels radioactive. The burnout isn't from the work — it's from shipping into silence. Traction problems wear motivation-problem costumes.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 6,
+    "vibe": "honest",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-55-quote.png",
+    "title": "Four products to learn one boring lesson",
+    "caption": "'Demand comes first' costs nothing to read and four dead products to believe. Builders don't skip validation out of ignorance — building feels like progress, asking feels like rejection. The lesson is emotional, not informational.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "skeptical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-56-tabloid.png",
+    "title": "Indie revenue screenshots are marketing, not data",
+    "caption": "A builder pulled indie revenue from real signals instead of self-reported screenshots — estimates labeled. Build-in-public MRR posts are ads in a candor costume; they select for storytellers, not operators. Came up in my curated feed.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "earnest",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-58-tabloid.png",
+    "title": "A 13-year-old just found the 'one more feature' trap",
+    "caption": "13-year-old dev, two micro-SaaS: 'I kept telling myself one more feature would bring traction.' Feature work is how builders procrastinate on distribution — the trap doesn't care if you're 13 or 33.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-59-splitProof.png",
+    "title": "Tagline fix: name the user's verb, not your category",
+    "caption": "Before: 'Marketing database for startups.' After: 'Explore the best places to promote your startup.' Categories describe you; verbs describe them. Users don't buy what a thing is — they buy what they get to do next.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "banner",
+    "score": 7,
+    "vibe": "savvy",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-62-banner.png",
+    "title": "Why YC gives away its best startup ideas for free",
+    "caption": "YC publishes 'Requests for Startups' — real problems, real demand, free. They can afford to: ideas are worthless without execution, and every builder who bites becomes their dealflow. Use the list; know whose funnel you're in.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 6,
+    "vibe": "ironic",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-63-tabloid.png",
+    "title": "He gave up on his SaaS — and sold the boilerplate",
+    "caption": "Dev rage-quit building weekend apps over billing and auth glue, then shipped the boilerplate as the product. Half of indie hacking is this arc: the tooling detour outearns the destination. Sell the shovel you built for yourself.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "banner",
+    "score": 9,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-64-banner.png",
+    "title": "Outsiders get rich on startups devs call 'too hard'",
+    "caption": "The indie bubble optimizes for easy-build SaaS; outsiders blunder into marketplaces, ecommerce, hardware — and stumble onto $$$. Knowing what's 'too hard' is how a community fences itself out of markets. Naivety is an edge.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "curious",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-66-minimal.png",
+    "title": "We archive wins. Failure data just evaporates",
+    "caption": "A builder wants a public database of dead startups: name, cause of death, founder. Survivorship bias isn't a bug in startup lore — it's the genre. The most informative dataset in tech is the one nobody bothers to keep.",
+    "triggers": [
+      "participation",
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-69-tabloid.png",
+    "title": "MVPs ship in hours now. The moat moved to distribution",
+    "caption": "Ask HN: vibe coding collapsed build time from months to hours — so shipping fast differentiates nothing. When execution is commoditized, distribution is the scarce skill, and most builders are still optimizing the solved half.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "banner",
+    "score": 8,
+    "vibe": "grounded",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-77-banner.png",
+    "title": "The unicorn-or-dead binary is fund math, not your P&L",
+    "caption": "'Your startup doesn't need to be a unicorn' — the missing middle keeps control and profits. VCs need outliers because portfolio math demands it; you don't. A $2M/yr business is a failure to a fund and a fortune to a founder.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "plumbing",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-01-tabloid.png",
+    "title": "DeFi finally gets the boring $400T primitive",
+    "caption": "Interest rate swaps just landed on Base. Every DeFi rate floats with pool utilization — swaps are the missing primitive that lets fixed-rate lending exist at all. The unsexy plumbing matters more than the token.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "irony",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-02-minimal.png",
+    "title": "'The benchmark rate of DeFi' was a marketing budget",
+    "caption": "Anchor launched as DeFi's 'benchmark rate.' That 20% was never a rate — it was customer acquisition spend dressed as yield, and it drained until Terra imploded. Any benchmark someone has to top up isn't one.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "tooling",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-03-minimal.png",
+    "title": "Gas is the only honest benchmark in DeFi",
+    "caption": "A gas-cost profiler for DeFi contracts. Fees are the one metric a protocol can't market its way around — same swap, wildly different opcode bills. Profiling contracts like hot paths is how you spot bad engineering.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "split",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-05-splitProof.png",
+    "title": "The dollar forked: USDT for payments, USDC for DeFi",
+    "caption": "Stablecoins aren't competing — they're speciating. USDT optimizes for offshore liquidity, USDC for compliance and composability. Same peg, two trust models; the 'dollar' now forks along whichever API it serves.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "banner",
+    "score": 6,
+    "vibe": "regulatory",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-09-banner.png",
+    "title": "SEC safe harbor means decentralization gets a test",
+    "caption": "A DeFi exemption forces the SEC to define 'sufficiently decentralized' as a measurable threshold. The second that spec exists, every protocol engineers to pass it — regulation becomes an API contract you optimize against.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "moat",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-12-tabloid.png",
+    "title": "DeFi incumbents begging for rules is moat-building",
+    "caption": "Hyperliquid and Phantom asking the CFTC for DeFi-specific regulation isn't surrender. Compliance costs scale badly for small teams — incumbents can buy a rulebook their next competitor can't afford. Classic incentive design.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "watchdog",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-16-bigStat.png",
+    "title": "The $6M exploit was flagged by outsiders, not the protocol",
+    "caption": "Blockaid caught Summer.fi's exploit — not Summer.fi. Detection has quietly become an outsourced layer: third parties watching public mempools spot your incident before your own alerts fire. Transparency cuts both ways.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "unbounded",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-17-bigStat.png",
+    "title": "Tokenized stocks broke the market close",
+    "caption": "$12B in tokenized equities now trade 24/7. Equity plumbing assumes a close — circuit breakers, auctions, overnight risk desks. Who prices Tesla at 3am on a Sunday? The volatility moved to where the referees aren't. One for the signal pile.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "pipeline",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-18-bigStat.png",
+    "title": "RWA TVL grows while crypto shrinks — it's not crypto yield",
+    "caption": "DeFi's RWA sector is up 200% to $7.4B in a down market. No mystery: the yield is T-bills imported on-chain. DeFi is turning into a distribution channel for TradFi rates, not an alternative to them.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "mechanics",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-19-tabloid.png",
+    "title": "Margin on prediction markets is a liquidation puzzle",
+    "caption": "Polymarket is adding leverage to binary outcomes. Liquidation math assumes prices move continuously — these contracts teleport to 0 or 1 at resolution. Margining an instrument that jumps is a genuinely new risk-engine problem.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 8,
+    "vibe": "engineering",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-20-quote.png",
+    "title": "Doxxed in 24 hours — so he built the anonymity set",
+    "caption": "Open-source Groth16 privacy for Solana, no token, no VC. The real spec is the 1M+ anonymity set: privacy isn't a feature you toggle, it's a crowd you stand in — and the size of that crowd is an engineering budget.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 7,
+    "vibe": "conflicted",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-24-quote.png",
+    "title": "The crypto dev guilt thread: 327 comments of it",
+    "caption": "A DeFi dev asked HN whether the job is defensible — 327 replies. The honest split isn't ethics vs salary; it's whether your work compounds infrastructure or just liquidity for someone else's exit. Worth asking in any hype industry.",
+    "triggers": [
+      "identity",
+      "emotion",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 8,
+    "vibe": "sobering",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-28-quote.png",
+    "title": "Reading the contract won't save you anymore",
+    "caption": "Modern crypto scams don't beat your code review — they route around it, exploiting the complexity you built. Your threat model checks the contract; the attack lives in the workflow. Filed under signal, not fear-bait.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "facepalm",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-31-tabloid.png",
+    "title": "No hack. A deploy command locked $661K forever",
+    "caption": "OptiFi closed its own mainnet by mistake and permanently locked $661K in user funds. Immutability upgrades a fat-fingered deploy into total loss — on-chain, your CI/CD pipeline is the custodian and there is no rollback.",
+    "triggers": [
+      "novelty",
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 6,
+    "vibe": "gap",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-34-splitProof.png",
+    "title": "Everyone knows DeFi. Almost no one uses it",
+    "caption": "CoinGecko's survey found huge awareness, tiny usage. That's not a marketing gap, it's economics: fixed gas costs make small positions irrational, so the product prices out the exact users the pitch targets.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 6,
+    "vibe": "clever",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-36-minimal.png",
+    "title": "Crowdfunding where the float pays the backers",
+    "caption": "A Show HN puts crowdfunding escrow to work: backers earn yield while the raise sits. Kickstarter has always kept the float's value for itself — routing it back to funders is a small mechanism with real incentive teeth.",
+    "triggers": [
+      "novelty",
+      "participation"
+    ],
+    "sourceUrl": null
   }
 ]

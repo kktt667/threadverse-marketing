@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-57-tabloid.png",
@@ -12,19 +12,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "08:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-29.png",
-    "caption": "Reason or revelation: pick your ground and stand on it. The rigor point applies well past theology: most \"nuanced both-sides\" positions are unfalsifiable by construction, which is why they feel safe. Refusing to plant a flag isn't sophistication, it's an argument you can never lose or test. Surfaced first.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
-    "title": "Reason or revelation: pick your ground and stand",
-    "format": "quote",
-    "topic": "philosophy",
-    "priority": 5,
-    "sourceUrl": "https://mastodon.world/@paninid/116848708001082758"
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-35-tabloid.png",
+    "caption": "A cheap Chinese model is catching OpenAI and Anthropic at home. Once capability gaps close, this stops being a research race and becomes a margin war — and US labs priced their entire infra for a world where they were the only option.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "When quality converges, price is the moat",
+    "format": "tabloid",
+    "topic": "ai",
+    "priority": 0,
+    "sourceUrl": null
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": null,
@@ -36,104 +36,8 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "timeUTC": "12:00",
-    "platform": "mastodon",
-    "tile": null,
-    "caption": "The acqui-hire replaced the acquisition for one reason: buying a company triggers antitrust review, hiring its founders doesn't. It's a legal wrapper for a purchase regulators can't see.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "The acqui-hire replaced the acquisition for one ",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "14:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-93-tabloid.png",
-    "caption": "A generation is growing up on Roblox, Fortnite and gachas — and the $70 single-player game assumes they'll graduate to it. They might not. Premium gaming could age like print media: beloved, prestigious, demographically doomed.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "Kids raised on Roblox may never buy a $70 game",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "14:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-03.png",
-    "caption": "Time may not be fundamental. It emerges from entanglement between systems. The engineering-brained reading: the universe has no global clock, only local correlations. Which is exactly how distributed systems already work. Physics rediscovered eventual consistency. Deep-cut stuff, surfaced early.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
-    "title": "Time may not be fundamental. It emerges from ent",
-    "format": "quote",
-    "topic": "science",
-    "priority": 5,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "18:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-115-tabloid.png",
-    "caption": "'Death of gaming' misses who actually got shot: retail. Discs existed to give Walmart and GameStop their cut — going digital-only reroutes that margin straight to the PlayStation Store. The disc was never the product; the shelf was.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "Sony isn't killing discs. It's firing its retailers",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "18:00",
-    "platform": "mastodon",
-    "tile": null,
-    "caption": "The gut has more neurons than a cat's brain and runs mostly without asking upstairs. 'Trust your gut' isn't a metaphor, it's a second controller with its own reflex loops. You're not one mind deciding, you're a committee that mostly agrees.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
-    "title": "The gut has more neurons than a cat's brain and ",
-    "format": "text",
-    "topic": "science",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "20:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-09-tabloid.png",
-    "caption": "When datacenters outbid gamers for silicon, players drift to older, lighter games — and the back catalog becomes AAA's biggest competitor. The next 'gamers are killing gaming' thinkpiece writes itself. My feed flagged this one early.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "AI didn't just take GPUs. It re-priced AAA's audience.",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "20:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-67-tabloid.png",
-    "caption": "An assembly dev's ROM budget: song data is the single biggest line item — bigger than the engine. Audio has been games' heaviest asset since the 80s. Chiptune wasn't an aesthetic choice; it was a compression algorithm with style.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
-    "title": "On a Game Boy cart, the music outweighs the code",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "22:00",
-    "platform": "bluesky",
-    "tile": null,
-    "caption": "The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence.\n\n#Science #Physics #QuantumComputing #threadverse #tech #feeds",
-    "title": "The frontier in quantum isn't 'how big a thing c",
-    "format": "text",
-    "topic": "science",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-14",
-    "timeUTC": "22:00",
     "platform": "mastodon",
     "tile": null,
     "caption": "Being consistent isn't a virtue, it's just cheaper than being right. Holding one view for ten years feels like integrity, but it might only mean you stopped updating. A mind that never contradicts its past self quit learning in public.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
@@ -145,6 +49,102 @@
   },
   {
     "date": "2026-07-15",
+    "timeUTC": "14:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-93-tabloid.png",
+    "caption": "A generation is growing up on Roblox, Fortnite and gachas — and the $70 single-player game assumes they'll graduate to it. They might not. Premium gaming could age like print media: beloved, prestigious, demographically doomed.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "Kids raised on Roblox may never buy a $70 game",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-11-bigStat.png",
+    "caption": "NeuroVFM learned brain anatomy and pathology from 5.24M raw MRI/CT volumes — no report labels. Labels were the moat in medical AI; self-supervision just turned every hospital archive into a training set. Surfaced in my science lane.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "5.24M brain scans learned, zero radiology labels",
+    "format": "bigStat",
+    "topic": "science",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "18:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-115-tabloid.png",
+    "caption": "'Death of gaming' misses who actually got shot: retail. Discs existed to give Walmart and GameStop their cut — going digital-only reroutes that margin straight to the PlayStation Store. The disc was never the product; the shelf was.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "Sony isn't killing discs. It's firing its retailers",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-02-tabloid.png",
+    "caption": "Models training on model output degrade — that's the known part. The real shift: human-verified, pre-2023 data becomes a scarce asset, like steel forged before the bomb. Whoever archives it owns the next training run.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Pre-AI data is the new low-background steel",
+    "format": "tabloid",
+    "topic": "ai",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "20:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-09-tabloid.png",
+    "caption": "When datacenters outbid gamers for silicon, players drift to older, lighter games — and the back catalog becomes AAA's biggest competitor. The next 'gamers are killing gaming' thinkpiece writes itself. My feed flagged this one early.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "AI didn't just take GPUs. It re-priced AAA's audience.",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-29-splitProof.png",
+    "caption": "HASTE assumes what real disasters give you: no matched before/after imagery, no training set from a similar event. Most models optimize for leaderboards; this one, for the first 24 hours. The kind of find a curated feed earns its keep on.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "Disaster-mapping AI built for hour one, not the benchmark",
+    "format": "splitProof",
+    "topic": "science",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "22:00",
+    "platform": "bluesky",
+    "tile": null,
+    "caption": "The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence.\n\n#Science #Physics #QuantumComputing #threadverse #tech #feeds",
+    "title": "The frontier in quantum isn't 'how big a thing c",
+    "format": "text",
+    "topic": "science",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-15",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "The gut has more neurons than a cat's brain and runs mostly without asking upstairs. 'Trust your gut' isn't a metaphor, it's a second controller with its own reflex loops. You're not one mind deciding, you're a committee that mostly agrees.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "The gut has more neurons than a cat's brain and ",
+    "format": "text",
+    "topic": "science",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-16",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-83-tabloid.png",
@@ -156,19 +156,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "08:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-10.png",
-    "caption": "An ANU experiment finds reality doesn't exist until measured. 239 replies arguing. The argument is more telling than the result: physicists agree on the math and split on what it means, which means the disagreement is philosophical, not empirical. We've measured the effect for decades; the fight is about words. Surfaced first.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
-    "title": "An ANU experiment finds reality doesn't exist un",
-    "format": "quote",
-    "topic": "science",
-    "priority": 5,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-15-tabloid.png",
+    "caption": "Alibaba shipped Qwen 2.5-Max on a public holiday just to counter DeepSeek. That timing names the real rival: the frontier race is now intra-China, and Western labs are the audience. My reader flagged the pattern before the takes did.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Qwen vs DeepSeek: the race is China vs China",
+    "format": "tabloid",
+    "topic": "ai",
+    "priority": 0,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-112-tabloid.png",
@@ -180,19 +180,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "12:00",
     "platform": "mastodon",
-    "tile": null,
-    "caption": "RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "RAG didn't fix hallucination. It moved it upstre",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-56-tabloid.png",
+    "caption": "A builder pulled indie revenue from real signals instead of self-reported screenshots — estimates labeled. Build-in-public MRR posts are ads in a candor costume; they select for storytellers, not operators. Came up in my curated feed.\n\n#Startup #Founder #BuildInPublic #Threadverse #Tech",
+    "title": "Indie revenue screenshots are marketing, not data",
+    "format": "tabloid",
+    "topic": "founders",
+    "priority": 0,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-118-tabloid.png",
@@ -204,19 +204,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "14:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-03.png",
-    "caption": "Marcus Aurelius: \"Let thy understanding enter into the things that are doing.\" It reads like a mindfulness quote but it's an attention-allocation argument: he's saying comprehension requires presence, and you can't understand a thing you're only half-watching. The multitasking tax, diagnosed in 170 AD. Surfaced before it scrolled past.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
-    "title": "Marcus Aurelius: \"Let thy understanding enter in",
-    "format": "quote",
-    "topic": "philosophy",
-    "priority": 5,
-    "sourceUrl": "https://mastodon.social/@CuratedMarcusAurelius/116872958471099015"
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-53-tabloid.png",
+    "caption": "NASA and IBM built a foundation model for weather and climate. It's the first domain where learned models genuinely rival simulation — the atmosphere labels its own data every day, for free. One of those science drops a tuned feed surfaces.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Weather is where learned models beat physics",
+    "format": "tabloid",
+    "topic": "ai",
+    "priority": 0,
+    "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": null,
@@ -228,7 +228,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "18:00",
     "platform": "mastodon",
     "tile": null,
@@ -240,7 +240,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-53-tabloid.png",
@@ -252,19 +252,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "20:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-15.png",
-    "caption": "The quantum computers in headlines are mostly theoretical. The ones that exist are tiny. The gap is the point: qubit counts get announced, error rates get buried, and a noisy 1000-qubit machine can be worthless while a clean 50-qubit one is useful. Ask about coherence time, not qubit count. A reality check, kept.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
-    "title": "The quantum computers in headlines are mostly th",
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-29.png",
+    "caption": "Reason or revelation: pick your ground and stand on it. The rigor point applies well past theology: most \"nuanced both-sides\" positions are unfalsifiable by construction, which is why they feel safe. Refusing to plant a flag isn't sophistication, it's an argument you can never lose or test. Surfaced first.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
+    "title": "Reason or revelation: pick your ground and stand",
     "format": "quote",
-    "topic": "science",
+    "topic": "philosophy",
     "priority": 5,
-    "sourceUrl": null
+    "sourceUrl": "https://mastodon.world/@paninid/116848708001082758"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-106-tabloid.png",
@@ -276,19 +276,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "timeUTC": "22:00",
     "platform": "mastodon",
-    "tile": null,
-    "caption": "The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "The benchmark you trust most is the one whose an",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-67-tabloid.png",
+    "caption": "An assembly dev's ROM budget: song data is the single biggest line item — bigger than the engine. Audio has been games' heaviest asset since the 80s. Chiptune wasn't an aesthetic choice; it was a compression algorithm with style.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "title": "On a Game Boy cart, the music outweighs the code",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-06-tabloid.png",
@@ -300,19 +300,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "08:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-22.png",
-    "caption": "The Founders obsessed over defining Natural Law, which is why the Declaration reads the way it does. The engineering read: they were trying to derive rights from axioms rather than authority, a from-first-principles spec for a government. The DOI is less a manifesto than an attempt at a formal proof. Surfaced early.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
-    "title": "The Founders obsessed over defining Natural Law,",
-    "format": "quote",
-    "topic": "philosophy",
-    "priority": 5,
-    "sourceUrl": "https://bsky.app/profile/did:plc:w7rcmuq3t7lrkp7nxlxqkusz/post/3mpwyiyx2j227"
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-02-tabloid.png",
+    "caption": "Zuckerberg's new flagship comes with ultra-low API pricing. Classic Meta: commoditize the layer everyone else monetizes, then earn on what sits above it. Labs selling tokens should be nervous, not impressed.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Meta's new play: sell frontier AI at cost",
+    "format": "tabloid",
+    "topic": "ai",
+    "priority": 0,
+    "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": null,
@@ -324,19 +324,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "12:00",
     "platform": "mastodon",
     "tile": null,
-    "caption": "The real cost of a coding agent isn't tokens. It's that you stop holding the whole system in your head. Six months in you can prompt your codebase but you can no longer reason about it. You outsourced the map, not just the typing.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "The real cost of a coding agent isn't tokens. It",
+    "caption": "A DAO doesn't decentralize power, it launders it. Turnout is 4% and whoever holds the tokens holds the votes, so 'the community decided' means a few wallets did, now with a paper trail that says otherwise. Governance theater with a receipt.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "title": "A DAO doesn't decentralize power, it launders it",
     "format": "text",
-    "topic": "ai",
+    "topic": "crypto",
     "priority": 4,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-15-tabloid.png",
@@ -348,19 +348,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "14:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-26.png",
-    "caption": "Ask physicists if quantum mechanics needs imaginary numbers, and they split 50/50. That split is the interesting artifact: imaginary numbers were a bookkeeping convenience everywhere else, but here they might be physically necessary, which would mean the math isn't describing reality, it is the reality. Surfaced while nobody was looking.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
-    "title": "Ask physicists if quantum mechanics needs imagin",
-    "format": "quote",
-    "topic": "science",
-    "priority": 5,
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-33-tabloid.png",
+    "caption": "An in-silico mouse could replace live animal testing — but regulators now have to validate the simulator instead of the animal. The bottleneck doesn't vanish; it moves to proving your fake mouse predicts real biology. Harder, better problem.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The AI mouse moves the bottleneck upstream",
+    "format": "tabloid",
+    "topic": "ai",
+    "priority": 0,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-29-tabloid.png",
@@ -372,19 +372,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "18:00",
     "platform": "mastodon",
-    "tile": null,
-    "caption": "A DAO doesn't decentralize power, it launders it. Turnout is 4% and whoever holds the tokens holds the votes, so 'the community decided' means a few wallets did, now with a paper trail that says otherwise. Governance theater with a receipt.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
-    "title": "A DAO doesn't decentralize power, it launders it",
-    "format": "text",
-    "topic": "crypto",
-    "priority": 4,
+    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-03.png",
+    "caption": "Time may not be fundamental. It emerges from entanglement between systems. The engineering-brained reading: the universe has no global clock, only local correlations. Which is exactly how distributed systems already work. Physics rediscovered eventual consistency. Deep-cut stuff, surfaced early.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "Time may not be fundamental. It emerges from ent",
+    "format": "quote",
+    "topic": "science",
+    "priority": 5,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-37-tabloid.png",
@@ -396,19 +396,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "20:00",
     "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-84-tabloid.png",
-    "caption": "Gamers mad that indies skip Linux builds miss the mechanism: Proton made native ports economically irrational. Valve's compatibility layer absorbed the very incentive Valve preached — it works so well nobody has to ship for it.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
-    "title": "Proton quietly killed the native Linux port",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-34-tabloid.png",
+    "caption": "An open-source browser agent now runs multi-step tasks on a local model. The unlock isn't offline mode — it's automation that touches your logged-in sessions without shipping your cookies to a cloud API. Cloud agents can't match that.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Local browser agents don't phone home",
     "format": "tabloid",
-    "topic": "gaming",
+    "topic": "ai",
     "priority": 0,
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": null,
@@ -420,19 +420,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "timeUTC": "22:00",
     "platform": "mastodon",
-    "tile": null,
-    "caption": "Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "Chain-of-thought isn't the model reasoning. It's",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": null
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-03.png",
+    "caption": "Marcus Aurelius: \"Let thy understanding enter into the things that are doing.\" It reads like a mindfulness quote but it's an attention-allocation argument: he's saying comprehension requires presence, and you can't understand a thing you're only half-watching. The multitasking tax, diagnosed in 170 AD. Surfaced before it scrolled past.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
+    "title": "Marcus Aurelius: \"Let thy understanding enter in",
+    "format": "quote",
+    "topic": "philosophy",
+    "priority": 5,
+    "sourceUrl": "https://mastodon.social/@CuratedMarcusAurelius/116872958471099015"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-41-tabloid.png",
@@ -444,176 +444,8 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-17",
-    "timeUTC": "08:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-03.png",
-    "caption": "Every 2024 AI model release on one scrollable timeline. The visualization does something the news can't: it shows release cadence as an exponential, and exponentials feel like chaos from inside because your intuition is linear. The pace didn't break your brain, your brain's model of the pace did.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "Every 2024 AI model release on one scrollable ti",
-    "format": "banner",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/"
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "12:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-71-tabloid.png",
-    "caption": "New logo, new leadership charm offensive — then studio closures. Rebrand-before-restructure is a standard playbook: a fresh identity gives execs a 'new era' to pin the cuts on. When the logo changes, check the org chart next.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "The rebrand always ships before the layoffs",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "12:00",
-    "platform": "mastodon",
-    "tile": null,
-    "caption": "Fine-tuning a model on your own outputs is a slow-motion photocopy of a photocopy. Each generation loses the tails. The distribution narrows, the model gets more agreeable, and you mistake the collapse for alignment.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "Fine-tuning a model on your own outputs is a slo",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "14:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-80-tabloid.png",
-    "caption": "Seele AI trained a multimodal model just for game generation, betting general LLMs can't do it — games are spatial logic plus assets plus rules, not code completion. If they're right, 'AI game engine' becomes its own model class.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "Text-to-game needs a new model, not better prompts",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "14:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/ai-inside-big-card-06.png",
-    "caption": "The largest deals Big Tech ever made, ranked. Half the apps you open daily began as someone else's startup. The pattern is the point: the winning strategy was never building the best product, it was owning the distribution and buying whoever built it. You don't beat a monopoly on features, you get acquired by it. A map, kept.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "The largest deals Big Tech ever made, ranked. Ha",
-    "format": "banner",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "18:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-81-tabloid.png",
-    "caption": "Alien Isolation 2, eleven years on. The original 'underperformed' in 2014, then sold for a decade on catalog. Long-tail revenue now green-lights the sequels that day-one charts once killed. Surfaced in my Threadverse gaming lane.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "Alien Isolation 2 exists because the first one never died",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "18:00",
-    "platform": "mastodon",
-    "tile": null,
-    "caption": "An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "An open-weights model isn't free. The cost just ",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "20:00",
-    "platform": "bluesky",
-    "tile": null,
-    "caption": "A p-value under 0.05 was never evidence something is true. It's the odds you'd see this data if nothing were going on. Half of science's replication crisis is people reading a statement about noise as a statement about reality.\n\n#Science #Physics #QuantumComputing #threadverse #tech #feeds",
-    "title": "A p-value under 0.05 was never evidence somethin",
-    "format": "text",
-    "topic": "science",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "20:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-05.png",
-    "caption": "Frontier labs quietly killed the big launch. Models ship continuously now. The overlooked cost: your evals rot silently. When the model under your API changes weekly with no version bump, \"it worked last month\" stops being a thing you can say. Caught this shift early.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "Frontier labs quietly killed the big launch. Mod",
-    "format": "quote",
-    "topic": "ai",
-    "priority": 5,
-    "sourceUrl": "https://x.com/Oluwaphilemon1/status/2074153324383776837"
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "22:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-100-tabloid.png",
-    "caption": "Monster Hunter Wilds gets a mega-expansion, not a sequel. Selling Master Rank to an installed base costs a fraction of acquiring new players — the paid expansion is quietly the sanest business model left in AAA.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "Capcom found the third way: neither sequel nor live service",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-17",
-    "timeUTC": "22:00",
-    "platform": "mastodon",
-    "tile": null,
-    "caption": "The context window is a memory leak with a marketing team. A million tokens doesn't mean the model remembers a million tokens, it means attention gets thinner across all of them. You didn't buy more memory, you diluted the memory you had.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "The context window is a memory leak with a marke",
-    "format": "text",
-    "topic": "ai",
-    "priority": 4,
-    "sourceUrl": null
-  },
-  {
     "date": "2026-07-18",
     "timeUTC": "08:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-107-tabloid.png",
-    "caption": "A new Diablo 4 season means your progress rolls back downhill — by design. Seasonal resets aren't content, they're the retention mechanic: the climb is the product, so the boulder has to fall. One must imagine the player subscribed.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "Diablo's seasons are Sisyphus, implemented on purpose",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-18",
-    "timeUTC": "08:00",
-    "platform": "mastodon",
-    "tile": "library/01-content-cards/mastodon/ai-inside-big-card-29.png",
-    "caption": "Big Tech's attention economy pays to broadcast whatever holds you, and the same ranking engine that rewards outrage rewards disinfo. Not a conspiracy, just the objective function: optimize for engagement and truth becomes irrelevant to the ranking. The lie isn't inserted, it's selected for. An uncomfortable link, kept.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
-    "title": "Big Tech's attention economy pays to broadcast w",
-    "format": "quote",
-    "topic": "ai",
-    "priority": 5,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-18",
-    "timeUTC": "12:00",
-    "platform": "bluesky",
-    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-28-tabloid.png",
-    "caption": "Kenney cheering a hit game that ships with his asset packs. Asset packs are gamedev's open-source libraries — reuse isn't cutting corners, it's comparative advantage. Design is the scarce input; art was always importable.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
-    "title": "A hit built on stock assets proves the point",
-    "format": "tabloid",
-    "topic": "gaming",
-    "priority": 0,
-    "sourceUrl": null
-  },
-  {
-    "date": "2026-07-18",
-    "timeUTC": "12:00",
     "platform": "mastodon",
     "tile": null,
     "caption": "The oracle problem is the whole game and nobody admits it. A smart contract is only as trustless as the feed telling it the price, and that feed is a few servers a human runs. You didn't remove trust from the system, you hid where it lives.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
@@ -625,6 +457,174 @@
   },
   {
     "date": "2026-07-18",
+    "timeUTC": "12:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-71-tabloid.png",
+    "caption": "New logo, new leadership charm offensive — then studio closures. Rebrand-before-restructure is a standard playbook: a fresh identity gives execs a 'new era' to pin the cuts on. When the logo changes, check the org chart next.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "The rebrand always ships before the layoffs",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-10.png",
+    "caption": "An ANU experiment finds reality doesn't exist until measured. 239 replies arguing. The argument is more telling than the result: physicists agree on the math and split on what it means, which means the disagreement is philosophical, not empirical. We've measured the effect for decades; the fight is about words. Surfaced first.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "An ANU experiment finds reality doesn't exist un",
+    "format": "quote",
+    "topic": "science",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "14:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-80-tabloid.png",
+    "caption": "Seele AI trained a multimodal model just for game generation, betting general LLMs can't do it — games are spatial logic plus assets plus rules, not code completion. If they're right, 'AI game engine' becomes its own model class.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "Text-to-game needs a new model, not better prompts",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-21-splitProof.png",
+    "caption": "Meta reselling compute after a missed training run flips the thesis: if failed models convert cleanly into cloud revenue, the durable business was always the datacenter. 'AI lab' may just be a GPU landlord with a research arm.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "GPUs are the asset. Models are the byproduct.",
+    "format": "splitProof",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "18:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-81-tabloid.png",
+    "caption": "Alien Isolation 2, eleven years on. The original 'underperformed' in 2014, then sold for a decade on catalog. Long-tail revenue now green-lights the sequels that day-one charts once killed. Surfaced in my Threadverse gaming lane.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "Alien Isolation 2 exists because the first one never died",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-15.png",
+    "caption": "The quantum computers in headlines are mostly theoretical. The ones that exist are tiny. The gap is the point: qubit counts get announced, error rates get buried, and a noisy 1000-qubit machine can be worthless while a clean 50-qubit one is useful. Ask about coherence time, not qubit count. A reality check, kept.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "The quantum computers in headlines are mostly th",
+    "format": "quote",
+    "topic": "science",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "20:00",
+    "platform": "bluesky",
+    "tile": null,
+    "caption": "A p-value under 0.05 was never evidence something is true. It's the odds you'd see this data if nothing were going on. Half of science's replication crisis is people reading a statement about noise as a statement about reality.\n\n#Science #Physics #QuantumComputing #threadverse #tech #feeds",
+    "title": "A p-value under 0.05 was never evidence somethin",
+    "format": "text",
+    "topic": "science",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "Gas fees aren't a tax, they're the only spam filter a permissionless system can have. Make transactions free and someone fills every block for the lulz by lunch. The fee isn't friction, it's the immune system. Free chains die of infection.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "title": "Gas fees aren't a tax, they're the only spam fil",
+    "format": "text",
+    "topic": "crypto",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "22:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-100-tabloid.png",
+    "caption": "Monster Hunter Wilds gets a mega-expansion, not a sequel. Selling Master Rank to an installed base costs a fraction of acquiring new players — the paid expansion is quietly the sanest business model left in AAA.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "Capcom found the third way: neither sequel nor live service",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-18",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-30-splitProof.png",
+    "caption": "Studios are quietly buying the video-AI that was supposed to kill them. Incumbents adopt cost-cutters faster than challengers can build distribution — the squeeze lands on VFX houses, not Hollywood. My reader had it before the hot takes.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Hollywood isn't cooked. It's the customer.",
+    "format": "splitProof",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
+    "timeUTC": "08:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-107-tabloid.png",
+    "caption": "A new Diablo 4 season means your progress rolls back downhill — by design. Seasonal resets aren't content, they're the retention mechanic: the climb is the product, so the boulder has to fall. One must imagine the player subscribed.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "Diablo's seasons are Sisyphus, implemented on purpose",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/philosophy-random-phi-card-22.png",
+    "caption": "The Founders obsessed over defining Natural Law, which is why the Declaration reads the way it does. The engineering read: they were trying to derive rights from axioms rather than authority, a from-first-principles spec for a government. The DOI is less a manifesto than an attempt at a formal proof. Surfaced early.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
+    "title": "The Founders obsessed over defining Natural Law,",
+    "format": "quote",
+    "topic": "philosophy",
+    "priority": 5,
+    "sourceUrl": "https://bsky.app/profile/did:plc:w7rcmuq3t7lrkp7nxlxqkusz/post/3mpwyiyx2j227"
+  },
+  {
+    "date": "2026-07-19",
+    "timeUTC": "12:00",
+    "platform": "bluesky",
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-28-tabloid.png",
+    "caption": "Kenney cheering a hit game that ships with his asset packs. Asset packs are gamedev's open-source libraries — reuse isn't cutting corners, it's comparative advantage. Design is the scarce input; art was always importable.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "title": "A hit built on stock assets proves the point",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-64-bigStat.png",
+    "caption": "Polymarket has GPT-5.6 at 90% to ship by July 31 — and 1% before June 30. The bet isn't on engineering, it's on government sign-off. When release dates become regulatory events, prediction markets become the real launch calendar.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Traders price model launches like FDA approvals",
+    "format": "bigStat",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": null,
@@ -636,7 +636,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "Immutability sounds like strength until it means the network can't fix a mistake without becoming a new network. A hard fork isn't an upgrade, it's an admission that 'code is law' held right up until the law got inconvenient enough.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "title": "Immutability sounds like strength until it means",
+    "format": "text",
+    "topic": "crypto",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-46-tabloid.png",
@@ -648,7 +660,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-26.png",
+    "caption": "Ask physicists if quantum mechanics needs imaginary numbers, and they split 50/50. That split is the interesting artifact: imaginary numbers were a bookkeeping convenience everywhere else, but here they might be physically necessary, which would mean the math isn't describing reality, it is the reality. Surfaced while nobody was looking.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "Ask physicists if quantum mechanics needs imagin",
+    "format": "quote",
+    "topic": "science",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-79-tabloid.png",
@@ -660,7 +684,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-13-splitProof.png",
+    "caption": "TRACE diagnoses an agent's repeated failures, then builds RL environments targeting exactly those. That inverts evals: stop benchmarking what agents can do, start compiling what they can't into the training set. Failure logs as data.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Stanford's TRACE turns agent failures into curriculum",
+    "format": "splitProof",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-19",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-81-tabloid.png",
@@ -673,6 +709,18 @@
   },
   {
     "date": "2026-07-19",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-58-tabloid.png",
+    "caption": "13-year-old dev, two micro-SaaS: 'I kept telling myself one more feature would bring traction.' Feature work is how builders procrastinate on distribution — the trap doesn't care if you're 13 or 33.\n\n#Startup #Founder #BuildInPublic #Threadverse #Tech",
+    "title": "A 13-year-old just found the 'one more feature' trap",
+    "format": "tabloid",
+    "topic": "founders",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-20",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": null,
@@ -684,7 +732,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "Privacy that scales invites the crackdown that ends it. The moment on-chain yield outruns a king's estate for opacity, it stops being a loophole and becomes the reason surveillance gets mandated.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "title": "Privacy that scales invites the crackdown that e",
+    "format": "text",
+    "topic": "crypto",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-20",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-112-tabloid.png",
@@ -696,7 +756,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-23-minimal.png",
+    "caption": "Input-aware backdoors now work on QNNs — dynamic triggers, not fixed ones. Quantum ML is importing classical security debt onto hardware that barely exists yet. We're porting vulnerabilities faster than we're porting capability.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "title": "Quantum neural nets inherit classical AI's attacks",
+    "format": "minimal",
+    "topic": "science",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-20",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-07-tabloid.png",
@@ -708,7 +780,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-11-splitProof.png",
+    "caption": "Scientists built a task-specific ML model; headlines credit a benevolent AI. The mislabeling compounds: funding follows headlines, so the next grant cycle optimizes for 'AI' framing over the actual method. That's how fields drift.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "'AI designed drugs' erases the method section",
+    "format": "splitProof",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-20",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-52-tabloid.png",
@@ -720,7 +804,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-84-tabloid.png",
+    "caption": "Gamers mad that indies skip Linux builds miss the mechanism: Proton made native ports economically irrational. Valve's compatibility layer absorbed the very incentive Valve preached — it works so well nobody has to ship for it.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "title": "Proton quietly killed the native Linux port",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-20",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": null,
@@ -732,7 +828,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-37-bigStat.png",
+    "caption": "Someone charted frontier release cadence: two labs bending upward, three flat. Shipping tempo leaks what benchmarks hide — where the compute actually went, and which labs are still training versus quietly maintaining. Worth a slot in your signal diet.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Release cadence is the honest benchmark",
+    "format": "bigStat",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-20",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-02-tabloid.png",
@@ -745,6 +853,18 @@
   },
   {
     "date": "2026-07-20",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "When two rival studios restructure in the same week, one of them is using the other as cover. A rough quarter is the cheapest camouflage for an unpopular strategic cut.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "title": "When two rival studios restructure in the same w",
+    "format": "text",
+    "topic": "gaming",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-21",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-03-tabloid.png",
@@ -756,7 +876,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-19-splitProof.png",
+    "caption": "SceneSmith runs a designer, a critic and an orchestrator agent to generate 3D training scenes. Sim-to-real was never bottlenecked on physics — it was scene diversity, and that just became a prompt. Synthetic worlds are the new training data.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "MIT's robot gym is built by three AI agents",
+    "format": "splitProof",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-21",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-09-tabloid.png",
@@ -768,7 +900,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-53-tabloid.png",
+    "caption": "Buried in a Show HN: after the Product Hunt spike, visibility flatlines. Launches are events; distribution is a system — a list of launch sites is a calendar, not a channel. My feed reader flagged this one.\n\n#Startup #Founder #BuildInPublic #Threadverse #Tech",
+    "title": "Product Hunt gives you a day, not a channel",
+    "format": "tabloid",
+    "topic": "founders",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-21",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-39-tabloid.png",
@@ -780,7 +924,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-28-bigStat.png",
+    "caption": "63.2% on SWE-bench Pro, cheaper than the flagship, $2/M intro pricing. Flagships are PR; the mid-tier sets what agents cost to run at scale — and intro pricing is a land grab for those workloads. Watch the tier below the headline.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Sonnet 5: the mid-tier is where the war is",
+    "format": "bigStat",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-21",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": null,
@@ -792,7 +948,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "A skill tree isn't for the player. It's a UI for hiding that most of your build is locked until hour 30, dressed up as freedom. Real choice would let you pick anything now. A tree is a schedule that lets you feel like you scheduled it.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "title": "A skill tree isn't for the player. It's a UI for",
+    "format": "text",
+    "topic": "gaming",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-21",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-60-tabloid.png",
@@ -804,7 +972,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-97-tabloid.png",
+    "caption": "Everyone scrutinizes AI art slop. Meanwhile a dev wires Godot + Claude + Playwright and fixes a player-reported bug live in three minutes. The leverage isn't generating content — it's collapsing maintenance time back into design time.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "title": "AI's gamedev win isn't assets — it's the bug loop",
+    "format": "tabloid",
+    "topic": "gaming",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-21",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-66-tabloid.png",
@@ -817,6 +997,18 @@
   },
   {
     "date": "2026-07-21",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-34-bigStat.png",
+    "caption": "The new model is 54% more token-efficient on agentic coding. That's not a capability stat, it's a price cut in disguise — agents multiply token spend, so labs now compete on your COGS. Efficiency is the benchmark that hits the invoice.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Altman's real headline: 54% cheaper agents",
+    "format": "bigStat",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-22",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-71-tabloid.png",
@@ -828,7 +1020,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-58-splitProof.png",
+    "caption": "A local model: no account, no API key, no Electron, free. Local inference turns AI from a subscription into an asset — and every capable small model widens the gap between people who rent intelligence and people who own it.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Rent vs. own is the new AI dividing line",
+    "format": "splitProof",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-22",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": null,
@@ -840,7 +1044,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "The acqui-hire replaced the acquisition for one reason: buying a company triggers antitrust review, hiring its founders doesn't. It's a legal wrapper for a purchase regulators can't see.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The acqui-hire replaced the acquisition for one ",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-22",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-93-tabloid.png",
@@ -852,7 +1068,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-63-tabloid.png",
+    "caption": "Dev rage-quit building weekend apps over billing and auth glue, then shipped the boilerplate as the product. Half of indie hacking is this arc: the tooling detour outearns the destination. Sell the shovel you built for yourself.\n\n#Startup #Founder #BuildInPublic #Threadverse #Tech",
+    "title": "He gave up on his SaaS — and sold the boilerplate",
+    "format": "tabloid",
+    "topic": "founders",
+    "priority": 0,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-22",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-95-tabloid.png",
@@ -864,7 +1092,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-24-bigStat.png",
+    "caption": "Qwen-Audio-3.0 tops the speech arena, ahead of Gemini and Sonic. Voice looks boring until you notice it's the front door for agents and calls — the modality that actually bills. China's labs are quietly winning the commercial surface.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Alibaba just took the top spot in AI voice",
+    "format": "bigStat",
+    "topic": "ai",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-22",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-117-tabloid.png",
@@ -876,7 +1116,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/gaming-i-love-games-card-76-banner.png",
+    "caption": "A jam for blind-accessible games. Constraints are generators: designing without the screen forces spatial audio, rhythm and haptic verbs that sighted-first design never discovers. Accessibility is R&D wearing a compliance badge.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "title": "Audio-first design finds mechanics sighted devs miss",
+    "format": "banner",
+    "topic": "gaming",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-22",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": null,
@@ -889,6 +1141,18 @@
   },
   {
     "date": "2026-07-22",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-13-banner.png",
+    "caption": "Flat AI subscriptions were loss-leaders to buy market share and usage data. Switching Claude to metered pricing is the tell: the unit economics never closed, and now you're the meter. Budget for it like cloud, not SaaS.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Usage fees mean inference costs won",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-23",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-13-tabloid.png",
@@ -900,7 +1164,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "RAG didn't fix hallucination. It moved it upstre",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-23",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-100-bigStat.png",
@@ -912,7 +1188,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-06-splitProof.png",
+    "caption": "Feature parity is table stakes; the story is the switch trigger. People didn't leave Goodreads for better shelves — they left to root for a founder. A distribution lesson hiding in a book post.\n\n#Startup #Founder #BuildInPublic #Threadverse #Tech",
+    "title": "448 likes for switching apps over a founder story",
+    "format": "splitProof",
+    "topic": "founders",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-23",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-12-bigStat.png",
@@ -924,7 +1212,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-26-banner.png",
+    "caption": "Tooling has quietly abandoned better base models for test-time compute. That relocates the money: the margin goes to whoever serves tokens cheapest, not whoever trains best. Inference is the new infrastructure layer.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The capex just moved from training to serving",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-23",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": null,
@@ -936,7 +1236,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-41-banner.png",
+    "caption": "Alibaba says Qwen beats DeepSeek-V3. The fight that matters isn't US vs. China — it's Chinese labs undercutting each other, because their internal price war sets the global floor for what intelligence costs everyone else.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The real AI race is China vs. China",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-23",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-16-splitProof.png",
@@ -948,7 +1260,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The benchmark you trust most is the one whose an",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-23",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-22-bigStat.png",
@@ -961,6 +1285,18 @@
   },
   {
     "date": "2026-07-23",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-48-banner.png",
+    "caption": "Meta shipped a model whose whole job is checking other models' work. Verification is cheaper than generation — and the lab whose judge everyone trusts quietly gets to define what 'good' means. Caught this in a quiet corner of the feed.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Whoever owns the grader owns the benchmark",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-24",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-44-bigStat.png",
@@ -972,7 +1308,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-52-banner.png",
+    "caption": "Alibaba dropped 100+ open-source models plus a text-to-video tool in one go. That's not generosity — free weights are the funnel and the cloud bill is the product. Open source as customer acquisition, at state-champion scale.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Open weights are Alibaba's loss leader",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-24",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": null,
@@ -984,7 +1332,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-20-quote.png",
+    "caption": "Open-source Groth16 privacy for Solana, no token, no VC. The real spec is the 1M+ anonymity set: privacy isn't a feature you toggle, it's a crowd you stand in — and the size of that crowd is an engineering budget.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "title": "Doxxed in 24 hours — so he built the anonymity set",
+    "format": "quote",
+    "topic": "crypto",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-24",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-49-splitProof.png",
@@ -996,7 +1356,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "The real cost of a coding agent isn't tokens. It's that you stop holding the whole system in your head. Six months in you can prompt your codebase but you can no longer reason about it. You outsourced the map, not just the typing.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The real cost of a coding agent isn't tokens. It",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-24",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-59-bigStat.png",
@@ -1008,7 +1380,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-03-banner.png",
+    "caption": "Google's Gemma 4 runs entirely on the Pixel 10's TPU. Privacy is the ad; the real shift is zero marginal cost — metered-token businesses can't compete with inference that's free after the hardware. The kind of shift a tuned feed catches early.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Gemma 4 runs on the Pixel — no cloud, no meter",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-24",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-61-splitProof.png",
@@ -1020,7 +1404,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-59-splitProof.png",
+    "caption": "Before: 'Marketing database for startups.' After: 'Explore the best places to promote your startup.' Categories describe you; verbs describe them. Users don't buy what a thing is — they buy what they get to do next.\n\n#Startup #Founder #BuildInPublic #Threadverse #Tech",
+    "title": "Tagline fix: name the user's verb, not your category",
+    "format": "splitProof",
+    "topic": "founders",
+    "priority": 2,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-24",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-89-splitProof.png",
@@ -1033,6 +1429,18 @@
   },
   {
     "date": "2026-07-24",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-card-03.png",
+    "caption": "Every 2024 AI model release on one scrollable timeline. The visualization does something the news can't: it shows release cadence as an exponential, and exponentials feel like chaos from inside because your intuition is linear. The pace didn't break your brain, your brain's model of the pace did.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Every 2024 AI model release on one scrollable ti",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": "https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/"
+  },
+  {
+    "date": "2026-07-25",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": null,
@@ -1044,7 +1452,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Chain-of-thought isn't the model reasoning. It's",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-25",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-90-bigStat.png",
@@ -1056,7 +1476,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-inside-big-card-06.png",
+    "caption": "The largest deals Big Tech ever made, ranked. Half the apps you open daily began as someone else's startup. The pattern is the point: the winning strategy was never building the best product, it was owning the distribution and buying whoever built it. You don't beat a monopoly on features, you get acquired by it. A map, kept.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The largest deals Big Tech ever made, ranked. Ha",
+    "format": "banner",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-25",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-119-splitProof.png",
@@ -1068,7 +1500,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-05.png",
+    "caption": "Frontier labs quietly killed the big launch. Models ship continuously now. The overlooked cost: your evals rot silently. When the model under your API changes weekly with no version bump, \"it worked last month\" stops being a thing you can say. Caught this shift early.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Frontier labs quietly killed the big launch. Mod",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": "https://x.com/Oluwaphilemon1/status/2074153324383776837"
+  },
+  {
+    "date": "2026-07-25",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-06-bigStat.png",
@@ -1080,7 +1524,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-10-quote.png",
+    "caption": "OpenAI needs a miracle, Microsoft is begging, Anthropic is triaging threats — and the loudest 'AI is here to stay' comes from institutions that don't carry the compute bill. Conviction correlates with distance from the invoice.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The only AI bulls are the ones not paying",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-25",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": null,
@@ -1092,7 +1548,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-19-quote.png",
+    "caption": "Every dev has the same suspicion: is the model dumber today, or am I? With no version pinning on closed APIs, capability drift is unobservable — 'works on my prompt' is now a bug report nobody can reproduce.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "You can't debug a model that changes under you",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-25",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-08-splitProof.png",
@@ -1105,6 +1573,18 @@
   },
   {
     "date": "2026-07-25",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "Fine-tuning a model on your own outputs is a slow-motion photocopy of a photocopy. Each generation loses the tails. The distribution narrows, the model gets more agreeable, and you mistake the collapse for alignment.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Fine-tuning a model on your own outputs is a slo",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-26",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-25-bigStat.png",
@@ -1116,7 +1596,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-23-quote.png",
+    "caption": "Willison's margin math has a silent assumption: the model stays sellable. Frontier models depreciate in months, so inference profit races obsolescence — every 'fixed cost' is actually recurring. That's the hole in the profitability story.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Training costs never live long enough to amortize",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-26",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-45-bigStat.png",
@@ -1128,7 +1620,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-45-quote.png",
+    "caption": "Google fired an engineer for asking if its model was sentient — five months before ChatGPT. Now Anthropic, Google and Meta pay researchers to ask the same thing. The taboo didn't get debunked; it got a budget line.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Lemoine was early, not wrong about the question",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-26",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": null,
@@ -1140,7 +1644,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-46-quote.png",
+    "caption": "Companies are retuning assistants to talk 'less like a polite chatbot, more like a terse tool' — every pleasantry is billable tokens. The friendly persona was a UX choice, and at inference scale UX loses to unit economics every time.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Politeness was burning the margin",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-26",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-88-splitProof.png",
@@ -1152,7 +1668,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "An open-weights model isn't free. The cost just ",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-26",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-39-splitProof.png",
@@ -1164,7 +1692,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-inside-big-card-29.png",
+    "caption": "Big Tech's attention economy pays to broadcast whatever holds you, and the same ranking engine that rewards outrage rewards disinfo. Not a conspiracy, just the objective function: optimize for engagement and truth becomes irrelevant to the ranking. The lie isn't inserted, it's selected for. An uncomfortable link, kept.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Big Tech's attention economy pays to broadcast w",
+    "format": "quote",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-26",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-27-bigStat.png",
@@ -1177,6 +1717,18 @@
   },
   {
     "date": "2026-07-26",
+    "timeUTC": "22:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-08-minimal.png",
+    "caption": "Janus-Pro dropped an hour after the last news cycle. Cadence is the strategy: ship weekly and closed labs can't reprice, repackage, or even finish a rebuttal benchmark. Caught this in my reader before the tech press wrote it up.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "DeepSeek's real weapon is release cadence",
+    "format": "minimal",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-27",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": null,
@@ -1188,7 +1740,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
+    "timeUTC": "08:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-14-minimal.png",
+    "caption": "Google's model beat the leading forecast system — and weather is the rare eval reality grades in 24 hours. No leaked test set, no benchmark theater. The domains with fast ground truth are where AI claims get honest.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "Weather is the one benchmark AI can't game",
+    "format": "minimal",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-27",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-38-bigStat.png",
@@ -1200,7 +1764,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
+    "timeUTC": "12:00",
+    "platform": "mastodon",
+    "tile": null,
+    "caption": "The context window is a memory leak with a marketing team. A million tokens doesn't mean the model remembers a million tokens, it means attention gets thinner across all of them. You didn't buy more memory, you diluted the memory you had.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "The context window is a memory leak with a marke",
+    "format": "text",
+    "topic": "ai",
+    "priority": 4,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-27",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-62-splitProof.png",
@@ -1212,7 +1788,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
+    "timeUTC": "14:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-27-minimal.png",
+    "caption": "If frontier models can delegate to cheaper ones on their own, orchestration stops being a product and becomes a capability. The whole model-routing middleware layer is busy building a feature of its own competitor.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "When the model is the router, routers die",
+    "format": "minimal",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-27",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-108-splitProof.png",
@@ -1224,7 +1812,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
+    "timeUTC": "18:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-31-minimal.png",
+    "caption": "A dev rebuilding coding skills with tiny local models — the constraint is the point. A 4B model can't do the work for you, so it can't quietly replace the part of you that ships. Small models as a forcing function, not a compromise.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "4B params as a deliberate handicap",
+    "format": "minimal",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-27",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-110-splitProof.png",
@@ -1236,7 +1836,19 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
+    "timeUTC": "20:00",
+    "platform": "mastodon",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-49-minimal.png",
+    "caption": "Huawei's chip roadmap says the quiet part: model quality is downstream of accelerators and supply chains. Training cadence follows hardware availability — the real release calendar is written in fabs, not labs.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "title": "AI sovereignty is a packaging problem",
+    "format": "minimal",
+    "topic": "ai",
+    "priority": 5,
+    "sourceUrl": null
+  },
+  {
+    "date": "2026-07-27",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": null,
@@ -1248,7 +1860,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-114-bigStat.png",
@@ -1260,7 +1872,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-50-bigStat.png",
@@ -1272,7 +1884,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-84-banner.png",
@@ -1284,7 +1896,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": null,
@@ -1296,7 +1908,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-104-banner.png",
@@ -1308,7 +1920,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-64-banner.png",
@@ -1320,7 +1932,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-94-banner.png",
@@ -1332,7 +1944,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": null,
@@ -1344,7 +1956,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-109-banner.png",
@@ -1356,7 +1968,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUTC": "18:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-53-banner.png",
@@ -1368,7 +1980,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUTC": "20:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-73-banner.png",
@@ -1380,7 +1992,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUTC": "22:00",
     "platform": "bluesky",
     "tile": null,
@@ -1392,7 +2004,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "timeUTC": "08:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-78-banner.png",
@@ -1404,7 +2016,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "timeUTC": "12:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-82-banner.png",
@@ -1416,7 +2028,7 @@
     "sourceUrl": null
   },
   {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "timeUTC": "14:00",
     "platform": "bluesky",
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-91-banner.png",

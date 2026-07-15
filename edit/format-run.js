@@ -24,6 +24,8 @@ const TOPIC = {
   'genuinely-wholesome-and-uplifting-posts': 'wholesome', 'gimme-some-good-youtube-content-for-bust': 'youtube',
   'i-love-games-show-me-great-new-release': 'gaming', 'random-philosophy': 'philosophy',
   'create-a-live-gaming-intelligence-fe': 'gaming',
+  'create-a-live-intelligence-feed-covering': 'ai',
+  'i-follow-crypto-seriously-show-me-seri': 'crypto',
   'the-funniest-single-replies-and-cursed-c': 'funny', 'wildlife-wonders': 'wildlife',
   'good-news-today': 'goodnews', 'honest-founder-stories-with-engagement': 'founders',
   'latest-internet-drama-feuds-callouts': 'drama', 'true-crime-files': 'truecrime',
@@ -64,7 +66,7 @@ async function renderCard(c, cardPath, meta) {
     const copy = JSON.parse(fs.readFileSync(copyPath, 'utf8'));
     const man = JSON.parse(fs.readFileSync(manPath, 'utf8'));
     const metaByFile = Object.fromEntries(man.cards.map(m => [path.basename(m.file), m]));
-    const topic = TOPIC[slug] || slug;
+    const feedTopic = TOPIC[slug] || slug;
 
     for (const c of copy.cards) {
       const fileName = path.basename(c.file);
@@ -72,6 +74,7 @@ async function renderCard(c, cardPath, meta) {
       const cardPath = path.join(dir, fileName);
       if (!fs.existsSync(cardPath)) continue;
       const meta = metaByFile[fileName] || { txt: '', source: '' };
+      const topic = c.topic || feedTopic;   // per-card override: mixed feeds (ai+science) set topic per card
       const platform = VALID_PLATFORM.includes(c.bestPlatform) ? c.bestPlatform : 'x';
       const outDir = path.join(ROOT, 'library', '01-content-cards', platform);
       fs.mkdirSync(outDir, { recursive: true });

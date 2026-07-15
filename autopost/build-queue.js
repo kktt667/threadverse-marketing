@@ -59,9 +59,9 @@ if (content.length !== beforeN) {
 // Per-platform LANE MIX targets (see NICHE.md). Defined here so text-take fan-out can respect them.
 // Bluesky rides gaming (winning); Mastodon leads AI/science. A lane at 0 = don't post it there.
 const LANE_MIX = {
-  bluesky:  { gaming: 0.60, ai: 0.20, science: 0.10, philosophy: 0.10, crypto: 0.00 },
-  mastodon: { ai: 0.40, science: 0.30, philosophy: 0.20, gaming: 0.05, crypto: 0.05 },
-  x:        { ai: 0.45, science: 0.25, crypto: 0.20, gaming: 0.05, philosophy: 0.05 },
+  bluesky:  { gaming: 0.60, ai: 0.20, science: 0.10, philosophy: 0.10, crypto: 0.00, founders: 0.00 },
+  mastodon: { ai: 0.40, science: 0.30, philosophy: 0.15, founders: 0.05, gaming: 0.05, crypto: 0.05 },
+  x:        { ai: 0.45, science: 0.25, crypto: 0.20, gaming: 0.05, founders: 0.05, philosophy: 0.00 },
 };
 const laneWanted = (platform, topic) => ((LANE_MIX[platform] || {})[topic] || 0) > 0;
 

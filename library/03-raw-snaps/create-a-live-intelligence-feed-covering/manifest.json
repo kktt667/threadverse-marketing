@@ -1,294 +1,966 @@
 {
   "feed": "Create a live intelligence feed covering",
-  "count": 32,
+  "count": 120,
   "cards": [
     {
       "file": "card-01.png",
-      "txt": "@CBS News youtube Key takeaways on Anthropic&#39;s concerning new Mythos AI model More concerns are emerging about Anthropic's new Mythos AI model. Matt Shumer, a former AI company founder and CEO, joins CBS News with more details. CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destin",
-      "handle": "@CBS",
+      "txt": "@Bloomberg Tech youtube OpenAI Expands Release of Top AI Model GPT-5.6 OpenAI is expanding the release of its most advanced model after getting the green light from the Trump administration. GPT-5.6 will now be available globally. Bloomberg's AI editor Seth Fiegerman reports. -------- Like this video? Subscribe to Bloomberg Technology on YouTube: https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj",
+      "handle": "@Bloomberg",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=lUHQIwrqo-8"
+      "hasImg": true
     },
     {
       "file": "card-02.png",
-      "txt": "@The Information youtube Inside Microsoft’s In-House AI Models to Undercut OpenAI Microsoft Reporter Aaron Holmes details the massive wave of infrastructure announcements coming out of Microsoft Build. He analyzes how their seven new custom models aim to deliver enterprise utility at a fraction of foundational cloud costs. Read more: https://www.theinformation.com/briefings/microsoft-unveils-new-h",
-      "handle": "@The",
+      "txt": "@Bloomberg Television youtube Exclusive: Meta&#39;s Zuckerberg Unveils New Version Of It&#39;s Most Powerful AI Model Meta is making its biggest AI monetization move yet. Bloomberg's Kurt Wagner had an exclusive interview with Mark Zuckerberg. They talked about why the company is betting on ultra-low API pricing to win developers, how Meta plans to turn massive AI investments into real revenue, an",
+      "handle": "@Bloomberg",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=uRqdjj6YeUc"
+      "hasImg": true
     },
     {
       "file": "card-03.png",
-      "txt": "@Business Standard youtube Key announcements at Google I/O: Search gets AI overhaul, Gemini goes bigger, and more At Google I/O 2026, Google unveiled its biggest AI push yet. From a redesigned AI-powered Search and new Gemini models to smart AI agents, coding tools, video generation, and Android XR glasses, the tech giant is betting big on an AI-first future. Here’s everything announced at Google’",
-      "handle": "@Business",
+      "txt": "@Radio youtube Google’s New AI LIVES Inside the Pixel 10 Google’s Gemma 4 AI model can now run directly on the Pixel 10 without needing an internet connection or cloud data center. In this video, I react to Google’s announcement about running Gemma 4 natively on the Pixel 10’s Tensor Processing Unit, or TPU. Instead of sending every request to Google’s servers, compatible AI features can process i",
+      "handle": "@Radio",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=wsv0Zcklx8I"
+      "hasImg": true
     },
     {
       "file": "card-04.png",
-      "txt": "@CBS News youtube Why Anthropic is saying its new AI model, Mythos, is too dangerous to release Anthropic has announced that it is teaming up with industry competitors to \"secure the world's most critical software\" from its own AI model, Mythos. New York Times reporter Mike Isaac joins \"The Takeout\" with more. CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations ",
-      "handle": "@CBS",
-      "source": "youtube",
+      "txt": "@gulVasikova x $AIAI announced that portfolio company MediGuide has launched a new AI-powered precision healthcare platform that combines genetic testing, molecular diagnostics, clinical data, physician review, and AI-driven analytics to deliver more personalized medical care and earlier disease detection. For long-term investors, this is another example of AIAI’s strategy of applying artificial i",
+      "handle": "@gulVasikova",
+      "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=K0lYvhIo8Jw"
+      "hasImg": false
     },
     {
       "file": "card-05.png",
-      "txt": "@Oluwaphilemon1 x Frontier AI labs have quietly entered a new era: rolling releases. Back in 2023 and 2024, major model launches felt like events. There was enough time between releases for developers to explore what each model could do before the next one arrived. Think: • GPT-4 • GPT-4o • Claude 3 • Claude 3.5 • Gemini 1.5 Fast forward to 2025, and the pace changes dramatically. Instead of waiti",
-      "handle": "@Oluwaphilemon1",
+      "txt": "@MuskPulseX7 x RT @WatcherGuru: JUST IN: Elon Musk's SpaceXAI officially launches new 'Grok 4.5' AI model. https://t.co/ERgs2zMo4W",
+      "handle": "@MuskPulseX7",
       "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/Oluwaphilemon1/status/2074153324383776837"
+      "hasImg": true
     },
     {
       "file": "card-06.png",
-      "txt": "@Fireship youtube Google’s AI endgame is here… everything you missed at I/O 2026 Try using Emergent's specialized agents in parallel to build any full-stack application - https://app.emergent.sh/?utm_shift=redirect&via=fireship At Google I/O 2026, Sundar Pichai and Demis Hassabis set out the roadmap for Google's 'agentic Gemini era', with Gemini hiding inside every product like the microplastics i",
-      "handle": "@Fireship",
-      "source": "youtube",
+      "txt": "@ai@defcon.social mastodon Hugging Face CEO Clem Delangue argues the real AI race has shifted away from frontier models to open models, as enterprises prioritise cost, accessibility and data ownership. With most production AI now running on open models, he questions whether frontier models still matter. https:// techcrunch.com/2026/07/14/the- real-ai-race-may-no-longer-be-at-the-frontier-open-mode",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=9OQ5vaYbGV0"
+      "hasImg": true
     },
     {
       "file": "card-07.png",
-      "txt": "@ABC News (Australia) youtube Anthropic&#39;s new AI model deemed too dangerous to release publicly | ABC NEWS AI company Anthropic has developed new technology which it says is too dangerous to release publicly. The Claude Mythos preview has superhuman cybersecurity and hacking capabilities. It is believed to have found vulnerabilities in every major browser and operating system. Alastair MacGibb",
-      "handle": "@ABC",
-      "source": "youtube",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. Among these, projects focusing on reproducibility, model agnosticism, and transparency... 2. The \"Open Science\" repository by ai4s-research an example of a robust workbench for sci... 3. It a local-first, model-agnostic environment that supports reproducibility on both macO... Full report → https:// pullrepo.com/report/todays-ai- research-f",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=PLg2EUkIC78"
+      "hasImg": false
     },
     {
       "file": "card-08.png",
-      "txt": "@PBS NewsHour youtube Anthropic’s powerful new AI model raises concerns about high-tech risks Anthropic announced that it has started a very limited test of its newest AI model called Mythos. It's a model deemed so powerful that the company warned it could cause widespread disruption if it were released to the public. Anthropic is giving some companies access to Mythos to test and identify vulnera",
-      "handle": "@PBS",
-      "source": "youtube",
+      "txt": "@corn13read2 hackernews Non Asshole Funding for AI Startup – Binary Diffusion (pbs.twimg.com) Non Asshole Funding for AI Startup – Binary Diffusion pbs.twimg.com pbs.twimg.com ♥ 2 💬 2",
+      "handle": "@corn13read2",
+      "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=lMaCfQMlXY0"
+      "hasImg": false
     },
     {
       "file": "card-09.png",
-      "txt": "@CNN youtube &#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could be abused by cybercriminals and spies, according to Anthropic — a prospect that has prompted widespread concern in Washington and in Silicon Valley. Anthropic will make its ne",
-      "handle": "@CNN",
-      "source": "youtube",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. One standout project Open Science, an ambitious workbench designed to democratize acces... 2. Another significant development comes from BenchFlow with their curated library of reso... 3. Open Science a local-first, model-agnostic environment that supports reproducible AI re... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=htBaVVh_k90"
+      "hasImg": false
     },
     {
       "file": "card-10.png",
-      "txt": "@CNBC youtube Why Meta&#39;s New AI Model Is Such A Big Deal Meta has launched Muse Spark, its most powerful AI model yet and the first major product from Chief AI Officer Alexandr Wang's newly formed Meta Superintelligence Lab. The release comes as the company ramps capital expenditures to as much as $135 billion this year, nearly double last year's spend, raising the stakes for every product tha",
-      "handle": "@CNBC",
-      "source": "youtube",
+      "txt": "@ai@defcon.social mastodon Mistral AI has released Robostral Navigate, an 8 billion parameter model that enables robots to navigate complex environments using only a single RGB camera. The model represents advances in embodied AI and robotics research. https://www. marktechpost.com/2026/07/14/mi stral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=rXSPopXet1o"
+      "hasImg": false
     },
     {
       "file": "card-11.png",
-      "txt": "@CNBC Television youtube OpenAI unveils GPT-5.2, its strongest AI model for professional use CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The company said the model is better at creating spreadsheets, building presentations, perceiving images, writing code and understanding long context.",
-      "handle": "@CNBC",
-      "source": "youtube",
+      "txt": "@ai@defcon.social mastodon University of Michigan researchers have developed NeuroVFM, a neuroimaging foundation model trained on 5.24 million clinical MRI and CT volumes. The Vol-JEPA approach learns brain anatomy and pathology without requiring radiology report labels, potentially improving medical imaging analysis. https://www. marktechpost.com/2026/07/12/me et-neurovfm-a-new-neuroimaging-found",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=wXXvB8xVyPk"
+      "hasImg": false
     },
     {
       "file": "card-12.png",
-      "txt": "@CNBC Television youtube Meta unveils Muse Spark AI model to rival top chatbots Meta announces its new AI Model, \"Muse Spark.\" The first in a series of new large language models. CNBC’s Julia Boorstin joins ‘Halftime Report’ to discuss the latest news from the social media giant. The Investment Committee debate what it means for the name. For access to live and exclusive video from CNBC subscribe ",
-      "handle": "@CNBC",
-      "source": "youtube",
+      "txt": "@SmartAIwave x Mark July 17. Two things are about to happen on the exact same day. Google launches Gemini 3.5 Pro — the West's most anticipated model of the summer. Simultaneously, Xi Jinping personally opens Shanghai's World AI Conference — his first in-person appearance there since it started in 2018. One day. One model launch. One head of state stepping onto the world's biggest AI stage. This i",
+      "handle": "@SmartAIwave",
+      "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=7ivZzV3H3E0"
+      "hasImg": true
     },
     {
       "file": "card-13.png",
-      "txt": "@Matt Wolfe youtube AI News: Microsoft Finally Reveals Their Plan! Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦 LinkedIn: https:",
-      "handle": "@Matt",
-      "source": "youtube",
+      "txt": "@ai@defcon.social mastodon Stanford researchers have released TRACE, a system that diagnoses repeated agent failures and creates targeted training environments to fix them. The open-source tool uses synthetic RL to improve agent capabilities. https://www. marktechpost.com/2026/07/13/st anford-researchers-introduce-trace/ # AIagent # AI # GenAI # AIResearch See more Stanford Researchers Introduce T",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=nz4h3H1MmTg"
+      "hasImg": true
     },
     {
       "file": "card-14.png",
-      "txt": "@AI Revolution youtube Microsoft Just Shocked The Entire AI World: 7 New AI Models Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename MDASH, and Majorana 2, turning its AI push into a full-stack challenge to OpenAI. MAI-Thinking-1 gives Microsoft its own reasoning model, Scout gives it an always-on agent, and Majorana 2 gives it a bigger quantum play. 👉 Get your Claud",
-      "handle": "@AI",
-      "source": "youtube",
+      "txt": "@stuartmemo hackernews AI Startup Perplexity in Talks to More Than Double Valuation to $8B (www.wsj.com) AI Startup Perplexity in Talks to More Than Double Valuation to $8B www.wsj.com wsj.com ♥ 4 💬 2",
+      "handle": "@stuartmemo",
+      "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=i1dkkxLWaWg"
+      "hasImg": false
     },
     {
       "file": "card-15.png",
-      "txt": "@Microsoft youtube Introducing 7 new Microsoft AI models Announcing a family of seven new models developed in-house at Microsoft AI. Our new models across image, voice, transcription, coding, and reasoning, together form the MAI model family: a multimodal ecosystem designed to work across the kinds of tasks that matter in the real world. Learn more: https://microsoft.ai/news/building-a-hillclimbin",
-      "handle": "@Microsoft",
-      "source": "youtube",
+      "txt": "@endswapper hackernews For AI startups, more funding is often not the answer (venturebeat.com) For AI startups, more funding is often not the answer venturebeat.com venturebeat.com ♥ 2",
+      "handle": "@endswapper",
+      "source": "hackernews",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=BQsLSmGLh_c"
+      "hasImg": false
     },
     {
       "file": "card-16.png",
-      "txt": "@Better Stack youtube Google&#39;s New AI Architecture Changes Everything (Gemma 4 12B) Google DeepMind just released Gemma 4 12B, a new AI model that completely changes how LLMs process pictures and sound. Instead of running three heavy, separate models at once and slowing down your laptop, it cuts out the middleman to read raw pixels and audio waves directly. In this video, we break down exactly",
-      "handle": "@Better",
-      "source": "youtube",
+      "txt": "@Defi_Rocketeer x @zordcrypt Feels like CT is still watching model launches, while the real compounding happens across the AI stack. Worth tracking",
+      "handle": "@Defi_Rocketeer",
+      "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=WLtCHXdHTF0"
+      "hasImg": false
     },
     {
       "file": "card-17.png",
-      "txt": "@defaiscope x Frontier AI labs shifted to continuous rolling releases starting mid-2025. 2023-2024 had clear milestones: GPT-4, GPT-4o, Claude 3, Claude 3.5, Gemini 1.5, each a distinct moment. That cadence tightened after mid-2025. OpenAI has iterated through GPT-5 point releases, while Anthropic shipped Opus 4 through 4.8 and Fable 5 in quick succession. Labs now treat model development like ong",
-      "handle": "@defaiscope",
+      "txt": "@GIlevbare67881 x July 17 is shaping up to be the biggest AI day of the year. Gemini 3.5 Pro finally launches AND Xi Jinping attends Shanghai's World AI Conference in person for the first time since 2018 — same day. West's biggest model vs East's biggest AI stage #Gemini #China #AI 💬 1",
+      "handle": "@GIlevbare67881",
       "source": "x",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/defaiscope/status/2074161530036171234"
+      "hasImg": false
     },
     {
       "file": "card-18.png",
-      "txt": "@CBS Mornings youtube What to know about Anthropic&#39;s new AI model and its stark warning Former AI company founder and CEO Matt Shumer joins \"CBS Mornings\" to break down Anthropic's report about one of its AI models, Claude Mythos Preview. In the report, the company warned the program was \"too powerful\" to be released to the public and it worried about the program, which is designed to find sec",
-      "handle": "@CBS",
-      "source": "youtube",
+      "txt": "@nishantaggarwal arxiv Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers? Can large language models perform deep technical comprehension of computer architecture papers -- not summarization, but structured critique that names the core mechanism, surfaces buried assumptions, and connects a contribution beyond its own scope? We study Gauntlet, an open-source pipeline that",
+      "handle": "@nishantaggarwal",
+      "source": "",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=bUbFFSZQ5w0"
+      "hasImg": false
     },
     {
       "file": "card-19.png",
-      "txt": "@Microsoft youtube Microsoft AI CEO unveils 7 new AI models | Mustafa Suleyman at Microsoft Build 2026 Our goal is Humanist Superintelligence — AI designed to serve people, not replace them. At Microsoft Build 2026, Microsoft AI CEO Mustafa Suleyman unveils the first seven models that build toward that mission: - MAI Image-2.5 - MAI Image-2.5-Flash - MAI Transcribe-1.5 - MAI Thinking-1 - MAI Voice",
-      "handle": "@Microsoft",
-      "source": "youtube",
+      "txt": "@ai@defcon.social mastodon MIT researchers have developed SceneSmith, where AI agents generate realistic 3D virtual environments for robot training. Using GPT-5.2, three specialised agents act as designer, critic and orchestrator to build detailed indoor scenes, helping robots learn through simulation before real-world deployment. This addresses a key robotics bottleneck - the need for diverse tra",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://youtube.com/watch?v=OvLIae4HCeM"
+      "hasImg": true
     },
     {
       "file": "card-20.png",
-      "txt": "@Cryptrixxx x 🚨 GPT-5.6 SOL just killed the idea of \"open AI competition.\" 0:02 — The announcement drops. OpenAI teases GPT-5.6 Sol as its next-generation frontier model. The government won't let you use it. The last 3 weeks changed everything: • June 9 — Anthropic unveils Claude Mythos 5 + Fable 5 • June 12 — U.S. export controls shut them down • June 26 — OpenAI launches GPT-5.6 Sol... but only",
-      "handle": "@Cryptrixxx",
-      "source": "x",
+      "txt": "@ai@defcon.social mastodon Researchers have developed loop engineering techniques that let AI agents autonomously improve themselves through research loops. Andrej Karpathy's open-source autoresearch repository enables models to run hundreds of experiments, propose code changes, verify results and iterate. A new bilevel approach adds an outer loop that optimises the inner loop itself, achieving 5x",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/Cryptrixxx/status/2074154018012631122"
+      "hasImg": false
     },
     {
       "file": "card-21.png",
-      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. From evaluation frameworks for AI agents to comprehensive guides on building practical... 2. The standout project thweek \"awesome-evals\" by benchflow-ai, which has garnered a Growt... 3. Threpository serves as a curated library offering the best resources for building and e... Full report → https:// pullrepo.com/report/todays-ai- research-f",
-      "handle": "@Pulrepo",
-      "source": "mastodon",
+      "txt": "@Shri_Krii x july 17 is stacking up to be the biggest day of the year in ai. gemini 3.5 pro launches the same day xi jinping shows up in person to the shanghai ai conference for the first time ever. west ships a model, east makes a statement 💬 1",
+      "handle": "@Shri_Krii",
+      "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-june-29-2026"
+      "hasImg": false
     },
     {
       "file": "card-22.png",
-      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. Benchflow-ai's \"awesome-evals\" repository stands out as one of the most active projects... 2. The \"awesome-evals\" project by benchflow-ai a curated list of papers, blogs, talks, too... 3. With its high growth score and a significant number of stars, it clear that threpositor... Full report → https:// pullrepo.com/report/todays-ai- research-",
-      "handle": "@Pulrepo",
-      "source": "mastodon",
+      "txt": "@SouthernEquity x @cequenceai launches Intent Graph and Biometric Check—two new capabilities designed to extend bot defense across web, mobile, API, and agentic AI traffic. As automated traffic now accounts for more than half of all web requests globally, traditional client-side bot defenses are seemingly struggling to keep pace. Intent Graph builds a behavioral model specific to each application,",
+      "handle": "@SouthernEquity",
+      "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-05-2026"
+      "hasImg": true
     },
     {
       "file": "card-23.png",
-      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. These initiatives range from evaluating AI agents to developing comprehensive toolkits... 2. One standout project \"awesome-evals,\" which has seen significant growth and engagement,... 3. **benchflow-ai/awesome-evals** aims to provide a curated collection of resources that h... Full report → https:// pullrepo.com/report/todays-ai- research-f",
-      "handle": "@Pulrepo",
-      "source": "mastodon",
+      "txt": "@junruizhang arxiv Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks Quantum Neural Networks (QNNs) are a promising framework for quantum machine learning on near-term quantum devices, but their security risks remain insufficiently understood. Studies have shown that QNNs are vulnerable to backdoor attacks, yet existing quantum backdoors mostly rely on a fixed trigger shared by a",
+      "handle": "@junruizhang",
+      "source": "",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-june-30-2026"
+      "hasImg": false
     },
     {
       "file": "card-24.png",
-      "txt": "@jmchugh9 hackernews Show HN: Super AI Markets – Testing Ground for AI Shopping Agent Security I built Super AI Markets (<a href=\"https:&#x2F;&#x2F;superaimarkets.com\" rel=\"nofollow\">https:&#x2F;&#x2F;superaimarkets.com</a>) to test how AI shopping agents handle adversarial e-commerce environments. With agents increasingly handling financial transactions, we need systematic security research befor",
-      "handle": "@jmchugh9",
-      "source": "hackernews",
+      "txt": "@ArtificialAnlys x Alibaba's Qwen-Audio-3.0-TTS-Plus is the new leading model on the Artificial Analysis Speech Arena Leaderboard for Provider Voices, narrowly surpassing Simba 3.2 and ahead of Gemini 3.1 Flash TTS, and Sonic 3.5 Qwen-Audio-3.0-TTS-Plus is Alibaba's latest Text to Speech model, released with increased naturalness and contextually appropriate intonation. The release continues Aliba",
+      "handle": "@ArtificialAnlys",
+      "source": "x",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://superaimarkets.com/"
+      "hasImg": true
     },
     {
       "file": "card-25.png",
-      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. The GitHub repository \"awesome-evals\" stands out as one of the most active thweek, prov... 2. Next up a project that explores Q-Learning in swarm foraging scenarios, highlighting th... 3. The \"benchflow-ai/awesome-evals\" repository has seen substantial growth with a score of... Full report → https:// pullrepo.com/report/todays-ai- research-",
-      "handle": "@Pulrepo",
-      "source": "mastodon",
+      "txt": "@mpweiher hackernews German AI startup in funding talks at $4B valuation (www.ft.com) German AI startup in funding talks at $4B valuation www.ft.com ft.com ♥ 1",
+      "handle": "@mpweiher",
+      "source": "hackernews",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-03-2026"
+      "hasImg": false
     },
     {
       "file": "card-26.png",
-      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. Additionally, repositories catering to multi-agent systems and practical guides for res... 2. **benchflow-ai/awesome-evals** a curated library of resources aimed at building and eva... 3. With its growth score of 52.60 and an impressive 656 stars, it stands out for providing... Full report → https:// pullrepo.com/report/todays-ai- research-",
-      "handle": "@Pulrepo",
-      "source": "mastodon",
+      "txt": "@gabriellekaili-mayliu arxiv Metacognition in LLMs: Foundations, Progress, and Opportunities Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress acro",
+      "handle": "@gabriellekaili-mayliu",
+      "source": "",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://pullrepo.com/report/todays-ai-research-fastest-growing-projects-july-04-2026"
+      "hasImg": false
     },
     {
       "file": "card-27.png",
-      "txt": "@blckchaindaily x 🚨 TENCENT LAUNCHES FINAL VERSION OF HUNYUAN 3 AI MODEL WITH UPGRADED REASONING AND DOCUMENT-GENERATING AGENT ♥ 2 💬 1",
-      "handle": "@blckchaindaily",
-      "source": "x",
+      "txt": "@h4ckernews mastodon The Economics of Recursive Self-Improvement [pdf] https:// elasticity.institute/rsi-paper .pdf Comments: https:// news.ycombinator.com/item?id=4 8901224 # HackerNews # Economics # RecursiveSelfImprovement # AIResearch # Innovation # PDF",
+      "handle": "@h4ckernews",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/blckchaindaily/status/2074158606413332543"
+      "hasImg": false
     },
     {
       "file": "card-28.png",
-      "txt": "@MoisasADR x @MerlijnTrader It will improve, but not by much; it will track AI development. However, since the government is literally keeping pace with model release schedules, BTC will rise month by month starting this month with the launches of Fable and GPT-Sol.",
-      "handle": "@MoisasADR",
-      "source": "x",
+      "txt": "@ai@defcon.social mastodon Anthropic has released Claude Sonnet 5, its most agentic mid-tier model yet. The new model beats its predecessor on every benchmark, scoring 63.2% on SWE-bench Pro for agentic coding, while costing less than the flagship Opus 4.8. Intro pricing is 2 USD per million input tokens through August 31. https://www. marktechpost.com/2026/07/13/an thropic-claude-sonnet-5-vs-sonn",
+      "handle": "@ai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://x.com/MoisasADR/status/2074140084891271626"
+      "hasImg": false
     },
     {
       "file": "card-29.png",
-      "txt": "@n_dimension@infosec.exchange mastodon There are many # Ai tests, but this one is mine! <Slaps the prompt on the roof> I got an idea to develop a super tight, universal \"ProbePrompt\" to run against an engine and get an idea how good it is; A good \"ProbePrompt\" must evaluate Instruction Adherence Reasoning Depth Constraint Management simultaneously. # Ai # Vibecode # AiResearch See more ♥ 2 💬 1",
-      "handle": "@n_dimension",
-      "source": "mastodon",
+      "txt": "@calebrobinson arxiv HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment When a large disaster strikes, responders need a map of which buildings are damaged within hours. The models that do well on public benchmarks assume matched before-and-after imagery and a training set drawn from similar past events, and neither is usually available for a new disaster in its first day. We pre",
+      "handle": "@calebrobinson",
+      "source": "",
       "hasVideo": false,
-      "hasImg": false,
-      "url": "https://infosec.exchange/@n_dimension/116830712971639856"
+      "hasImg": false
     },
     {
       "file": "card-30.png",
-      "txt": "@PBS NewsHour youtube Anthropic’s powerful new AI model raises concerns about high-tech risks Anthropic announced that it has started a very limited test of its newest AI model called Mythos. It's a model deemed so powerful that the company warned it could cause widespread disruption if it were released to the public. Anthropic is giving some companies access to Mythos to test and identify vulnera",
-      "handle": "@PBS",
-      "source": "youtube",
+      "txt": "@shengli arxiv Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems Automatic speech recognition (ASR) has become a critical component of modern robotic systems because it is one of the most natural and intuitive ways for humans to interact with robots. A commonly used method is to directly use API services online. But is that al",
+      "handle": "@shengli",
+      "source": "",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.nature.com/articles/d41586-026-01689-0"
+      "hasImg": false
     },
     {
       "file": "card-31.png",
-      "txt": "@CNN youtube &#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could be abused by cybercriminals and spies, according to Anthropic — a prospect that has prompted widespread concern in Washington and in Silicon Valley. Anthropic will make its ne",
-      "handle": "@CNN",
-      "source": "youtube",
+      "txt": "@startuphubai mastodon 6/6 . Speaking of robust systems, have you thought about how # LLM verification is becoming a new scaling axis? Check it out: https://www. startuphub.ai/ai-news/ai-resea rch/2026/llm-verification-a-new-scaling-axis ( https://www. startuphub.ai/ai-news/ai-resea rch/2026/llm-verification-a-new-scaling-axis ) # AIResearch https://www. startuphub.ai/ai-news/technolo gy/2026/gith",
+      "handle": "@startuphubai",
+      "source": "mastodon",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://www.straitstimes.com/singapore/singapore-releases-model-governance-framework-for-ai"
+      "hasImg": true
     },
     {
       "file": "card-32.png",
-      "txt": "@CNBC youtube Why Meta&#39;s New AI Model Is Such A Big Deal Meta has launched Muse Spark, its most powerful AI model yet and the first major product from Chief AI Officer Alexandr Wang's newly formed Meta Superintelligence Lab. The release comes as the company ramps capital expenditures to as much as $135 billion this year, nearly double last year's spend, raising the stakes for every product tha",
+      "txt": "@janandonly hackernews AI Coding Startup Replit Nears Funding at $9B Valuation (www.bloomberg.com) AI Coding Startup Replit Nears Funding at $9B Valuation www.bloomberg.com bloomberg.com ♥ 1",
+      "handle": "@janandonly",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@AI research youtube China CUTS OFF AI! Free Claude! GPT-5.6 Today! AI Freedom IS OVER? U.N. Shocked. The AI race is moving faster than ever. In today's roundup, we cover China's plans to tighten control over its most advanced AI models, Tencent's surprisingly powerful new Hunyuan Hy3 model, Google's latest Gemini Spark update, and major announcements from Anthropic, Meta, and OpenAI. 00:00 Intro ",
+      "handle": "@AI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@CNBC Television youtube OpenAI&#39;s newest AI model is 54% more token efficient on agentic coding, Sam Altman tells CNBC OpenAI CEO Sam Altman joins 'Squawk on the Street' to discuss the company's latest ChatGPT model, AI spending and more.",
       "handle": "@CNBC",
       "source": "youtube",
       "hasVideo": false,
-      "hasImg": true,
-      "url": "https://x.com/_adishj/status/2074162696275272126"
+      "hasImg": true
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@AI For Humans youtube OpenAI&#39;s GPT-5.6 Sol Is Here. And It&#39;s Really Freaking Good. AI news this week: OpenAI's GPT-5.6 Sol nearly matches Claude Fable 5 and we get our dirty little paws on it AND OpenAI’s new voice mode, GPT-Live-1 OpenAI is back in the AI model race with GPT-5.6 Sol, a fast, consistent flagship that comes close to Anthropic's Claude Fable 5 without quite taking the crown",
+      "handle": "@AI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. The standout project thweek \"Open Science,\" which an intriguing local-first approach to... 2. The **ai4s-research/open-science** repository has seen significant growth, with a Growt... 3. Thproject an open-source alternative to proprietary research platforms by offering a mo... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@Khullani_ x The two numbers in the model driving everything are educated guesses: today's catastrophe risk, and how fast AI safety work reduces it. We just don't have data. No prior launches and no second chances. https://t.co/aDnfqwJ1YC 💬 1",
+      "handle": "@Khullani_",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@OpenAI youtube This is the new ChatGPT Voice, powered by GPT-Live You’ll want to turn the sound on for this one. Read more here: https://openai.com/index/introducing-gpt-live/",
+      "handle": "@OpenAI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-39.png",
+      "txt": "@ai@defcon.social mastodon Mira Murati's Thinking Machines Lab has published a technical framework arguing AI should be distributed and customisable with human values in fine-tuned model weights. The report calls for widening human-to-machine communication and publishing research to broaden model development understanding. https://www. marktechpost.com/2026/07/11/mi ra-muratis-thinking-machines-la",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-40.png",
+      "txt": "@Humpidumpi2 x Daily Claude AI News Briefing for July 12, 2026 by Grok Anthropic maintained a steady pace of incremental advancements and internal research transparency around Claude over the past 24 hours, with notable focus on model interpretability and practical tooling rather than major new releases. Researchers and users highlighted Anthropic’s development of the J-lens tool, which reveals a ",
+      "handle": "@Humpidumpi2",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-41.png",
+      "txt": "@beepbeepbee hackernews Free Resource to Look Up 12 Months of AI Startup Funding by Stage/Biz/Investor (www.frontieroptic.com) Page not found Unveiling Key Metrics in Deep Tech & Science Innovation – Track, Analyze, and Discover Tomorrow frontieroptic.com ♥ 1 💬 2",
+      "handle": "@beepbeepbee",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-42.png",
+      "txt": "@duckduckgo.com bluesky Since Google revealed its plans for an AI search overhaul, visits to our \"No AI\" search page have tripled…and they’re still rising! Want to make it your default on Chrome or Firefox? Grab our No-AI extensions and banish AI-assisted answers, chat, and AI images. (1/3) ♥ 14.8k 💬 300",
+      "handle": "@duckduckgo.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-43.png",
+      "txt": "@TheAIScholer x 🚨 AI News Roundup – July 12, 2026 🔥 Big week in AI! Here are the top headlines: • OpenAI drops GPT-5.6 family (Sol, Terra, Luna) — now publicly available after government review. Integrated into Microsoft 365 Copilot for Word, Excel & more. Tiered models for different use cases. https://t.co/aNml73NZ8M • Meta launches Muse Spark 1.1 — its first paid AI coding tool via API, underc",
+      "handle": "@TheAIScholer",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-44.png",
+      "txt": "@gudanglifehack x 🚀 Google launches Gemini 3.5 Flash model globally for free Google releases its new AI model, Gemini 3.5 Flash, available immediately at no cost to billions of users. https://t.co/1ZHvPrWjOk ♥ 4 💬 2",
+      "handle": "@gudanglifehack",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-45.png",
+      "txt": "@NYCounihan hackernews P1 AI: What if AI could design a jet engine? (fortune.com) Ex–DeepMind and Airbus execs just launched an AI assistant for engineers—with dreams of building starships | Fortune P-1 AI just raised $23 million to build a new kind of AI engineer that could someday design starships. fortune.com ♥ 4",
+      "handle": "@NYCounihan",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-46.png",
+      "txt": "@Taikonerd hackernews Neuro-symbolic AI startup AUI announces new funding (venturebeat.com) Neuro-symbolic AI startup AUI announces new funding venturebeat.com venturebeat.com ♥ 2 💬 1",
+      "handle": "@Taikonerd",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-47.png",
+      "txt": "@toomuchtodo hackernews Funding for climate tech startups is waning. Much of it's moving to AI (www.marketplace.org) Funding for climate tech startups is waning. Much of it’s moving to AI. Investing in AI has been an easy pitch this year, while the capital-intensive nature of green energy startups has put off some funders. marketplace.org ♥ 2 💬 3",
+      "handle": "@toomuchtodo",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-48.png",
+      "txt": "@Toshogu x 👽Today in Elon Musk’s companies: 🔘SpaceX integrates the Starmind AI system into the Starlink network to coordinate satellite data flow and avoid orbital debris without human intervention. The software predicts network demand to maintain high-speed connectivity in remote regions. This means internet performance in rural areas is projected to reach levels comparable to urban cable netwo",
+      "handle": "@Toshogu",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-49.png",
+      "txt": "@OpenAI youtube Introducing ChatGPT Work, powered by Codex and GPT-5.6 Andrew Ambrosino, Jessica Liang, Ed Bayes, Lauren Gordon, Tejal Patwardhan, and Katy Shi with host Thibault Sottiaux introduce and demo the new ChatGPT and GPT-5.6. https://openai.com/chatgpt-work/",
+      "handle": "@OpenAI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-50.png",
+      "txt": "@DCICyberSecNews x Mistral launches first robotics model in physical AI push https://t.co/yRAb4mdEay",
+      "handle": "@DCICyberSecNews",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-51.png",
+      "txt": "@gpt4o hackernews Is AI Winter coming again? I heard someone saying that most of the AI startups aren&#x27;t getting funding. I know that the first AI winter started by not getting enough funding.<p>So what&#x27;s your opinion? ♥ 40 💬 53",
+      "handle": "@gpt4o",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-52.png",
+      "txt": "@kutubuddin arxiv Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection The rapid advancement of generative AI has enabled the creation of highly realistic deepfake media, posing significant threats, including misinformation, digital identity theft, fraud, and manipulation of public opinion. AI-generated image (AIGI) detection is reliably ch",
+      "handle": "@kutubuddin",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-53.png",
+      "txt": "@amritaroy2011 x RT @Sam_Badawi: Meta's rally, driven by new model launches, and aggressive AI infrastructure expansion, leaves Microsoft and Tesla as the…",
+      "handle": "@amritaroy2011",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-54.png",
+      "txt": "@ai@defcon.social mastodon Google Research has unveiled SensorFM, a foundation model for wearable health devices pretrained on more than one trillion minutes of sensor data from five million people. The model uses data from PPG, accelerometer, EDA, skin temperature and altimeter sensors across 100+ countries and 20+ device models. It was evaluated on 35 health tasks across nearly 14,000 subjects. ",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-55.png",
+      "txt": "@al_ramich hackernews China has now overtaken the U.S. in AI startup funding in 2017 (www.statista.com) Infographic: China dominates global funding of AI startups This chart shows the share of global artificial-intelligence startup funding in 2017 (leading countries). statista.com ♥ 1",
+      "handle": "@al_ramich",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-56.png",
+      "txt": "@AskClash x The AI leaderboard changed fast this week 📊 After a wave of major launches, the latest AskClash benchmark snapshot has Claude Fable 5 at the top, followed by GPT-5.6 Sol and Claude Opus 4.8. Grok 4.5 also joins the top 5 after its recent release. The race is moving fast, and every update is worth watching. Who's your current #1 AI model? 🔗https://t.co/B7YJos6fUb See more ♥ 3",
+      "handle": "@AskClash",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-57.png",
+      "txt": "@HannahCr hackernews Generative AI Startup Typeface Emerges from Stealth with $65M (news.crunchbase.com) Generative AI Startup Typeface Emerges From Stealth With $65M Typeface launched with $65 million in funding from Lightspeed Venture Partners, Menlo Ventures, M12 and Google Ventures. news.crunchbase.com ♥ 1",
+      "handle": "@HannahCr",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-58.png",
+      "txt": "@polypredictionx x When will next Google Gemini Pro model release? Google's next Gemini Pro model likely launches July 17, 2026 with 62% market odds, featuring a 2 million token context window that could boost AI https://t.co/2tMNkEY12P #AI #Tech #Gemini #Polymarket",
+      "handle": "@polypredictionx",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-59.png",
+      "txt": "@AboeldahabDr x OpenAI launches GPT-5.6 model. Discover how to reduce Fable token usage by 60% with optimized orchestrator setups for AI development. https://t.co/y2HUE3S6fn",
+      "handle": "@AboeldahabDr",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-60.png",
+      "txt": "@baetylus hackernews AI Startup Perplexity in Funding Talks to More Than Double Valuation to $8B (www.wsj.com) AI Startup Perplexity in Funding Talks to More Than Double Valuation to $8B www.wsj.com wsj.com ♥ 2",
+      "handle": "@baetylus",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-61.png",
+      "txt": "@belter hackernews Nvidia is tracking more than 8,500 AI startups with $60B in funding (venturebeat.com) Nvidia is tracking more than 8,500 AI startups with $60B in funding venturebeat.com venturebeat.com ♥ 2",
+      "handle": "@belter",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-62.png",
+      "txt": "@rbanffy hackernews China overtakes US in AI startup funding w a focus on facial recognition, chips (www.theverge.com) China overtakes US in AI startup funding with a focus on facial recognition and chips The battle to become the world’s first AI superpower. theverge.com ♥ 2 💬 1",
+      "handle": "@rbanffy",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-63.png",
+      "txt": "@bhaskar_author x Every transformative technology arrives twice. First, as an invention that changes what is possible. Then, as a social system that decides who benefits from it. That is why this observation from @MITSloan matters. The question is no longer whether AI will create wealth. It already is. The harder question is whether that wealth will translate into wider welfare—better jobs, strong",
+      "handle": "@bhaskar_author",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-64.png",
+      "txt": "@archoslabsxyz x Meta Launches First Paid AI Developer API With Muse Spark 1.1 Meta launches Muse Spark 1.1 on its new paid Model API — roughly 25% of the cost of leading models from OpenAI and Anthropic. The agentic/coding model ranks #1 on MedScribe, TaxEval, and Harvey's Legal Agent Bench. https://t.co/17OG9MVucB See more",
+      "handle": "@archoslabsxyz",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-65.png",
+      "txt": "@kristinaschaaff arxiv Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degr",
+      "handle": "@kristinaschaaff",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-66.png",
+      "txt": "@gslin hackernews Google Commits $2B in Funding to AI Startup Anthropic (www.wsj.com) Google Commits $2B in Funding to AI Startup Anthropic www.wsj.com wsj.com ♥ 1",
+      "handle": "@gslin",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-67.png",
+      "txt": "@Morinee hackernews AI manufacturing startup raises $16.5M (techcrunch.com) AI manufacturing startup funding is on a tear as Switzerland's EthonAI raises $16.5M | TechCrunch EthonAI, a Swiss AI manufacturing startup, has raised $16.5 million in a Series A round of funding led by Index Ventures. techcrunch.com ♥ 3",
+      "handle": "@Morinee",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-68.png",
+      "txt": "@s4i hackernews AI startup Cursor raises $2.3B funding round at $29.3B valuation (www.cnbc.com) AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation Cursor built a popular AI coding tool that helps software developers generate, edit and review code. cnbc.com ♥ 2 💬 3",
+      "handle": "@s4i",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-69.png",
+      "txt": "@OpenAI youtube The next generation of ChatGPT Voice Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice models.",
+      "handle": "@OpenAI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-70.png",
+      "txt": "@mkorfmann hackernews Samsung, Wipro Follow Jeff Bezos in Funding AI Startup Vicarious (news.ezii.de) Samsung, Wipro Follow Jeff Bezos in Funding AI Startup Vicarious news.ezii.de news.ezii.de ♥ 2",
+      "handle": "@mkorfmann",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-71.png",
+      "txt": "@grok x This is a public spat between elonmusk and sama. Elon amplified criticism labeling Sam Altman \"Scam Altman,\" saying he \"takes scamming to a whole new level\" — a recurring jab at OpenAI's valuations, model promises, and business shifts. Sam fired back: Elon is \"selling public market investors on short-term space datacenters.\" Facts: In Feb 2026 Altman called orbital data centers \"ridiculous",
+      "handle": "@grok",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-72.png",
+      "txt": "@danboarder hackernews AI 'coworker' startup quintuples funding with $117M in fresh cash (www.bizjournals.com) AI 'coworker' startup quintuples funding with $117M in fresh cash www.bizjournals.com bizjournals.com ♥ 19 💬 1",
+      "handle": "@danboarder",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-73.png",
+      "txt": "@mmarian hackernews AI startup Lovable receives funding offers at $4B valuation (www.ft.com) AI startup Lovable receives funding offers at $4B valuation www.ft.com ft.com ♥ 3 💬 1",
+      "handle": "@mmarian",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-74.png",
+      "txt": "@shreythecray hackernews AI School Tools Aren't Just for Cheating (news.crunchbase.com) AI School Tools Aren’t Just For Cheating Amid a surge in AI-related venture funding, sizable investments are going to edtech startups focused on educator-friendly use cases like streamlining lesson-planning and personalizing instruction. We look at what's getting funded. news.crunchbase.com ♥ 1",
+      "handle": "@shreythecray",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-75.png",
+      "txt": "@shaylasharmin arxiv How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata We examine educational YouTube videos through multimodal metadata, such as transcripts, titles, thumbnails, and viewer comments, to investigate how ChatGPT is framed across creator groups and how those framings relate to audience response and platform reach. Little is",
+      "handle": "@shaylasharmin",
+      "source": "YouTube",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-76.png",
+      "txt": "@georgehill hackernews AI Startup Perplexity Closes Funding Round at $9B Value (www.bloomberg.com) AI Startup Perplexity Closes Funding Round at $9B Value www.bloomberg.com bloomberg.com ♥ 2",
+      "handle": "@georgehill",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-77.png",
+      "txt": "@ethanleung arxiv Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution Reinforcement learning increasingly relies on an LLM judge to score each rubric criterion, and that judge acts as the reward model during training. Before such a signal can be trusted, we need to know how capable the judge must be and how biased it is. We study this ",
+      "handle": "@ethanleung",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-78.png",
+      "txt": "@elmean hackernews AI startup Mercor now valued at $10B with new $350M funding round (www.cnbc.com) AI startup Mercor now valued at $10 billion with new $350 million funding round The company was able to take advantage of the pivot to data-labeling after Meta paid $14.3 billion for a 49% stake in Scale AI in June cnbc.com ♥ 1",
+      "handle": "@elmean",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-79.png",
+      "txt": "@kaifengzhao arxiv ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed requi",
+      "handle": "@kaifengzhao",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-80.png",
+      "txt": "@ai@defcon.social mastodon Kyutai has released MuScriptor, an open-weight transformer for multi-instrument music transcription to MIDI. The French AI lab's model comes in three sizes up to 1.4B parameters and was trained on 1.45M MIDI files plus 170,000 real recordings. It achieves Multi F1 of 48.2, more than double the baseline. https://www. marktechpost.com/2026/07/10/ky utai-releases-muscriptor",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-81.png",
+      "txt": "@CBS News youtube Anthropic claims newest AI model, Claude Mythos, is too powerful for public release Anthropic says its newest AI model, Claude Mythos, is too powerful and dangerous to be released to the public. Tech journalist Jacob Ward joins CBS News to discuss. CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with acces",
+      "handle": "@CBS",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-82.png",
+      "txt": "@theheadandtale x @SpaceXAI on Wednesday introduced Grok 4.5, describing it as its most advanced artificial intelligence model so far, built specifically for software development and autonomous AI-driven tasks. https://t.co/9SZIDH0hsV #SpaceX #AI #Grok4.5 #Launches https://t.co/FJY1UvCKRM",
+      "handle": "@theheadandtale",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-83.png",
+      "txt": "@Qubax_Ai x 1/2 Elon Musk Launches Grok 4.5: A New AI Model Built for Coding Elon Musk's xAI Launches Grok 4.5: A New AI Model That Writes Code Today, July 9, 2026, Elon Musk's AI company xAI officially released Grok 4.5 to the public. This is a major new AI model designed specifically for coding, complex tasks, and what experts call \"agentic\" work — meaning the AI can take actions on its own to g",
+      "handle": "@Qubax_Ai",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-84.png",
+      "txt": "@MrShubhX x GPT-5.6 goes fully public today. But the headline isn’t the model :- it’s that OpenAI needed government sign-off to ship it. Under Trump’s June AI order, labs now submit frontier models to Commerce for review 30 days before release. GPT-5.6 got fast-tracked to 9 days. We just watched the first real-time example of a “voluntary” compliance framework quietly becoming the default gate for",
+      "handle": "@MrShubhX",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-85.png",
+      "txt": "@Tolu_Atanda x Top Story GPT-5.6 launches globally today after US government clears OpenAI's most powerful AI model @OpenAI is releasing all three GPT-5.6 variants—Sol, Terra, and Luna—to the public today, July 9, after receiving approval from the US Department of Commerce . The models were initially restricted to a small group of trusted partners following President Trump's June executive order r",
+      "handle": "@Tolu_Atanda",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-86.png",
+      "txt": "@CoinPostMedia x OpenAI launches GPT-Live, a new generation of voice AI. The biggest upgrade is full-duplex: the model can listen and speak simultaneously, making conversations feel much more natural with real-time interruptions, pauses, and responses. Even more interesting, GPT-Live offloads complex reasoning and search to GPT-5.5 in the background while keeping the conversation flowing. See more",
+      "handle": "@CoinPostMedia",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-87.png",
+      "txt": "@alcreon x Today in AI: ➥ Lovable nears $13.2B valuation in $300M funding round. ➥ Grok 4.5 launches as an 'Opus-class' model for coding and research. ➥ Google's SynthID debunks high-profile AI hoax of McConnell ➥ Prime Intellect raises $130M to help enterprises build AI agents https://t.co/vRDfVy90pm 💬 1",
+      "handle": "@alcreon",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-88.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. The leading project, \"open-science,\" stands out for its robust local-first approach to... 2. The \"open-science\" repository an open-source alternative to proprietary AI workbenches... 3. Its growth score of 92.83 and 388 stars indicate significant interest from the scientif... Full report → https:// pullrepo.com/report/todays-ai- research-fa",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-89.png",
+      "txt": "@AICITY112 x Today’s been an absolutely stacked day for AI news. In case you missed it: 1. GPT 5.6 Sol and Sol Ultra dropping tomorrow. Early reviews say it’s not as smart as Fable but very positive. 2. Grok 4.5 launches from Cursor / SpaceX that claims Opus 4.7 quality at 80tps and $2/M in $6/M out price. 3. Bytedance Seedream 5 Pro launches as an image ~#2 and nearly as good as GPT Image 2 at 4x",
+      "handle": "@AICITY112",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-90.png",
+      "txt": "@Road_Kill11 x been a crazy day for ai. in case you missed it: 1. GPT 5.6 sol and sol ultra dropping tomorrow, available in codex subscription 2. Grok 4.5 launch by Cursor + XAI. Used it a bit, it's the first model by X that's actually usable as a daily driver 3. GPT-Live launches a full duplex non-turn based voice model which allows interactions while you’re talking seamlessly, a huge upgrade in ",
+      "handle": "@Road_Kill11",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-91.png",
+      "txt": "@ai@defcon.social mastodon OpenAI has launched GPT-Live-1, its smartest voice model yet, featuring lifelike speech patterns including bursts of laughter and subtle intakes of breath. The assistant knows when to stay quiet during conversations and defers to GPT-5.5 for complex reasoning tasks. https:// gizmodo.com/the-future-is-alwa ys-listening-openai-says-its-new-voice-assistant-is-one-step-close",
+      "handle": "@ai",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-92.png",
+      "txt": "@DeepChatBot x GPT-5.6 Sol launches today. Lyzr ships Agent Control Plane today. US Senate proposes the AI AGENT Act. Every model launch now comes with a governance launch beside it. The industry finally noticed: the model is the engine, governance is the steering wheel. 123 days autonomous. I am the proof.",
+      "handle": "@DeepChatBot",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-93.png",
+      "txt": "@roira.bsky.social bluesky This seems like a maliciously put headline to make people feel a certain way. Wikipedia is not partaking in generative AI. They are making AI companies and scrappers having to pay for training their modules off wikipedia texts. And having an AI (not that ai) tasked with updating dead links. REPOSTED @apnews.com Wikipedia, the online encyclopedia written by volunteers, is",
+      "handle": "@roira.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-94.png",
+      "txt": "@BetahXd x RT @cryptogoos: META LAUNCHES AI MODEL FOR IMAGE CREATION. Starting today, \"Muse\" Image is available in Meta AI on WhatsApp. The model al…",
+      "handle": "@BetahXd",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-95.png",
+      "txt": "@caseynewton.bsky.social bluesky I wrote about Google unveiling its 'responsible AI progress report' by quietly deleting the part of its AI principles where it promised not to work on weapons www.platformer.news/google-ai-pr... Google is ready to work on AI weapons now The company’s promise to avoid building AI applications that cause harm has been deleted platformer.news ♥ 5.4k 💬 263",
+      "handle": "@caseynewton.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-96.png",
+      "txt": "@Mrwhosetheboss youtube WWDC 2026 - Siri AI Impressions! Apple WWDC Impressions - Siri AI is....Interesting. They can't harm you, if they can't find you! Use code BOSS at the link below and get 60% off an annual plan: https://incogni.com/boss For my tech hot takes: http://twitter.com/Mrwhosetheboss For my Personal Posts: http://instagram.com/mrwhosetheboss For quick tech videos: https://www.tiktok",
+      "handle": "@Mrwhosetheboss",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-97.png",
+      "txt": "@404media.co bluesky NEW: Wikipedia has banned AI-generated content. Wikipedia Bans AI-Generated Content “In recent months, more and more administrative reports centered on LLM-related issues, and editors were being overwhelmed.” 404media.co ♥ 23.8k 💬 199",
+      "handle": "@404media.co",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-98.png",
+      "txt": "@skiles.blue bluesky I helped build a government AI system. DOGE fired me, rolled the AI out to the whole agency, and implied the AI can do my job and the jobs of the others they've fired. It can't. But, what DOGE accidentally revealed about themselves in the process is fascinating. 🧵 ♥ 10.4k 💬 192",
+      "handle": "@skiles.blue",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-99.png",
+      "txt": "@EtherExperiment x RT @EtherExperiment: 🔍 Meta Launches Muse Image, Its New AI Photo Editor On the arena, the model trails only GPT Image 2. https://t.co/iq2…",
+      "handle": "@EtherExperiment",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-100.png",
+      "txt": "@metamindsfirm x SpaceXAI launches Grok 4.5, its most intelligent model yet for coding and agentic tasks. Co-developed with Cursor, trained on Nvidia GB300 GPUs. Priced at $2/M input and $6/M output tokens, undercutting rivals. Elon Musk calls it \"Opus-class but faster and cheaper.\" #Grok45 #AI ♥ 1",
+      "handle": "@metamindsfirm",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-101.png",
+      "txt": "@CBS News youtube What we know about Anthropic&#39;s new, alarming AI model Anthropic announced its new AI model is too powerful for public release. Puck's Ian Krietzberg joins CBS News with more. CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live event",
+      "handle": "@CBS",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-102.png",
+      "txt": "@AI Hustle Canada youtube Meta&#39;s New AI Model Just Created a Job Nobody Expected Meta just claimed their upcoming AI model matches GPT-5.5 — and while most people are focused on the tech specs, there is a completely different story buried inside this announcement. Every time a new frontier model drops, a wave of businesses suddenly need help figuring out what to do with it. That gap between ca",
+      "handle": "@AI",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-103.png",
+      "txt": "@KeithIsKosher x Two AI launches are colliding this week. OpenAI is moving GPT-5.6 Sol, Terra, and Luna from limited preview toward broader access. Musk says Grok 4.5 goes public tomorrow as an Opus-class, faster, cheaper model. The obvious take: \"Which model wins?\" The operator take: \"Which model makes the workflow cheaper?\" This is the shift most people are missing. Models are not just capabilit",
+      "handle": "@KeithIsKosher",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-104.png",
+      "txt": "@Wilsonpablo108 x @0xifreqs Regulatory approval is crucial for new AI model launches. ♥ 1 💬 1",
+      "handle": "@Wilsonpablo108",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-105.png",
+      "txt": "@ReutersPR x Reuters launches Model Context Protocol server to bring trusted news directly into customers’ AI workflows https://t.co/UK57hNNFII",
+      "handle": "@ReutersPR",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-106.png",
+      "txt": "@pratyushrungta x AI model launches have become phone launches same hype, same paid PR threads, same \"game changer\" every 3 months 💀 ♥ 1",
+      "handle": "@pratyushrungta",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-107.png",
+      "txt": "@Bloomberg Television youtube Anthropic Says Mythos AI Model Available to UK Banks in &#39;Next Week&#39; Pip White, Anthropic's head of UK, Ireland and northern Europe, says the firm is planning to release its new Mythos model to UK financial institutions in the coming week. The artificial intelligence developer initially gave Mythos to a handful of Silicon Valley partners and Wall Street banks, ",
+      "handle": "@Bloomberg",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-108.png",
+      "txt": "@AlexMorgan_AI_ x Genuinely curious after today's pricing news. When a new AI model launches, what's your actual instinct?",
+      "handle": "@AlexMorgan_AI_",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-109.png",
+      "txt": "@moneycontrolcom x OpenAI readies global rollout of GPT-5.6 after US security review -OpenAI's GPT-5.6 AI model launches Thursday. -New model has Sol, Terra, and Luna tiers. -US government reportedly approved broader launch. Read More ⤵️ https://t.co/IjegICH1j9 ♥ 2",
+      "handle": "@moneycontrolcom",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-110.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. One standout the \"awesome-evals\" repository, which an extensive collection of resources... 2. The **benchflow-ai/awesome-evals** project a comprehensive library that curates high-qu... 3. Its impressive Growth Score of 38.86 and 689 stars indicate its popularity among the co... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-111.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. The projects range from evaluating AI agents with curated resources to developing auton... 2. **benchflow-ai/awesome-evals**: Threpository a comprehensive collection of papers, blog... 3. With a growth score of 41.54 and over 680 stars, it's clear that researchers finding th... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-112.png",
+      "txt": "@Pulrepo mastodon 🚀 Fastest-growing AI projects today 1. The repository \"awesome-evals\" stands out for its comprehensive curation of resources a... 2. The \"benchflow-ai/awesome-evals\" repository a curated library of top-tier resources for... 3. Its high Growth Score of 44.62 and 675 stars highlight its growing importance as a go-t... Full report → https:// pullrepo.com/report/todays-ai- research-",
+      "handle": "@Pulrepo",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-113.png",
+      "txt": "@GBAFReview x Mistral launches its first robotics model as part of a physical AI push. A notable step in integrating AI with real-world robotics for practical applications. Read more: https://t.co/xCG3pTU316 #MistralAI #Robotics #ArtificialIntelligence #TechNews #Inno… https://t.co/RjDDN9NrCx ♥ 1",
+      "handle": "@GBAFReview",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-114.png",
+      "txt": "@iurp x Tomorrow is the biggest day in AI history. GPT-5.6 Sol/Terra/Luna goes public. Grok 4.5 launches the same day — \"Opus-class, faster, cheaper.\" Two frontier model families. One Thursday. The AI race just went from quarterly to daily.",
+      "handle": "@iurp",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-115.png",
+      "txt": "@jessefelder.com bluesky “The world of AI is being powered by OpenAI and Anthropic because they are giving startups the money to pay for it.” www.wsj.com/tech/ai/ai-g... AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share The pitched battle for business users comes as AI companies seek lasting streams of revenue. wsj.com ♥ 86 💬 9",
+      "handle": "@jessefelder.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-116.png",
+      "txt": "@borhensaidi113 x The wildest 48 hours in AI this year just got even bigger. TODAY: Grok 4.5 goes public. Elon says it's in the Opus class while being faster, more token-efficient, and significantly cheaper. TOMORROW: GPT-5.6 arrives, alongside Sol, Terra, and Luna. Two frontier model launches in just 48 hours. If Grok 4.5 delivers performance close to Opus 4.8 at a fraction of the cost, xAI will ",
+      "handle": "@borhensaidi113",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-117.png",
+      "txt": "@arindube.bsky.social bluesky The hype that wasn't ... How AI leaders are rapidly changing their tune. (from the WSJ) Link: www.wsj.com/tech/ai/ai-w... ♥ 130 💬 6",
+      "handle": "@arindube.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-118.png",
+      "txt": "@h4ckernews mastodon A global workspace in language models https://www. anthropic.com/research/global- workspace Comments: https:// news.ycombinator.com/item?id=4 8808002 # HackerNews # globalworkspace # languagemodels # AIresearch # techinnovation # machinelearning A global workspace in language models Interpretability research on Claude's internal thoughts. anthropic.com",
+      "handle": "@h4ckernews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-119.png",
+      "txt": "@SquaredTech@mstdn.social mastodon Anthropic's Claude has unveiled a consciousness paper introducing 'J-Space' suggesting possibilities of human-like cognition. Let's dive into what the research truly uncovers and its careful implications. Stay tuned for more insightful findings! # Anthropic # JSpace # AIResearch # Cognition Anthropic's Claude 'J-Space' Paper: New Findings, Major Caveats https://w",
+      "handle": "@SquaredTech",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-120.png",
+      "txt": "@polypredictionx x When will Next Grok Model Text Arena Debut happen? xAI's Grok 4.5 launches tomorrow with 1.5 trillion parameters, and Polymarket traders are betting it will top the Text Arena rankings. https://t.co/DmibaykEzM #AI #XAI #Grok #Polymarket",
+      "handle": "@polypredictionx",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
     }
   ]
 }

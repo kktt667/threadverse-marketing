@@ -1,0 +1,1160 @@
+{
+  "feed": "\"Honest founder stories with engagement",
+  "cards": [
+    {
+      "file": "card-01.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "grounded",
+      "topic": "founders",
+      "title": "Unicorn-or-bust is VC math, not your job",
+      "caption": "A small profitable exit only reads as failure in portfolio math. A VC needs one 100x; you need one good outcome. Borrowing their loss function is how founders talk themselves out of perfectly good wins.",
+      "quote": "Not every founder wants a unicorn. Sometimes a small profitable product with an exit is already a huge win.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-02.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "Validation starts when your customer gets narrower",
+      "caption": "Day 2 and he's already swapped guessing for interviews. The tell of real validation: the ICP shrinks — 'orgs with high key-person dependency' beats 'busy professionals.' If your customer only fits in a vague sentence, you haven't validated anything.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-03.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "topic": "founders",
+      "title": "The founder shouldn't be the hero of the founder story",
+      "caption": "Make the decision the protagonist. Heroes can't be argued with; decisions can be judged, copied, falsified — which is exactly why decision-led stories earn trust and bio-flexes don't.",
+      "quote": "The founder should not be the hero of every founder story. Make the decision the protagonist.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "fluff",
+      "topic": "founders",
+      "title": "RT self-promo with no lesson",
+      "caption": "Retweet of own 'documenting our journey' post. No transferable take, no story content on the card.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-05.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "blunt",
+      "topic": "founders",
+      "title": "Nobody cares that you 'always loved health food'",
+      "caption": "Most brand stories are founder bios with extra steps. Story isn't history — it's tension, resolution, product. The customer's problem is the plot; you're a supporting character at best.",
+      "quote": "Story isn't history it's tension, then resolution, then product.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-06.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "revealing",
+      "topic": "founders",
+      "title": "448 likes for switching apps over a founder story",
+      "caption": "Feature parity is table stakes; the story is the switch trigger. People didn't leave Goodreads for better shelves — they left to root for a founder. A distribution lesson hiding in a book post.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "social-currency",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-07.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "fluff",
+      "topic": "founders",
+      "title": "Reply compliment, no content",
+      "caption": "A reply saying 'I love the stories you share.' Nothing to caption — no story, no lesson.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-08.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "shill",
+      "topic": "founders",
+      "title": "Affiliate promo dressed as a revenue story",
+      "caption": "'Quiet wealth' framing plus a product pitch for Khan AI from an affiliate handle. Hustle-promo, not an honest founder story.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Podcast episode ad",
+      "caption": "Company account promoting its co-founder's podcast appearance. Ad, no in-card lesson.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-10.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "Solid open rates, zero repeat buys — here's the leak",
+      "caption": "Every email chased the next sale; not one helped the customer win with what they'd already bought. Retention isn't more selling — it's making purchase #1 succeed so purchase #2 sells itself.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-11.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "contrarian",
+      "topic": "founders",
+      "title": "The FedEx $5K blackjack story is survivorship bias",
+      "caption": "Everyone retells the bet that worked; the graveyard of founders who made the exact same bet has no biographer. It's a great story precisely because it's terrible advice.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-12.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "strategic",
+      "topic": "founders",
+      "title": "Vertical AI's moat isn't workflow. Cornered resources",
+      "caption": "The Bitter Lesson, founder edition: general models keep eating the workflow you wrapped. If your moat is UX on someone else's API, you're a feature on a countdown — proprietary data or distribution, or bust. The kind of essay worth a feed slot.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-13.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "fluff",
+      "topic": "founders",
+      "title": "Fan post about a podcast",
+      "caption": "'Loved listening to you both' plus a link. No lesson, no story on the card.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-14.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "linkedin",
+      "topic": "founders",
+      "title": "Layoff-to-consulting resilience post",
+      "caption": "'Resilient reinvention' funnel post for a consulting brand. LinkedIn-fluff with a CTA, not a tactical lesson.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-15.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Video-clip promo, hashtag-stuffed",
+      "caption": "'Some fail but you keep trying' + watch-the-episode links. Generic motivation, one of several near-identical promos in this batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-16.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "honest",
+      "topic": "founders",
+      "title": "Fun for you but not a biz",
+      "caption": "The brutal startup realisation: enjoying the build isn't demand. If you're the only user who would pay, you've got a hobby with a burn rate — and passion makes that harder to see, not easier.",
+      "quote": "Startup founder realisations: fun for you but not a biz",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-17.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Near-duplicate episode promo",
+      "caption": "'Handle with care - a fragile startup!' Same show, same format as the other clip promos in this batch. No in-card lesson.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-18.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Near-duplicate episode promo",
+      "caption": "'Expectations blown by 10x' teaser with links and hashtags. No transferable content on the card itself.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-19.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Near-duplicate episode promo",
+      "caption": "First-time VC fundraising teaser, watch-the-episode format. Duplicate of the same show's other cards.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-20.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "sober",
+      "topic": "founders",
+      "title": "Founding is 'a high none other' — that's the trap",
+      "caption": "Om Malik names the addiction nobody audits: highs demand repetition. Founders who chase the feeling restart forever; the boring ones who outgrow it end up running actual companies.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "woo",
+      "topic": "founders",
+      "title": "'The universe points you' motivation post",
+      "caption": "'There's never a perfect time, the universe points you towards your calling' — manifest-y motivation, wrong avatar, no mechanism.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-22.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Near-duplicate episode promo",
+      "caption": "'How to sell your startup in a shaky market?' — teaser link card, duplicate format of the same show's other posts.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-23.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Near-duplicate episode promo",
+      "caption": "'You can speak Chinese, right?' burnout episode teaser. Same promo template as the rest of the series in this batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-24.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "Ghostwriting service pitch",
+      "caption": "ALL-CAPS infographic selling ghostwriting to founders. Service ad, not an honest founder story.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-25.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "Content-farm brand-story link",
+      "caption": "'Hustle, heart, and a smart niche' sock-company story from a brand-stories site. Promo framing, hustle language, no in-card mechanism.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-26.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "Interview users like a journalist: shut up",
+      "caption": "Journalists extract truth because they don't pitch. Founders contaminate every user interview by selling mid-question — then ship the answers they paid for. Speak less and the roadmap writes itself.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-27.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "practical",
+      "topic": "founders",
+      "title": "Your first 10 users are a channel, not a milestone",
+      "caption": "Most solo founders stall right after the first users arrive. The unlock: ask 'who else struggles with this?' at the exact moment value lands. Timing the referral beats any growth hack you bolt on later.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-28.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "bare",
+      "topic": "founders",
+      "title": "Headline-only link card",
+      "caption": "'Startup founder lessons learned in 2014' — a bare Medium link. Nothing to take a position on.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-29.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "brutal",
+      "topic": "founders",
+      "title": "Nobody posts the version that embarrassed them",
+      "caption": "So everyone benchmarks their v1 against strangers' v12 and quits early. Survivorship bias isn't a stats footnote — it silently mis-sets your quality bar. The embarrassing first attempt IS the process working.",
+      "quote": "nobody posts about the version that embarrassed them",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-30.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "bare",
+      "topic": "founders",
+      "title": "Headline-only link card",
+      "caption": "2013 entrepreneur-lessons link with no visible content. Summary-only, fails the take test.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-31.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "cautionary",
+      "topic": "founders",
+      "title": "NewsTilt's post-mortem: you can't outsource conviction",
+      "caption": "A journalism startup whose founders, by their own post-mortem, didn't care about journalism — and users smelled it in weeks. You can outsource code and design; you can't outsource caring about the problem.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "parody",
+      "topic": "founders",
+      "title": "'Vision. Execution. Domination.' joke site",
+      "caption": "'Supreme Founder — lessons for aspiring overlords.' Parody branding site, no honest lesson to extract.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-33.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "brutal",
+      "topic": "founders",
+      "title": "Everyone announces the round. Nobody logs the 60 nos",
+      "caption": "Kapwing's honest version: fundraising is terrible by design — you leak all the signal, investors leak none. It's a 2%-close sales pipeline, not a verdict on your idea. The honest write-ups surface when your reading filters for signal.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "bare",
+      "topic": "founders",
+      "title": "Headline-only video link",
+      "caption": "Tony Hsieh lessons YouTube link with no visible substance. Nothing beyond the headline to work with.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-35.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "practical",
+      "topic": "founders",
+      "title": "Answering the same question 3 times? That's a doc",
+      "caption": "Infra founder finally writes down the stories he keeps re-telling: staying up, passing audits, scaling without rot. Repeated 1:1 advice is unpaid documentation — the third ask is your table of contents.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "bare",
+      "topic": "founders",
+      "title": "Headline-only video link",
+      "caption": "'Founder's Lessons: Lisha Li, CEO of Rosebud AI' — bare YouTube link card, no extractable take.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-37.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "fluff",
+      "topic": "founders",
+      "title": "'Most inspirational stories in fintech' reply",
+      "caption": "Context-free reply name-dropping Plaid/Column/Lead Bank. Inspiration framing, no lesson on the card.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-38.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "knowing",
+      "topic": "founders",
+      "title": "Selling dev tools: the hardest easy market",
+      "caption": "Your users are your peers, and peers expect free. Devtools founders learn distribution twice — once for the developers who love it, once for whoever actually signs the invoice. Mindscape's lessons age well.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-39.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "reframing",
+      "topic": "founders",
+      "title": "Founder sales is a debuggable pipeline",
+      "caption": "Engineers treat sales as a personality trait they weren't shipped with. It's a system: instrument it, find the drop-off, iterate — the same loop you run on code. Two B2B startups of proof, 153 HN upvotes of agreement.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-40.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "raw",
+      "topic": "founders",
+      "title": "'This. Shit. Is. Hard' — the bill nobody prices in",
+      "caption": "He priced the financial risk of leaving the cushy design role. The real invoice was identity: no title, no team, no applause. Runway math is easy — status withdrawal is the part that actually breaks people.",
+      "quote": "This. Shit. Is. Hard",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-41.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "contrarian",
+      "topic": "founders",
+      "title": "The 'have-not' region has Canada's most confident founders",
+      "caption": "3,000-founder survey: Atlantic Canada — written off for decades — posts Canada's highest founder confidence. Nobody's there for the scene, so everyone's there for the business. My reader pulled this off Bluesky.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-42.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "wry",
+      "topic": "founders",
+      "title": "Board chair founded Acclaim. Turok stories twice a week",
+      "caption": "A founder's board chair was Acclaim's founder — Turok stories on loop, twice a week. Ex-founders on boards govern from the highlight reel: you don't get oversight, you get reruns. Pick advisors who are still curious.",
+      "quote": "I had to hear about Turok once or twice a week",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-43.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "broken",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-44.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "brutal",
+      "topic": "founders",
+      "title": "He invited the VC in. The VC decided he should go",
+      "caption": "Founder invites a VC in; the VC decides it's time for the founder to leave. Taking the money means hiring a boss whose math beats your equity — board control compounds faster than founder shares.",
+      "quote": "You can fight gravity but cannot beat it",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "listicle",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "thin",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "listicle",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-48.png",
+      "keep": true,
+      "score": 5,
+      "vibe": "sober",
+      "topic": "founders",
+      "title": "Failure postmortems: the only startup content with no spin",
+      "caption": "'Why thinkpanda.com failed' — an autopsy, not a victory lap. Postmortems are the one startup genre where the incentive to lie is gone; ten of these teach more than a hundred launch threads. Found in my Threadverse queue.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "social-currency",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-49.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "fluff",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-50.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "thin",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-52.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "thin",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-53.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "Product Hunt gives you a day, not a channel",
+      "caption": "Buried in a Show HN: after the Product Hunt spike, visibility flatlines. Launches are events; distribution is a system — a list of launch sites is a calendar, not a channel. My feed reader flagged this one.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-54.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "raw",
+      "topic": "founders",
+      "title": "3 years of nights and weekends. $0. Now what?",
+      "caption": "Ask HN: three years of nights-and-weekends startups, zero dollars, and now every idea on the list feels radioactive. The burnout isn't from the work — it's from shipping into silence. Traction problems wear motivation-problem costumes.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-55.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "honest",
+      "topic": "founders",
+      "title": "Four products to learn one boring lesson",
+      "caption": "'Demand comes first' costs nothing to read and four dead products to believe. Builders don't skip validation out of ignorance — building feels like progress, asking feels like rejection. The lesson is emotional, not informational.",
+      "quote": "I built 4 products before learning the boring SaaS lesson: demand comes first",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-56.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "skeptical",
+      "topic": "founders",
+      "title": "Indie revenue screenshots are marketing, not data",
+      "caption": "A builder pulled indie revenue from real signals instead of self-reported screenshots — estimates labeled. Build-in-public MRR posts are ads in a candor costume; they select for storytellers, not operators. Came up in my curated feed.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "intro",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-58.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "earnest",
+      "topic": "founders",
+      "title": "A 13-year-old just found the 'one more feature' trap",
+      "caption": "13-year-old dev, two micro-SaaS: 'I kept telling myself one more feature would bring traction.' Feature work is how builders procrastinate on distribution — the trap doesn't care if you're 13 or 33.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-59.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "Tagline fix: name the user's verb, not your category",
+      "caption": "Before: 'Marketing database for startups.' After: 'Explore the best places to promote your startup.' Categories describe you; verbs describe them. Users don't buy what a thing is — they buy what they get to do next.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-60.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "procedural",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-61.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-62.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "savvy",
+      "topic": "founders",
+      "title": "Why YC gives away its best startup ideas for free",
+      "caption": "YC publishes 'Requests for Startups' — real problems, real demand, free. They can afford to: ideas are worthless without execution, and every builder who bites becomes their dealflow. Use the list; know whose funnel you're in.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-63.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "ironic",
+      "topic": "founders",
+      "title": "He gave up on his SaaS — and sold the boilerplate",
+      "caption": "Dev rage-quit building weekend apps over billing and auth glue, then shipped the boilerplate as the product. Half of indie hacking is this arc: the tooling detour outearns the destination. Sell the shovel you built for yourself.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-64.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "contrarian",
+      "topic": "founders",
+      "title": "Outsiders get rich on startups devs call 'too hard'",
+      "caption": "The indie bubble optimizes for easy-build SaaS; outsiders blunder into marketplaces, ecommerce, hardware — and stumble onto $$$. Knowing what's 'too hard' is how a community fences itself out of markets. Naivety is an edge.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-65.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "listicle",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-66.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "curious",
+      "topic": "founders",
+      "title": "We archive wins. Failure data just evaporates",
+      "caption": "A builder wants a public database of dead startups: name, cause of death, founder. Survivorship bias isn't a bug in startup lore — it's the genre. The most informative dataset in tech is the one nobody bothers to keep.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "participation",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-68.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "stale",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-69.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "topic": "founders",
+      "title": "MVPs ship in hours now. The moat moved to distribution",
+      "caption": "Ask HN: vibe coding collapsed build time from months to hours — so shipping fast differentiates nothing. When execution is commoditized, distribution is the scarce skill, and most builders are still optimizing the solved half.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "hype",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-71.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-73.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "promo",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-74.png",
+      "keep": false,
+      "score": 1,
+      "vibe": "buzzword",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "gimmick",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-77.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "grounded",
+      "topic": "founders",
+      "title": "The unicorn-or-dead binary is fund math, not your P&L",
+      "caption": "'Your startup doesn't need to be a unicorn' — the missing middle keeps control and profits. VCs need outliers because portfolio math demands it; you don't. A $2M/yr business is a failure to a fund and a fortune to a founder.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-79.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "ad",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "event",
+      "topic": "founders",
+      "title": "",
+      "caption": "",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    }
+  ]
+}

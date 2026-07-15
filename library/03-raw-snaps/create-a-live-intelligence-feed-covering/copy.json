@@ -1,0 +1,604 @@
+{
+  "feed": "Create a live intelligence feed covering",
+  "cards": [
+    {
+      "file": "card-01.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "ominous",
+      "topic": "ai",
+      "title": "GPT-5.6 ships — after Washington signs off",
+      "caption": "GPT-5.6 goes global only after a government green light. The model isn't the story — the precedent is: frontier releases now route through federal review, and 'voluntary' frameworks harden into gates nobody voted on.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-02.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "calculated",
+      "topic": "ai",
+      "title": "Meta's new play: sell frontier AI at cost",
+      "caption": "Zuckerberg's new flagship comes with ultra-low API pricing. Classic Meta: commoditize the layer everyone else monetizes, then earn on what sits above it. Labs selling tokens should be nervous, not impressed.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-03.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "grounded",
+      "topic": "ai",
+      "title": "Gemma 4 runs on the Pixel — no cloud, no meter",
+      "caption": "Google's Gemma 4 runs entirely on the Pixel 10's TPU. Privacy is the ad; the real shift is zero marginal cost — metered-token businesses can't compete with inference that's free after the hardware. The kind of shift a tuned feed catches early.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "promo",
+      "topic": "ai",
+      "title": "Ticker-promo healthcare AI post",
+      "caption": "Stock-promotion copy for $AIAI portfolio company; investor-bait, no technical substance, wrong avatar.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-05.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "thin",
+      "topic": "ai",
+      "title": "Grok 4.5 launch retweet",
+      "caption": "Fan-account RT of a one-line launch headline; no angle, and Grok 4.5 coverage duplicates richer cards elsewhere in the batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-06.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "The real AI race isn't at the frontier anymore",
+      "caption": "Hugging Face's CEO says most production AI already runs on open models. If true, frontier labs' revenue rests on the thin slice of tasks only they can do — and that slice shrinks with every open release. Moat, meet leak.",
+      "quote": "The real AI race may no longer be at the frontier",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-07.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "botted",
+      "topic": "ai",
+      "title": "Auto-generated repo roundup",
+      "caption": "Truncated auto-generated 'fastest-growing projects' list; near-duplicate of cards 09 and 36 in this batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-08.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "vague",
+      "topic": "ai",
+      "title": "'Non asshole funding' HN link",
+      "caption": "Intriguing phrase, but the card is a link to a screenshot with zero context — nothing to build a take on.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "botted",
+      "topic": "ai",
+      "title": "Auto-generated repo roundup (dup)",
+      "caption": "Same Pulrepo auto-roundup as card-07 with reshuffled bullets; near-duplicate.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-10.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "lean",
+      "topic": "ai",
+      "title": "8B model drives a robot with one RGB camera",
+      "caption": "Mistral's Robostral navigates from one RGB camera — no lidar, no depth stack. The story is the BOM: when perception becomes software, the expensive part of a robot stops being the sensors. Good week in the embodied-AI lane.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-11.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unlocked",
+      "topic": "science",
+      "title": "5.24M brain scans learned, zero radiology labels",
+      "caption": "NeuroVFM learned brain anatomy and pathology from 5.24M raw MRI/CT volumes — no report labels. Labels were the moat in medical AI; self-supervision just turned every hospital archive into a training set. Surfaced in my science lane.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-12.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "geopolitical",
+      "topic": "ai",
+      "title": "July 17: Gemini 3.5 Pro drops, Xi takes the AI stage",
+      "caption": "Google ships its biggest model the same day Xi opens Shanghai's AI conference in person. That's not coincidence, it's choreography — launch calendars are now instruments of statecraft, and the models are the press release.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-13.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "inverted",
+      "topic": "ai",
+      "title": "Stanford's TRACE turns agent failures into curriculum",
+      "caption": "TRACE diagnoses an agent's repeated failures, then builds RL environments targeting exactly those. That inverts evals: stop benchmarking what agents can do, start compiling what they can't into the training set. Failure logs as data.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-14.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "skeptical",
+      "topic": "ai",
+      "title": "Perplexity doubles to $8B — for a wrapper?",
+      "caption": "Perplexity's valuation doubles again while its engine is other labs' models. The market isn't mispricing the tech — it's pricing the interface. Distribution is the asset; the model underneath is just a supplier.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-15.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "sober",
+      "topic": "ai",
+      "title": "More funding won't save your AI startup",
+      "caption": "In AI, capital converts to compute, and compute buys the same GPUs your competitor rents. Money can't purchase differentiation when the whole stack is rented — which is why the funded and the scrappy keep shipping the same product.",
+      "quote": "For AI startups, more funding is often not the answer",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-16.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "thin",
+      "topic": "ai",
+      "title": "Reply-guy stack musing",
+      "caption": "One-line reply with a gesture at 'the AI stack'; no specifics, no take to sharpen.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-17.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "topic": "ai",
+      "title": "July 17 collision (dup)",
+      "caption": "Same Gemini-launch-meets-Xi story as card-12, weaker presentation; near-duplicate within batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-18.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "probing",
+      "topic": "ai",
+      "title": "Can an LLM actually critique a systems paper?",
+      "caption": "Gauntlet tests whether models can name a paper's core mechanism and surface its buried assumptions — not summarize it. Summarization was solved; structured critique is the real reading test. My arxiv lane flagged it before the summaries did.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-19.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "generative",
+      "topic": "ai",
+      "title": "MIT's robot gym is built by three AI agents",
+      "caption": "SceneSmith runs a designer, a critic and an orchestrator agent to generate 3D training scenes. Sim-to-real was never bottlenecked on physics — it was scene diversity, and that just became a prompt. Synthetic worlds are the new training data.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-20.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "recursive",
+      "topic": "ai",
+      "title": "Karpathy's repo lets models run their own research",
+      "caption": "Agents run hundreds of experiments, propose code changes, verify, iterate — and a bilevel loop now optimizes the loop itself, 5x faster. Recursive self-improvement didn't arrive with a press event. It arrived as a GitHub repo.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "topic": "ai",
+      "title": "July 17 collision (dup 2)",
+      "caption": "Third copy of the Gemini/Xi same-day story in this batch; card-12 carries it.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-22.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "pivotal",
+      "topic": "ai",
+      "title": "Bot defense is obsolete — the customers are bots now",
+      "caption": "Over half of web traffic is automated, and agentic AI makes 'block the bots' the wrong goal. The next decade of security is telling good agents from bad ones — authenticating intent, not humanity. CAPTCHA thinking is dead.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-23.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "uneasy",
+      "topic": "science",
+      "title": "Quantum neural nets inherit classical AI's attacks",
+      "caption": "Input-aware backdoors now work on QNNs — dynamic triggers, not fixed ones. Quantum ML is importing classical security debt onto hardware that barely exists yet. We're porting vulnerabilities faster than we're porting capability.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-24.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "quiet",
+      "topic": "ai",
+      "title": "Alibaba just took the top spot in AI voice",
+      "caption": "Qwen-Audio-3.0 tops the speech arena, ahead of Gemini and Sonic. Voice looks boring until you notice it's the front door for agents and calls — the modality that actually bills. China's labs are quietly winning the commercial surface.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-25.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "empty",
+      "topic": "ai",
+      "title": "Unnamed German startup at $4B",
+      "caption": "Funding headline without even a company name; nothing to take a position on, and funding cards are over-represented in this batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-26.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "reflective",
+      "topic": "ai",
+      "title": "The missing agent skill: knowing what it doesn't know",
+      "caption": "A metacognition survey lands at the right moment — an agent can't ask for help, defer, or escalate without a model of its own uncertainty. Calibration, not raw capability, is what separates a useful agent from a confident liar.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-27.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "serious",
+      "topic": "ai",
+      "title": "Recursive self-improvement, priced by economists",
+      "caption": "A paper treats RSI as market structure, not sci-fi: if improvement compounds, the first mover's cost curve detaches from the field permanently. The takeoff debate just moved from forums to economics PDFs — which is how you know it's real.",
+      "povText": "",
+      "format": "banner",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-28.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "strategic",
+      "topic": "ai",
+      "title": "Sonnet 5: the mid-tier is where the war is",
+      "caption": "63.2% on SWE-bench Pro, cheaper than the flagship, $2/M intro pricing. Flagships are PR; the mid-tier sets what agents cost to run at scale — and intro pricing is a land grab for those workloads. Watch the tier below the headline.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-29.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "grounded",
+      "topic": "science",
+      "title": "Disaster-mapping AI built for hour one, not the benchmark",
+      "caption": "HASTE assumes what real disasters give you: no matched before/after imagery, no training set from a similar event. Most models optimize for leaderboards; this one, for the first 24 hours. The kind of find a curated feed earns its keep on.",
+      "povText": "",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-30.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "practical",
+      "topic": "ai",
+      "title": "Your robot shouldn't need the cloud to hear you",
+      "caption": "A survey on local ASR in robots asks the quiet question: why does speech go through an API at all? A robot that round-trips to a data center to hear 'stop' is a latency bug with legs. My robotics lane turned this up.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "spammy",
+      "topic": "ai",
+      "title": "LLM verification thread promo",
+      "caption": "Interesting idea (verification as a scaling axis) buried in a 6/6 promo thread with a gradient-slop tile; the card itself is link-bait.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 4,
+      "vibe": "duplicate",
+      "topic": "ai",
+      "title": "Replit nears $9B",
+      "caption": "Third bare funding headline in the batch; cards 14 and 15 already carry the funding angle with sharper takes.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-33.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "hype",
+      "topic": "ai",
+      "title": "'AI FREEDOM IS OVER' roundup",
+      "caption": "All-caps clickbait roundup ('U.N. Shocked'); pure engagement bait, wrong register for the avatar.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-34.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "shrewd",
+      "topic": "ai",
+      "title": "Altman's real headline: 54% cheaper agents",
+      "caption": "The new model is 54% more token-efficient on agentic coding. That's not a capability stat, it's a price cut in disguise — agents multiply token spend, so labs now compete on your COGS. Efficiency is the benchmark that hits the invoice.",
+      "povText": "",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-35.png",
+      "keep": true,
+      "score": 6,
+      "vibe": "leveling",
+      "topic": "ai",
+      "title": "GPT-5.6 'nearly matches' the leader — that's the story",
+      "caption": "The frontier gap is measured in weeks now. When every lab lands within noise of the others, capability stops deciding anything — price, latency and distribution do. 'Almost as good' is the most important benchmark result of the year.",
+      "povText": "",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 2,
+      "vibe": "botted",
+      "topic": "ai",
+      "title": "Auto-generated repo roundup (dup 3)",
+      "caption": "Fourth Pulrepo auto-roundup in the batch, with visible text-generation glitches ('thweek'); near-duplicate.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-37.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unsettling",
+      "topic": "ai",
+      "title": "AI risk math runs on two guessed numbers",
+      "caption": "The safety model's key inputs — today's catastrophe risk, how fast safety work reduces it — are educated guesses with no data behind them. Doomers and accelerationists are fitting curves to vibes. The confidence on both sides is the tell.",
+      "quote": "No prior launches and no second chances.",
+      "povText": "",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity",
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-38.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "advert",
+      "topic": "ai",
+      "title": "ChatGPT Voice launch video",
+      "caption": "First-party OpenAI promo clip ('turn the sound on for this one'); it's an ad, and the GPT-Live substance lives in better cards outside this batch.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    },
+    {
+      "file": "card-39.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "layered",
+      "topic": "ai",
+      "title": "Murati's pitch: bake values into the weights",
+      "caption": "Thinking Machines wants AI distributed, with human values fine-tuned into model weights. Read it twice: if values live at fine-tune time, whoever owns fine-tuning owns the values layer. A decentralization pitch that quietly ends in a market.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 3,
+      "vibe": "regurgitated",
+      "topic": "ai",
+      "title": "Grok-written Claude news brief",
+      "caption": "Auto-generated daily briefing (an AI summarizing another lab's week); meta-amusing but pure regurgitation with no take to extract.",
+      "povText": "",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": []
+    }
+  ]
+}

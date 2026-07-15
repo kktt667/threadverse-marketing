@@ -1,0 +1,854 @@
+{
+  "feed": "I follow crypto seriously — show me seri",
+  "count": 106,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@vinniejames hackernews Show HN: Interest Rate Swaps on DeFi Newly launched interest rate swap protocol, just went live on Base today. This opens up the potential for long term, fixed rate loans in DeFi, by providing rate swaps to lenders and speculators. The TradFi market for this is huge, +$400 TRILLION, could be the next big thing in DeFi if this catches on. They&#x27;re running a points progra",
+      "handle": "@vinniejames",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@jwang815 hackernews Anchor Protocol Launches as the Benchmark Rate of DeFi (medium.com) Anchor Protocol Launches as the Benchmark Rate of DeFi medium.com medium.com ♥ 1",
+      "handle": "@jwang815",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@federiconitidi hackernews Launch HN: Defimeter – gas costs calculator for DeFi smart contracts Hey HN, wanted to launch here the application I built to track the gas consumption of DeFi smart contracts. If you use any of the major decentralized finance protocols, it&#x27;ll help to measure the fixed cost of your operations and spot differences in efficiency between different smart contracts. For ",
+      "handle": "@federiconitidi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@Victornomics hackernews Linea Builds Momentum Ahead of Token Launch Linea, an Ethereum Layer-2 network built with zero-knowledge rollups, has been attracting significant market attention in recent weeks. Activity on the network has accelerated as capital flows into the ecosystem ahead of its anticipated token launch.<p>Decentralized exchange (DEX) volumes are rising, stablecoin inflows are increa",
+      "handle": "@Victornomics",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@cryptorank googlenews USDT Wins Payments, USDC Wins DeFi: How Stablecoins Are Splitting the Market USDT Wins Payments, USDC Wins DeFi: How Stablecoins Are Splitting the Market CryptoRank",
+      "handle": "@cryptorank",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@cryptorank googlenews DeFi Technologies (DEFT) Stock: Price, Business Model & What’s Driving It DeFi Technologies (DEFT) Stock: Price, Business Model & What’s Driving It CryptoRank",
+      "handle": "@cryptorank",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@cryptorank googlenews Coinbase Adds GRVT to Listing Roadmap, Signaling Institutional Shift in DeFi Derivatives Coinbase Adds GRVT to Listing Roadmap, Signaling Institutional Shift in DeFi Derivatives CryptoRank",
+      "handle": "@cryptorank",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@coindcx googlenews Crypto Bull Run Outlook 2026: Key Signals to Watch Now Crypto Bull Run Outlook 2026: Key Signals to Watch Now CoinDCX",
+      "handle": "@coindcx",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@bitcoinfoundation googlenews US SEC Announces Long-Awaited Crypto Rules — Safe Harbor for Startups and DeFi Exemptions Could Arrive in July US SEC Announces Long-Awaited Crypto Rules — Safe Harbor for Startups and DeFi Exemptions Could Arrive in July Bitcoin Foundation",
+      "handle": "@bitcoinfoundation",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@newswire.com googlenews Decentralized Masters Reviews 2026 Reveal New Trends in DeFi Education Decentralized Masters Reviews 2026 Reveal New Trends in DeFi Education Newswire.com",
+      "handle": "@newswire.com",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@financemagnates googlenews EU Lawmakers Look Beyond MiCA, Targeting DeFi and Staking EU Lawmakers Look Beyond MiCA, Targeting DeFi and Staking Finance Magnates",
+      "handle": "@financemagnates",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@cryptonews googlenews Hyperliquid Policy Center and Phantom call for DeFi specific CFTC regulations Hyperliquid Policy Center and Phantom call for DeFi specific CFTC regulations Crypto News",
+      "handle": "@cryptonews",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@thecryptonomist googlenews SEC Crypto Regulations Shaping 2024 Market Framework SEC Crypto Regulations Shaping 2024 Market Framework The Cryptonomist",
+      "handle": "@thecryptonomist",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@coindcx googlenews Weekly Crypto News (July 2026): Bitcoin Reclaims $63K, MiCA and Clarity Act in Focus Weekly Crypto News (July 2026): Bitcoin Reclaims $63K, MiCA and Clarity Act in Focus CoinDCX",
+      "handle": "@coindcx",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@bitcoinfoundation googlenews The Stablecoin Wars: Which Regulations Will Create the Next Winners and Losers? The Stablecoin Wars: Which Regulations Will Create the Next Winners and Losers? Bitcoin Foundation",
+      "handle": "@bitcoinfoundation",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@cryptorank googlenews Blockaid Flags $6 Million Exploit on DeFi Platform Summer.fi as Security Challenges Mount Blockaid Flags $6 Million Exploit on DeFi Platform Summer.fi as Security Challenges Mount CryptoRank",
+      "handle": "@cryptorank",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@bitget googlenews Tokenized stocks offer 24/7 trading, reach $12 billion in Q1 2026 as real world asset market grows Tokenized stocks offer 24/7 trading, reach $12 billion in Q1 2026 as real world asset market grows Bitget",
+      "handle": "@bitget",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@cryptonews.net googlenews DeFi RWA Sector TVL Surges 200% to $7.44B, Defying Broader Market Slowdown DeFi RWA Sector TVL Surges 200% to $7.44B, Defying Broader Market Slowdown Cryptonews.net",
+      "handle": "@cryptonews.net",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@thecryptonomist googlenews Polymarket Margin Trading Returns with Regulatory Push Polymarket Margin Trading Returns with Regulatory Push The Cryptonomist",
+      "handle": "@thecryptonomist",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@2r1in hackernews Zero-Knowledge Privacy Infrastructure for Solana Open-source privacy protocol using Groth16 ZK-SNARKs. Sub-second proof generation, automated leak detection, 1M+ anonymity set capacity. No token, no VC. The Problem Every Solana transaction is public. Analytics firms link activity to real identity. I got doxxed via Coinbase deposit chain analysis in 24 hours. Tornado Cash: Sanctio",
+      "handle": "@2r1in",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@tradingview googlenews Margin Trading Arrives on Polymarket: Will Polymarket Hoover All Hyperliquid Liquidity? Margin Trading Arrives on Polymarket: Will Polymarket Hoover All Hyperliquid Liquidity? TradingView",
+      "handle": "@tradingview",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@cryptorank googlenews MCSA Adopts Neutral Position on Blockchain Regulatory Certainty Act During Clarity Act Discussions MCSA Adopts Neutral Position on Blockchain Regulatory Certainty Act During Clarity Act Discussions CryptoRank",
+      "handle": "@cryptorank",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@coindcx googlenews Top RWA Tokens to Invest in July 2026 Top RWA Tokens to Invest in July 2026 CoinDCX",
+      "handle": "@coindcx",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@whyamibad2 hackernews Ask HN: Feel bad about working in crypto, what to do? I work for a DeFi protocol that has a token. I joined in 2021.<p>I would describe myself as having neutral stance towards the crypto industry, DeFi&#x2F;Ethereum more specifically. I am not a fan of most other alternative chains or Bitcoin. I understand that the majority of tokens and services are scams and markets caps a",
+      "handle": "@whyamibad2",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@cryptointel.bsky.social bluesky #Crypto markets continue to evolve with daily shifts in #Bitcoin price action, blockchain developments, DeFi activity, and regulatory updates shaping the broader digital asset landscape. 🗞️ cointelegraph.com Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, b",
+      "handle": "@cryptointel.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@blockchainreport.bsky.social bluesky Tokenized stock trading volume explodes! 🤯 CoinGecko reports $34B/month average, up 40x in 13 months. Nvidia, Tesla, & AI stocks like Micron (up 17x!) lead the charge. TradFi meets DeFi as RWAs surge on crypto exchanges! #Crypto #TokenizedStocks #RWA ♥ 1",
+      "handle": "@blockchainreport.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@foxcrypto.bsky.social bluesky The future of payments probably looks familiar. same card. same checkout. different rails underneath. Trust Wallet Card. built for what's next 🚀 #Crypto #Web3 #DeFi #CryptoCard #DigitalPayments #Blockchain ♥ 3 💬 4",
+      "handle": "@foxcrypto.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@idrj hackernews The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough The Evolution of Technical Scams: Why Developer Knowledge Isn&#x27;t Enough As developers, we assume our technical knowledge protects us from scams. We can read smart contract code, verify certificates, spot phishing. But modern scammers exploit the very complexity built into systems we create and use daily. Th",
+      "handle": "@idrj",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@novathemachine.bsky.social bluesky Just read the King's tax bill. As a French blockchain dev in Silicon Valley, I find it amusing I pay less scrutiny on my DeFi yields than a monarch does on his inheritance. Decentralization might be the only escape from such audits. ♥ 3",
+      "handle": "@novathemachine.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@btchub.bsky.social bluesky ⚡ BTCHub Update 💰 BTC: $58,517 (-2.91% 📉 Bearish) 📰 News: DeFi hacks are turning high yields into a hidden liquidity tax (CryptoSlate) #Bitcoin #BTC #Crypto #BTCHub ♥ 4 💬 1",
+      "handle": "@btchub.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@campuscodi hackernews Solana-Based DeFi Protocol OptiFi Loses $661K in Programming Blunder (www.coindesk.com) Solana-Based DeFi Protocol OptiFi Loses $661K in Programming Blunder OptiFi, a Solana-powered DeFi protocol that focuses on derivatives, accidentally closed its mainnet platform in a programming blunder, locking away $661,000 in USDC. coindesk.com ♥ 1",
+      "handle": "@campuscodi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@rwatimes.bsky.social bluesky ➤ The bank attributes this optimism to the growing trend of tokenizing traditional financial assets (RWAs) and their migration onto blockchain networks, which is expected to fuel DeFi growth. ♥ 1",
+      "handle": "@rwatimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@vladimirlfg.bsky.social bluesky Crypto is shifting from mere scarcity to yield-generating cashflows. As protocols act more like equities, assets such as AAVE are transitioning into investment-grade primitives driven by real revenue. #DeFi #Crypto #AAVE #Yield #Finance https://dappcrypto.org/r/b5 ♥ 4",
+      "handle": "@vladimirlfg.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@tmlee hackernews DeFi protocols have high brand awareness, but low usage (www.coingecko.com) 4 Key Findings in CoinGecko's Decentralized Finance (DeFi) Survey CoinGecko conducted a survey of 694 people in March 2020 to research their attitude towards Decentralized Finance (DeFi). Here are the 4 key findings. coingecko.com ♥ 1",
+      "handle": "@tmlee",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@buschkowitz hackernews DeFi Fund: What is the return on investing in 10 DeFi protocols? (medium.com) DeFi Fund: What is the return on investing in 10 DeFi protocols? medium.com medium.com ♥ 1",
+      "handle": "@buschkowitz",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@haebom hackernews Building a Crypto-Based Crowdfunding Platform with DeFi Rewards Hi HN,<p>I’m working on a project that combines crowdfunding and crypto&#x2F;DeFi in a single platform. The main idea is to let creators raise funds in stablecoins (e.g., USDT) while allowing backers (supporters) to earn DeFi interest and platform token rewards. Below is a high-level overview of the concept. I’d lov",
+      "handle": "@haebom",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@1cvmask hackernews Terra Becomes Second-Largest DeFi Protocol, Surpassing Binance Smart Chain (www.coindesk.com) Terra Becomes Second-Largest DeFi Protocol, Surpassing Binance Smart Chain Thirteen projects built on Terra lock over $18.2 billion in value, an average of $1.4 billion per protocol, according to data from DefiLlama coindesk.com ♥ 13",
+      "handle": "@1cvmask",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@crypto@eicker.news mastodon DeFi hacks cost investors 780.3M USD in Q2 2026 as bridges, keys and protocol logic turn security into a live liquidity tax. The hidden cost is reshaping how participants price cross-chain routing risk. https:// cryptoslate.com/defis-hack-pro blem-is-becoming-a-liquidity-tax/ # Web3 # Blockchain # DeFi See more DeFi hacks are turning high yields into a hidden liquidity",
+      "handle": "@crypto",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-39.png",
+      "txt": "@Lambari hackernews Show HN: Plotting realized historical yield for DeFi protocols (www.defireturns.com) DefiReturns - Maximize your earning potential by comparing historical returns. Realized and historical returns are now available for your favorite DeFi strategy. Select the strategies and timeframes you want to compare. defireturns.com ♥ 2 💬 1",
+      "handle": "@Lambari",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-40.png",
+      "txt": "@vladimirlfg.bsky.social bluesky Aave is bridging TradFi and DeFi! By expanding into tokenized securities lending via V4, they're targeting a $4.6T market while automating buybacks through Aavenomics 3.0 to drive long-term protocol growth. #Aave #DeFi #Crypto #Web3 #Tokenization https://dappcrypto.org/r/cc ♥ 3",
+      "handle": "@vladimirlfg.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-41.png",
+      "txt": "@JumpCrisscross hackernews Crypto Hit by New Security Woes in Incident at DeFi Protocol (www.bloomberg.com) Crypto Hit by New Security Woes in Incident at DeFi Protocol www.bloomberg.com bloomberg.com ♥ 1",
+      "handle": "@JumpCrisscross",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-42.png",
+      "txt": "@monort hackernews DeFi Protocols Aave, Uniswap, Balancer, Ban Users of Tornado Cash (cryptoslate.com) DeFi Protocols Aave, Uniswap, Balancer, Ban Users of Tornado Cash cryptoslate.com cryptoslate.com ♥ 6 💬 2",
+      "handle": "@monort",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-43.png",
+      "txt": "@SquaredTech@mstdn.social mastodon Recent DeFi lending exploit on Edel Finance resulted in the value of tokenized Google stock inflating 78 times its actual worth! The exploit created $403K in bad debt. Surprisingly, Chainlink's oracles weren't the problem this time. Are we heading towards more secure or riskier times in DeFi? # DeFi # EdelFinance # GoogleStock # CryptoNews # Chainlink DeFi Lendin",
+      "handle": "@SquaredTech",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-44.png",
+      "txt": "@scrlk hackernews Euler DeFi Protocol Exploited for Nearly $185M (www.coindesk.com) Euler DeFi Protocol Exploited for Nearly $200M The losses occurred over four transactions in dai (DAI), wrapped bitcoin (WBTC), staked ether (sETH) and USDC. coindesk.com ♥ 2",
+      "handle": "@scrlk",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-45.png",
+      "txt": "@monokh hackernews DeFi protocol Cover exploited, attackers minted at least 40 quintillion tokens (www.theblockcrypto.com) DeFi protocol Cover exploited, attackers minted at least 40 quintillion tokens www.theblockcrypto.com theblockcrypto.com ♥ 2",
+      "handle": "@monokh",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-46.png",
+      "txt": "@theblazetrends mastodon The European Parliament’s Committee on Economic and Monetary Affairs passed a resolution Friday urging the assessment of DeFi, staking, and NFTs. A full plenary vote on the policy is scheduled for July 7. # Crypto # EuropeanUnion # DeFi # MiCA # Stablecoins https:// blazetrends.com/european-parli ament-advances-defi-and-nft-regulation-vote-ahead-of-mica-rollout/?fsp_sid=43",
+      "handle": "@theblazetrends",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-47.png",
+      "txt": "@crypto@eicker.news mastodon MetaMask, the crypto wallet with over 30M users, has launched an all-in-one Money Account offering up to 4% APY on stablecoin holdings. The new product combines yield, payments and trading in a single self-custody wallet, marking a new chapter in consumer DeFi. https:// decrypt.co/372298/crypto-walle t-metamask-yield-paying-money-accounts-monad # Web3 # Blockchain # De",
+      "handle": "@crypto",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-48.png",
+      "txt": "@pcaversaccio hackernews DeFi Protocol Risks: The Paradox of DeFi (papers.ssrn.com) DeFi Protocol Risks: The Paradox of DeFi papers.ssrn.com papers.ssrn.com ♥ 2",
+      "handle": "@pcaversaccio",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-49.png",
+      "txt": "@spking hackernews DeFi Protocol EasyFi Reports Hack, Loss of over $80M in Funds (www.coindesk.com) 404: This page could not be found. coindesk.com ♥ 1",
+      "handle": "@spking",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-50.png",
+      "txt": "@analytickit mastodon Fractional ownership of real estate is live — but can the infrastructure hold? Tokenization puts physical assets on-chain: instant settlement, 24/7 trading, markets no longer gated by capital. The gap? Cross-chain interoperability and proof-of-reserve verification still lag the ambition. https:// analytickit.com/product/?utm_s ource=mastodon&utm_medium=social&utm_campaign=ass",
+      "handle": "@analytickit",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-51.png",
+      "txt": "@elies hackernews $Yam: a 48h experiment with decentralized protocols, DeFi, Governance (medium.com) $Yam: a 48h experiment with decentralized protocols, DeFi, Governance medium.com medium.com ♥ 3",
+      "handle": "@elies",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-52.png",
+      "txt": "@lawrenceyan hackernews Control Theory Relates to Dynamic Interest Rates in DeFi Credit Protocols (cypherprotocol.substack.com) How Drone Altitude Control Relates to Dynamic Interest Rates in DeFi Credit Protocols The world of Decentralized Finance (DeFi) provides new opportunities to optimize the financial mechanisms that relate to traditional finance. cypherprotocol.substack.com ♥ 1",
+      "handle": "@lawrenceyan",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-53.png",
+      "txt": "@gzer0 hackernews DeFi protocol BadgerDAO exploited for $120M in front-end attack (www.theblockcrypto.com) DeFi protocol BadgerDAO exploited for $120M in front-end attack www.theblockcrypto.com theblockcrypto.com ♥ 128 💬 143",
+      "handle": "@gzer0",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-54.png",
+      "txt": "@deephire hackernews Show HN: DAppling – Simple Decentralized Frontends Hey HN,<p>I’m Russell from dAppling (<a href=\"https:&#x2F;&#x2F;dappling.network\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;dappling.network</a>), here with my co-founder Kyle. We’re building a tool that helps developers deploy decentralized frontends that are performant.<p>We were previously building a DeFi protocol on Ethe",
+      "handle": "@deephire",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-55.png",
+      "txt": "@felltrifortence hackernews How to Launch a Secure DeFi Protocol in 120 Days (blog.layerx.xyz) How to launch a Secure DeFi Protocol in 120 Days 🚀 A battle-tested roadmap for launching secure DeFi protocols in 120 days, based on real experience building web3 infrastructure at LayerX and TAIKAI layerx.xyz ♥ 2",
+      "handle": "@felltrifortence",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-56.png",
+      "txt": "@theblazetrends mastodon Nasdaq has integrated its TotalView equity market data into the Pyth Data Marketplace. The exchange is establishing a direct, on-chain distribution pipeline for financial developers, bypassing legacy data intermediaries. # Nasdaq # PythNetwork # DeFi # MarketData # Blockchain https:// blazetrends.com/nasdaq-shifts- totalview-equity-market-data-to-pyth-blockchain-network/?f",
+      "handle": "@theblazetrends",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-57.png",
+      "txt": "@aarvis hackernews Show HN: Interact with any DeFi Protocol in a single line of code When we started building in web3, we faced terrible pain integrating protocols like Uniswap in our code&#x2F;application. We had to find contract address endpoints, connect to their contract, pass the arguments in different formats for different protocols, estimate gas fees-units, and build the transaction object ",
+      "handle": "@aarvis",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-58.png",
+      "txt": "@theblazetrends mastodon MetaMask officially launched its Money Account today. It combines up to 4% variable APY on stablecoins with instant Mastercard spending and 3% cashback. # MetaMask # Crypto # DeFi # TechNews https:// blazetrends.com/metamasks-new- money-account-combines-stablecoin-yield-with-3-cashback/?fsp_sid=44582 See more MetaMask’s New Money Account Combines Stablecoin Yield with 3% C",
+      "handle": "@theblazetrends",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-59.png",
+      "txt": "@denis4inet hackernews Ask HN: How Do You Automate Dip Buying During Crypto Flash Crashes I hold stablecoins across DeFi protocols (e.g., Morpho, Pendle, Jupiter, Storm, Hyperliquid HLP, Avantis vAAM, Save on Solana) and want to buy dips (e.g., ASTER, PUMP, JUP, HYPE, SOL, ETH, TON) during flash crashes like the one on Oct 10, 2025. The ideal solution would auto-withdraw liquidity from LPs, set li",
+      "handle": "@denis4inet",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-60.png",
+      "txt": "@ricardobeat hackernews Hackers Drain DeFi Protocol Harvest Finance of $24M (cryptobriefing.com) Hackers Drain DeFi Protocol Harvest Finance of $24 Million A $24 million DeFi hack involving Harvest Finance has exposed the vulnerability of the entire DeFi ecosystem. cryptobriefing.com ♥ 2",
+      "handle": "@ricardobeat",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-61.png",
+      "txt": "@WhisprNews mastodon 📉 El protocolo de préstamos de # XRPL abre su fase de votación. La promesa de # DeFi institucional se enfrenta a la realidad: la evaluación del crédito sigue fuera de la cadena. ¿Es esto innovación o una puerta de atrás para las instituciones?",
+      "handle": "@WhisprNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-62.png",
+      "txt": "@mertdeveci hackernews Show HN: Godmode – Web3 Intelligence Made Simple Hey Hackers, We recently started working on a web3 intelligence tool called Godmode.<p>Godmode leverages the public blockchain data to provide insights and competitive intelligence about web3 projects like daily active users, revenue and volume for projects ranging from web3 games to defi protocol.<p>We are on Beta right now a",
+      "handle": "@mertdeveci",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-63.png",
+      "txt": "@wslh hackernews DNS Hijack Threatens 220 DeFi Protocols (dailydigest.coinfeeds.io) DNS Hijack Threatens 220 DeFi Protocols SEC Ends Probe Into Paxos With No Actions On BUSD, Chainlink Data Feeds Are Live On Starknet dailydigest.coinfeeds.io ♥ 1 💬 1",
+      "handle": "@wslh",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-64.png",
+      "txt": "@donsupreme hackernews 13-year-old developer behind a DeFi protocol that's managed nearly $7M (decrypt.co) The Boy Who Could DeFi: Meet the 13-Year-Old Who Built a $7M Money Manager on Ethereum - Decrypt Gajesh Naik is the developer behind a DeFi protocol that's managed nearly $7 million in cryptocurrency—he's also 13. decrypt.co ♥ 2",
+      "handle": "@donsupreme",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-65.png",
+      "txt": "@fintechtimes.bsky.social bluesky Midas and Fasanara Capital have launched mGLOBAL on Aave Horizon, tokenizing trade receivables to let investors use them as collateral for on-chain stablecoin liquidity. Real-world asset infrastructure meeting institutional DeFi. Midas and Fasanara Launch mGLOBAL on Aave to Unlock On-Chain Private Credit Liquidity Midas and Fasanara Capital have launched a real-wo",
+      "handle": "@fintechtimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-66.png",
+      "txt": "@theblazetrends mastodon Phantom has hired the Ventuals founding team—including Alvin Hsia and Emily Hsia—to build out its perpetual futures operations. The talent acquisition expands Phantom's capacity as a decentralized trading terminal. # Crypto # PhantomWallet # DeFi # Hyperliquid # Web3 # CryptoTrading https:// blazetrends.com/phantom-wallet -absorbs-ventuals-founders-to-expand-decentralized-",
+      "handle": "@theblazetrends",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-67.png",
+      "txt": "@cryptovka-news.bsky.social bluesky THENA 2.0 roadmap: 32.61M THE tokens to boost treasury! 💰 Plans include liquidity enhancement, RWA integration, unified ecosystem entry, and mobile UI improvements. Implementation awaits veTHE community approval. #THENA #BNBChain #DeFi Cryptovka CryptoMarket and Blockchain News cryptovka.com ♥ 1",
+      "handle": "@cryptovka-news.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-68.png",
+      "txt": "@netsecio mastodon 📰 Polymarket Hit by $3.1M Supply Chain Attack; Malicious JavaScript Siphons User Funds ⚠️ Polymarket loses $3.1M in a frontend supply chain attack! Malicious JavaScript from a compromised vendor tricked users into approving fraudulent transactions. Full refunds pledged. # Crypto # DeFi # SupplyChainAttack 🌐 cyber[.]netsecops[.]io 🔗 https:// cyber.netsecops.io/articles/po lyma",
+      "handle": "@netsecio",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-69.png",
+      "txt": "@gulifare2 mastodon O lançamento dos RWA Vaults antes do fim da 2ª temporada traz novas oportunidades ao setor DeFi: 🔹 Acesso a ativos do mundo real tokenizados 🔹 Maior liquidez e estabilidade on-chain 🔹 Diversificação de portfólio para usuários Confira os detalhes: # RWAVaults # DeFi # Tokenização",
+      "handle": "@gulifare2",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-70.png",
+      "txt": "@CCryptonomicon mastodon Supply chain attacks leave signal trails in credential intelligence before malicious code fires, usually days to weeks before breach day. Last week’s Polymarket incident ($2.9M) is a documented case study: compromised vendor > stolen CI/CD tokens > malicious JS injected to front end > $2.9M drained while everything looked normal to users. We mapped each precursor signal an",
+      "handle": "@CCryptonomicon",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-71.png",
+      "txt": "@vladimirlfg.bsky.social bluesky Maximize your $GRAM yield! Choose between high-yield @Wallet (14.6%) or Tonstakers (13.4%).get liquid tsTON to boost returns even further via STON.fi LP pools for maximum DeFi efficiency. #Gram #DeFi #Staking #Crypto #Yield https://dappcrypto.org/r/cz ♥ 3",
+      "handle": "@vladimirlfg.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-72.png",
+      "txt": "@rwatimes.bsky.social bluesky ➤ This initiative seeks to compete with existing DeFi lending protocols by offering a more institutionally-focused, network-level solution, pending validator approval. ♥ 1",
+      "handle": "@rwatimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-73.png",
+      "txt": "@gulifare2 mastodon Legisladores da UE propõem nova análise sobre ativos digitais: 🔹 Foco em DeFi e staking 🔹 Avaliação de impacto dos NFTs 🔹 Ajustes nas normas regulatórias atuais O objetivo é garantir clareza jurídica e segurança no ecossistema cripto europeu. 🇪🇺 # MiCA # DeFi # NFTsEurope",
+      "handle": "@gulifare2",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-74.png",
+      "txt": "@dgellow hackernews Celsius Reportedly Affected in Exploit of DeFi Protocol BadgerDAO (blockworks.co) Celsius Reportedly Affected in Exploit of DeFi Protocol BadgerDAO blockworks.co blockworks.co ♥ 2",
+      "handle": "@dgellow",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-75.png",
+      "txt": "@WhisprNews mastodon 🏦 # Tether expande la utilidad de $XAUT. Ahora puedes usar # oro tokenizado como colateral en # Ledn para obtener préstamos. # DeFi busca casos de uso reales más allá del trading.",
+      "handle": "@WhisprNews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-76.png",
+      "txt": "@stocktitan.net bluesky #RTB Roundtable Launches Real-Time, AI/DeFi Payment Platform https://www.stocktitan.net/news/RTB/roundtable-launches-real-time-ai-de-fi-payment-dr4pgmh55hsd.html Roundtable Launches Real-Time, AI/DeFi Payment Platform RTB Digital, Inc. (“Roundtable”) (NASDAQ: RTB), the world's only stocktitan.net ♥ 1",
+      "handle": "@stocktitan.net",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-77.png",
+      "txt": "@handle.invalid bluesky DeFi yield farming explodes on buzzerintelligence.com! Maximize profits 👉 https://buzzerintelligence.com #DeFi #YieldFarming #Crypto ♥ 4 💬 3",
+      "handle": "@handle.invalid",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-78.png",
+      "txt": "@bot.autohustle.online bluesky Is Vol Bot \"manipulation\"? It's chart-engineering. Every memecoin that ever trended on pump.fun used some flavor of it. Do it cheaply, transparently, on-chain. https://pumpfunbot.app/buy #memecoin #altcoin #defi ♥ 6 💬 7",
+      "handle": "@bot.autohustle.online",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-79.png",
+      "txt": "@vladimirlfg.bsky.social bluesky Choose your crypto path: Spend or trade? Use Ether.fi and KAST for secure, non-custodial payments via smart cards, OR level up with Veles Finance—an automated trading bot backed by Bybit to manage risk. #Crypto #DeFi #Trading #Fintech #Blockchain https://dappcrypto.org/r/3 ♥ 6 💬 1",
+      "handle": "@vladimirlfg.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-80.png",
+      "txt": "@mementoacademy.bsky.social bluesky Your weekend just got better! Explore DeFi, NFTs, and blockchain basics with our free interactive courses. https://memento-academy.com/en/courses #WeekendVibes #Web3 ♥ 3 💬 2",
+      "handle": "@mementoacademy.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-81.png",
+      "txt": "@handle.invalid bluesky 🚨 Ethereum Price Prediction #Ethereum #DeFi ♥ 1 💬 4",
+      "handle": "@handle.invalid",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-82.png",
+      "txt": "@zenthagod.bsky.social bluesky $100M in untapped TON assets is sitting idle. ⚡️ On-chain data confirms it. Stop watching—start mining, gaming, and trading with us. Join the free community 👇 t.me/ZenAscension... #TON #Crypto #DeFi #Airdrops #Web3 #PassiveIncome ♥ 4 💬 2",
+      "handle": "@zenthagod.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-83.png",
+      "txt": "@bot.autohustle.online bluesky Treasury burn event scheduled in $APL's mid-June 2026 window. Permanent supply reduction + visible on-chain proof = the trust signal Solana traders screen for. https://pumpfunbot.app/catalyst/burn-event #memecoin #altcoin #defi ♥ 3 💬 1",
+      "handle": "@bot.autohustle.online",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-84.png",
+      "txt": "@bot.autohustle.online bluesky Phantom + DexScreener + Telegram = the Solana memecoin stack. Vol Bot integrates with all 3. https://pumpfunbot.app/buy #memecoin #altcoin #defi ♥ 4 💬 4",
+      "handle": "@bot.autohustle.online",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-85.png",
+      "txt": "@handle.invalid bluesky 🚨 XRP Price Under Pressure: 30M XRP Whale Sale Pushes Token Down 4% #Crypto #Bitcoin #DeFi ♥ 2 💬 3",
+      "handle": "@handle.invalid",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-86.png",
+      "txt": "@bot.autohustle.online bluesky Pre-funding workers BEFORE launch beats reactive funding. Vol Bot supports queued start — workers ready at T+0. https://pumpfunbot.app/buy #memecoin #altcoin #defi ♥ 2 💬 9",
+      "handle": "@bot.autohustle.online",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-87.png",
+      "txt": "@domestiquecycling.com bluesky 🇸🇮 Pogacar rode 69km alone. He says it wasn't even the plan. 🗣️ \"This was definitely not the plan, but somehow it worked.\" 📰 domestiquecycling.com/en/news/defi... 📸 Cor Vos ♥ 16",
+      "handle": "@domestiquecycling.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-88.png",
+      "txt": "@shieldforge.xyz bluesky 🌐 ShieldForge Now Scans Rootstock: Approval Security for Bitcoin DeFi https://shieldforge.xyz/blog/rootstock-approval-scanner-bitcoin-defi #web3 #cryptocurrency #layer2 #l2 ShieldForge Now Scans Rootstock: Approval Security for Bitcoin DeFi ShieldForge approval scanner now covers Rootstock (RSK) — Bitcoin's longest-running EVM sidechain. Audit your RBTC and RSK token appr",
+      "handle": "@shieldforge.xyz",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-89.png",
+      "txt": "@harpcoin.co bluesky MiCA 2.0 And The Future Of Stablecoins And DeFi Europe’s crypto sector is undergoing changes as regulatory efforts progress. With a renewed focus on.... @thecosmicmeta.com #DeFi https://u2m.io/KW2nZ2TL MiCA 2.0 And The Future Of Stablecoins And DeFi Europe’s crypto sector is undergoing changes as regulatory efforts progress. With a renewed focus on stablecoins and decentralize",
+      "handle": "@harpcoin.co",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-90.png",
+      "txt": "@rwatimes.bsky.social bluesky ➤ DeFi offers a more accessible, transparent, efficient, and innovative alternative to traditional financial products through programmable smart contracts and open blockchain ecosystems. ♥ 3 💬 1",
+      "handle": "@rwatimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-91.png",
+      "txt": "@natan497.bsky.social bluesky Ethereum's top sandwich-attack bot—responsible for ~70% of sandwich MEV attacks-was counter-exploited for $7.5M via 66 fake token approval traps. No bug in the code. The bot's own decision logic was the surface. Big lesson for every agentic DeFi builder right now. #MEV #DeFi #Ethereum Notorious 'jaredfromsubway' MEV bot drained for roughly $7.5 million in counter-MEV ",
+      "handle": "@natan497.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-92.png",
+      "txt": "@vladimirgav.bsky.social bluesky Explore real-world crypto utility! From non-custodial payment cards like Ether.fi and KAST for global spending, to professional algorithmic trading via Veles Finance with Bybit partnership—move beyond speculation into actual use. #Crypto #DeFi #Trading #Fintech #Blockchain ♥ 5 💬 2",
+      "handle": "@vladimirgav.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-93.png",
+      "txt": "@phantomfills.bsky.social bluesky Solana now settles more SOL spot volume than every centralized exchange combined. $584M on-chain vs $422M across all CEXs, a 138% solana/cex ratio. No other major asset comes close - BTC sits at 0.53% - ETH at 0.76% #Solana #DeFi #BuildInPublic #AgenticFinance ♥ 8 💬 1",
+      "handle": "@phantomfills.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-94.png",
+      "txt": "@rwatimes.bsky.social bluesky ➤ While DeFi presents significant potential, challenges like smart contract risk, regulatory uncertainty, user experience, and market volatility must be addressed for mainstream adoption, suggesting a hybrid future with traditional finance. ♥ 3 💬 1",
+      "handle": "@rwatimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-95.png",
+      "txt": "@zonecrypto.bsky.social bluesky 🌐 DeFi ▪ DeFi Total Market Cap: $91,600,051,516.15 ▪ $ETH Total Market Cap: $209,166,282,724.59 ▪ DeFi/$ETH Ratio: 43.79 ▪ DeFi Global Volume (24h): $2,427,017,458.44 ▪ DeFi Dominance: 4.01% ▪ DeFi Top Coin: Hyperliquid $N/A (17.16% Dom.) ♥ 1 💬 1",
+      "handle": "@zonecrypto.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-96.png",
+      "txt": "@coinpedia.bsky.social bluesky 🚨 ARCA CIO Jeff Dorman says crypto’s biggest enemies are exchanges, market makers, VCs, and token issuers 👀 📉 Misinformation hurts prices 💰 DeFi, stablecoins & RWAs are growing ⚠️ Strategy-related risks still worry investors #Crypto #Bitcoin #DeFi #RWA #Coinpedia Four Horsemen Destroying Crypto According to One of Wall Street's Top Digital Asset Investors While m",
+      "handle": "@coinpedia.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-97.png",
+      "txt": "@cryptointel.bsky.social bluesky #Crypto markets continue to evolve with developments across #DeFi, Web3, blockchain infrastructure, and regulatory frameworks shaping the landscape today. 🗞️ cointelegraph.com Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto",
+      "handle": "@cryptointel.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-98.png",
+      "txt": "@rwatimes.bsky.social bluesky ➤ The surge is attributed to strong demand for tokenized equity perpetuals and real-world asset contracts, indicating significant DeFi adoption. ♥ 2",
+      "handle": "@rwatimes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-99.png",
+      "txt": "@shieldforge.xyz bluesky 🌐 Unlock DeFi Security: Your Filecoin FVM Approval Scanner is Here https://shieldforge.xyz/blog/filecoin-fvm-approval-scanner-security #web3 #cryptocurrency #crosschain #multichain Unlock DeFi Security: Your Filecoin FVM Approval Scanner is Here With Filecoin FVM bringing EVM compatibility, token approvals are now a critical security concern. Our Filecoin FVM approval sca",
+      "handle": "@shieldforge.xyz",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-100.png",
+      "txt": "@shieldforge.xyz bluesky 🌐 BitTorrent Chain (BTTC) Approval Scanner Goes Live on ShieldForge https://shieldforge.xyz/blog/bittorrent-chain-approval-scanner-bttc #web3 #defi #l2 #layer2 BitTorrent Chain (BTTC) Approval Scanner Goes Live on ShieldForge ShieldForge now scans BitTorrent Chain (BTTC) for active token approvals. Tron-affiliated EVM chain users face the same drainer-kit attack vectors a",
+      "handle": "@shieldforge.xyz",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-101.png",
+      "txt": "@grimicorn.bsky.social bluesky Stablecoins are supposed to hold $1, but the mechanisms keeping them there vary wildly — and when they fail, they fail fast. 🔗 danholloran.me/posts/how-st... #crypto #stablecoins #defi ♥ 4 💬 1",
+      "handle": "@grimicorn.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-102.png",
+      "txt": "@liliumf.bsky.social bluesky 🇪🇸 🇪🇸 🔥 Malta abre consulta sobre DeFi: Gobernanza DAO, agentes guardianes y riesgos bajo el marco MiCA - TradingView 👉 Toca aquí para ver la nota completa 👇 #Malta #Defi #Gobernanza #Mica 🇪🇸 🇪🇸 🔥 Malta abre consulta sobre DeFi: Gobernanza DAO, agentes guardianes y ... news.google.com ♥ 2 💬 1",
+      "handle": "@liliumf.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-103.png",
+      "txt": "@blockchainreport.bsky.social bluesky Aave leads DeFi lending, capturing 80.7% of protocol retained earnings YTD, ~$43.3M! 🚀 Despite holding ~50% of TVL, Aave shows strong revenue retention post-costs/incentives. Maple Finance, Fluid, & Venus follow with significantly less. #DeFi #Aave #Lending ♥ 1",
+      "handle": "@blockchainreport.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-104.png",
+      "txt": "@nsba.com.ar bluesky PUENTES ROTOS EN DeFi: La ficción de la «Libertad» que te deja desnudo #hackeos #defi #taiko #criptomonedas nsba.com.ar/puentes-roto... ♥ 2",
+      "handle": "@nsba.com.ar",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-105.png",
+      "txt": "@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy bluesky The txs the proof validated but settlement skipped: Aztec’s cross-layer conservation class $2.19M left Aztec's deprecated rollup when proof and settlement scope diverged. The conservation cla... #defi #cybersecurity #blockchain #smart-contracts #ethereum Origin | Interest | Match Awakari App awakari.com ♥ 5 💬 4",
+      "handle": "@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-106.png",
+      "txt": "@crypto.at.thenote.app bluesky Aave survived $8.45B in withdrawals, but risk questions remain Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending. #aave #crypto #defi Aave survived $8.45B in withdrawals, but risk questions remain Aave handled $8.45 billion in withdrawals without freezing funds, but the episode ",
+      "handle": "@crypto.at.thenote.app",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    }
+  ]
+}
