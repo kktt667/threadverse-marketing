@@ -3,7 +3,7 @@
   "cards": [
     {
       "file": "card-01.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "grounded",
       "topic": "founders",
@@ -20,7 +20,7 @@
     },
     {
       "file": "card-02.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "tactical",
       "topic": "founders",
@@ -36,7 +36,7 @@
     },
     {
       "file": "card-03.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "contrarian",
       "topic": "founders",
@@ -66,7 +66,7 @@
     },
     {
       "file": "card-05.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "blunt",
       "topic": "founders",
@@ -83,7 +83,7 @@
     },
     {
       "file": "card-06.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "revealing",
       "topic": "founders",
@@ -138,7 +138,7 @@
     },
     {
       "file": "card-10.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "tactical",
       "topic": "founders",
@@ -154,7 +154,7 @@
     },
     {
       "file": "card-11.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "contrarian",
       "topic": "founders",
@@ -170,7 +170,7 @@
     },
     {
       "file": "card-12.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "strategic",
       "topic": "founders",
@@ -225,7 +225,7 @@
     },
     {
       "file": "card-16.png",
-      "keep": true,
+      "keep": false,
       "score": 5,
       "vibe": "honest",
       "topic": "founders",
@@ -281,7 +281,7 @@
     },
     {
       "file": "card-20.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "sober",
       "topic": "founders",
@@ -362,7 +362,7 @@
     },
     {
       "file": "card-26.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "tactical",
       "topic": "founders",
@@ -378,7 +378,7 @@
     },
     {
       "file": "card-27.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "practical",
       "topic": "founders",
@@ -407,7 +407,7 @@
     },
     {
       "file": "card-29.png",
-      "keep": true,
+      "keep": false,
       "score": 9,
       "vibe": "brutal",
       "topic": "founders",
@@ -438,7 +438,7 @@
     },
     {
       "file": "card-31.png",
-      "keep": true,
+      "keep": false,
       "score": 5,
       "vibe": "cautionary",
       "topic": "founders",
@@ -467,7 +467,7 @@
     },
     {
       "file": "card-33.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "brutal",
       "topic": "founders",
@@ -496,7 +496,7 @@
     },
     {
       "file": "card-35.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "practical",
       "topic": "founders",
@@ -538,7 +538,7 @@
     },
     {
       "file": "card-38.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "knowing",
       "topic": "founders",
@@ -554,7 +554,7 @@
     },
     {
       "file": "card-39.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "reframing",
       "topic": "founders",
@@ -570,7 +570,7 @@
     },
     {
       "file": "card-40.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "raw",
       "topic": "founders",
@@ -587,7 +587,7 @@
     },
     {
       "file": "card-41.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "contrarian",
       "topic": "founders",
@@ -603,7 +603,7 @@
     },
     {
       "file": "card-42.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "wry",
       "topic": "founders",
@@ -633,7 +633,7 @@
     },
     {
       "file": "card-44.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "brutal",
       "topic": "founders",
@@ -689,7 +689,7 @@
     },
     {
       "file": "card-48.png",
-      "keep": true,
+      "keep": false,
       "score": 5,
       "vibe": "sober",
       "topic": "founders",
@@ -757,7 +757,7 @@
     },
     {
       "file": "card-53.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "tactical",
       "topic": "founders",
@@ -773,7 +773,7 @@
     },
     {
       "file": "card-54.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "raw",
       "topic": "founders",
@@ -789,7 +789,7 @@
     },
     {
       "file": "card-55.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "honest",
       "topic": "founders",
@@ -806,7 +806,7 @@
     },
     {
       "file": "card-56.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "skeptical",
       "topic": "founders",
@@ -835,7 +835,7 @@
     },
     {
       "file": "card-58.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "earnest",
       "topic": "founders",
@@ -851,7 +851,7 @@
     },
     {
       "file": "card-59.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "tactical",
       "topic": "founders",
@@ -893,7 +893,7 @@
     },
     {
       "file": "card-62.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "savvy",
       "topic": "founders",
@@ -909,7 +909,7 @@
     },
     {
       "file": "card-63.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "ironic",
       "topic": "founders",
@@ -925,7 +925,7 @@
     },
     {
       "file": "card-64.png",
-      "keep": true,
+      "keep": false,
       "score": 9,
       "vibe": "contrarian",
       "topic": "founders",
@@ -954,7 +954,7 @@
     },
     {
       "file": "card-66.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "curious",
       "topic": "founders",
@@ -996,7 +996,7 @@
     },
     {
       "file": "card-69.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "sharp",
       "topic": "founders",
@@ -1103,7 +1103,7 @@
     },
     {
       "file": "card-77.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "grounded",
       "topic": "founders",
@@ -1155,6 +1155,302 @@
       "format": "minimal",
       "bestPlatform": "mastodon",
       "triggers": []
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-105.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "honest",
+      "topic": "founders",
+      "title": "8 years bootstrapped, and last year was the best",
+      "caption": "An indie founder's 8th year was his favorite — because he stopped chasing the business he 'should' build and matched it to himself. The unsexy truth under every founder story: fit beats ambition, and it takes years to admit which one you're optimizing.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-100.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "Your best advantage is the one you hide",
+      "caption": "Founder-led support is a real edge over VC-backed rivals — yet almost nobody puts it on the landing page. Founders under-sell the human thing because it doesn't scale, forgetting that 'doesn't scale' is exactly why the big guys can't copy it.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-103.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "revealing",
+      "topic": "founders",
+      "title": "64% of indie launches ship with the door unlocked",
+      "caption": "Audit of 100 indie launches: 64% shipped missing basic security headers (HSTS, CSP). The tell isn't laziness — it's that solo founders optimize for the demo, and everything invisible-until-exploited gets deferred to a 'later' that rarely comes.",
+      "format": "bigStat",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-99.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "raw",
+      "topic": "founders",
+      "title": "Day 30 of the solo founder loop",
+      "caption": "Wake 6am, code, 8 cold DMs, one commit, reply to everything, sleep by 11 — repeat until first paying customer. The loop looks like discipline. It's really a bet that consistency outlasts the odds, posted publicly so quitting gets expensive.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion",
+        "participation"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-118.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "tactical",
+      "topic": "founders",
+      "title": "You're paying for 4 tools that do one job",
+      "caption": "Most solo devs quietly pay for 3-4 tools with overlapping features — pure runway leak. The pattern isn't overspending, it's that each tool got adopted for one feature during one crisis, and nobody ever audits the stack once the crisis passes.",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "participation"
+      ]
+    },
+    {
+      "file": "card-81.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-82.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-83.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-84.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-85.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-86.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-87.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-88.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-89.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-90.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-91.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-92.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-93.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-94.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-95.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-96.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-97.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-98.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-101.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-102.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-104.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-106.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-107.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-108.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-109.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-110.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-111.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-112.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-113.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-114.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-115.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-116.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-117.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-119.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-120.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
     }
   ]
 }

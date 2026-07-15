@@ -3,7 +3,7 @@
   "cards": [
     {
       "file": "card-01.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "ominous",
       "topic": "ai",
@@ -20,7 +20,7 @@
     },
     {
       "file": "card-02.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "calculated",
       "topic": "ai",
@@ -36,7 +36,7 @@
     },
     {
       "file": "card-03.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "grounded",
       "topic": "ai",
@@ -78,7 +78,7 @@
     },
     {
       "file": "card-06.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "contrarian",
       "topic": "ai",
@@ -135,7 +135,7 @@
     },
     {
       "file": "card-10.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "lean",
       "topic": "ai",
@@ -150,7 +150,7 @@
     },
     {
       "file": "card-11.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "unlocked",
       "topic": "science",
@@ -166,7 +166,7 @@
     },
     {
       "file": "card-12.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "geopolitical",
       "topic": "ai",
@@ -183,7 +183,7 @@
     },
     {
       "file": "card-13.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "inverted",
       "topic": "ai",
@@ -199,7 +199,7 @@
     },
     {
       "file": "card-14.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "skeptical",
       "topic": "ai",
@@ -215,7 +215,7 @@
     },
     {
       "file": "card-15.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "sober",
       "topic": "ai",
@@ -258,7 +258,7 @@
     },
     {
       "file": "card-18.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "probing",
       "topic": "ai",
@@ -274,7 +274,7 @@
     },
     {
       "file": "card-19.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "generative",
       "topic": "ai",
@@ -289,7 +289,7 @@
     },
     {
       "file": "card-20.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "recursive",
       "topic": "ai",
@@ -319,7 +319,7 @@
     },
     {
       "file": "card-22.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "pivotal",
       "topic": "ai",
@@ -335,7 +335,7 @@
     },
     {
       "file": "card-23.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "uneasy",
       "topic": "science",
@@ -350,7 +350,7 @@
     },
     {
       "file": "card-24.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "quiet",
       "topic": "ai",
@@ -379,7 +379,7 @@
     },
     {
       "file": "card-26.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "reflective",
       "topic": "ai",
@@ -395,7 +395,7 @@
     },
     {
       "file": "card-27.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "serious",
       "topic": "ai",
@@ -411,7 +411,7 @@
     },
     {
       "file": "card-28.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "strategic",
       "topic": "ai",
@@ -427,7 +427,7 @@
     },
     {
       "file": "card-29.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "grounded",
       "topic": "science",
@@ -443,7 +443,7 @@
     },
     {
       "file": "card-30.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "practical",
       "topic": "ai",
@@ -497,7 +497,7 @@
     },
     {
       "file": "card-34.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "shrewd",
       "topic": "ai",
@@ -513,7 +513,7 @@
     },
     {
       "file": "card-35.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "leveling",
       "topic": "ai",
@@ -542,7 +542,7 @@
     },
     {
       "file": "card-37.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "unsettling",
       "topic": "ai",
@@ -573,7 +573,7 @@
     },
     {
       "file": "card-39.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "layered",
       "topic": "ai",
@@ -599,6 +599,585 @@
       "format": "minimal",
       "bestPlatform": "mastodon",
       "triggers": []
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-47.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "revealing",
+      "topic": "ai",
+      "title": "Climate money is quietly becoming AI money",
+      "caption": "Climate-tech funding is draining into AI. The tell isn't hype — it's that capital abandons hard-physics bets (grids, batteries) for software the moment software looks easier to 10x. The planet lost a bidding war to a chatbot.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-54.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "unsettling",
+      "topic": "ai",
+      "title": "Your watch was building a training set",
+      "caption": "Google's SensorFM trained on a trillion minutes of body data from 5M people. The device was never the product — the continuous stream off your wrist was. A foundation model turns that exhaust into prediction, not step-counting.",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-61.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "skeptical",
+      "topic": "ai",
+      "title": "8,500 AI startups, one exit strategy",
+      "caption": "Nvidia's tracking 8,500 AI startups with $60B in funding. Almost none will IPO — they're being funded to be acquired. VC isn't backing competitors to Big Tech, it's running the incumbents' R&D lab and billing them later.",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-63.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sharp",
+      "topic": "ai",
+      "title": "Every tech arrives twice. AI's on its second act",
+      "caption": "Every transformative tech arrives twice — first as invention, then as the social system deciding who benefits. AI already cleared act one. The fight nobody's funding is act two: who captures the productivity, workers or the model owners.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-71.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "dry",
+      "topic": "ai",
+      "title": "The Musk–Altman feud is an infra bet in disguise",
+      "caption": "Musk vs Altman looks like ego. Read the subtext: one's selling orbital datacenters to public markets, the other says they can't scale this decade. The insults are noise — it's really a wager on where compute physically lives.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "social-currency",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-98.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "pointed",
+      "topic": "ai",
+      "title": "They fired the builder, kept the AI he built",
+      "caption": "A gov engineer got DOGE'd, then watched his AI system roll out agency-wide as proof his job was redundant. The thing nobody says: the AI works *because* he encoded his judgment into it. Automate the expert, inherit their blind spots.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-95.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "wary",
+      "topic": "ai",
+      "title": "Google deleted its 'no weapons' AI pledge quietly",
+      "caption": "Google published a 'responsible AI' report — and used it to quietly delete the line promising not to build weapons. The move IS the message: principles you can edit without announcing were never constraints, just marketing.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-115.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "revealing",
+      "topic": "ai",
+      "title": "AI startups run on their rivals' free credits",
+      "caption": "The AI boom is partly OpenAI and Anthropic handing startups free compute to spend on their APIs. It looks like a thriving ecosystem — it's a customer-acquisition subsidy. Pull the credits and half the 'AI economy' reprices overnight.",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-117.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "Watch the AI leaders change their tune",
+      "caption": "The same execs who promised AGI-any-minute are quietly walking it back. The pattern's older than AI: hype raises the round, sobriety protects the valuation once the money's in. The tune changes exactly when it's safe to.",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "social-currency",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-42.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-43.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-44.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-48.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-49.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-50.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-52.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-53.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-56.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-58.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-59.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-60.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-62.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-64.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-65.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-66.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-68.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-69.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-73.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-74.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-79.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-81.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-82.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-83.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-84.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-85.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-86.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-87.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-88.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-89.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-90.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-91.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-92.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-93.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-94.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-96.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-97.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-99.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-100.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-101.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-102.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-103.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-104.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-105.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-106.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-107.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-108.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-109.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-110.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-111.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-112.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-113.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-114.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-116.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-118.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-119.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-120.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
     }
   ]
 }

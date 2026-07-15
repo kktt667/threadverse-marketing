@@ -7123,5 +7123,421 @@
       "participation"
     ],
     "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "striking",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-68-splitProof.png",
+    "title": "A frontier model on 11x less compute",
+    "caption": "A Chinese lab trained a frontier-class model on 11x less compute — low-level optimization, not more GPUs. If capability stops tracking spend, the whole 'bigger cluster wins' thesis (and the export-control moat built on it) springs a leak.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "spicy",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-95-tabloid.png",
+    "title": "Anthropic says Alibaba farmed Claude for its abilities",
+    "caption": "Anthropic accuses Alibaba of using thousands of fake accounts to 'illicitly extract' Claude's capabilities. The uncomfortable part: if a model can be distilled through its API, the moat isn't the weights — it's just the terms of service.",
+    "triggers": [
+      "novelty",
+      "social-currency",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "technical",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-86-minimal.png",
+    "title": "Encryption that lets AI read data it can't see",
+    "caption": "An encryption breakthrough lets models run on data they never decrypt. The second-order effect: 'we can't train on your data' stops being a privacy promise and becomes a solvable math problem — which means the promise expires.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-89-quote.png",
+    "title": "The next leap might be small models, not big ones",
+    "caption": "The next breakthrough may be orchestrating many small specialized models, not scaling one giant. It's the microservices argument arriving in ML: monoliths win early, composition wins once the monolith gets too expensive to retrain.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "wary",
+    "tile": "library/01-content-cards/x/ai-1-ai-model-r-card-73-tabloid.png",
+    "title": "The government now picks who gets the model first",
+    "caption": "OpenAI shipped to limited users after the administration weighed in on *who* gets early access. A frontier model's rollout is now an allocation decision made partly in Washington. Distribution just became policy, not product.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "revealing",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-47-tabloid.png",
+    "title": "Climate money is quietly becoming AI money",
+    "caption": "Climate-tech funding is draining into AI. The tell isn't hype — it's that capital abandons hard-physics bets (grids, batteries) for software the moment software looks easier to 10x. The planet lost a bidding war to a chatbot.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "unsettling",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-54-splitProof.png",
+    "title": "Your watch was building a training set",
+    "caption": "Google's SensorFM trained on a trillion minutes of body data from 5M people. The device was never the product — the continuous stream off your wrist was. A foundation model turns that exhaust into prediction, not step-counting.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "skeptical",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-61-bigStat.png",
+    "title": "8,500 AI startups, one exit strategy",
+    "caption": "Nvidia's tracking 8,500 AI startups with $60B in funding. Almost none will IPO — they're being funded to be acquired. VC isn't backing competitors to Big Tech, it's running the incumbents' R&D lab and billing them later.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-63-quote.png",
+    "title": "Every tech arrives twice. AI's on its second act",
+    "caption": "Every transformative tech arrives twice — first as invention, then as the social system deciding who benefits. AI already cleared act one. The fight nobody's funding is act two: who captures the productivity, workers or the model owners.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "dry",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-71-tabloid.png",
+    "title": "The Musk–Altman feud is an infra bet in disguise",
+    "caption": "Musk vs Altman looks like ego. Read the subtext: one's selling orbital datacenters to public markets, the other says they can't scale this decade. The insults are noise — it's really a wager on where compute physically lives.",
+    "triggers": [
+      "social-currency",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-98-tabloid.png",
+    "title": "They fired the builder, kept the AI he built",
+    "caption": "A gov engineer got DOGE'd, then watched his AI system roll out agency-wide as proof his job was redundant. The thing nobody says: the AI works *because* he encoded his judgment into it. Automate the expert, inherit their blind spots.",
+    "triggers": [
+      "emotion",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "wary",
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-95-tabloid.png",
+    "title": "Google deleted its 'no weapons' AI pledge quietly",
+    "caption": "Google published a 'responsible AI' report — and used it to quietly delete the line promising not to build weapons. The move IS the message: principles you can edit without announcing were never constraints, just marketing.",
+    "triggers": [
+      "emotion",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "vibe": "revealing",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-115-quote.png",
+    "title": "AI startups run on their rivals' free credits",
+    "caption": "The AI boom is partly OpenAI and Anthropic handing startups free compute to spend on their APIs. It looks like a thriving ecosystem — it's a customer-acquisition subsidy. Pull the credits and half the 'AI economy' reprices overnight.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/x/ai-create-a-liv-card-117-minimal.png",
+    "title": "Watch the AI leaders change their tune",
+    "caption": "The same execs who promised AGI-any-minute are quietly walking it back. The pattern's older than AI: hype raises the round, sobriety protects the valuation once the money's in. The tune changes exactly when it's safe to.",
+    "triggers": [
+      "social-currency",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 8,
+    "vibe": "honest",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-105-quote.png",
+    "title": "8 years bootstrapped, and last year was the best",
+    "caption": "An indie founder's 8th year was his favorite — because he stopped chasing the business he 'should' build and matched it to himself. The unsexy truth under every founder story: fit beats ambition, and it takes years to admit which one you're optimizing.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-100-minimal.png",
+    "title": "Your best advantage is the one you hide",
+    "caption": "Founder-led support is a real edge over VC-backed rivals — yet almost nobody puts it on the landing page. Founders under-sell the human thing because it doesn't scale, forgetting that 'doesn't scale' is exactly why the big guys can't copy it.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "revealing",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-103-bigStat.png",
+    "title": "64% of indie launches ship with the door unlocked",
+    "caption": "Audit of 100 indie launches: 64% shipped missing basic security headers (HSTS, CSP). The tell isn't laziness — it's that solo founders optimize for the demo, and everything invisible-until-exploited gets deferred to a 'later' that rarely comes.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "quote",
+    "score": 7,
+    "vibe": "raw",
+    "tile": "library/01-content-cards/mastodon/founders-honest-found-card-99-quote.png",
+    "title": "Day 30 of the solo founder loop",
+    "caption": "Wake 6am, code, 8 cold DMs, one commit, reply to everything, sleep by 11 — repeat until first paying customer. The loop looks like discipline. It's really a bet that consistency outlasts the odds, posted publicly so quitting gets expensive.",
+    "triggers": [
+      "identity",
+      "emotion",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "tactical",
+    "tile": "library/01-content-cards/x/founders-honest-found-card-118-minimal.png",
+    "title": "You're paying for 4 tools that do one job",
+    "caption": "Most solo devs quietly pay for 3-4 tools with overlapping features — pure runway leak. The pattern isn't overspending, it's that each tool got adopted for one feature during one crisis, and nobody ever audits the stack once the crisis passes.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-38-bigStat.png",
+    "title": "DeFi's real cost is a live liquidity tax",
+    "caption": "$780M lost to DeFi hacks in a quarter — bridges, keys, protocol logic. Reframe it: that's not crime, it's a recurring tax the whole system pays for trustlessness. 'Be your own bank' also means be your own FDIC, and nobody prices that in.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "wild",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-43-tabloid.png",
+    "title": "An exploit inflated tokenized Google stock 78x",
+    "caption": "A lending exploit made tokenized Google stock read 78x its real value, minting $403K in bad debt. The lesson isn't the hack — it's that tokenizing a real asset doesn't import its price, it imports a *claim* about the price the code can be tricked on.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 9,
+    "vibe": "poetic",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-91-splitProof.png",
+    "title": "The MEV bot got counter-exploited by its own logic",
+    "caption": "Ethereum's biggest sandwich bot — 70% of that MEV — got drained $7.5M via fake approval traps. No code bug. Its own greedy decision-making was the exploit. In adversarial systems, a perfectly rational strategy is just a predictable one.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 7,
+    "vibe": "technical",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-52-quote.png",
+    "title": "DeFi interest rates are a control-theory problem",
+    "caption": "Dynamic DeFi interest rates map cleanly onto drone-altitude control theory — same feedback loops, same instability modes. Which means DeFi's rate crises aren't crypto-specific failures; they're textbook control systems tuned badly.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "precise",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-105-splitProof.png",
+    "title": "The proof validated. The settlement didn't.",
+    "caption": "$2.19M left a deprecated Aztec rollup when the proof validated but settlement silently skipped. The scary part isn't theft — it's that 'the math checked out' and 'the money moved correctly' turned out to be two different guarantees.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "instructive",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-68-tabloid.png",
+    "title": "The breach left fingerprints weeks before it fired",
+    "caption": "Polymarket's $3M supply-chain hack left credential-intel trails days-to-weeks before the malicious JS executed. Supply-chain attacks aren't sudden — they're slow. The industry just doesn't watch the window where they're still stoppable.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "measured",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-106-minimal.png",
+    "title": "Aave survived $8.45B out. That's the scary part",
+    "caption": "Aave processed $8.45B in withdrawals without freezing — a genuine stress-test pass. But 'it didn't break' isn't 'it's safe.' Systems that survive one bank-run teach everyone the exact size of the run that would break the next one.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "vibe": "striking",
+    "tile": "library/01-content-cards/x/crypto-i-follow-cry-card-93-bigStat.png",
+    "title": "Solana now out-settles every CEX combined",
+    "caption": "Solana settled more SOL spot volume on-chain ($584M) than all centralized exchanges combined ($422M). The milestone isn't price — it's that for one asset, the 'decentralized' venue quietly became the primary one. Infrastructure crossed over.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "mastodon",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "clear",
+    "tile": "library/01-content-cards/mastodon/crypto-i-follow-cry-card-101-minimal.png",
+    "title": "Stablecoins hold $1 until, suddenly, they don't",
+    "caption": "Every stablecoin promises $1 — but the mechanisms holding the peg vary wildly, and they fail fast, not slow. The risk isn't the average day. It's that 'pegged' hides which failure mode you're actually exposed to until the day it triggers.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
   }
 ]

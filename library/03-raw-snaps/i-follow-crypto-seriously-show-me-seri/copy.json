@@ -3,7 +3,7 @@
   "cards": [
     {
       "file": "card-01.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "plumbing",
       "topic": "crypto",
@@ -20,7 +20,7 @@
     },
     {
       "file": "card-02.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "irony",
       "topic": "crypto",
@@ -37,7 +37,7 @@
     },
     {
       "file": "card-03.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "tooling",
       "topic": "crypto",
@@ -68,7 +68,7 @@
     },
     {
       "file": "card-05.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "split",
       "topic": "crypto",
@@ -127,7 +127,7 @@
     },
     {
       "file": "card-09.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "regulatory",
       "topic": "crypto",
@@ -172,7 +172,7 @@
     },
     {
       "file": "card-12.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "moat",
       "topic": "crypto",
@@ -231,7 +231,7 @@
     },
     {
       "file": "card-16.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "watchdog",
       "topic": "crypto",
@@ -248,7 +248,7 @@
     },
     {
       "file": "card-17.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "unbounded",
       "topic": "crypto",
@@ -265,7 +265,7 @@
     },
     {
       "file": "card-18.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "pipeline",
       "topic": "crypto",
@@ -281,7 +281,7 @@
     },
     {
       "file": "card-19.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "mechanics",
       "topic": "crypto",
@@ -298,7 +298,7 @@
     },
     {
       "file": "card-20.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "engineering",
       "topic": "crypto",
@@ -357,7 +357,7 @@
     },
     {
       "file": "card-24.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "conflicted",
       "topic": "crypto",
@@ -417,7 +417,7 @@
     },
     {
       "file": "card-28.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "sobering",
       "topic": "crypto",
@@ -462,7 +462,7 @@
     },
     {
       "file": "card-31.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "facepalm",
       "topic": "crypto",
@@ -508,7 +508,7 @@
     },
     {
       "file": "card-34.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "gap",
       "topic": "crypto",
@@ -538,7 +538,7 @@
     },
     {
       "file": "card-36.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "clever",
       "topic": "crypto",
@@ -552,6 +552,521 @@
         "novelty",
         "participation"
       ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-38.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "topic": "crypto",
+      "title": "DeFi's real cost is a live liquidity tax",
+      "caption": "$780M lost to DeFi hacks in a quarter — bridges, keys, protocol logic. Reframe it: that's not crime, it's a recurring tax the whole system pays for trustlessness. 'Be your own bank' also means be your own FDIC, and nobody prices that in.",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-43.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "wild",
+      "topic": "crypto",
+      "title": "An exploit inflated tokenized Google stock 78x",
+      "caption": "A lending exploit made tokenized Google stock read 78x its real value, minting $403K in bad debt. The lesson isn't the hack — it's that tokenizing a real asset doesn't import its price, it imports a *claim* about the price the code can be tricked on.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-91.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "poetic",
+      "topic": "crypto",
+      "title": "The MEV bot got counter-exploited by its own logic",
+      "caption": "Ethereum's biggest sandwich bot — 70% of that MEV — got drained $7.5M via fake approval traps. No code bug. Its own greedy decision-making was the exploit. In adversarial systems, a perfectly rational strategy is just a predictable one.",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-52.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "technical",
+      "topic": "crypto",
+      "title": "DeFi interest rates are a control-theory problem",
+      "caption": "Dynamic DeFi interest rates map cleanly onto drone-altitude control theory — same feedback loops, same instability modes. Which means DeFi's rate crises aren't crypto-specific failures; they're textbook control systems tuned badly.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-105.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "precise",
+      "topic": "crypto",
+      "title": "The proof validated. The settlement didn't.",
+      "caption": "$2.19M left a deprecated Aztec rollup when the proof validated but settlement silently skipped. The scary part isn't theft — it's that 'the math checked out' and 'the money moved correctly' turned out to be two different guarantees.",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-68.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "instructive",
+      "topic": "crypto",
+      "title": "The breach left fingerprints weeks before it fired",
+      "caption": "Polymarket's $3M supply-chain hack left credential-intel trails days-to-weeks before the malicious JS executed. Supply-chain attacks aren't sudden — they're slow. The industry just doesn't watch the window where they're still stoppable.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-106.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "measured",
+      "topic": "crypto",
+      "title": "Aave survived $8.45B out. That's the scary part",
+      "caption": "Aave processed $8.45B in withdrawals without freezing — a genuine stress-test pass. But 'it didn't break' isn't 'it's safe.' Systems that survive one bank-run teach everyone the exact size of the run that would break the next one.",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-93.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "striking",
+      "topic": "crypto",
+      "title": "Solana now out-settles every CEX combined",
+      "caption": "Solana settled more SOL spot volume on-chain ($584M) than all centralized exchanges combined ($422M). The milestone isn't price — it's that for one asset, the 'decentralized' venue quietly became the primary one. Infrastructure crossed over.",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-101.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "clear",
+      "topic": "crypto",
+      "title": "Stablecoins hold $1 until, suddenly, they don't",
+      "caption": "Every stablecoin promises $1 — but the mechanisms holding the peg vary wildly, and they fail fast, not slow. The risk isn't the average day. It's that 'pegged' hides which failure mode you're actually exposed to until the day it triggers.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-37.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-39.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-42.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-44.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-48.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-49.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-50.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-53.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-54.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-56.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-58.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-59.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-60.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-61.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-62.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-63.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-64.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-65.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-66.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-69.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-71.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-73.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-74.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-79.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-81.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-82.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-83.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-84.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-85.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-86.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-87.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-88.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-89.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-90.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-92.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-94.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-95.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-96.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-97.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-98.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-99.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-100.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-102.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-103.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-104.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
     }
   ]
 }

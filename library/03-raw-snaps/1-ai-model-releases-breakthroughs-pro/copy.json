@@ -18,7 +18,7 @@
     },
     {
       "file": "card-02.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "ominous",
       "topic": "ai",
@@ -34,7 +34,7 @@
     },
     {
       "file": "card-03.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "skeptical",
       "topic": "ai",
@@ -50,7 +50,7 @@
     },
     {
       "file": "card-04.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "pointed",
       "topic": "ai",
@@ -67,7 +67,7 @@
     },
     {
       "file": "card-05.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "socratic",
       "topic": "ai",
@@ -84,7 +84,7 @@
     },
     {
       "file": "card-06.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "blunt",
       "topic": "ai",
@@ -114,7 +114,7 @@
     },
     {
       "file": "card-08.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "brisk",
       "topic": "ai",
@@ -143,7 +143,7 @@
     },
     {
       "file": "card-10.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "wry",
       "topic": "ai",
@@ -160,7 +160,7 @@
     },
     {
       "file": "card-11.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "exasperated",
       "topic": "ai",
@@ -176,7 +176,7 @@
     },
     {
       "file": "card-12.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "ruthless",
       "topic": "ai",
@@ -192,7 +192,7 @@
     },
     {
       "file": "card-13.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "sober",
       "topic": "ai",
@@ -208,7 +208,7 @@
     },
     {
       "file": "card-14.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "crisp",
       "topic": "ai",
@@ -223,7 +223,7 @@
     },
     {
       "file": "card-15.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "geopolitical",
       "topic": "ai",
@@ -278,7 +278,7 @@
     },
     {
       "file": "card-19.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "paranoid",
       "topic": "ai",
@@ -309,7 +309,7 @@
     },
     {
       "file": "card-21.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "cynical",
       "topic": "ai",
@@ -338,7 +338,7 @@
     },
     {
       "file": "card-23.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "analytical",
       "topic": "ai",
@@ -380,7 +380,7 @@
     },
     {
       "file": "card-26.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "structural",
       "topic": "ai",
@@ -395,7 +395,7 @@
     },
     {
       "file": "card-27.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "prescient",
       "topic": "ai",
@@ -411,7 +411,7 @@
     },
     {
       "file": "card-28.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "suspicious",
       "topic": "ai",
@@ -427,7 +427,7 @@
     },
     {
       "file": "card-29.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "bearish",
       "topic": "ai",
@@ -443,7 +443,7 @@
     },
     {
       "file": "card-30.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "contrarian",
       "topic": "ai",
@@ -459,7 +459,7 @@
     },
     {
       "file": "card-31.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "earnest",
       "topic": "ai",
@@ -488,7 +488,7 @@
     },
     {
       "file": "card-33.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "curious",
       "topic": "ai",
@@ -503,7 +503,7 @@
     },
     {
       "file": "card-34.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "practical",
       "topic": "ai",
@@ -520,7 +520,7 @@
     },
     {
       "file": "card-35.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "sober",
       "topic": "ai",
@@ -551,7 +551,7 @@
     },
     {
       "file": "card-37.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "analytical",
       "topic": "ai",
@@ -610,7 +610,7 @@
     },
     {
       "file": "card-41.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "contrarian",
       "topic": "ai",
@@ -627,7 +627,7 @@
     },
     {
       "file": "card-42.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "ominous",
       "topic": "ai",
@@ -659,7 +659,7 @@
     },
     {
       "file": "card-44.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "uneasy",
       "topic": "ai",
@@ -676,7 +676,7 @@
     },
     {
       "file": "card-45.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "wry",
       "topic": "ai",
@@ -694,7 +694,7 @@
     },
     {
       "file": "card-46.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "dry",
       "topic": "ai",
@@ -725,7 +725,7 @@
     },
     {
       "file": "card-48.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "shrewd",
       "topic": "ai",
@@ -742,7 +742,7 @@
     },
     {
       "file": "card-49.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "structural",
       "topic": "ai",
@@ -758,7 +758,7 @@
     },
     {
       "file": "card-50.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "curious",
       "topic": "ai",
@@ -775,7 +775,7 @@
     },
     {
       "file": "card-51.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "seismic",
       "topic": "ai",
@@ -793,7 +793,7 @@
     },
     {
       "file": "card-52.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "strategic",
       "topic": "ai",
@@ -809,7 +809,7 @@
     },
     {
       "file": "card-53.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "grounded",
       "topic": "ai",
@@ -825,7 +825,7 @@
     },
     {
       "file": "card-54.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "stark",
       "topic": "ai",
@@ -884,7 +884,7 @@
     },
     {
       "file": "card-58.png",
-      "keep": true,
+      "keep": false,
       "score": 6,
       "vibe": "defiant",
       "topic": "ai",
@@ -971,7 +971,7 @@
     },
     {
       "file": "card-64.png",
-      "keep": true,
+      "keep": false,
       "score": 8,
       "vibe": "sharp",
       "topic": "ai",
@@ -988,7 +988,7 @@
     },
     {
       "file": "card-65.png",
-      "keep": true,
+      "keep": false,
       "score": 7,
       "vibe": "pointed",
       "topic": "ai",
@@ -1003,6 +1003,252 @@
         "identity",
         "emotion"
       ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-68.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "striking",
+      "topic": "ai",
+      "title": "A frontier model on 11x less compute",
+      "caption": "A Chinese lab trained a frontier-class model on 11x less compute — low-level optimization, not more GPUs. If capability stops tracking spend, the whole 'bigger cluster wins' thesis (and the export-control moat built on it) springs a leak.",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-95.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "spicy",
+      "topic": "ai",
+      "title": "Anthropic says Alibaba farmed Claude for its abilities",
+      "caption": "Anthropic accuses Alibaba of using thousands of fake accounts to 'illicitly extract' Claude's capabilities. The uncomfortable part: if a model can be distilled through its API, the moat isn't the weights — it's just the terms of service.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-86.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "technical",
+      "topic": "ai",
+      "title": "Encryption that lets AI read data it can't see",
+      "caption": "An encryption breakthrough lets models run on data they never decrypt. The second-order effect: 'we can't train on your data' stops being a privacy promise and becomes a solvable math problem — which means the promise expires.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-89.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "The next leap might be small models, not big ones",
+      "caption": "The next breakthrough may be orchestrating many small specialized models, not scaling one giant. It's the microservices argument arriving in ML: monoliths win early, composition wins once the monolith gets too expensive to retrain.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-73.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "wary",
+      "topic": "ai",
+      "title": "The government now picks who gets the model first",
+      "caption": "OpenAI shipped to limited users after the administration weighed in on *who* gets early access. A frontier model's rollout is now an allocation decision made partly in Washington. Distribution just became policy, not product.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-66.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-69.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-71.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-74.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-79.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-81.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-82.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-83.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-84.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-85.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-87.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-88.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-90.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-91.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-92.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-93.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-94.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-96.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
+    },
+    {
+      "file": "card-97.png",
+      "keep": false,
+      "score": 0,
+      "_dropped": "promo/dup/thin"
     }
   ]
 }
