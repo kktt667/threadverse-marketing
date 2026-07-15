@@ -1127,5 +1127,24 @@
     "platform": "mastodon",
     "at": "2026-07-15T15:27:50.174Z",
     "url": "https://mastodon.social/@threadverse/116924696563529515"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-112-tabloid.png",
+    "platform": "bluesky",
+    "at": "2026-07-15T17:21:03.309Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqpaa7xyqd2b"
+  },
+  {
+    "tile": null,
+    "caption": "The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence.\n\n#Science #Physics #QuantumComputing #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-15T17:21:03.309Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqpaacaccr2w"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-create-a-liv-card-29-splitProof.png",
+    "platform": "mastodon",
+    "at": "2026-07-15T17:21:03.309Z",
+    "url": "https://mastodon.social/@threadverse/116925141532053063"
   }
 ]
