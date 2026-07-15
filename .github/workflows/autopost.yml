@@ -50,7 +50,7 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           POST_NOW: ${{ github.event.inputs.post_now == 'true' && '1' || '' }}
           MAX_PER_RUN: '20'
-          MAX_PER_PLATFORM: '1'   # at most 1 post per platform per 2h run — drips, never bursts
+          MAX_PER_PLATFORM: '2'   # up to 2 posts/platform per 2h run (~8/day with 8 slots)
         run: node autopost/post.js
 
       - name: Commit posted.json (persist what was sent)

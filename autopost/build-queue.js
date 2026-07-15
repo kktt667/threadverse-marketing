@@ -19,13 +19,13 @@ const arg = (n, d = null) => { const i = process.argv.indexOf(`--${n}`); if (i =
 
 // Default: Bluesky + Mastodon (X dropped — no free API + blocks automation). Override with --platforms.
 const PLATFORMS = (arg('platforms', 'bluesky,mastodon')).split(',').map(s => s.trim());
-const PER_DAY = +(arg('per-day', 6));
+const PER_DAY = +(arg('per-day', 8));
 const DAYS = +(arg('days', 20));
 // Default START = today (UTC) so a fresh build schedules FORWARD, not back-dated (back-dating makes
 // every item read as "due now", which floods the next cron run). Override with --start YYYY-MM-DD.
 const START = arg('start', new Date().toISOString().slice(0, 10));
-// 6 slots/day at EVEN UTC hours so the 2-hourly cron fires them promptly (no delay).
-const SLOTS = ['08:00', '12:00', '14:00', '18:00', '20:00', '22:00'];
+// 8 slots/day at EVEN UTC hours so the 2-hourly cron fires them promptly (matches MAX_PER_PLATFORM=2).
+const SLOTS = ['08:00', '10:00', '12:00', '14:00', '16:00', '18:00', '20:00', '22:00'];
 
 function priority(item) {
   const f = item.format, t = (item.topic || '').toLowerCase();
