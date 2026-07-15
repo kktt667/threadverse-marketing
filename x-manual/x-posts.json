@@ -1,7 +1,16 @@
 [
   {
     "n": 1,
-    "image": "images/001-ai-tabloid.png",
+    "image": null,
+    "caption": "The scary AI model isn't the one a lab says is 'too dangerous to release.' It's the boring open one you're already running in prod, that nobody's stress-testing because it doesn't make headlines. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 2,
+    "image": "images/002-ai-tabloid.png",
     "caption": "Anthropic won't ship Mythos alone — it's handing rivals the keys to secure it. The incentive is the story: a lab that shares its scariest model has decided a leak now costs more than a head start is worth. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -9,8 +18,8 @@
     "sourceUrl": "https://youtube.com/watch?v=K0lYvhIo8Jw"
   },
   {
-    "n": 2,
-    "image": "images/002-crypto-tabloid.png",
+    "n": 3,
+    "image": "images/003-crypto-tabloid.png",
     "caption": "OptiFi burned $661K to a typo — no hack, no rug, just bad code. In DeFi there's no support desk and no undo: immutability is the feature and the liability in one. Surfaced in my feed while the timeline slept. #Crypto #Threadverse",
     "topic": "crypto",
     "format": "tabloid",
@@ -18,8 +27,8 @@
     "sourceUrl": "https://www.coindesk.com/business/2022/08/30/solana-based-defi-protocol-optifi-loses-661k-in-programming-blunder"
   },
   {
-    "n": 3,
-    "image": "images/003-science-tabloid.png",
+    "n": 4,
+    "image": "images/004-science-tabloid.png",
     "caption": "Measuring a photon changes where it is. The part engineers miss: the measurement isn't reading state, it's creating it. Observation is a write, not a read. #Science #Threadverse",
     "topic": "science",
     "format": "tabloid",
@@ -27,8 +36,8 @@
     "sourceUrl": null
   },
   {
-    "n": 4,
-    "image": "images/004-ai-tabloid.png",
+    "n": 5,
+    "image": "images/005-ai-tabloid.png",
     "caption": "Alibaba says it beats DeepSeek. The benchmark is noise; the move is open weights out of China turning every Western closed-model moat into a subsidy — labs pay to train what someone ships free. Caught this before it was a thread. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -36,26 +45,35 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:bvdrfwiamgi5leqs63q2duro/post/3mptecgya5k2u"
   },
   {
-    "n": 5,
-    "image": "images/005-gaming-tabloid.png",
-    "caption": "Xbox's CEO wants a billion people entertained daily — in the same memo as layoffs. The tell isn't the hypocrisy, it's the math: a billion players only pencils out as platform-and-ads, not games. #Gaming #Threadverse",
-    "topic": "gaming",
-    "format": "tabloid",
-    "score": 7,
-    "sourceUrl": "https://meta.masto.host/@GamingNews/116873817534300452"
-  },
-  {
     "n": 6,
-    "image": "images/006-science-tabloid.png",
-    "caption": "CERN reports a new form of quantum superposition — one thing, two states, for real. Notice what didn't break: the math predicted it exactly. Your intuition is the wrong part, trained on a scale where superposition averages out. #Science #Threadverse",
-    "topic": "science",
+    "image": "images/006-founders-tabloid.png",
+    "caption": "Every email chased the next sale; not one helped the customer win with what they'd already bought. Retention isn't more selling — it's making purchase #1 succeed so purchase #2 sells itself. #Startup #Threadverse",
+    "topic": "founders",
     "format": "tabloid",
-    "score": 6,
+    "score": 8,
     "sourceUrl": null
   },
   {
     "n": 7,
-    "image": "images/007-ai-tabloid.png",
+    "image": null,
+    "caption": "If AI writing your code scares you, ask an honest question: were you being paid to type, or to decide what's worth building? The typing was never the moat. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 8,
+    "image": "images/008-crypto-tabloid.png",
+    "caption": "OptiFi closed its own mainnet by mistake and permanently locked $661K in user funds. Immutability upgrades a fat-fingered deploy into total loss — on-chain, your CI/CD pipeline is the custodian and there is no rollback. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 9,
+    "image": "images/009-ai-tabloid.png",
     "caption": "OpenAI staggered its GPT-5.6 preview after a White House request. The version number is noise; the signal is a release date is now a lever the state can pull. Ship schedules became foreign policy — and open source has no one at the table. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -63,26 +81,35 @@
     "sourceUrl": "https://www.youtube.com/watch?v=lq2fP7wC7d8"
   },
   {
-    "n": 8,
-    "image": "images/008-gaming-tabloid.png",
-    "caption": "Ex-Rocksteady leads explain why Suicide Squad flopped. The real post-mortem: the Arkham combat that made them famous is structurally incompatible with a loot-and-grind loop. Their strength became the constraint. #Gaming #Threadverse",
-    "topic": "gaming",
+    "n": 10,
+    "image": "images/010-founders-tabloid.png",
+    "caption": "Kapwing's honest version: fundraising is terrible by design — you leak all the signal, investors leak none. It's a 2%-close sales pipeline, not a verdict on your idea. The honest write-ups surface when your reading filters for signal. #Startup #Threadverse",
+    "topic": "founders",
     "format": "tabloid",
-    "score": 7,
-    "sourceUrl": "https://medium.com/@philippsandner/defi-fund-what-is-the-return-on-investing-in-10-defi-protocols-547d5340dc30"
-  },
-  {
-    "n": 9,
-    "image": "images/009-science-bigStat.png",
-    "caption": "'Negative time' is real — photons left a material before finishing their entrance. Nothing outran light and no information moved; what broke is the assumption that a pulse has one crisp arrival time. The clock was the fiction, not causality. #Science #Threadverse",
-    "topic": "science",
-    "format": "bigStat",
-    "score": 9,
+    "score": 8,
     "sourceUrl": null
   },
   {
-    "n": 10,
-    "image": "images/010-ai-tabloid.png",
+    "n": 11,
+    "image": "images/011-crypto-tabloid.png",
+    "caption": "A lending exploit made tokenized Google stock read 78x its real value, minting $403K in bad debt. The lesson isn't the hack — it's that tokenizing a real asset doesn't import its price, it imports a *claim* about the price the code can be tricked on. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 12,
+    "image": null,
+    "caption": "Measuring a photon doesn't read its state — it creates it. Observation is a write, not a read. Most 'spooky' quantum weirdness is just that one sentence, restated. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 13,
+    "image": "images/013-ai-tabloid.png",
     "caption": "Google's Genie generates playable worlds from a prompt; game stocks slid that afternoon. The market isn't pricing the demo — it's pricing the asset base: if worlds are generated, a studio's back catalog stops being a moat and becomes overhead. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -90,26 +117,26 @@
     "sourceUrl": "https://k33g.org/20260705-pk-rust-expert.html"
   },
   {
-    "n": 11,
-    "image": "images/011-gaming-tabloid.png",
-    "caption": "Sony's repurposing its PS disc factory; Microsoft's lining up buyers for Xbox studios. Killing discs ends resale, lending and preservation — so every 'purchase' becomes a revocable license. You'll own nothing, framed as convenience. #Gaming #Threadverse",
-    "topic": "gaming",
+    "n": 14,
+    "image": "images/014-founders-tabloid.png",
+    "caption": "Ask HN: three years of nights-and-weekends startups, zero dollars, and now every idea on the list feels radioactive. The burnout isn't from the work — it's from shipping into silence. Traction problems wear motivation-problem costumes. #Startup #Threadverse",
+    "topic": "founders",
     "format": "tabloid",
-    "score": 6,
-    "sourceUrl": "https://x.com/reborn_444/status/2073511147139969463"
-  },
-  {
-    "n": 12,
-    "image": "images/012-science-bigStat.png",
-    "caption": "The largest molecules ever were just put in two places at once. The real frontier isn't 'how big' — every scale-up hunts for where quantum stops and classical begins, and the boundary keeps retreating. Maybe there's no boundary, only decoherence. #Science #Threadverse",
-    "topic": "science",
-    "format": "bigStat",
-    "score": 9,
+    "score": 8,
     "sourceUrl": null
   },
   {
-    "n": 13,
-    "image": "images/013-ai-tabloid.png",
+    "n": 15,
+    "image": "images/015-gaming-tabloid.png",
+    "caption": "Xbox's CEO wants a billion people entertained daily — in the same memo as layoffs. The tell isn't the hypocrisy, it's the math: a billion players only pencils out as platform-and-ads, not games. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "sourceUrl": "https://meta.masto.host/@GamingNews/116873817534300452"
+  },
+  {
+    "n": 16,
+    "image": "images/016-ai-tabloid.png",
     "caption": "The White House froze foreign access to Anthropic's models, then reversed it weeks later. The precedent is the story: model access is now an export control that can flip overnight. Build on one lab's API and you inherited geopolitical risk you never priced in. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -117,26 +144,35 @@
     "sourceUrl": "https://www.synestesia.uk/legacy/webbrain-browser-agent-automates-tasks-with-local-ai-model-1hjxpv7j3g"
   },
   {
-    "n": 14,
-    "image": "images/014-gaming-bigStat.png",
-    "caption": "3,200 gone across FY27, 1,600 today — the biggest cut in Xbox history, Ninja Theory sold. The pattern under the numbers: they're not shrinking games, they're shedding the parts that don't scale like software. Studios priced as SaaS, and losing. #Gaming #Threadverse",
-    "topic": "gaming",
-    "format": "bigStat",
-    "score": 8,
-    "sourceUrl": "https://x.com/ProTraderX619/status/2074153748008468860"
-  },
-  {
-    "n": 15,
-    "image": "images/015-science-bigStat.png",
-    "caption": "In a quantum system, heat flowed cold-to-hot — the arrow of time, locally reversed. Entropy wasn't repealed: they spent correlation to do it, paying in information what they saved in disorder. The second law just moved its accounting to a ledger you weren't watching. #Science",
-    "topic": "science",
-    "format": "bigStat",
-    "score": 9,
+    "n": 17,
+    "image": null,
+    "caption": "'Staying informed' is how sharp people avoid thinking. You read forty takes so you never have to risk one of your own. Reading feels like progress; it isn't. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
     "sourceUrl": null
   },
   {
-    "n": 16,
-    "image": "images/016-ai-tabloid.png",
+    "n": 18,
+    "image": "images/018-founders-tabloid.png",
+    "caption": "Ask HN: vibe coding collapsed build time from months to hours — so shipping fast differentiates nothing. When execution is commoditized, distribution is the scarce skill, and most builders are still optimizing the solved half. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 19,
+    "image": "images/019-gaming-tabloid.png",
+    "caption": "Ex-Rocksteady leads explain why Suicide Squad flopped. The real post-mortem: the Arkham combat that made them famous is structurally incompatible with a loot-and-grind loop. Their strength became the constraint. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "sourceUrl": "https://medium.com/@philippsandner/defi-fund-what-is-the-return-on-investing-in-10-defi-protocols-547d5340dc30"
+  },
+  {
+    "n": 20,
+    "image": "images/020-ai-tabloid.png",
     "caption": "Ex-founders on CBS raising alarms about Anthropic's Mythos. Worth asking who benefits: 'our model is too dangerous to release' is also the most bullish thing a lab can say. Capability panic and marketing became the same press release. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -144,26 +180,35 @@
     "sourceUrl": "https://youtube.com/watch?v=lUHQIwrqo-8"
   },
   {
-    "n": 17,
-    "image": "images/017-crypto-bigStat.png",
-    "caption": "Tokenized stocks hit $34B/month, up 40x in 13 months — Nvidia and Tesla on-chain 24/7. The mechanism nobody flags: always-on means the weekend gap risk TradFi hides behind closed exchanges now hits you in real time. My feed caught the trend early. #Crypto #Threadverse",
+    "n": 21,
+    "image": "images/021-crypto-tabloid.png",
+    "caption": "Interest rate swaps just landed on Base. Every DeFi rate floats with pool utilization — swaps are the missing primitive that lets fixed-rate lending exist at all. The unsexy plumbing matters more than the token. #Crypto #Threadverse",
     "topic": "crypto",
-    "format": "bigStat",
-    "score": 8,
-    "sourceUrl": "https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mpntcbh5bq2z"
-  },
-  {
-    "n": 18,
-    "image": "images/018-science-bigStat.png",
-    "caption": "Physicists measured 'negative time' — photons exiting a cloud before finishing their entrance. Not time travel: the pulse reshapes as it passes, so 'when it arrived' was never one number. Language broke before physics did. #Science #Threadverse",
-    "topic": "science",
-    "format": "bigStat",
-    "score": 8,
+    "format": "tabloid",
+    "score": 7,
     "sourceUrl": null
   },
   {
-    "n": 19,
-    "image": "images/019-ai-tabloid.png",
+    "n": 22,
+    "image": null,
+    "caption": "Frontier models ship like CI/CD now — no version pinned, silent rolling updates. Nobody prices the cost: you can't reproduce a result or prove which model wrote what. Continuous deployment quietly killed accountability. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 23,
+    "image": "images/023-gaming-tabloid.png",
+    "caption": "Sony's repurposing its PS disc factory; Microsoft's lining up buyers for Xbox studios. Killing discs ends resale, lending and preservation — so every 'purchase' becomes a revocable license. You'll own nothing, framed as convenience. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 6,
+    "sourceUrl": "https://x.com/reborn_444/status/2073511147139969463"
+  },
+  {
+    "n": 24,
+    "image": "images/024-ai-tabloid.png",
     "caption": "ABC confirms Anthropic built a model it deems too dangerous to release. The unsettling part for a builder: 'we decided' is the whole safety mechanism. No regulator, no third party — the gate is one company's judgment. That's not safety, it's trust. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -171,26 +216,35 @@
     "sourceUrl": "https://youtube.com/watch?v=PLg2EUkIC78"
   },
   {
-    "n": 20,
-    "image": "images/020-crypto-bigStat.png",
-    "caption": "DeFi hacks bled $780M in Q2 2026. Reframe it as an engineer: that's the market price of unaudited composability. Every protocol you stack multiplies attack surface — 'money legos' and 'exploit chains' are the same property. The APY prices it in. #Crypto #Threadverse",
+    "n": 25,
+    "image": "images/025-crypto-tabloid.png",
+    "caption": "Hyperliquid and Phantom asking the CFTC for DeFi-specific regulation isn't surrender. Compliance costs scale badly for small teams — incumbents can buy a rulebook their next competitor can't afford. Classic incentive design. #Crypto #Threadverse",
     "topic": "crypto",
-    "format": "bigStat",
-    "score": 8,
-    "sourceUrl": "https://dappling.network/"
-  },
-  {
-    "n": 21,
-    "image": "images/021-gaming-bigStat.png",
-    "caption": "Xbox's target: 24x Steam's peak concurrent players — daily. That's not a gaming number, it's a Netflix number, and it only closes if 'player' quietly means anyone tapping a cloud stream for two minutes. The metric is the strategy. #Gaming #Threadverse",
-    "topic": "gaming",
-    "format": "bigStat",
+    "format": "tabloid",
     "score": 7,
-    "sourceUrl": "https://meta.masto.host/@GamingNews/116873650755942540"
+    "sourceUrl": null
   },
   {
-    "n": 22,
-    "image": "images/022-ai-tabloid.png",
+    "n": 26,
+    "image": "images/026-science-tabloid.png",
+    "caption": "CERN reports a new form of quantum superposition — one thing, two states, for real. Notice what didn't break: the math predicted it exactly. Your intuition is the wrong part, trained on a scale where superposition averages out. #Science #Threadverse",
+    "topic": "science",
+    "format": "tabloid",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 27,
+    "image": null,
+    "caption": "The acqui-hire replaced the acquisition for one reason: buying a company triggers antitrust review, hiring its founders doesn't. It's a legal wrapper for a purchase regulators can't see. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 28,
+    "image": "images/028-ai-tabloid.png",
     "caption": "Anthropic delayed Claude Mythos over security concerns. The overlooked read for anyone on frontier APIs: a safety pause is an availability incident. Your roadmap has a dependency that can be pulled because the vendor got scared of its own product. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -198,26 +252,26 @@
     "sourceUrl": "https://youtube.com/watch?v=htBaVVh_k90"
   },
   {
-    "n": 23,
-    "image": "images/023-crypto-splitProof.png",
-    "caption": "High DeFi yields are quietly funding the hacks that drain them. Yield and exploit-loss come from the same pooled liquidity, so the APY you farm is partly other people's stolen principal cycling back as emissions. Not a bug — the system. #Crypto #Threadverse",
+    "n": 29,
+    "image": "images/029-crypto-tabloid.png",
+    "caption": "Polymarket is adding leverage to binary outcomes. Liquidation math assumes prices move continuously — these contracts teleport to 0 or 1 at resolution. Margining an instrument that jumps is a genuinely new risk-engine problem. #Crypto #Threadverse",
     "topic": "crypto",
-    "format": "splitProof",
+    "format": "tabloid",
     "score": 7,
-    "sourceUrl": "https://blazetrends.com/european-parliament-advances-defi-and-nft-regulation-vote-ahead-of-mica-rollout/?fsp_sid=43146"
+    "sourceUrl": null
   },
   {
-    "n": 24,
-    "image": "images/024-gaming-bigStat.png",
-    "caption": "One dev, a finished game, 55k refunds — Steam's 2-hour rule let players beat it and cash out, some leaving positive reviews. The flaw: refund policy assumes playtime tracks value, but tight short games invert that. Better pacing, more theft. #Gaming #Threadverse",
-    "topic": "gaming",
-    "format": "bigStat",
-    "score": 7,
-    "sourceUrl": "https://news.ycombinator.com/item?id=42708030"
+    "n": 30,
+    "image": "images/030-founders-tabloid.png",
+    "caption": "Everyone retells the bet that worked; the graveyard of founders who made the exact same bet has no biographer. It's a great story precisely because it's terrible advice. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "tabloid",
+    "score": 6,
+    "sourceUrl": null
   },
   {
-    "n": 25,
-    "image": "images/025-ai-tabloid.png",
+    "n": 31,
+    "image": "images/031-ai-tabloid.png",
     "caption": "GPT-5.2 lands: spreadsheets, slides, code and image reads in one model. Skip the benchmark — the shift is bundling. When one model does four tasks well enough, the winners aren't better models, they're the workflows that stop switching tools. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -225,26 +279,35 @@
     "sourceUrl": "https://youtube.com/watch?v=wXXvB8xVyPk"
   },
   {
-    "n": 26,
-    "image": "images/026-crypto-splitProof.png",
-    "caption": "Crypto's shifting from 'number go up' to protocols with real cashflow — AAVE priced like an investment-grade primitive. The catch nobody says: predictable revenue is also something to regulate and tax. A real business is a real target. #Crypto #Threadverse",
+    "n": 32,
+    "image": null,
+    "caption": "The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 33,
+    "image": "images/033-science-bigStat.png",
+    "caption": "'Negative time' is real — photons left a material before finishing their entrance. Nothing outran light and no information moved; what broke is the assumption that a pulse has one crisp arrival time. The clock was the fiction, not causality. #Science #Threadverse",
+    "topic": "science",
+    "format": "bigStat",
+    "score": 9,
+    "sourceUrl": null
+  },
+  {
+    "n": 34,
+    "image": "images/034-crypto-splitProof.png",
+    "caption": "Ethereum's biggest sandwich bot — 70% of that MEV — got drained $7.5M via fake approval traps. No code bug. Its own greedy decision-making was the exploit. In adversarial systems, a perfectly rational strategy is just a predictable one. #Crypto #Threadverse",
     "topic": "crypto",
     "format": "splitProof",
-    "score": 7,
-    "sourceUrl": "https://www.coindesk.com/defi-protocol-easyfi-reports-hack"
+    "score": 9,
+    "sourceUrl": null
   },
   {
-    "n": 27,
-    "image": "images/027-gaming-bigStat.png",
-    "caption": "Studios make roughly twice as much per digital sale. That gap is why physical is dying — but the effect that hits you: no used market means no price floor, so games never really go on sale, they just get delisted. Digital killed the discount. #Gaming #Threadverse",
-    "topic": "gaming",
-    "format": "bigStat",
-    "score": 6,
-    "sourceUrl": "https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/"
-  },
-  {
-    "n": 28,
-    "image": "images/028-ai-tabloid.png",
+    "n": 35,
+    "image": "images/035-ai-tabloid.png",
     "caption": "Microsoft unveiled seven of its own models — Scout, MDASH, Majorana 2 — going full-stack instead of leaning on OpenAI. The dependency era isn't ending, it's inverting: your platform vendor is becoming your model vendor's competitor. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -252,26 +315,35 @@
     "sourceUrl": "https://youtube.com/watch?v=i1dkkxLWaWg"
   },
   {
-    "n": 29,
-    "image": "images/029-science-banner.png",
-    "caption": "An AI built to crunch numbers is now designing quantum experiments physicists couldn't conceive. It's not solving faster — it's proposing setups no human intuition would reach, so we run experiments we don't fully understand. Discovery is decoupling from comprehension. #Science",
+    "n": 36,
+    "image": "images/036-science-bigStat.png",
+    "caption": "The largest molecules ever were just put in two places at once. The real frontier isn't 'how big' — every scale-up hunts for where quantum stops and classical begins, and the boundary keeps retreating. Maybe there's no boundary, only decoherence. #Science #Threadverse",
     "topic": "science",
-    "format": "banner",
+    "format": "bigStat",
     "score": 9,
     "sourceUrl": null
   },
   {
-    "n": 30,
-    "image": "images/030-philosophy-quote.png",
-    "caption": "Best answer to 'what will you do with a philosophy degree?' — 'dress up marketing for AI firms as profound ethics before their IPO.' It lands because the AI-ethics-philosopher role exists precisely because a plausible ethics story is now load-bearing for a valuation. #Philosophy",
-    "topic": "philosophy",
-    "format": "quote",
-    "score": 8,
-    "sourceUrl": "https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpvvkyqz4s2d"
+    "n": 37,
+    "image": null,
+    "caption": "No £60 game reviews above a 7. Not because they're worse — price sets the baseline the score is graded against. The same game at £20 reviews a point higher. You're rating the receipt. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
   },
   {
-    "n": 31,
-    "image": "images/031-ai-tabloid.png",
+    "n": 38,
+    "image": "images/038-gaming-bigStat.png",
+    "caption": "3,200 gone across FY27, 1,600 today — the biggest cut in Xbox history, Ninja Theory sold. The pattern under the numbers: they're not shrinking games, they're shedding the parts that don't scale like software. Studios priced as SaaS, and losing. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 8,
+    "sourceUrl": "https://x.com/ProTraderX619/status/2074153748008468860"
+  },
+  {
+    "n": 39,
+    "image": "images/039-ai-tabloid.png",
     "caption": "Microsoft's AI CEO shipped 7 models with one rule: don't replace people. 'Humanist Superintelligence' sounds like values — read it as positioning. If you're behind on capability, 'we won't automate you' is how you sell to enterprises afraid of the backlash. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -279,26 +351,35 @@
     "sourceUrl": "https://youtube.com/watch?v=OvLIae4HCeM"
   },
   {
-    "n": 32,
-    "image": "images/032-crypto-quote.png",
-    "caption": "A French dev did the math: a king's estate gets more audits than his on-chain yield. Run it forward — once this is common, it stops being a loophole and becomes the reason chain-surveillance gets mandated. Privacy that scales invites the crackdown that ends it. #Crypto",
+    "n": 40,
+    "image": "images/040-science-bigStat.png",
+    "caption": "In a quantum system, heat flowed cold-to-hot — the arrow of time, locally reversed. Entropy wasn't repealed: they spent correlation to do it, paying in information what they saved in disorder. The second law just moved its accounting to a ledger you weren't watching. #Science",
+    "topic": "science",
+    "format": "bigStat",
+    "score": 9,
+    "sourceUrl": null
+  },
+  {
+    "n": 41,
+    "image": "images/041-crypto-bigStat.png",
+    "caption": "Tokenized stocks hit $34B/month, up 40x in 13 months — Nvidia and Tesla on-chain 24/7. The mechanism nobody flags: always-on means the weekend gap risk TradFi hides behind closed exchanges now hits you in real time. My feed caught the trend early. #Crypto #Threadverse",
     "topic": "crypto",
-    "format": "quote",
+    "format": "bigStat",
     "score": 8,
-    "sourceUrl": "https://bsky.app/profile/did:plc:dlafnk6xz6bbn2yfsv6ulk7l/post/3mpcksvb26z2b"
+    "sourceUrl": "https://bsky.app/profile/did:plc:cv47ogydgn3ypbutrrt7f7s4/post/3mpntcbh5bq2z"
   },
   {
-    "n": 33,
-    "image": "images/033-philosophy-quote.png",
-    "caption": "Analytic philosophy is the rare field with no taboo against calling a colleague simply wrong. Fodor called it a feature — and it is: it's the only norm that lets a field compound instead of accrete. You can't build on an idea nobody's allowed to kill. #Philosophy #Threadverse",
-    "topic": "philosophy",
-    "format": "quote",
-    "score": 8,
-    "sourceUrl": "https://bsky.app/profile/did:plc:5zgber5npxagnqr3hg4fm4zv/post/3mpmmurkx7s2w"
+    "n": 42,
+    "image": null,
+    "caption": "When two rival studios restructure in the same week, one of them is using the other as cover. A rough quarter is the cheapest camouflage for an unpopular strategic cut. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
   },
   {
-    "n": 34,
-    "image": "images/034-ai-tabloid.png",
+    "n": 43,
+    "image": "images/043-ai-tabloid.png",
     "caption": "Anthropic ran only a 'very limited test' on a model they call too powerful to release. The contradiction: they claim it's dangerous but tested it lightly. Either the danger is overstated for effect, or they shipped a capability they can't evaluate. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -306,26 +387,197 @@
     "sourceUrl": "https://www.nature.com/articles/d41586-026-01689-0"
   },
   {
-    "n": 35,
-    "image": "images/035-science-quote.png",
-    "caption": "Physicists reversed local entropy with quantum computers — hinting time is emergent from entanglement, not fundamental. If time is downstream of correlation, 'when' is derived state, not an axis. Causality might be an API on top of entanglement. #Science #Threadverse",
+    "n": 44,
+    "image": "images/044-science-bigStat.png",
+    "caption": "Physicists measured 'negative time' — photons exiting a cloud before finishing their entrance. Not time travel: the pulse reshapes as it passes, so 'when it arrived' was never one number. Language broke before physics did. #Science #Threadverse",
     "topic": "science",
-    "format": "quote",
+    "format": "bigStat",
     "score": 8,
     "sourceUrl": null
   },
   {
-    "n": 36,
-    "image": "images/036-gaming-quote.png",
-    "caption": "Hot take going round: no £60+ game is more than a 7/10. There's a real mechanism under the snark — price sets the expectation baseline, so a score is graded against cost, not absolute terms. The same game at £20 reviews a point higher. You're rating the receipt. #Gaming",
-    "topic": "gaming",
-    "format": "quote",
-    "score": 7,
-    "sourceUrl": "https://bsky.app/profile/did:plc:mmjmympmlcuexvluef2ep2im/post/3mpuzaiyjxc2m"
+    "n": 45,
+    "image": "images/045-crypto-bigStat.png",
+    "caption": "DeFi hacks bled $780M in Q2 2026. Reframe it as an engineer: that's the market price of unaudited composability. Every protocol you stack multiplies attack surface — 'money legos' and 'exploit chains' are the same property. The APY prices it in. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "sourceUrl": "https://dappling.network/"
   },
   {
-    "n": 37,
-    "image": "images/037-ai-tabloid.png",
+    "n": 46,
+    "image": "images/046-ai-tabloid.png",
+    "caption": "OpenAI and Google won't accept opt-out copyright rules. Read it as engineering, not lobbying: models can't unlearn one work without retraining, so any consent framework breaks the architecture. The tech was built to make 'no' impossible. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 47,
+    "image": null,
+    "caption": "DeFi's real story isn't 'number go up' — it's that immutability is the feature and the liability in one contract. No support desk, no undo. A typo isn't a bug, it's a burn. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 48,
+    "image": "images/048-gaming-bigStat.png",
+    "caption": "Xbox's target: 24x Steam's peak concurrent players — daily. That's not a gaming number, it's a Netflix number, and it only closes if 'player' quietly means anyone tapping a cloud stream for two minutes. The metric is the strategy. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": "https://meta.masto.host/@GamingNews/116873650755942540"
+  },
+  {
+    "n": 49,
+    "image": "images/049-crypto-bigStat.png",
+    "caption": "$780M lost to DeFi hacks in a quarter — bridges, keys, protocol logic. Reframe it: that's not crime, it's a recurring tax the whole system pays for trustlessness. 'Be your own bank' also means be your own FDIC, and nobody prices that in. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 50,
+    "image": "images/050-ai-tabloid.png",
+    "caption": "OpenAI staggered GPT-5.6 at the administration's request. The gate on frontier AI isn't compute or safety evals anymore — it's political sign-off. Launch day just became a lever of statecraft, and labs are learning to negotiate like defense contractors. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 51,
+    "image": "images/051-gaming-bigStat.png",
+    "caption": "One dev, a finished game, 55k refunds — Steam's 2-hour rule let players beat it and cash out, some leaving positive reviews. The flaw: refund policy assumes playtime tracks value, but tight short games invert that. Better pacing, more theft. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": "https://news.ycombinator.com/item?id=42708030"
+  },
+  {
+    "n": 52,
+    "image": null,
+    "caption": "RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 53,
+    "image": "images/053-crypto-splitProof.png",
+    "caption": "High DeFi yields are quietly funding the hacks that drain them. Yield and exploit-loss come from the same pooled liquidity, so the APY you farm is partly other people's stolen principal cycling back as emissions. Not a bug — the system. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 7,
+    "sourceUrl": "https://blazetrends.com/european-parliament-advances-defi-and-nft-regulation-vote-ahead-of-mica-rollout/?fsp_sid=43146"
+  },
+  {
+    "n": 54,
+    "image": "images/054-ai-tabloid.png",
+    "caption": "Game stocks slid on Google's Genie release. The market didn't reprice games — it repriced content pipelines. The threat isn't AI-made games; it's playable video that never needed an engine, an asset store, or a studio. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 55,
+    "image": "images/055-founders-bigStat.png",
+    "caption": "Engineers treat sales as a personality trait they weren't shipped with. It's a system: instrument it, find the drop-off, iterate — the same loop you run on code. Two B2B startups of proof, 153 HN upvotes of agreement. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 56,
+    "image": "images/056-crypto-splitProof.png",
+    "caption": "Crypto's shifting from 'number go up' to protocols with real cashflow — AAVE priced like an investment-grade primitive. The catch nobody says: predictable revenue is also something to regulate and tax. A real business is a real target. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 7,
+    "sourceUrl": "https://www.coindesk.com/defi-protocol-easyfi-reports-hack"
+  },
+  {
+    "n": 57,
+    "image": null,
+    "caption": "The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 58,
+    "image": "images/058-ai-tabloid.png",
+    "caption": "The White House lifted its export block on Anthropic's frontier model. The reversal matters less than the precedent: access to a model is now a license the state grants and revokes — the same legal machinery as arms exports. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 59,
+    "image": "images/059-gaming-bigStat.png",
+    "caption": "Studios make roughly twice as much per digital sale. That gap is why physical is dying — but the effect that hits you: no used market means no price floor, so games never really go on sale, they just get delisted. Digital killed the discount. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "bigStat",
+    "score": 6,
+    "sourceUrl": "https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/"
+  },
+  {
+    "n": 60,
+    "image": "images/060-crypto-splitProof.png",
+    "caption": "Stablecoins aren't competing — they're speciating. USDT optimizes for offshore liquidity, USDC for compliance and composability. Same peg, two trust models; the 'dollar' now forks along whichever API it serves. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 61,
+    "image": "images/061-ai-tabloid.png",
+    "caption": "Anthropic accuses Alibaba of using thousands of fake accounts to 'illicitly extract' Claude's capabilities. The uncomfortable part: if a model can be distilled through its API, the moat isn't the weights — it's just the terms of service. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 62,
+    "image": null,
+    "caption": "The real cost of a coding agent isn't tokens. It's that you stop holding the whole system in your head. Six months in you can prompt your codebase but you can no longer reason about it. You outsourced the map, not just the typing. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 63,
+    "image": "images/063-science-banner.png",
+    "caption": "An AI built to crunch numbers is now designing quantum experiments physicists couldn't conceive. It's not solving faster — it's proposing setups no human intuition would reach, so we run experiments we don't fully understand. Discovery is decoupling from comprehension. #Science",
+    "topic": "science",
+    "format": "banner",
+    "score": 9,
+    "sourceUrl": null
+  },
+  {
+    "n": 64,
+    "image": "images/064-crypto-bigStat.png",
+    "caption": "Blockaid caught Summer.fi's exploit — not Summer.fi. Detection has quietly become an outsourced layer: third parties watching public mempools spot your incident before your own alerts fire. Transparency cuts both ways. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 65,
+    "image": "images/065-ai-tabloid.png",
     "caption": "Meta's going commercial to catch OpenAI and Google — the open-weights champion wants your money now. The trap for anyone who built on 'free Llama': open-source was never charity, it was a wedge to commoditize a rival's product. You were the strategy, not the customer. #AI",
     "topic": "ai",
     "format": "tabloid",
@@ -333,26 +585,35 @@
     "sourceUrl": "https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december"
   },
   {
-    "n": 38,
-    "image": "images/038-philosophy-quote.png",
-    "caption": "Marcus Aurelius: 'Wipe out imagination. Confine thyself to the present.' Read it as a debugging note: most anxiety is your model running unbounded simulation on inputs that don't exist yet. Not 'relax' — stop executing speculative branches. #Philosophy #Threadverse",
-    "topic": "philosophy",
-    "format": "quote",
-    "score": 7,
-    "sourceUrl": "https://mastodon.social/@CuratedMarcusAurelius/116871465316612608"
+    "n": 66,
+    "image": "images/066-founders-banner.png",
+    "caption": "The indie bubble optimizes for easy-build SaaS; outsiders blunder into marketplaces, ecommerce, hardware — and stumble onto $$$. Knowing what's 'too hard' is how a community fences itself out of markets. Naivety is an edge. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "banner",
+    "score": 9,
+    "sourceUrl": null
   },
   {
-    "n": 39,
-    "image": "images/039-crypto-quote.png",
-    "caption": "You're a DeFi dev who's stopped believing in crypto. Now what? The skills transfer perfectly — adversarial thinking, formal verification, incentive design — but the résumé signal is radioactive. You built the hardest thing in software and have to hide it. #Crypto #Threadverse",
+    "n": 67,
+    "image": null,
+    "caption": "Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 68,
+    "image": "images/068-crypto-bigStat.png",
+    "caption": "$12B in tokenized equities now trade 24/7. Equity plumbing assumes a close — circuit breakers, auctions, overnight risk desks. Who prices Tesla at 3am on a Sunday? The volatility moved to where the referees aren't. One for the signal pile. #Crypto #Threadverse",
     "topic": "crypto",
-    "format": "quote",
+    "format": "bigStat",
     "score": 7,
-    "sourceUrl": "https://news.ycombinator.com/item?id=31796256"
+    "sourceUrl": null
   },
   {
-    "n": 40,
-    "image": "images/040-ai-tabloid.png",
+    "n": 69,
+    "image": "images/069-ai-tabloid.png",
     "caption": "The US government asked OpenAI to stagger a release. The sharper point is who isn't in the room: closed labs can be asked to slow, open-weight releases can't be un-shipped. Regulation only reaches the players who'd have been safest anyway. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -360,26 +621,35 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mps4xss2uc2t"
   },
   {
-    "n": 41,
-    "image": "images/041-gaming-quote.png",
-    "caption": "Microsoft still bets AAA is growth, not aging millennials clinging to a format. The bet under the bet: if they're wrong, the layoffs aren't cost-cutting — they're the first move out of making games, toward renting a store and a stream. #Gaming #Threadverse",
-    "topic": "gaming",
-    "format": "quote",
-    "score": 6,
-    "sourceUrl": "https://x.com/fuckkiev/status/2074144924514312200"
+    "n": 70,
+    "image": "images/070-founders-banner.png",
+    "caption": "'Your startup doesn't need to be a unicorn' — the missing middle keeps control and profits. VCs need outliers because portfolio math demands it; you don't. A $2M/yr business is a failure to a fund and a fortune to a founder. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "banner",
+    "score": 8,
+    "sourceUrl": null
   },
   {
-    "n": 42,
-    "image": "images/042-philosophy-quote.png",
-    "caption": "Plato: 'Attention to health is a great obstacle to virtue.' Not anti-wellness — a warning about optimization as avoidance. Perfecting a legible metric is a socially approved way to dodge the illegible work that matters. The gym as productive procrastination. #Philosophy",
-    "topic": "philosophy",
-    "format": "quote",
-    "score": 6,
-    "sourceUrl": "https://mastodon.social/@CuratedPlato/116872958691380996"
+    "n": 71,
+    "image": "images/071-crypto-bigStat.png",
+    "caption": "DeFi's RWA sector is up 200% to $7.4B in a down market. No mystery: the yield is T-bills imported on-chain. DeFi is turning into a distribution channel for TradFi rates, not an alternative to them. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": null
   },
   {
-    "n": 43,
-    "image": "images/043-ai-tabloid.png",
+    "n": 72,
+    "image": null,
+    "caption": "Fine-tuning a model on your own outputs is a slow-motion photocopy of a photocopy. Each generation loses the tails. The distribution narrows, the model gets more agreeable, and you mistake the collapse for alignment. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 73,
+    "image": "images/073-ai-tabloid.png",
     "caption": "A proposed rule would have the government review new AI models before public release. Sounds like safety; for open source it's a kill switch. You can't submit a weights file anyone can fork the day before — the rule doesn't slow open models, it makes releasing them illegal. #AI",
     "topic": "ai",
     "format": "tabloid",
@@ -387,26 +657,26 @@
     "sourceUrl": "https://x.com/baaaiinc/status/2074102077609923037"
   },
   {
-    "n": 44,
-    "image": "images/044-gaming-quote.png",
-    "caption": "Sony's gutting its gaming arm while everyone watches Microsoft's cuts. The timing isn't coincidence, it's camouflage — a rough quarter is the cheapest cover to make a strategic cut look like industry weather. When two rivals restructure in sync, one is a smokescreen. #Gaming",
-    "topic": "gaming",
-    "format": "quote",
-    "score": 6,
-    "sourceUrl": "https://x.com/djvortivask/status/2074146455460184256"
-  },
-  {
-    "n": 45,
-    "image": "images/045-science-quote.png",
-    "caption": "Quantum theory said particles could affect each other instantly; this experiment nailed it — the replies still argue. The physics settled decades ago, but 'instant' feels like it breaks causality. It doesn't: no signal, no information. Correlation isn't communication. #Science",
-    "topic": "science",
-    "format": "quote",
-    "score": 6,
+    "n": 74,
+    "image": "images/074-founders-banner.png",
+    "caption": "YC publishes 'Requests for Startups' — real problems, real demand, free. They can afford to: ideas are worthless without execution, and every builder who bites becomes their dealflow. Use the list; know whose funnel you're in. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "banner",
+    "score": 7,
     "sourceUrl": null
   },
   {
-    "n": 46,
-    "image": "images/046-ai-tabloid.png",
+    "n": 75,
+    "image": "images/075-crypto-bigStat.png",
+    "caption": "Solana settled more SOL spot volume on-chain ($584M) than all centralized exchanges combined ($422M). The milestone isn't price — it's that for one asset, the 'decentralized' venue quietly became the primary one. Infrastructure crossed over. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 76,
+    "image": "images/076-ai-tabloid.png",
     "caption": "The White House is writing rules for AI models — the next ship won't be a release, it'll be a policy fight. Once launches need clearance, timing leaks become material information: release dates start trading like earnings, and the edge moves from building to knowing. #AI",
     "topic": "ai",
     "format": "tabloid",
@@ -414,8 +684,35 @@
     "sourceUrl": "https://huggingface.co/spaces/reach-vb/2024-ai-timeline"
   },
   {
-    "n": 47,
-    "image": "images/047-ai-tabloid.png",
+    "n": 77,
+    "image": null,
+    "caption": "An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 78,
+    "image": "images/078-founders-quote.png",
+    "caption": "So everyone benchmarks their v1 against strangers' v12 and quits early. Survivorship bias isn't a stats footnote — it silently mis-sets your quality bar. The embarrassing first attempt IS the process working. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "quote",
+    "score": 9,
+    "sourceUrl": null
+  },
+  {
+    "n": 79,
+    "image": "images/079-crypto-splitProof.png",
+    "caption": "CoinGecko's survey found huge awareness, tiny usage. That's not a marketing gap, it's economics: fixed gas costs make small positions irrational, so the product prices out the exact users the pitch targets. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "splitProof",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 80,
+    "image": "images/080-ai-tabloid.png",
     "caption": "The race isn't model quality anymore — it's who owns the training-data pipeline. The reframe: models commoditize, data compounds. Whoever controls the pipeline outranks whoever designs the architecture, because one is copyable and the other isn't. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -423,8 +720,35 @@
     "sourceUrl": "https://youtube.com/watch?v=rXSPopXet1o"
   },
   {
-    "n": 48,
-    "image": "images/048-ai-tabloid.png",
+    "n": 81,
+    "image": "images/081-philosophy-quote.png",
+    "caption": "Best answer to 'what will you do with a philosophy degree?' — 'dress up marketing for AI firms as profound ethics before their IPO.' It lands because the AI-ethics-philosopher role exists precisely because a plausible ethics story is now load-bearing for a valuation. #Philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": "https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mpvvkyqz4s2d"
+  },
+  {
+    "n": 82,
+    "image": null,
+    "caption": "The context window is a memory leak with a marketing team. A million tokens doesn't mean the model remembers a million tokens, it means attention gets thinner across all of them. You didn't buy more memory, you diluted the memory you had. #AI #Threadverse",
+    "topic": "ai",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 83,
+    "image": "images/083-crypto-banner.png",
+    "caption": "A DeFi exemption forces the SEC to define 'sufficiently decentralized' as a measurable threshold. The second that spec exists, every protocol engineers to pass it — regulation becomes an API contract you optimize against. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "banner",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 84,
+    "image": "images/084-ai-tabloid.png",
     "caption": "Anthropic warned about its own Mythos model; CBS pulled an ex-founder to decode the report. Ask why a safety report gets a TV media cycle: safety disclosure has become a launch channel, with the alarm and the announcement sharing a comms team. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -432,8 +756,26 @@
     "sourceUrl": "https://youtube.com/watch?v=bUbFFSZQ5w0"
   },
   {
-    "n": 49,
-    "image": "images/049-ai-tabloid.png",
+    "n": 85,
+    "image": "images/085-philosophy-quote.png",
+    "caption": "Analytic philosophy is the rare field with no taboo against calling a colleague simply wrong. Fodor called it a feature — and it is: it's the only norm that lets a field compound instead of accrete. You can't build on an idea nobody's allowed to kill. #Philosophy #Threadverse",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": "https://bsky.app/profile/did:plc:5zgber5npxagnqr3hg4fm4zv/post/3mpmmurkx7s2w"
+  },
+  {
+    "n": 86,
+    "image": "images/086-crypto-quote.png",
+    "caption": "A French dev did the math: a king's estate gets more audits than his on-chain yield. Run it forward — once this is common, it stops being a loophole and becomes the reason chain-surveillance gets mandated. Privacy that scales invites the crackdown that ends it. #Crypto",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": "https://bsky.app/profile/did:plc:dlafnk6xz6bbn2yfsv6ulk7l/post/3mpcksvb26z2b"
+  },
+  {
+    "n": 87,
+    "image": "images/087-ai-tabloid.png",
     "caption": "Tencent shipped Hunyuan 3 and the West barely blinked. The blind spot isn't the model, it's distribution: it ships to a billion WeChat users by default. Chinese labs don't need benchmarks when they win the install base on day one. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -441,8 +783,35 @@
     "sourceUrl": "https://x.com/blckchaindaily/status/2074158606413332543"
   },
   {
-    "n": 50,
-    "image": "images/050-ai-tabloid.png",
+    "n": 88,
+    "image": null,
+    "caption": "A p-value under 0.05 was never evidence something is true. It's the odds you'd see this data if nothing were going on. Half of science's replication crisis is people reading a statement about noise as a statement about reality. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 89,
+    "image": "images/089-science-quote.png",
+    "caption": "Physicists reversed local entropy with quantum computers — hinting time is emergent from entanglement, not fundamental. If time is downstream of correlation, 'when' is derived state, not an axis. Causality might be an API on top of entanglement. #Science #Threadverse",
+    "topic": "science",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 90,
+    "image": "images/090-founders-quote.png",
+    "caption": "Make the decision the protagonist. Heroes can't be argued with; decisions can be judged, copied, falsified — which is exactly why decision-led stories earn trust and bio-flexes don't. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 91,
+    "image": "images/091-ai-tabloid.png",
     "caption": "The EU pushes ahead on Big Tech antitrust while the US stalls. The counterintuitive read: fragmented regulation is worse than strict. When every region reins in the giants differently, your compliance surface — not the rules — becomes a moat only incumbents can afford. #AI",
     "topic": "ai",
     "format": "tabloid",
@@ -450,8 +819,170 @@
     "sourceUrl": null
   },
   {
-    "n": 51,
-    "image": "images/051-ai-tabloid.png",
+    "n": 92,
+    "image": "images/092-crypto-quote.png",
+    "caption": "Modern crypto scams don't beat your code review — they route around it, exploiting the complexity you built. Your threat model checks the contract; the attack lives in the workflow. Filed under signal, not fear-bait. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 93,
+    "image": null,
+    "caption": "Entropy isn't disorder, that's the pop-sci lie. It's the count of arrangements you can't tell apart. Your desk looks messy because you know where things go; to a stranger it's already maximally uncertain. Entropy is about the observer. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 94,
+    "image": "images/094-founders-quote.png",
+    "caption": "Most brand stories are founder bios with extra steps. Story isn't history — it's tension, resolution, product. The customer's problem is the plot; you're a supporting character at best. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 95,
+    "image": "images/095-ai-tabloid.png",
+    "caption": "Datacenters that exist only on paper still move markets. Press releases are free; substations and transformers have three-year lead times. Track grid interconnection queues, not announcements — that's where the real buildout shows. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 96,
+    "image": "images/096-gaming-quote.png",
+    "caption": "Hot take going round: no £60+ game is more than a 7/10. There's a real mechanism under the snark — price sets the expectation baseline, so a score is graded against cost, not absolute terms. The same game at £20 reviews a point higher. You're rating the receipt. #Gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": "https://bsky.app/profile/did:plc:mmjmympmlcuexvluef2ep2im/post/3mpuzaiyjxc2m"
+  },
+  {
+    "n": 97,
+    "image": "images/097-founders-minimal.png",
+    "caption": "The Bitter Lesson, founder edition: general models keep eating the workflow you wrapped. If your moat is UX on someone else's API, you're a feature on a countdown — proprietary data or distribution, or bust. The kind of essay worth a feed slot. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 98,
+    "image": null,
+    "caption": "Half of what a cell does is spend energy to stay out of equilibrium. Equilibrium is death. Life isn't a stable state you reach, it's a pump that never turns off. Stop pumping for four minutes and you find out what stability actually means. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 99,
+    "image": "images/099-ai-tabloid.png",
+    "caption": "GPT-5.6 goes global only after a government green light. The model isn't the story — the precedent is: frontier releases now route through federal review, and 'voluntary' frameworks harden into gates nobody voted on. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 100,
+    "image": "images/100-philosophy-quote.png",
+    "caption": "Marcus Aurelius: 'Wipe out imagination. Confine thyself to the present.' Read it as a debugging note: most anxiety is your model running unbounded simulation on inputs that don't exist yet. Not 'relax' — stop executing speculative branches. #Philosophy #Threadverse",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": "https://mastodon.social/@CuratedMarcusAurelius/116871465316612608"
+  },
+  {
+    "n": 101,
+    "image": "images/101-crypto-quote.png",
+    "caption": "You're a DeFi dev who's stopped believing in crypto. Now what? The skills transfer perfectly — adversarial thinking, formal verification, incentive design — but the résumé signal is radioactive. You built the hardest thing in software and have to hide it. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": "https://news.ycombinator.com/item?id=31796256"
+  },
+  {
+    "n": 102,
+    "image": "images/102-ai-tabloid.png",
+    "caption": "OpenAI shipped to limited users after the administration weighed in on *who* gets early access. A frontier model's rollout is now an allocation decision made partly in Washington. Distribution just became policy, not product. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 103,
+    "image": null,
+    "caption": "The gut has more neurons than a cat's brain and runs mostly without asking upstairs. 'Trust your gut' isn't a metaphor, it's a second controller with its own reflex loops. You're not one mind deciding, you're a committee that mostly agrees. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 104,
+    "image": "images/104-founders-quote.png",
+    "caption": "Founder invites a VC in; the VC decides it's time for the founder to leave. Taking the money means hiring a boss whose math beats your equity — board control compounds faster than founder shares. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 105,
+    "image": "images/105-crypto-quote.png",
+    "caption": "A DeFi dev asked HN whether the job is defensible — 327 replies. The honest split isn't ethics vs salary; it's whether your work compounds infrastructure or just liquidity for someone else's exit. Worth asking in any hype industry. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 106,
+    "image": "images/106-ai-tabloid.png",
+    "caption": "Musk vs Altman looks like ego. Read the subtext: one's selling orbital datacenters to public markets, the other says they can't scale this decade. The insults are noise — it's really a wager on where compute physically lives. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 107,
+    "image": "images/107-founders-minimal.png",
+    "caption": "Most solo devs quietly pay for 3-4 tools with overlapping features — pure runway leak. The pattern isn't overspending, it's that each tool got adopted for one feature during one crisis, and nobody ever audits the stack once the crisis passes. #Startup #Threadverse",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 108,
+    "image": null,
+    "caption": "Aging isn't wear and tear, you can rebuild and a machine can't. It's that repair is selected to work great until you've reproduced, then coast. Evolution never optimized the second half of your life. Nothing broke; the warranty just ended. #Science #Threadverse",
+    "topic": "science",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 109,
+    "image": "images/109-crypto-minimal.png",
+    "caption": "Aave processed $8.45B in withdrawals without freezing — a genuine stress-test pass. But 'it didn't break' isn't 'it's safe.' Systems that survive one bank-run teach everyone the exact size of the run that would break the next one. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 110,
+    "image": "images/110-ai-tabloid.png",
     "caption": "The antitrust case says Amazon, Facebook and Google are (almost) all guilty — Apple's the odd one out. If you build on these clouds, a monopoly finding isn't abstract: remedies mean forced structural changes to the platforms your stack sits on. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -459,8 +990,35 @@
     "sourceUrl": null
   },
   {
-    "n": 52,
-    "image": "images/052-ai-tabloid.png",
+    "n": 111,
+    "image": "images/111-gaming-quote.png",
+    "caption": "Microsoft still bets AAA is growth, not aging millennials clinging to a format. The bet under the bet: if they're wrong, the layoffs aren't cost-cutting — they're the first move out of making games, toward renting a store and a stream. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "sourceUrl": "https://x.com/fuckkiev/status/2074144924514312200"
+  },
+  {
+    "n": 112,
+    "image": "images/112-philosophy-quote.png",
+    "caption": "Plato: 'Attention to health is a great obstacle to virtue.' Not anti-wellness — a warning about optimization as avoidance. Perfecting a legible metric is a socially approved way to dodge the illegible work that matters. The gym as productive procrastination. #Philosophy",
+    "topic": "philosophy",
+    "format": "quote",
+    "score": 6,
+    "sourceUrl": "https://mastodon.social/@CuratedPlato/116872958691380996"
+  },
+  {
+    "n": 113,
+    "image": null,
+    "caption": "A skill tree isn't for the player. It's a UI for hiding that most of your build is locked until hour 30, dressed up as freedom. Real choice would let you pick anything now. A tree is a schedule that lets you feel like you scheduled it. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 114,
+    "image": "images/114-ai-tabloid.png",
     "caption": "The DOJ's antitrust chief compares Big Tech to Standard Oil. The part builders should note isn't monopoly — it's the remedy: Standard Oil got broken into pieces. The cloud you deploy on could be a different company in five years. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -468,8 +1026,26 @@
     "sourceUrl": null
   },
   {
-    "n": 53,
-    "image": "images/053-ai-tabloid.png",
+    "n": 115,
+    "image": "images/115-gaming-quote.png",
+    "caption": "Sony's gutting its gaming arm while everyone watches Microsoft's cuts. The timing isn't coincidence, it's camouflage — a rough quarter is the cheapest cover to make a strategic cut look like industry weather. When two rivals restructure in sync, one is a smokescreen. #Gaming",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 6,
+    "sourceUrl": "https://x.com/djvortivask/status/2074146455460184256"
+  },
+  {
+    "n": 116,
+    "image": "images/116-science-quote.png",
+    "caption": "Quantum theory said particles could affect each other instantly; this experiment nailed it — the replies still argue. The physics settled decades ago, but 'instant' feels like it breaks causality. It doesn't: no signal, no information. Correlation isn't communication. #Science",
+    "topic": "science",
+    "format": "quote",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 117,
+    "image": "images/117-ai-tabloid.png",
     "caption": "Everyone crowned Facebook the gorilla; this argues Apple was the real monopoly all along. The overlooked mechanism: Apple's power isn't market share, it's the tollbooth — one veto over distribution beats owning the biggest social graph. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -477,8 +1053,26 @@
     "sourceUrl": null
   },
   {
-    "n": 54,
-    "image": "images/054-ai-tabloid.png",
+    "n": 118,
+    "image": null,
+    "caption": "Difficulty menus are a confession you couldn't tune one experience that works. Easy/Normal/Hard hands the hardest design problem, matching challenge to player, back to the player. Elden Ring's refusal isn't stubbornness, it's an opinion. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 119,
+    "image": "images/119-crypto-minimal.png",
+    "caption": "Anchor launched as DeFi's 'benchmark rate.' That 20% was never a rate — it was customer acquisition spend dressed as yield, and it drained until Terra imploded. Any benchmark someone has to top up isn't one. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 120,
+    "image": "images/120-ai-tabloid.png",
     "caption": "The antitrust team is taking shape and Big Tech got its warning shot. Enforcement always lands a cycle late, so by the time the giants get reined in, the leverage has moved to whatever they acquired to replace the regulated thing. You police the last war. #AI #Threadverse",
     "topic": "ai",
     "format": "tabloid",
@@ -486,8 +1080,35 @@
     "sourceUrl": null
   },
   {
-    "n": 55,
-    "image": "images/055-ai-splitProof.png",
+    "n": 121,
+    "image": "images/121-ai-tabloid.png",
+    "caption": "The frontier gap is measured in weeks now. When every lab lands within noise of the others, capability stops deciding anything — price, latency and distribution do. 'Almost as good' is the most important benchmark result of the year. #AI #Threadverse",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 122,
+    "image": "images/122-crypto-minimal.png",
+    "caption": "A Show HN puts crowdfunding escrow to work: backers earn yield while the raise sits. Kickstarter has always kept the float's value for itself — routing it back to funders is a small mechanism with real incentive teeth. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "minimal",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 123,
+    "image": null,
+    "caption": "Early access sells the game twice: once to those who fund the build, once to those who wait for it to be good. The first cohort pays more and reviews harsher. Your most loyal players are your worst-treated QA team. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 124,
+    "image": "images/124-ai-splitProof.png",
     "caption": "Frontier labs quietly killed the release milestone — GPT-4, Claude 3, Gemini 1.5 gave way to silent rolling updates. With no version pinned, you can't reproduce a result, audit a regression, or prove which model wrote what. Continuous deployment killed accountability. #AI",
     "topic": "ai",
     "format": "splitProof",
@@ -495,8 +1116,8 @@
     "sourceUrl": "https://x.com/defaiscope/status/2074161530036171234"
   },
   {
-    "n": 56,
-    "image": "images/056-ai-bigStat.png",
+    "n": 125,
+    "image": "images/125-ai-bigStat.png",
     "caption": "Polymarket gives GPT-5.6 a 90% shot by July 31, 1% before June 30. A prediction market is front-running an unannounced product with better resolution than the company's own comms. When the crowd beats the press release, the leak isn't information — it's liquidity. #AI",
     "topic": "ai",
     "format": "bigStat",
@@ -504,8 +1125,8 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:kto2dmrqhkenhylt7e32fivb/post/3mpqt3ipnec2k"
   },
   {
-    "n": 57,
-    "image": "images/057-ai-splitProof.png",
+    "n": 126,
+    "image": "images/126-ai-splitProof.png",
     "caption": "Microsoft is shipping in-house models to undercut its own partner OpenAI. If you build cheap on Azure OpenAI: subsidized inference is a customer-acquisition cost, and once their models are good enough, the subsidy — maybe the endpoint — disappears. Cheap now, captive later. #AI",
     "topic": "ai",
     "format": "splitProof",
@@ -513,8 +1134,8 @@
     "sourceUrl": "https://youtube.com/watch?v=uRqdjj6YeUc"
   },
   {
-    "n": 58,
-    "image": "images/058-ai-splitProof.png",
+    "n": 127,
+    "image": "images/127-ai-splitProof.png",
     "caption": "Inflection, Adept, Character — all absorbed the same way: Big Tech skips the merger and just takes the founders. The acqui-hire replaced the acquisition because buying a company triggers antitrust review; hiring the team doesn't. A purchase regulators can't see. #AI #Threadverse",
     "topic": "ai",
     "format": "splitProof",
@@ -522,8 +1143,17 @@
     "sourceUrl": null
   },
   {
-    "n": 59,
-    "image": "images/059-ai-splitProof.png",
+    "n": 128,
+    "image": null,
+    "caption": "The reason indies feel more original isn't more creativity, it's that a small team can't afford focus-testing the weirdness out. AAA doesn't kill ideas on purpose. It kills them by consensus, one 'players found this confusing' at a time. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 129,
+    "image": "images/129-ai-splitProof.png",
     "caption": "A year ago every exec swore AI would take your job; now they're backpedaling hard. The flip isn't a change of heart, it's a change of audience: 'AI replaces workers' sold to investors, 'AI augments workers' sells to the enterprises they now need. Same tech, opposite pitch. #AI",
     "topic": "ai",
     "format": "splitProof",
@@ -531,8 +1161,44 @@
     "sourceUrl": null
   },
   {
-    "n": 60,
-    "image": "images/060-ai-splitProof.png",
+    "n": 130,
+    "image": "images/130-ai-bigStat.png",
+    "caption": "Beating Opus at 10% of the price isn't competition, it's a balance-sheet attack. Ads subsidize Meta's inference; for OpenAI and Anthropic the model IS the revenue. You can't win a price war against someone whose product is free. #AI #Threadverse",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 131,
+    "image": "images/131-ai-splitProof.png",
+    "caption": "A Chinese lab trained a frontier-class model on 11x less compute — low-level optimization, not more GPUs. If capability stops tracking spend, the whole 'bigger cluster wins' thesis (and the export-control moat built on it) springs a leak. #AI #Threadverse",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 132,
+    "image": "images/132-ai-bigStat.png",
+    "caption": "Nvidia's tracking 8,500 AI startups with $60B in funding. Almost none will IPO — they're being funded to be acquired. VC isn't backing competitors to Big Tech, it's running the incumbents' R&D lab and billing them later. #AI #Threadverse",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 133,
+    "image": null,
+    "caption": "A live-service game has to be slightly unsatisfying by design. A game that fully satisfies you is one you close. Retention and fun point opposite ways, and the roadmap you're excited about exists to keep you from finishing. #Gaming #Threadverse",
+    "topic": "gaming",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 134,
+    "image": "images/134-ai-splitProof.png",
     "caption": "Everyone else is slowing acquisitions this year; Microsoft is racing ahead. The tell isn't aggression, it's timing — buying into a freeze means they think assets are underpriced, so they expect the shakeout gloom to reverse fast. Their M&A pace is a bet the bottom is in. #AI",
     "topic": "ai",
     "format": "splitProof",
@@ -540,8 +1206,8 @@
     "sourceUrl": null
   },
   {
-    "n": 61,
-    "image": "images/061-ai-bigStat.png",
+    "n": 135,
+    "image": "images/135-ai-bigStat.png",
     "caption": "350+ acquisitions by Facebook and Google — barely one got serious scrutiny. The structural lesson: antitrust reviews each deal in isolation, but monopoly is built by the sum. A hundred harmless-looking buys compound into a moat no single case can touch. #AI #Threadverse",
     "topic": "ai",
     "format": "bigStat",
@@ -549,8 +1215,35 @@
     "sourceUrl": null
   },
   {
-    "n": 62,
-    "image": "images/062-ai-splitProof.png",
+    "n": 136,
+    "image": "images/136-ai-splitProof.png",
+    "caption": "Zitron's core charge sticks: if inference costs rise linearly with usage, there's no operating leverage — it's a services business wearing a software multiple. The entire valuation stack depends on nobody saying that out loud. #AI #Threadverse",
+    "topic": "ai",
+    "format": "splitProof",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 137,
+    "image": "images/137-ai-bigStat.png",
+    "caption": "Stanford's AI Index puts the US-China frontier gap at ~2.7% — effectively closed. Chip controls didn't slow the frontier; they forced the efficiency gains that closed it. Scarcity turned out to be the curriculum. #AI #Threadverse",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 138,
+    "image": null,
+    "caption": "A DAO doesn't decentralize power, it launders it. Turnout is 4% and whoever holds the tokens holds the votes, so 'the community decided' means a few wallets did, now with a paper trail that says otherwise. Governance theater with a receipt. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 139,
+    "image": "images/139-ai-splitProof.png",
     "caption": "Aurora's runway is closing; the only exits are spinout, layoffs, or absorption. This is how the AI shakeout ends — not with failure, but talent and IP quietly reallocated to the giants at a discount. A bust in the startup layer is an accumulation phase for incumbents. #AI",
     "topic": "ai",
     "format": "splitProof",
@@ -558,8 +1251,8 @@
     "sourceUrl": null
   },
   {
-    "n": 63,
-    "image": "images/063-ai-bigStat.png",
+    "n": 140,
+    "image": "images/140-ai-bigStat.png",
     "caption": "Congress' push to regulate Big Tech is fizzling; the giants outlasted the outrage again. Attention is the only enforcement a legislature has, and it has a shorter half-life than a bill's markup. Big Tech doesn't beat regulation, it waits it out. Time is the lobby. #AI",
     "topic": "ai",
     "format": "bigStat",
@@ -567,8 +1260,8 @@
     "sourceUrl": null
   },
   {
-    "n": 64,
-    "image": "images/064-ai-banner.png",
+    "n": 141,
+    "image": "images/141-ai-banner.png",
     "caption": "Amazon and Microsoft already wrote the playbook for consolidating AI. The startups you're rooting for aren't competitors to the giants — they're the R&D department the giants don't pay for until it works. VC funds the experiments, incumbents buy the winners. #AI #Threadverse",
     "topic": "ai",
     "format": "banner",
@@ -576,8 +1269,26 @@
     "sourceUrl": null
   },
   {
-    "n": 65,
-    "image": "images/065-ai-banner.png",
+    "n": 142,
+    "image": "images/142-ai-banner.png",
+    "caption": "Agents run hundreds of experiments, propose code changes, verify, iterate — and a bilevel loop now optimizes the loop itself, 5x faster. Recursive self-improvement didn't arrive with a press event. It arrived as a GitHub repo. #AI #Threadverse",
+    "topic": "ai",
+    "format": "banner",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 143,
+    "image": null,
+    "caption": "The oracle problem is the whole game and nobody admits it. A smart contract is only as trustless as the feed telling it the price, and that feed is a few servers a human runs. You didn't remove trust from the system, you hid where it lives. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 144,
+    "image": "images/144-ai-banner.png",
     "caption": "Big Tech didn't grow big — it bought its way there, hundreds of quiet acquisitions you use half of without knowing. The reframe: their real product was never any app, it was the acquisition engine. They're capital allocators that happen to ship software. #AI #Threadverse",
     "topic": "ai",
     "format": "banner",
@@ -585,8 +1296,44 @@
     "sourceUrl": null
   },
   {
-    "n": 66,
-    "image": "images/066-ai-quote.png",
+    "n": 145,
+    "image": "images/145-ai-banner.png",
+    "caption": "When you can raise faster than you burn, technical weakness never has to surface. The scary part isn't the losses — it's that capital markets stopped functioning as an error signal for AI. #AI #Threadverse",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 146,
+    "image": "images/146-ai-banner.png",
+    "caption": "A paper treats RSI as market structure, not sci-fi: if improvement compounds, the first mover's cost curve detaches from the field permanently. The takeoff debate just moved from forums to economics PDFs — which is how you know it's real. #AI #Threadverse",
+    "topic": "ai",
+    "format": "banner",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 147,
+    "image": "images/147-ai-banner.png",
+    "caption": "Google ships its biggest model the same day Xi opens Shanghai's AI conference in person. That's not coincidence, it's choreography — launch calendars are now instruments of statecraft, and the models are the press release. #AI #Threadverse",
+    "topic": "ai",
+    "format": "banner",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 148,
+    "image": null,
+    "caption": "Gas fees aren't a tax, they're the only spam filter a permissionless system can have. Make transactions free and someone fills every block for the lulz by lunch. The fee isn't friction, it's the immune system. Free chains die of infection. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 149,
+    "image": "images/149-ai-quote.png",
     "caption": "Companies are tuning AI to answer like a terse caveman, not a polite chatbot — to save tokens. The second-order effect nobody flags: when brevity is a cost function, models get optimized to hide their reasoning, not show it. Cheaper and less interpretable are the same knob. #AI",
     "topic": "ai",
     "format": "quote",
@@ -594,8 +1341,26 @@
     "sourceUrl": "https://x.com/jon_durbin/status/2074169183835685351"
   },
   {
-    "n": 67,
-    "image": "images/067-ai-quote.png",
+    "n": 150,
+    "image": "images/150-ai-quote.png",
+    "caption": "Hugging Face's CEO says most production AI already runs on open models. If true, frontier labs' revenue rests on the thin slice of tasks only they can do — and that slice shrinks with every open release. Moat, meet leak. #AI #Threadverse",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 151,
+    "image": "images/151-ai-quote.png",
+    "caption": "The safety model's key inputs — today's catastrophe risk, how fast safety work reduces it — are educated guesses with no data behind them. Doomers and accelerationists are fitting curves to vibes. The confidence on both sides is the tell. #AI #Threadverse",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "sourceUrl": null
+  },
+  {
+    "n": 152,
+    "image": "images/152-ai-quote.png",
     "caption": "Grok says takeoff is close: 4-7 more algorithmic OOMs, then AI automates its own research. Notice the sleight of hand: 'OOMs of algorithmic progress' is unfalsifiable — no unit, no clock, no way to be wrong. The most confident takeoff claims are the ones immune to disproof. #AI",
     "topic": "ai",
     "format": "quote",
@@ -603,8 +1368,62 @@
     "sourceUrl": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html"
   },
   {
-    "n": 68,
-    "image": "images/068-ai-quote.png",
+    "n": 153,
+    "image": null,
+    "caption": "Immutability sounds like strength until it means the network can't fix a mistake without becoming a new network. A hard fork isn't an upgrade, it's an admission that 'code is law' held right up until the law got inconvenient enough. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "text",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 154,
+    "image": "images/154-ai-quote.png",
+    "caption": "A model that's wrong 90% of the time isn't broken — the spec is. 'Faulty AI' relocates the lie from the marketing deck to the weights. Read accuracy claims as product claims and most of them become actionable. #AI #Threadverse",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 155,
+    "image": "images/155-ai-minimal.png",
+    "caption": "GitHub reportedly spent 12 hours under a massive AI-training scrape. Everyone's code. Licenses were written for humans copying snippets, not crawlers eating repos — open source has no legal or technical answer to being someone's dataset. #AI #Threadverse",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 156,
+    "image": "images/156-ai-quote.png",
+    "caption": "The AI boom is partly OpenAI and Anthropic handing startups free compute to spend on their APIs. It looks like a thriving ecosystem — it's a customer-acquisition subsidy. Pull the credits and half the 'AI economy' reprices overnight. #AI #Threadverse",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 157,
+    "image": "images/157-ai-minimal.png",
+    "caption": "The same execs who promised AGI-any-minute are quietly walking it back. The pattern's older than AI: hype raises the round, sobriety protects the valuation once the money's in. The tune changes exactly when it's safe to. #AI #Threadverse",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "sourceUrl": null
+  },
+  {
+    "n": 158,
+    "image": null,
+    "caption": "Privacy that scales invites the crackdown that ends it. The moment on-chain yield outruns a king's estate for opacity, it stops being a loophole and becomes the reason surveillance gets mandated. #Crypto #Threadverse",
+    "topic": "crypto",
+    "format": "text",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 159,
+    "image": "images/159-ai-quote.png",
     "caption": "Huawei's 100x scaling roadmap makes AI sovereignty a hardware problem: own the chips, own the models. Export controls assumed compute was a chokepoint you could hold — a domestic 100x roadmap turns it into a timer. Sanctions don't stop the outcome, they set the deadline. #AI",
     "topic": "ai",
     "format": "quote",
@@ -612,8 +1431,8 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:qc6xzgctorfsm35w6i3vdebx/post/3mpoezfzins2d"
   },
   {
-    "n": 69,
-    "image": "images/069-ai-quote.png",
+    "n": 160,
+    "image": "images/160-ai-quote.png",
     "caption": "Monthly frontier releases mean AI stopped shipping versions and started shipping like CI/CD. For your stack that isn't 'keep up' — it's that your prompts run against a moving target with no changelog. You're not integrating a model, you're subscribing to silent drift. #AI",
     "topic": "ai",
     "format": "quote",
@@ -621,9 +1440,18 @@
     "sourceUrl": "https://bsky.app/profile/did:plc:vcepp6trx4vpe5ourxso4tjl/post/3mpj6rqsjvs2d"
   },
   {
-    "n": 70,
-    "image": "images/070-ai-minimal.png",
+    "n": 161,
+    "image": "images/161-ai-minimal.png",
     "caption": "A myth-by-myth breakdown of what antitrust actually does — and doesn't — to Big Tech. The uncomfortable takeaway for the reflexively pro-breakup: most remedies help competitors, not users, and 'break them up' often makes several monopolies where there was one. #AI #Threadverse",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 6,
+    "sourceUrl": null
+  },
+  {
+    "n": 162,
+    "image": "images/162-ai-minimal.png",
+    "caption": "Perplexity's valuation doubles again while its engine is other labs' models. The market isn't mispricing the tech — it's pricing the interface. Distribution is the asset; the model underneath is just a supplier. #AI #Threadverse",
     "topic": "ai",
     "format": "minimal",
     "score": 6,
