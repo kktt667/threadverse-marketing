@@ -1083,5 +1083,31 @@
     "platform": "mastodon",
     "at": "2026-07-15T10:06:28.916Z",
     "url": "https://mastodon.social/@threadverse/116923432618157749"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-09-tabloid.png",
+    "platform": "bluesky",
+    "at": "2026-07-15T13:50:43.778Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqoui4wzil2h"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-47-tabloid.png",
+    "platform": "mastodon",
+    "at": "2026-07-15T13:50:43.778Z",
+    "url": "https://mastodon.social/@threadverse/116924314389783084"
+  },
+  {
+    "tile": null,
+    "caption": "'Staying informed' is how sharp people avoid thinking. You read forty takes so you never have to risk one of your own. Reading feels like progress; it isn't.\n\n#AI #MachineLearning #LLM #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-15T13:50:43.778Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqouidero62b"
+  },
+  {
+    "tile": null,
+    "caption": "Being consistent isn't a virtue, it's just cheaper than being right. Holding one view for ten years feels like integrity, but it might only mean you stopped updating. A mind that never contradicts its past self quit learning in public.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-15T13:50:43.778Z",
+    "url": "https://mastodon.social/@threadverse/116924314653832415"
   }
 ]
