@@ -1358,5 +1358,18 @@
     "platform": "mastodon",
     "at": "2026-07-17T19:16:00.444Z",
     "url": "https://mastodon.social/@threadverse/116936918031624526"
+  },
+  {
+    "tile": null,
+    "caption": "A goal you can fully specify is one you've already half-solved, and that's the trap. Hard problems resist specification, so you retreat to ones you can write acceptance criteria for. Your backlog is a monument to what was easy to define.\n\n#Philosophy #DeepThoughts #Thinking #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-17T20:59:56.641Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqunfgvgnl2o"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-genuine-wa-card-26.png",
+    "platform": "mastodon",
+    "at": "2026-07-17T20:59:56.641Z",
+    "url": "https://mastodon.social/@threadverse/116937326607579178"
   }
 ]
