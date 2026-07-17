@@ -1333,5 +1333,18 @@
     "platform": "mastodon",
     "at": "2026-07-17T15:16:43.300Z",
     "url": "https://mastodon.social/@threadverse/116935977030660741"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-100-tabloid.png",
+    "platform": "bluesky",
+    "at": "2026-07-17T17:16:06.057Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mquav7di572y"
+  },
+  {
+    "tile": null,
+    "caption": "The oracle problem is the whole game and nobody admits it. A smart contract is only as trustless as the feed telling it the price, and that feed is a few servers a human runs. You didn't remove trust from the system, you hid where it lives.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-17T17:16:06.057Z",
+    "url": "https://mastodon.social/@threadverse/116936446431893630"
   }
 ]
