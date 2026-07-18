@@ -1395,5 +1395,18 @@
     "platform": "mastodon",
     "at": "2026-07-18T09:37:07.888Z",
     "url": "https://mastodon.social/@threadverse/116940304032052247"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-79-tabloid.png",
+    "platform": "bluesky",
+    "at": "2026-07-18T11:07:23.778Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqw4qtd7ie2y"
+  },
+  {
+    "tile": null,
+    "caption": "When two rival studios restructure in the same week, one of them is using the other as cover. A rough quarter is the cheapest camouflage for an unpopular strategic cut.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-18T11:07:23.778Z",
+    "url": "https://mastodon.social/@threadverse/116940658947150647"
   }
 ]
