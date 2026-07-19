@@ -1495,5 +1495,18 @@
     "platform": "mastodon",
     "at": "2026-07-19T09:55:10.030Z",
     "url": "https://mastodon.social/@threadverse/116946037339118458"
+  },
+  {
+    "tile": null,
+    "caption": "The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score.\n\n#AI #MachineLearning #LLM #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-19T11:11:42.031Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mqynhgac6k2u"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-13-splitProof.png",
+    "platform": "mastodon",
+    "at": "2026-07-19T11:11:42.031Z",
+    "url": "https://mastodon.social/@threadverse/116946338153677209"
   }
 ]
