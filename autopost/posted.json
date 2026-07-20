@@ -1632,5 +1632,31 @@
     "platform": "mastodon",
     "at": "2026-07-20T14:14:52.325Z",
     "url": "https://mastodon.social/@threadverse/116952721314736012"
+  },
+  {
+    "tile": null,
+    "caption": "Being consistent isn't a virtue, it's just cheaper than being right. Holding one view for ten years feels like integrity, but it might only mean you stopped updating. A mind that never contradicts its past self quit learning in public.\n\n#Philosophy #DeepThoughts #Thinking #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-20T18:07:56.497Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mr3v6nffjs2o"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-28-bigStat.png",
+    "platform": "mastodon",
+    "at": "2026-07-20T18:07:56.497Z",
+    "url": "https://mastodon.social/@threadverse/116953637229375742"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-117-tabloid.png",
+    "platform": "bluesky",
+    "at": "2026-07-20T18:07:56.497Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mr3v6tjdtu2w"
+  },
+  {
+    "tile": null,
+    "caption": "RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-20T18:07:56.497Z",
+    "url": "https://mastodon.social/@threadverse/116953637585310444"
   }
 ]
