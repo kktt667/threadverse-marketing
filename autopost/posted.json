@@ -1682,5 +1682,30 @@
     "platform": "mastodon",
     "at": "2026-07-20T23:03:42.168Z",
     "url": "https://mastodon.social/@threadverse/116954800275387656"
+  },
+  {
+    "tile": null,
+    "caption": "Half of what a cell does is spend energy to stay out of equilibrium. Equilibrium is death. Life isn't a stable state you reach, it's a pump that never turns off. Stop pumping for four minutes and you find out what stability actually means.\n\n#Science #Physics #QuantumComputing #threadverse #tech",
+    "platform": "bluesky",
+    "at": "2026-07-21T10:27:54.339Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mr5lwx2bzd25"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-58-splitProof.png",
+    "platform": "mastodon",
+    "at": "2026-07-21T10:27:54.339Z",
+    "url": "https://mastodon.social/@threadverse/116957490558778071"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-12-bigStat.png",
+    "platform": "bluesky",
+    "at": "2026-07-21T10:27:54.339Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mr5lx4hagx2u"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-24-bigStat.png",
+    "platform": "mastodon",
+    "at": "2026-07-21T10:27:54.339Z",
+    "url": "https://mastodon.social/@threadverse/116957490931398033"
   }
 ]
