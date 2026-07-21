@@ -1707,5 +1707,31 @@
     "platform": "mastodon",
     "at": "2026-07-21T10:27:54.339Z",
     "url": "https://mastodon.social/@threadverse/116957490931398033"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-16-splitProof.png",
+    "platform": "bluesky",
+    "at": "2026-07-21T14:01:19.343Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mr5xulcrz42m"
+  },
+  {
+    "tile": null,
+    "caption": "The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-21T14:01:19.343Z",
+    "url": "https://mastodon.social/@threadverse/116958329733096241"
+  },
+  {
+    "tile": null,
+    "caption": "Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after.\n\n#AI #MachineLearning #LLM #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-21T14:01:19.343Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mr5xupl63c2u"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-13-banner.png",
+    "platform": "mastodon",
+    "at": "2026-07-21T14:01:19.343Z",
+    "url": "https://mastodon.social/@threadverse/116958330055136002"
   }
 ]
