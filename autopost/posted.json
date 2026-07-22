@@ -1857,5 +1857,18 @@
     "platform": "mastodon",
     "at": "2026-07-22T19:26:12.825Z",
     "url": "https://mastodon.social/@threadverse/116965269773406457"
+  },
+  {
+    "tile": null,
+    "caption": "An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community.\n\n#AI #MachineLearning #LLM #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-22T21:18:11.473Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrbaqof4kd2j"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-l-card-05.png",
+    "platform": "mastodon",
+    "at": "2026-07-22T21:18:11.473Z",
+    "url": "https://mastodon.social/@threadverse/116965709932179865"
   }
 ]
