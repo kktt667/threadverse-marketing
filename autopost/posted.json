@@ -1832,5 +1832,18 @@
     "platform": "mastodon",
     "at": "2026-07-22T14:04:11.657Z",
     "url": "https://mastodon.social/@threadverse/116964003940413476"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-90-bigStat.png",
+    "platform": "bluesky",
+    "at": "2026-07-22T17:24:04.415Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrato2qrtr2m"
+  },
+  {
+    "tile": null,
+    "caption": "Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-22T17:24:04.415Z",
+    "url": "https://mastodon.social/@threadverse/116964789333530465"
   }
 ]
