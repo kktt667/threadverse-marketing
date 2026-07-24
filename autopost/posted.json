@@ -1982,5 +1982,30 @@
     "platform": "mastodon",
     "at": "2026-07-23T22:59:34.840Z",
     "url": "https://mastodon.social/@threadverse/116971771028526285"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-38-bigStat.png",
+    "platform": "bluesky",
+    "at": "2026-07-24T10:22:45.007Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrf52jauyj2l"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-14-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-07-24T10:22:45.007Z",
+    "url": "https://mastodon.social/@threadverse/116974457311380293"
+  },
+  {
+    "tile": null,
+    "caption": "Difficulty menus are a confession you couldn't tune one experience that works. Easy/Normal/Hard hands the hardest design problem, matching challenge to player, back to the player. Elden Ring's refusal isn't stubbornness, it's an opinion.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-24T10:22:45.007Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrf52oll5t2y"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-1-ai-model-r-card-27-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-07-24T10:22:45.007Z",
+    "url": "https://mastodon.social/@threadverse/116974457624856199"
   }
 ]
