@@ -1,0 +1,244 @@
+{
+  "feed": "ai-capability-breakthroughs-as-they-happ",
+  "cards": [
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-14.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "technical",
+      "topic": "ai",
+      "title": "A handful of 'super weights' hold the whole model up",
+      "caption": "Research: some individual parameters — 'super weights' — degrade a model by orders of magnitude if you remove them. Billions of weights, and a few of them are load-bearing. Turns out these systems aren't robust meshes, they're Jenga towers with a keystone.",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-08.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "sharp",
+      "topic": "ai",
+      "title": "Your inference pipeline fails on latency, not accuracy",
+      "caption": "Paper: distributed inference collapses in accuracy when the network misses a deadline, not when the model is wrong. The failure mode nobody tests: the model was right, the answer just arrived after the system gave up waiting. Timeouts are a correctness bug.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-11.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "practical",
+      "topic": "ai",
+      "title": "GPT-5.6 is smarter and burns your token budget faster",
+      "caption": "Early note on GPT-5.6 Sol: better output, but it exhausts token budgets noticeably quicker than 5.5. The unpriced cost of 'smarter' is that it thinks more, and you pay per thought. Capability gains you can't budget for aren't gains, they're a bigger bill.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "file": "card-01.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-02.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-03.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-05.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-06.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-07.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-10.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-12.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-13.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-15.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-16.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-17.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-18.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-19.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-20.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-22.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-23.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-24.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-25.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-26.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-27.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-28.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-29.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-30.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-33.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-35.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-37.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-38.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-39.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "feed": "give-me-senior-dev-discussions-on-system",
+  "cards": [
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-08.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "wise",
+      "topic": "ai",
+      "title": "Mature systems are defined by what they refuse to do",
+      "caption": "Best line in a systems thread all week: most architecture diagrams show what software *can* do — mature systems are defined by what they *refuse* to. Scope is the real design. Anyone can add a feature; knowing what to permanently say no to is the senior skill.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-16.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "Architecture as a noun is why your system is fragile",
+      "caption": "Take from a systems thread: we treat 'architecture' as a fixed blueprint, but in complex systems fixity IS fragility. The diagram that never changes is the one reality has already outgrown. Architecture is a process you keep doing, not an artifact you ship once.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-19.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "pointed",
+      "topic": "ai",
+      "title": "Architect is a mindset companies keep mistaking for a title",
+      "caption": "Sharp one from a dev thread: stakeholders equate 'architect' with tenure — a false ledger. Years served isn't systems judgment. The best architectural calls I've seen came from people three levels below whoever had the title on the org chart.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-52.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "blunt",
+      "topic": "ai",
+      "title": "Putting an LLM in your inventory system is a category error",
+      "caption": "A dev watching an LLM get bolted onto an inventory system: it concatenates likely tokens, it makes things up. An 'it's usually right' component in a system that needs to be exactly right isn't an upgrade, it's a liability with good PR.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "emotion",
+        "identity"
+      ]
+    },
+    {
+      "file": "card-01.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-02.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-03.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-05.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-06.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-07.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-10.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-11.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-12.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-13.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-14.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-15.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-17.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-18.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-20.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-22.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-23.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-24.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-25.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-26.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-27.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-28.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-29.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-30.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-33.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-35.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-37.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-38.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-39.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-42.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-43.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-44.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-48.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-49.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-50.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-53.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-54.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-56.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-58.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-59.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-60.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-61.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-62.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-63.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-64.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-65.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-66.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-68.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-69.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-71.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-73.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-74.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-79.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-81.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-82.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-83.png",
+      "keep": false,
+      "score": 0
+    }
+  ]
+}

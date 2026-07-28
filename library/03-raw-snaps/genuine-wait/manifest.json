@@ -1,25 +1,329 @@
 {
   "feed": "Genuine \"wait",
-  "count": 32,
+  "count": 86,
   "cards": [
     {
       "file": "card-01.png",
-      "txt": "@tardismechanic hackernews A quantum experiment suggests there’s no such thing as objective reality (www.technologyreview.com) A quantum experiment suggests there’s no such thing as objective reality Physicists have long suspected that quantum mechanics allows two observers to experience different, conflicting realities. Now they’ve performed the first experiment that proves it. technologyreview.c",
-      "handle": "@tardismechanic",
-      "source": "hackernews",
+      "txt": "@dulwichquantum.bsky.social bluesky \"...instead of further sensations, breakthroughs and groundbreaking experiments, quantum research currently needs something completely different: a good dose of realism. Uncontrolled hype helps no one, especially not research, which cannot live up to these unrealistic expectations.\" REPOSTED @sabrinapatsch.bsky.social Wozu ein Quantenjahr? Braucht die Quantentec",
+      "handle": "@dulwichquantum.bsky.social",
+      "source": "bluesky",
       "hasVideo": false,
-      "hasImg": true
+      "hasImg": false
     },
     {
       "file": "card-02.png",
-      "txt": "@zonovar hackernews Evidence of 'Negative Time' Found in Quantum Physics Experiment (www.scientificamerican.com) Evidence of ‘Negative Time’ Found in Quantum Physics Experiment Physicists showed that photons can seem to exit a material before entering it, revealing observational evidence of negative time scientificamerican.com ♥ 18 💬 2",
-      "handle": "@zonovar",
+      "txt": "@aspuru.bsky.social bluesky I entered a field that eventually was called “quantum biology” after very interesting experiments by Graham Fleming published in Nature showed signs of long-lived coherence in the spectroscopic signals of the Fenna-Matthews-Olson complex. Claims of it being a “quantum search” were made // REPOSTED @richardsever.bsky.social The dogma event horizon: the point beyond which",
+      "handle": "@aspuru.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@rch hackernews A quantum experiment suggests there’s no such thing as objective reality (www.technologyreview.com) A quantum experiment suggests there’s no such thing as objective reality Physicists have long suspected that quantum mechanics allows two observers to experience different, conflicting realities. Now they’ve performed the first experiment that proves it. technologyreview.com ♥ 5 💬 2",
+      "handle": "@rch",
       "source": "hackernews",
       "hasVideo": false,
       "hasImg": true
     },
     {
-      "file": "card-03.png",
+      "file": "card-04.png",
+      "txt": "@realtuckfrumper.bsky.social bluesky New experiments finally prove a long-forgotten theory: What makes something quantum? This question has kept a small but dedicated fraction of the world’s population – most of them quantum physicists – up at night for decades. At very small scales, we know the universe is made up of waves and… New experiments finally prove a long-forgotten theory What makes some",
+      "handle": "@realtuckfrumper.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@astrocorrus@astrodon.social mastodon # Quantumexperiments often produce conflicting results and may contradict basic assumptions regarding # physicalreality . https:// phys.org/news/2023-08-reality. html?utm_source=nwletter&utm_medium=email&utm_campaign=daily-nwletter Do measurements produce the reality they show us? Whenever the precision of a measurement approaches the uncertainty limit defined",
+      "handle": "@astrocorrus",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@manlius.bsky.social bluesky Measuring (yep, with an experiment) quantum geometric properties in condensed matter systems. 🧪 www.nature.com/articles/s41... www.nature.com/articles/s41... Measurements of the quantum geometric tensor in solids - Nature Physics Experiments that directly probe the quantum geometric tensor in solids have not been reported. Now, the quantum metric and spin Berry curvat",
+      "handle": "@manlius.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@lyndie.bsky.social bluesky Oh! Just discovered that my New Scientist article on experiments that are trying to test if spacetime is quantized appears on Elsevier. That's pretty cool! In a sense, it *is* similar to a review article. www.sciencedirect.com/science/arti... #science #physics #astronomy 🧪🔭 In search of quantum gravity The question of what space-time is made of, and whether it is quan",
+      "handle": "@lyndie.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@christophermichel.com bluesky Two particles. Vast distance. Instant connection. John Clauser tested quantum entanglement when many doubted it could even be measured. His experiments helped prove reality is stranger than Einstein imagined, laying groundwork for quantum. @nationalacademies.org explorers.com/john-clauser/ #SciArt ♥ 15 💬 1",
+      "handle": "@christophermichel.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@nature.com bluesky The outcome of quantum experiments is intrinsically unpredictable. Now physicists have combined that feature with blockchain techniques to generate random numbers in a fully transparent process for the first time. https://go.nature.com/45lc2MK Quantum physicists unveil most ‘trustworthy’ random-number generator yet Upgraded system produces strings of random bits in a process th",
+      "handle": "@nature.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@astrokatie.com bluesky Quantum mechanics is described by a consistent & VERY well tested mathematical framework, & nothing we've seen in particle physics experiments is inconsistent with its basic tenets. It's incredibly precise -- we can predict properties & behaviors of particles to truly amazing levels of precision. 🧵 ♥ 534 💬 3",
+      "handle": "@astrokatie.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@zzzeek hackernews Evidence of 'Negative Time' Found in Quantum Physics Experiment (www.scientificamerican.com) Evidence of ‘Negative Time’ Found in Quantum Physics Experiment Physicists showed that photons can seem to exit a material before entering it, revealing observational evidence of negative time scientificamerican.com ♥ 5 💬 3",
+      "handle": "@zzzeek",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@postquantum.bsky.social bluesky Many arguments or experiments which purport to show that spacetime is quantum, construct strawmen theories which no one believes could be fundamental. 🧪⚛️ 1/ REPOSTED @dangreen.bsky.social Dec 18 - Indirect Evidence for Quantum Gravity journals.aps.org/prl/abstract... Page and Geilker design and perform an experiment to test if gravity is only (semi-) classical. T",
+      "handle": "@postquantum.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@crvscience.com bluesky Scientists observe ‘negative time’ in quantum experiments. ♥ 4 💬 2",
+      "handle": "@crvscience.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@postquantum.bsky.social bluesky I'm in Vienna, discussing experimental tests of the quantum nature of spacetime. Markus Arndt and Stefan Gerlich perform interference experiments using heavy macromolecules which can test the quantum nature of spacetime via the \"decoherence-vs-diffusion trade-off\" www.nature.com/articles/s41... 🧪⚛️ ♥ 33 💬 1",
+      "handle": "@postquantum.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@quantum-magazine.bsky.social bluesky MIT physicists propose that unexpected results in two quantum experiments—where superconductivity and magnetism coexisted—may be explained by odd quasiparticles like anyons, offering new insights into complex quantum matter and potential future tech. #Quantum #QuantumComputing #technology #Science “This Will Be a New Chapter in Quantum Physics\": Odd Quasiparti",
+      "handle": "@quantum-magazine.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@hossenfelder.bsky.social bluesky Since the early days of quantum physics, some scientists have believed that there’s a link between quantum mechanics and consciousness. Some recent experiments seem to back up one of those theories, and no, it's not Penrose's www.youtube.com/watch?v=q2T6... The Quantum Brain Theory Nobody is Talking About YouTube video by Sabine Hossenfelder youtube.com ♥ 30 💬 6",
+      "handle": "@hossenfelder.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@dulwichquantum.bsky.social bluesky \"Awesome Quantum Computing Experiments: Benchmarking Experimental Progress Towards Fault-Tolerant Quantum Computation\" arxiv.org/abs/2507.03678 A comprehensive database of notable quantum computing experiments, with emphasis on quantum error correction implementations: github.com/francois-mar... Awesome Quantum Computing Experiments: Benchmarking Experimental Pr",
+      "handle": "@dulwichquantum.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@ucsantabarbara.bsky.social bluesky Researchers at #UCSB are opening new possibilities for sensing, precision timekeeping, quantum computing and fundamental science measurements in cold atom quantum experiments. news.ucsb.edu/2025/021786/... Cold atoms on a chip UC Santa Barbara researchers are working to move cold atom quantum experiments and applications from the laboratory tabletop to chip-base",
+      "handle": "@ucsantabarbara.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@lyndie.bsky.social bluesky My 1st cover story! For New Scientist about experiments that are close to telling us if spacetime is quantized. And a Q&A with a physicist who is simulating space-time from scratch! www.newscientist.com/article/mg26... www.newscientist.com/article/2399... #physics #science 🧪 🔭 Is space-time quantum? Six ways to unpick the fabric of the universe One of the biggest ques",
+      "handle": "@lyndie.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@quantum-magazine.bsky.social bluesky Researchers achieved a 20-fold enhancement in ultrafast laser experiments using quantum light, dramatically boosting laser intensity. The breakthrough could improve measurements, quantum technologies, and studies of ultrafast physical processes. #Quantum #QuantumComputing #technology #Science Researchers unlock 20-fold enhancement in ultrafast laser experiment",
+      "handle": "@quantum-magazine.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@colinjamesoreilly.bsky.social bluesky Just ran my first quantum computing experiments on the IBM Quantum portal! ⚛️ Spent this morning playing with the Quantum Zeno effect to see if I could really prolong qubit coherence. Pushing live hardware to its absolute limits is wild. 🤪#QuantumComputing #DeepTech #LearningInPublic ♥ 27 💬 1",
+      "handle": "@colinjamesoreilly.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@janfkoch.bsky.social bluesky Happy to finally share our new preprint: Efficient Quantum Measurements: Computational Max- and Measured Rényi Divergences and Applications. scirate.com/arxiv/2509.2... We are tackling the problem that information theoretic quantities may not be very meaningful in practical scalable experiments. Efficient Quantum Measurements: Computational Max- and Measured Rényi Div",
+      "handle": "@janfkoch.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@quantum-magazine.bsky.social bluesky New experiments have observed quantum superposition—the hallmark of quantum mechanics—in objects larger than atoms, showing wave-like behavior in clusters of thousands of atoms. This pushes quantum effects toward bigger, complex systems than before. #Quantum #QuantumComputing #technology #Science Quantum effect observed for biggest objects yet An experiment ha",
+      "handle": "@quantum-magazine.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@Econopass@flipboard.com mastodon The hunt for these ghostly particles has required some of the most audacious experimental setups ever built — a tour of the extraordinary science of neutrino trapping. # neutrinos # particlephysics # quantumexperiments https://www. quantamagazine.org/how-physici sts-track-and-trap-the-elusive-neutrino-20260624/?utm_source=flipboard&utm_medium=activitypub Posted in",
+      "handle": "@Econopass",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@newscientist.com bluesky Whether or not we have partial free will could soon be resolved by experiments in quantum physics, with potential consequences for everything from religion to quantum computers Do we have free will? Quantum experiments may soon reveal the answer Whether or not we have partial free will could soon be resolved by experiments in quantum physics, with potential consequences f",
+      "handle": "@newscientist.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@iai.tv bluesky We are well aware by now of the observer problem in quantum mechanics. Human subjectivity appears to play a key role in the results of quantum experiments. | https://buff.ly/4fLxUm6 However, the observer problem reaches far beyond just quantum mechanics, argues Edward Frenkel. #philsci #maths Maths, like quantum physics, has observer problems | Edward Frenkel We are well aware by n",
+      "handle": "@iai.tv",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@mattschabathphd.bsky.social bluesky 🧪🧪 Groundbreaking quantum-tunnelling experiments win physics Nobel -- John Clarke, Michel Devoret and John Martinis discovered quantum physics on a macroscopic scale, paving the way for quantum computing. www.nature.com/articles/d41... Groundbreaking quantum-tunnelling experiments win physics Nobel John Clarke, Michel Devoret and John Martinis discovered quan",
+      "handle": "@mattschabathphd.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@physicsworld.bsky.social bluesky Scientists have developed a language model that designs novel setups for quantum optics experiments, a capability that could accelerate research in areas such as quantum computing and quantum communication. 🧪⚛️ physicsworld.com/a/meta-desig... Meta-design: language models generate novel quantum experiments – Physics World Researchers stretch the limits of how far",
+      "handle": "@physicsworld.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@drskyskull.bsky.social bluesky Um I can't even imagine why he's talking about \"photon counting.\" That implies discriminating the influence of individual photons at a detector and nobody is doing that except for folks doing low-light quantum optics experiments. ♥ 233 💬 15",
+      "handle": "@drskyskull.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@zlatko-minev.bsky.social bluesky From Passive Bystanders to Active Participants Observers in #quantum mechanics are no longer passive bystanders in modern experiments. With real-time feedback, we now actively influence quantum systems, enabling new levels of control and manipulation. #QuantumPhysics ♥ 16",
+      "handle": "@zlatko-minev.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@quantum-magazine.bsky.social bluesky Amazing Physics Experiment Reveals &039; #Quantum Rain&039; For The First Time Amazing Physics Experiment Reveals 'Quantum Rain' For The First Time As strange and unique as the laws of the quantum realm appear in our everyday experience, every now and then experiments catch sight of phenomena that seem both alien and yet eerily familiar. sciencealert.com ♥ 16",
+      "handle": "@quantum-magazine.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@samillingworth.com bluesky 🌀 Quarks are magic Scientists discovered that top quarks at the Large Hadron Collider (LHC) create 'magic' quantum states - special properties that could advance quantum computing. This finding bridges particle physics & quantum technology. 🔗 dx.doi.org/10.1103/Phys... #SciComm 🧪 Magic states of top quarks Recent years have seen an increasing body of work examining h",
+      "handle": "@samillingworth.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@natureportfolio.nature.com bluesky A feature in Nature explores how physicists are developing laboratory tests to give insight into the true nature of gravity. ⚛️ 🧪 Is gravity quantum? Experiments could finally probe one of physics’ biggest questions Physicists are developing laboratory tests to give insight into the true nature of gravity. go.nature.com ♥ 42",
+      "handle": "@natureportfolio.nature.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@newscientist.com bluesky Two experiments with different quantum computers showcase their growing ability to simulate materials and quantum matter that have so far proven elusive in the lab Quantum computers are finally on the verge of being useful Two experiments with different quantum computers showcase their growing ability to simulate materials and quantum matter that have so far proven elusiv",
+      "handle": "@newscientist.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@physicsmagazine.aps.org bluesky The quantum Hall and the Josephson effects provide high-precision tests of the laws of electricity and magnetism. Now researchers propose an approach to achieve similar benefits for gravitational physics by exploiting analogous experiments involving gravitational forces. Gravitational Versions of Quantum Experiments Measuring gravitational analogues of quantum phen",
+      "handle": "@physicsmagazine.aps.org",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@physicsworld.bsky.social bluesky Backward time travel is still in the realm of science fiction, but manipulating quantum entanglement allows scientists to design experiments that simulate it. physicsworld.com/a/simulation... #science #physics Simulations of time travel send quantum metrology back to the future – Physics World Teleportation of entangled quantum states leads to useful information g",
+      "handle": "@physicsworld.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@nature.com bluesky For the first time, physicists have matched detailed simulations done on quantum computers to experimental data gathered from work with solid materials go.nature.com/4m03IIE Quantum simulations verified by experiments for the first time Physicists cross-checked quantum computer predictions against experimental data about materials' properties. go.nature.com ♥ 16 💬 1",
+      "handle": "@nature.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@physicsmagazine.aps.org bluesky The standoff between quantum mechanics and general relativity has persisted for many decades, prompting some physicists to propose that quantum mechanics needs to be superseded. New experiments could point the way forward. Quantum Gravity Tests Coming Soon Before determining the correct quantum theory of gravity, researchers need to know if gravity is actually quan",
+      "handle": "@physicsmagazine.aps.org",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-39.png",
+      "txt": "@preskill.bsky.social bluesky In part 2 or a 3-part series, Dominik Hangleiter continues his thoughtful assessment of the evidence for quantum advantage in random-circuit-sampling experiments. quantumfrontiers.com/2026/01/25/h... Has quantum advantage been achieved? Part 2: Considering the evidence Welcome back to: Has quantum advantage been achieved? In Part 1 of this mini-series on quantum advan",
+      "handle": "@preskill.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-40.png",
+      "txt": "@cnn.com bluesky The 2025 Nobel Prize in physics goes to three US-based scientists for groundbreaking experiments in the field of quantum mechanics https://cnn.it/46X4wqz ♥ 196 💬 12",
+      "handle": "@cnn.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-41.png",
       "txt": "@Anon84 hackernews Quantum Experiment Shows How Time ‘Emerges’ from Entanglement (medium.com) Quantum Experiment Shows How Time ‘Emerges’ from Entanglement medium.com medium.com ♥ 8",
       "handle": "@Anon84",
       "source": "hackernews",
@@ -27,7 +331,7 @@
       "hasImg": false
     },
     {
-      "file": "card-04.png",
+      "file": "card-42.png",
       "txt": "@chmaynard hackernews TLS Post-Quantum Experiment (blog.cloudflare.com) The TLS Post-Quantum Experiment Take a look at the results of a real-world TLS post-quantum experiment conducted by Cloudflare & Google. blog.cloudflare.com ♥ 15 💬 4",
       "handle": "@chmaynard",
       "source": "hackernews",
@@ -35,7 +339,7 @@
       "hasImg": true
     },
     {
-      "file": "card-05.png",
+      "file": "card-43.png",
       "txt": "@grittygrease hackernews The Cloudflare-Chrome TLS Post-Quantum Experiment (blog.cloudflare.com) The TLS Post-Quantum Experiment Take a look at the results of a real-world TLS post-quantum experiment conducted by Cloudflare & Google. blog.cloudflare.com ♥ 6",
       "handle": "@grittygrease",
       "source": "hackernews",
@@ -43,7 +347,7 @@
       "hasImg": true
     },
     {
-      "file": "card-06.png",
+      "file": "card-44.png",
       "txt": "@1ban_news mastodon The wobble in time: Post-quantum gravity offers a testable alternative to string theory https:// 1ban.news/post-quantum-gravity -random-time-wobbles/ # 1ban # post # quantum # gravity # random # science The wobble in time: Post-quantum gravity offers a testable alternative to string theory - 1ban.news For more than a century, physics has been caught between two incompatible des",
       "handle": "@1ban_news",
       "source": "mastodon",
@@ -51,7 +355,7 @@
       "hasImg": true
     },
     {
-      "file": "card-07.png",
+      "file": "card-45.png",
       "txt": "@headalgorithm hackernews Giant Molecules Exist in Two Places at Once in Unprecedented Quantum Experiment (www.scientificamerican.com) Giant Molecules Exist in Two Places at Once in Unprecedented Quantum Experiment The new study demonstrates a bizarre quantum effect at never-before-seen scales scientificamerican.com ♥ 14 💬 1",
       "handle": "@headalgorithm",
       "source": "hackernews",
@@ -59,7 +363,7 @@
       "hasImg": true
     },
     {
-      "file": "card-08.png",
+      "file": "card-46.png",
       "txt": "@jonbaer hackernews AI Designs Quantum Physics Experiments Beyond What Any Human Has Conceived (www.scientificamerican.com) AI Designs Quantum Physics Experiments beyond What Any Human Has Conceived Originally built to speed up calculations, a machine-learning system is now making shocking progress at the frontiers of experimental quantum physics scientificamerican.com ♥ 10",
       "handle": "@jonbaer",
       "source": "hackernews",
@@ -67,7 +371,7 @@
       "hasImg": true
     },
     {
-      "file": "card-09.png",
+      "file": "card-47.png",
       "txt": "@amelius hackernews Reality doesn’t exist until we measure it, quantum experiment confirms (www.sciencealert.com) Reality Doesn't Exist Until We Measure It, Quantum Experiment Confirms Australian scientists have recreated a famous experiment and confirmed quantum physics's bizarre predictions about the nature of reality, by proving that reality doesn't actually exist until we measure it - at least",
       "handle": "@amelius",
       "source": "hackernews",
@@ -75,7 +379,7 @@
       "hasImg": true
     },
     {
-      "file": "card-10.png",
+      "file": "card-48.png",
       "txt": "@lermontov hackernews Reality doesn’t exist until it is measured, quantum experiment finds (www.anu.edu.au) Reality doesn’t exist until it is measured, quantum experiment finds www.anu.edu.au anu.edu.au ♥ 227 💬 239",
       "handle": "@lermontov",
       "source": "hackernews",
@@ -83,7 +387,7 @@
       "hasImg": false
     },
     {
-      "file": "card-11.png",
+      "file": "card-49.png",
       "txt": "@quantamagazine.bsky.social bluesky Researchers have long suspected that for some computational problems, checking a solution is only possible with an exotic mathematical object called a quantum proof — no ordinary written document will do. Now, a team of researchers has finally confirmed it. www.quantamagazine.org/researchers-... Researchers Reveal the Power of ‘Quantum Proofs’ | Quanta Magazine ",
       "handle": "@quantamagazine.bsky.social",
       "source": "bluesky",
@@ -91,7 +395,7 @@
       "hasImg": true
     },
     {
-      "file": "card-12.png",
+      "file": "card-50.png",
       "txt": "@dnetesn hackernews 'Spooky' quantum experiment: measurement of a photon affects its location (www.dailymail.co.uk) 'Spooky' quantum experiment proves that Einstein was wrong While other experiments have shown entanglement with two particles, the new study by Australian and Japanese researchers entangles a photon with itself. dailymail.com ♥ 11 💬 6",
       "handle": "@dnetesn",
       "source": "hackernews",
@@ -99,7 +403,7 @@
       "hasImg": true
     },
     {
-      "file": "card-13.png",
+      "file": "card-51.png",
       "txt": "@finnh hackernews Quantum Theory Experiment Said to Prove ‘Spooky’ Interactions (www.nytimes.com) Quantum Theory Experiment Said to Prove ‘Spooky’ Interactions www.nytimes.com nytimes.com ♥ 47 💬 44",
       "handle": "@finnh",
       "source": "hackernews",
@@ -107,7 +411,7 @@
       "hasImg": false
     },
     {
-      "file": "card-14.png",
+      "file": "card-52.png",
       "txt": "@romancingthevote.com bluesky It whispered to us that quantum mechanics existed, and the world was fundamentally different when it was very small, before we'd figured that out on our own. Spectroscopy sounds nerdy, but it's really the study of everything. ♥ 22 💬 1",
       "handle": "@romancingthevote.com",
       "source": "bluesky",
@@ -115,7 +419,7 @@
       "hasImg": false
     },
     {
-      "file": "card-15.png",
+      "file": "card-53.png",
       "txt": "@hazelsouthwell.bsky.social bluesky quantum computing is funny because the headline will be like 'quantum computing could lead to black holes being used in supermarkets' uhuh sure. if the computer to do that existed, which it doesn't. there ARE limited quantum computers but the ones in research are almost always theoretical ideas ♥ 4 💬 1",
       "handle": "@hazelsouthwell.bsky.social",
       "source": "bluesky",
@@ -123,7 +427,7 @@
       "hasImg": false
     },
     {
-      "file": "card-16.png",
+      "file": "card-54.png",
       "txt": "@tdhttt hackernews Gravity is unlikely to be the cause of quantum collapse, experiment suggests (www.sciencemag.org) Gravity is unlikely to be the cause of quantum collapse, experiment suggests www.sciencemag.org sciencemag.org ♥ 127 💬 95",
       "handle": "@tdhttt",
       "source": "hackernews",
@@ -131,7 +435,7 @@
       "hasImg": false
     },
     {
-      "file": "card-17.png",
+      "file": "card-55.png",
       "txt": "@pseudolus hackernews Scientists observe 'negative time' in quantum experiments (phys.org) Scientists observe 'negative time' in quantum experiments Scientists have long known that light can sometimes appear to exit a material before entering it—an effect dismissed as an illusion caused by how waves are distorted by matter. phys.org ♥ 16 💬 8",
       "handle": "@pseudolus",
       "source": "hackernews",
@@ -139,7 +443,7 @@
       "hasImg": true
     },
     {
-      "file": "card-18.png",
+      "file": "card-56.png",
       "txt": "@jonbaer hackernews Quantum experiment verifies Einstein's 'spooky action at a distance' (phys.org) Quantum experiment verifies Einstein's 'spooky action at a distance' An experiment devised in Griffith University's Centre for Quantum Dynamics has for the first time demonstrated Albert Einstein's original conception of \"spooky action at a distance\" using a single particle. phys.org ♥ 14 💬 3",
       "handle": "@jonbaer",
       "source": "hackernews",
@@ -147,7 +451,7 @@
       "hasImg": true
     },
     {
-      "file": "card-19.png",
+      "file": "card-57.png",
       "txt": "@lnguyen hackernews ‘Arrow of time’ reversed in quantum experiment (www.sciencenews.org) ‘Arrow of time’ reversed in quantum experiment In quantum systems, heat can flow “backward,” from cold to hot. sciencenews.org ♥ 9 💬 1",
       "handle": "@lnguyen",
       "source": "hackernews",
@@ -155,7 +459,7 @@
       "hasImg": true
     },
     {
-      "file": "card-20.png",
+      "file": "card-58.png",
       "txt": "@mdp2021 hackernews Scientists observe \"negative time\" in quantum experiments (phys.org) Scientists observe 'negative time' in quantum experiments Scientists have long known that light can sometimes appear to exit a material before entering it—an effect dismissed as an illusion caused by how waves are distorted by matter. phys.org ♥ 5 💬 2",
       "handle": "@mdp2021",
       "source": "hackernews",
@@ -163,7 +467,7 @@
       "hasImg": true
     },
     {
-      "file": "card-21.png",
+      "file": "card-59.png",
       "txt": "@quantumjournal@mathstodon.xyz mastodon New # Paper published in Quantum: Entanglement in the Dicke subspace https:// quantum-journal.org/papers/q-2 026-07-01-2150/ # OpenScience # Quantum # Research Entanglement in the Dicke subspace Aabhas Gulati, Ion Nechita, and Clément Pellegrini, Quantum 10, 2150 (2026). We provide a complete mathematical theory for the entanglement of mixtures of Dicke stat",
       "handle": "@quantumjournal",
       "source": "mastodon",
@@ -171,7 +475,7 @@
       "hasImg": true
     },
     {
-      "file": "card-22.png",
+      "file": "card-60.png",
       "txt": "@oldmanhippy.com bluesky Okay, quantum physics can melt your brain. So a light particle leaves a cloud before it enters it. Wrap your measly human brain around that. ❗ Gotta love science. The scientific discovery that has shocked quantum physicists Scientists measured light particles spending a negative amount of time inside a cloud of atoms, that appeared to exit the matter before even entering i",
       "handle": "@oldmanhippy.com",
       "source": "bluesky",
@@ -179,7 +483,7 @@
       "hasImg": true
     },
     {
-      "file": "card-23.png",
+      "file": "card-61.png",
       "txt": "@benbenbrubaker.bsky.social bluesky After 20 years, researchers finally have strong evidence that “quantum proofs” are more powerful than ordinary classical ones. The results suggest that at least in computation, there’s no way around the complexity of the quantum world. Read more in @quantamagazine.bsky.social: Researchers Reveal the Power of ‘Quantum Proofs’ | Quanta Magazine When checking that ",
       "handle": "@benbenbrubaker.bsky.social",
       "source": "bluesky",
@@ -187,7 +491,7 @@
       "hasImg": true
     },
     {
-      "file": "card-24.png",
+      "file": "card-62.png",
       "txt": "@quantumjournal@mathstodon.xyz mastodon New # Paper published in Quantum: A complexity theory for non-local quantum computation https:// quantum-journal.org/papers/q-2 026-07-01-2152/ # OpenScience # Quantum # Research A complexity theory for non-local quantum computation Andreas Bluhm, Simon Höfer, Alex May, Mikka Stasiuk, Philip Verduyn Lunel, and Henry Yuen, Quantum 10, 2152 (2026). Non-local q",
       "handle": "@quantumjournal",
       "source": "mastodon",
@@ -195,7 +499,7 @@
       "hasImg": true
     },
     {
-      "file": "card-25.png",
+      "file": "card-63.png",
       "txt": "@ColinWright hackernews The Quantum Experiment That Simulates a Time Machine (medium.com) The Quantum Experiment That Simulates a Time Machine medium.com medium.com ♥ 20 💬 2",
       "handle": "@ColinWright",
       "source": "hackernews",
@@ -203,7 +507,7 @@
       "hasImg": false
     },
     {
-      "file": "card-26.png",
+      "file": "card-64.png",
       "txt": "@jacopobertolotti.com bluesky If you ask a number of smart and well-studied Physicists whether you can write quantum mechanics using only real numbers, they will nicely split 50-50 into a group answering \"Obviously yes!\" and another answering \"Obviously no!\". Which is why I love this kind of papers. #QuantumMechanics #Physics A New Perspective on Real-Valued Quantum Theory By exploiting a physical",
       "handle": "@jacopobertolotti.com",
       "source": "bluesky",
@@ -211,7 +515,7 @@
       "hasImg": true
     },
     {
-      "file": "card-27.png",
+      "file": "card-65.png",
       "txt": "@cageyratfish.bsky.social bluesky New form of quantum superposition discovered: CERN REPOSTED @sorenspicknall.bsky.social She's somehow managing to occupy two bags at once ♥ 45",
       "handle": "@cageyratfish.bsky.social",
       "source": "bluesky",
@@ -219,7 +523,7 @@
       "hasImg": false
     },
     {
-      "file": "card-28.png",
+      "file": "card-66.png",
       "txt": "@bryanrasmussen hackernews Physicists Have Measured \"Negative Time\" in Quantum Experiment (scitechdaily.com) Physicists Have Measured “Negative Time” in Bizarre Quantum Experiment Quantum physicists have uncovered a bizarre phenomenon in which photons appear to spend a “negative” amount of time interacting with atoms before emerging from a cloud of matter. scitechdaily.com ♥ 6",
       "handle": "@bryanrasmussen",
       "source": "hackernews",
@@ -227,7 +531,7 @@
       "hasImg": true
     },
     {
-      "file": "card-29.png",
+      "file": "card-67.png",
       "txt": "@abrax3141 hackernews How to Build Your Own Quantum Entanglement Experiment (2013) (blogs.scientificamerican.com) How to Build Your Own Quantum Entanglement Experiment, Part 1 (of 2) scientificamerican.com ♥ 153 💬 37",
       "handle": "@abrax3141",
       "source": "hackernews",
@@ -235,7 +539,7 @@
       "hasImg": true
     },
     {
-      "file": "card-30.png",
+      "file": "card-68.png",
       "txt": "@psyll.bsky.social bluesky The mystery of time's arrow: scientists are using quantum computers to reverse local entropy, proving that while the universe trends toward disorder, the laws of physics are far more flexible than we thought. Time might just be an emergent property of entanglement. Quantum thermodynamics: why time only flows forward | Psyll Discover how quantum entanglement and entropy e",
       "handle": "@psyll.bsky.social",
       "source": "bluesky",
@@ -243,7 +547,7 @@
       "hasImg": true
     },
     {
-      "file": "card-31.png",
+      "file": "card-69.png",
       "txt": "@luu hackernews A Simulation of a Simulation: Algorithms for Quantum Computing Experiments [pdf] (rioweil.github.io) A Simulation of a Simulation: Algorithms for Quantum Computing Experiments [pdf] rioweil.github.io rioweil.github.io ♥ 19",
       "handle": "@luu",
       "source": "hackernews",
@@ -251,12 +555,140 @@
       "hasImg": false
     },
     {
-      "file": "card-32.png",
+      "file": "card-70.png",
       "txt": "@1ban_news mastodon Quantum Information Theory Could Sharpen Exoplanet Imaging to Theoretical Limits https:// 1ban.news/quantum-optimal-coro nagraphy-exoplanet-direct-imaging/ # 1ban # quantum # optimal # coronagraphy # exoplanet # space",
       "handle": "@1ban_news",
       "source": "mastodon",
       "hasVideo": false,
       "hasImg": false
+    },
+    {
+      "file": "card-71.png",
+      "txt": "@jonbaer hackernews Giant Molecules Exist in Two Places at Once in Quantum Experiment (www.scientificamerican.com) Giant Molecules Exist in Two Places at Once in Unprecedented Quantum Experiment The new study demonstrates a bizarre quantum effect at never-before-seen scales scientificamerican.com ♥ 94 💬 68",
+      "handle": "@jonbaer",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-72.png",
+      "txt": "@quantumjournal@mathstodon.xyz mastodon New # Paper published in Quantum: Learning thermodynamic master equations for open quantum systems https:// quantum-journal.org/papers/q-2 026-07-01-2151/ # OpenScience # Quantum # Research Learning thermodynamic master equations for open quantum systems Peter Sentz, Stanley Nicholson, Yujin Cho, Sohail Reddy, Brendan Keith, and Stefanie Günther, Quantum 10,",
+      "handle": "@quantumjournal",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-73.png",
+      "txt": "@kawera hackernews A videogame that powers quantum entanglement experiments (www.wired.com) This Random Videogame Powers Quantum Entanglement Experiments How a simplistic keyboard-mashing game recruited thousands of players—for physics! wired.com ♥ 19 💬 4",
+      "handle": "@kawera",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-74.png",
+      "txt": "@arjaybe@mstdn.ca mastodon What has a bluebottle fly got to do with quantum computing? # audiobook # multiverse # narration # quantum # StringTheory # video This reading is A World Apart by Colm O'Shea, who teaches writing at New York University. The quantum concepts are computing, the multiverse and the qubit. Maybe the fly is a figment of the computer's imagination. https:// youtu.be/cjGy9W-zw-w",
+      "handle": "@arjaybe",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-75.png",
+      "txt": "@zerology@bayes.club mastodon There is a collection of articles about many worlds interpretation of quantum mechanics, ed by Lev Vaidman, 2024. (I didn't read anything of it yet, thus this can't be a reading suggestion. But maybe you want to.) https:// mdpi-res.com/bookfiles/book/92 38/The_ManyWorlds_Interpretation_of_Quantum_Mechanics.pdf # quantum # manyworlds See more ♥ 1",
+      "handle": "@zerology",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-76.png",
+      "txt": "@spectrum.ieee.org@bsky.brid.gy mastodon This “atom camera” can map an atom’s intensity and polarization at tiny scales, which could help scientists see inside certain #quantum computers. spectrum.ieee.org/single-atom-...",
+      "handle": "@spectrum.ieee.org",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-77.png",
+      "txt": "@freecodecamp.bsky.social bluesky Quantum computing might sound like something people in lab coats do in secret. But in this guide, Casmir teaches you how to build a basic quantum circuit in Python. You'll learn key concepts like qubits, quantum gates, superposition, entanglement, and more. www.freecodecamp.org/news/how-to-... ♥ 5",
+      "handle": "@freecodecamp.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-78.png",
+      "txt": "@sohkamyung hackernews Deuterium molecules in superposition act as slits for classic quantum experiment (www.chemistryworld.com) Quantum double-slit experiment done with molecules for the first time Researchers prepare chemistryworld.com ♥ 81 💬 3",
+      "handle": "@sohkamyung",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-79.png",
+      "txt": "@schneier.com bluesky France to Stop Certifying Non-Quantum-Safe Encryption France is accelerating its transition to post-quantum encryption: France's cybersecurity agency ANSSI said on Tuesday it would stop… https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html France to Stop Certifying Non-Quantum-Safe Encryption France is accelerating its tran",
+      "handle": "@schneier.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-80.png",
+      "txt": "@physics.bsky.social bluesky The Casimir Effect is a quantum phenomenon where two uncharged, parallel metal plates placed very close together in a vacuum attract each other. This happens due to quantum fluctuations in the vacuum, showing that even empty space has energy. ♥ 10 💬 1",
+      "handle": "@physics.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-81.png",
+      "txt": "@benrothke@infosec.exchange mastodon My @OneRSAC book review of: How AI and Quantum Impact Cyber Threats and Defenses: Reshaping Your Cyber Defense Strategies. Another great book by @ rogeragrimes . Details the coalescence of # AI & # quantum . A really good # infosec read. # RSAC https://www. rsaconference.com/library/blog /bens-book-of-the-month-how-ai-and-quantum-impact-cyberthreats-and-defense",
+      "handle": "@benrothke",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-82.png",
+      "txt": "@Marekgluza@mathstodon.xyz mastodon Short discussion with @ FMarquardtGroup about how both fediscience and mathstodon instances are cool and we hope it will be a worthwhile platform for many of us to exchange about science! A lot of good science reported so far at IEEE # quantum control in Aalborg https://www. ieeeqccl2026.com/program I recommend checking the recent papers of the people presenting",
+      "handle": "@Marekgluza",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-83.png",
+      "txt": "@junomarrow.bsky.social bluesky A micro-magnetic wave (magnon) breakthrough boosts wafer-scale quantum computing. Hardware is shrinking, but the ambition of computing power expands infinitely. ♥ 13",
+      "handle": "@junomarrow.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-84.png",
+      "txt": "@yourdigitalbrain.bsky.social bluesky The result, published at the end of June 2026, not only sets a record for efficiency but also paves the way for future multi-node quantum networks, the foundation of what many are already calling the quantum internet. Three atoms, three laboratories, one quantum state: the breakthrough bringing quantum internet closer - Sinaptica A team of physicists has achie",
+      "handle": "@yourdigitalbrain.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-85.png",
+      "txt": "@quantumodysseygame.bsky.social bluesky took me a decade to finish my game Quantum Odyssey (here are some snippets). No idea if bluesky is a good platform to get the word out, but here is my attempt #physics #quantumcomputing #videogames ♥ 4",
+      "handle": "@quantumodysseygame.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-86.png",
+      "txt": "@agathedemarais.com bluesky Quantum computing could be next tech boom after AI • Google and IBM target delivery of useful machines by 2030, focusing on highly-advanced applications • Quantum and AI are interlinked, as quantum devices could help to generate new data for AI models to learn from www.ft.com/content/7e46... ♥ 10 💬 2",
+      "handle": "@agathedemarais.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
     }
   ]
 }

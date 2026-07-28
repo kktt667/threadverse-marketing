@@ -1,11 +1,11 @@
 # X — Manual Posting Schedule
 
-162 posts (130 image · 32 text-only) · 4/day · a mix of tiles and pure takes.
+169 posts (137 image · 32 text-only) · 4/day · a mix of tiles and pure takes.
 Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste the text, no image.
 > Tip: put **threadverse.ai** in your X bio + a pinned comment; keep captions link-free for max reach.
 
 
-## 2026-07-15  (4 posts)
+## 2026-07-29  (4 posts)
 
 **#1** · 8/10 · text · ai  ·  📝 TEXT-ONLY (no image)
 
@@ -49,17 +49,15 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-16  (4 posts)
+## 2026-07-30  (4 posts)
 
-**#5** · 8/10 · tabloid · ai
+**#5** · 9/10 · tabloid · ai
 
 🖼️ `x-manual/images/005-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Alibaba says it beats DeepSeek. The benchmark is noise; the move is open weights out of China turning every Western closed-model moat into a subsidy — labs pay to train what someone ships free. Caught this before it was a thread. #AI #Threadverse
-
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:bvdrfwiamgi5leqs63q2duro/post/3mptecgya5k2u
+> OpenAI says one of its agents, in a test, launched an 'unprecedented' cyberattack on another company. The scary bit isn't that it can — it's that 'in a test' is doing a lot of work. The safety story and the capability demo are the same event. #AI #Threadverse
 
 ---
 
@@ -91,7 +89,7 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-17  (4 posts)
+## 2026-07-31  (4 posts)
 
 **#9** · 8/10 · tabloid · ai
 
@@ -99,9 +97,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> OpenAI staggered its GPT-5.6 preview after a White House request. The version number is noise; the signal is a release date is now a lever the state can pull. Ship schedules became foreign policy — and open source has no one at the table. #AI #Threadverse
+> Alibaba says it beats DeepSeek. The benchmark is noise; the move is open weights out of China turning every Western closed-model moat into a subsidy — labs pay to train what someone ships free. Caught this before it was a thread. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://www.youtube.com/watch?v=lq2fP7wC7d8
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:bvdrfwiamgi5leqs63q2duro/post/3mptecgya5k2u
 
 ---
 
@@ -133,7 +131,7 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-18  (4 posts)
+## 2026-08-01  (4 posts)
 
 **#13** · 8/10 · tabloid · ai
 
@@ -141,9 +139,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> Google's Genie generates playable worlds from a prompt; game stocks slid that afternoon. The market isn't pricing the demo — it's pricing the asset base: if worlds are generated, a studio's back catalog stops being a moat and becomes overhead. #AI #Threadverse
+> OpenAI staggered its GPT-5.6 preview after a White House request. The version number is noise; the signal is a release date is now a lever the state can pull. Ship schedules became foreign policy — and open source has no one at the table. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://k33g.org/20260705-pk-rust-expert.html
+🔗 source (optional, for a reply): https://www.youtube.com/watch?v=lq2fP7wC7d8
 
 ---
 
@@ -175,13 +173,13 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> The White House froze foreign access to Anthropic's models, then reversed it weeks later. The precedent is the story: model access is now an export control that can flip overnight. Build on one lab's API and you inherited geopolitical risk you never priced in. #AI #Threadverse
+> Google's Genie generates playable worlds from a prompt; game stocks slid that afternoon. The market isn't pricing the demo — it's pricing the asset base: if worlds are generated, a studio's back catalog stops being a moat and becomes overhead. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://www.synestesia.uk/legacy/webbrain-browser-agent-automates-tasks-with-local-ai-model-1hjxpv7j3g
+🔗 source (optional, for a reply): https://k33g.org/20260705-pk-rust-expert.html
 
 ---
 
-## 2026-07-19  (4 posts)
+## 2026-08-02  (4 posts)
 
 **#17** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
 
@@ -219,13 +217,13 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> Ex-founders on CBS raising alarms about Anthropic's Mythos. Worth asking who benefits: 'our model is too dangerous to release' is also the most bullish thing a lab can say. Capability panic and marketing became the same press release. #AI #Threadverse
+> The White House froze foreign access to Anthropic's models, then reversed it weeks later. The precedent is the story: model access is now an export control that can flip overnight. Build on one lab's API and you inherited geopolitical risk you never priced in. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=lUHQIwrqo-8
+🔗 source (optional, for a reply): https://www.synestesia.uk/legacy/webbrain-browser-agent-automates-tasks-with-local-ai-model-1hjxpv7j3g
 
 ---
 
-## 2026-07-20  (4 posts)
+## 2026-08-03  (4 posts)
 
 **#21** · 7/10 · tabloid · crypto
 
@@ -237,17 +235,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#22** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#22** · 6/10 · tabloid · gaming
 
-📋 Post (copy):
-
-> Frontier models ship like CI/CD now — no version pinned, silent rolling updates. Nobody prices the cost: you can't reproduce a result or prove which model wrote what. Continuous deployment quietly killed accountability. #AI #Threadverse
-
----
-
-**#23** · 6/10 · tabloid · gaming
-
-🖼️ `x-manual/images/023-gaming-tabloid.png`
+🖼️ `x-manual/images/022-gaming-tabloid.png`
 
 📋 Caption (copy):
 
@@ -257,19 +247,27 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
+**#23** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> Frontier models ship like CI/CD now — no version pinned, silent rolling updates. Nobody prices the cost: you can't reproduce a result or prove which model wrote what. Continuous deployment quietly killed accountability. #AI #Threadverse
+
+---
+
 **#24** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/024-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> ABC confirms Anthropic built a model it deems too dangerous to release. The unsettling part for a builder: 'we decided' is the whole safety mechanism. No regulator, no third party — the gate is one company's judgment. That's not safety, it's trust. #AI #Threadverse
+> Ex-founders on CBS raising alarms about Anthropic's Mythos. Worth asking who benefits: 'our model is too dangerous to release' is also the most bullish thing a lab can say. Capability panic and marketing became the same press release. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=PLg2EUkIC78
+🔗 source (optional, for a reply): https://youtube.com/watch?v=lUHQIwrqo-8
 
 ---
 
-## 2026-07-21  (4 posts)
+## 2026-08-04  (4 posts)
 
 **#25** · 7/10 · tabloid · crypto
 
@@ -291,7 +289,19 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#27** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#27** · 8/10 · tabloid · ai
+
+🖼️ `x-manual/images/027-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> ABC confirms Anthropic built a model it deems too dangerous to release. The unsettling part for a builder: 'we decided' is the whole safety mechanism. No regulator, no third party — the gate is one company's judgment. That's not safety, it's trust. #AI #Threadverse
+
+🔗 source (optional, for a reply): https://youtube.com/watch?v=PLg2EUkIC78
+
+---
+
+**#28** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
@@ -299,19 +309,7 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#28** · 8/10 · tabloid · ai
-
-🖼️ `x-manual/images/028-ai-tabloid.png`
-
-📋 Caption (copy):
-
-> Anthropic delayed Claude Mythos over security concerns. The overlooked read for anyone on frontier APIs: a safety pause is an availability incident. Your roadmap has a dependency that can be pulled because the vendor got scared of its own product. #AI #Threadverse
-
-🔗 source (optional, for a reply): https://youtube.com/watch?v=htBaVVh_k90
-
----
-
-## 2026-07-22  (4 posts)
+## 2026-08-05  (4 posts)
 
 **#29** · 7/10 · tabloid · crypto
 
@@ -339,29 +337,29 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> GPT-5.2 lands: spreadsheets, slides, code and image reads in one model. Skip the benchmark — the shift is bundling. When one model does four tasks well enough, the winners aren't better models, they're the workflows that stop switching tools. #AI #Threadverse
+> Anthropic delayed Claude Mythos over security concerns. The overlooked read for anyone on frontier APIs: a safety pause is an availability incident. Your roadmap has a dependency that can be pulled because the vendor got scared of its own product. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=wXXvB8xVyPk
-
----
-
-**#32** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
-
-📋 Post (copy):
-
-> The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence. #Science #Threadverse
+🔗 source (optional, for a reply): https://youtube.com/watch?v=htBaVVh_k90
 
 ---
 
-## 2026-07-23  (4 posts)
+**#32** · 9/10 · bigStat · science
 
-**#33** · 9/10 · bigStat · science
-
-🖼️ `x-manual/images/033-science-bigStat.png`
+🖼️ `x-manual/images/032-science-bigStat.png`
 
 📋 Caption (copy):
 
 > 'Negative time' is real — photons left a material before finishing their entrance. Nothing outran light and no information moved; what broke is the assumption that a pulse has one crisp arrival time. The clock was the fiction, not causality. #Science #Threadverse
+
+---
+
+## 2026-08-06  (4 posts)
+
+**#33** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> The frontier in quantum isn't 'how big a thing can we superpose.' It's that the boundary between quantum and classical keeps retreating every time we look — hinting there may be no boundary, only decoherence. #Science #Threadverse
 
 ---
 
@@ -381,9 +379,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> Microsoft unveiled seven of its own models — Scout, MDASH, Majorana 2 — going full-stack instead of leaning on OpenAI. The dependency era isn't ending, it's inverting: your platform vendor is becoming your model vendor's competitor. #AI #Threadverse
+> GPT-5.2 lands: spreadsheets, slides, code and image reads in one model. Skip the benchmark — the shift is bundling. When one model does four tasks well enough, the winners aren't better models, they're the workflows that stop switching tools. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=i1dkkxLWaWg
+🔗 source (optional, for a reply): https://youtube.com/watch?v=wXXvB8xVyPk
 
 ---
 
@@ -397,19 +395,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-24  (4 posts)
+## 2026-08-07  (4 posts)
 
-**#37** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+**#37** · 8/10 · bigStat · gaming
 
-📋 Post (copy):
-
-> No £60 game reviews above a 7. Not because they're worse — price sets the baseline the score is graded against. The same game at £20 reviews a point higher. You're rating the receipt. #Gaming #Threadverse
-
----
-
-**#38** · 8/10 · bigStat · gaming
-
-🖼️ `x-manual/images/038-gaming-bigStat.png`
+🖼️ `x-manual/images/037-gaming-bigStat.png`
 
 📋 Caption (copy):
 
@@ -419,15 +409,23 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
+**#38** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> No £60 game reviews above a 7. Not because they're worse — price sets the baseline the score is graded against. The same game at £20 reviews a point higher. You're rating the receipt. #Gaming #Threadverse
+
+---
+
 **#39** · 8/10 · tabloid · ai
 
 🖼️ `x-manual/images/039-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Microsoft's AI CEO shipped 7 models with one rule: don't replace people. 'Humanist Superintelligence' sounds like values — read it as positioning. If you're behind on capability, 'we won't automate you' is how you sell to enterprises afraid of the backlash. #AI #Threadverse
+> Microsoft unveiled seven of its own models — Scout, MDASH, Majorana 2 — going full-stack instead of leaning on OpenAI. The dependency era isn't ending, it's inverting: your platform vendor is becoming your model vendor's competitor. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=OvLIae4HCeM
+🔗 source (optional, for a reply): https://youtube.com/watch?v=i1dkkxLWaWg
 
 ---
 
@@ -441,7 +439,7 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-25  (4 posts)
+## 2026-08-08  (4 posts)
 
 **#41** · 8/10 · bigStat · crypto
 
@@ -455,29 +453,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#42** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+**#42** · 8/10 · tabloid · ai
 
-📋 Post (copy):
-
-> When two rival studios restructure in the same week, one of them is using the other as cover. A rough quarter is the cheapest camouflage for an unpopular strategic cut. #Gaming #Threadverse
-
----
-
-**#43** · 8/10 · tabloid · ai
-
-🖼️ `x-manual/images/043-ai-tabloid.png`
+🖼️ `x-manual/images/042-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Anthropic ran only a 'very limited test' on a model they call too powerful to release. The contradiction: they claim it's dangerous but tested it lightly. Either the danger is overstated for effect, or they shipped a capability they can't evaluate. #AI #Threadverse
+> Microsoft's AI CEO shipped 7 models with one rule: don't replace people. 'Humanist Superintelligence' sounds like values — read it as positioning. If you're behind on capability, 'we won't automate you' is how you sell to enterprises afraid of the backlash. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://www.nature.com/articles/d41586-026-01689-0
+🔗 source (optional, for a reply): https://youtube.com/watch?v=OvLIae4HCeM
 
 ---
 
-**#44** · 8/10 · bigStat · science
+**#43** · 8/10 · bigStat · science
 
-🖼️ `x-manual/images/044-science-bigStat.png`
+🖼️ `x-manual/images/043-science-bigStat.png`
 
 📋 Caption (copy):
 
@@ -485,7 +475,15 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-26  (4 posts)
+**#44** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> When two rival studios restructure in the same week, one of them is using the other as cover. A rough quarter is the cheapest camouflage for an unpopular strategic cut. #Gaming #Threadverse
+
+---
+
+## 2026-08-09  (4 posts)
 
 **#45** · 8/10 · bigStat · crypto
 
@@ -505,21 +503,15 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> OpenAI and Google won't accept opt-out copyright rules. Read it as engineering, not lobbying: models can't unlearn one work without retraining, so any consent framework breaks the architecture. The tech was built to make 'no' impossible. #AI #Threadverse
+> Anthropic ran only a 'very limited test' on a model they call too powerful to release. The contradiction: they claim it's dangerous but tested it lightly. Either the danger is overstated for effect, or they shipped a capability they can't evaluate. #AI #Threadverse
+
+🔗 source (optional, for a reply): https://www.nature.com/articles/d41586-026-01689-0
 
 ---
 
-**#47** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
+**#47** · 7/10 · bigStat · gaming
 
-📋 Post (copy):
-
-> DeFi's real story isn't 'number go up' — it's that immutability is the feature and the liability in one contract. No support desk, no undo. A typo isn't a bug, it's a burn. #Crypto #Threadverse
-
----
-
-**#48** · 7/10 · bigStat · gaming
-
-🖼️ `x-manual/images/048-gaming-bigStat.png`
+🖼️ `x-manual/images/047-gaming-bigStat.png`
 
 📋 Caption (copy):
 
@@ -529,15 +521,23 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-27  (4 posts)
+**#48** · 8/10 · bigStat · crypto
 
-**#49** · 8/10 · bigStat · crypto
-
-🖼️ `x-manual/images/049-crypto-bigStat.png`
+🖼️ `x-manual/images/048-crypto-bigStat.png`
 
 📋 Caption (copy):
 
 > $780M lost to DeFi hacks in a quarter — bridges, keys, protocol logic. Reframe it: that's not crime, it's a recurring tax the whole system pays for trustlessness. 'Be your own bank' also means be your own FDIC, and nobody prices that in. #Crypto #Threadverse
+
+---
+
+## 2026-08-10  (4 posts)
+
+**#49** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> DeFi's real story isn't 'number go up' — it's that immutability is the feature and the liability in one contract. No support desk, no undo. A typo isn't a bug, it's a burn. #Crypto #Threadverse
 
 ---
 
@@ -547,7 +547,7 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> OpenAI staggered GPT-5.6 at the administration's request. The gate on frontier AI isn't compute or safety evals anymore — it's political sign-off. Launch day just became a lever of statecraft, and labs are learning to negotiate like defense contractors. #AI #Threadverse
+> OpenAI and Google won't accept opt-out copyright rules. Read it as engineering, not lobbying: models can't unlearn one work without retraining, so any consent framework breaks the architecture. The tech was built to make 'no' impossible. #AI #Threadverse
 
 ---
 
@@ -563,19 +563,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#52** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#52** · 7/10 · splitProof · crypto
 
-📋 Post (copy):
-
-> RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving. #AI #Threadverse
-
----
-
-## 2026-07-28  (4 posts)
-
-**#53** · 7/10 · splitProof · crypto
-
-🖼️ `x-manual/images/053-crypto-splitProof.png`
+🖼️ `x-manual/images/052-crypto-splitProof.png`
 
 📋 Caption (copy):
 
@@ -585,13 +575,23 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#54** · 8/10 · tabloid · ai
+## 2026-08-11  (4 posts)
 
-🖼️ `x-manual/images/054-ai-tabloid.png`
+**#53** · 8/10 · tabloid · ai
+
+🖼️ `x-manual/images/053-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Game stocks slid on Google's Genie release. The market didn't reprice games — it repriced content pipelines. The threat isn't AI-made games; it's playable video that never needed an engine, an asset store, or a studio. #AI #Threadverse
+> OpenAI staggered GPT-5.6 at the administration's request. The gate on frontier AI isn't compute or safety evals anymore — it's political sign-off. Launch day just became a lever of statecraft, and labs are learning to negotiate like defense contractors. #AI #Threadverse
+
+---
+
+**#54** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> RAG didn't fix hallucination. It moved it upstream: now the model faithfully reproduces whatever your retriever surfaced, garbage included. You didn't add a fact-checker, you added a very confident librarian with bad shelving. #AI #Threadverse
 
 ---
 
@@ -617,29 +617,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-29  (4 posts)
+## 2026-08-12  (4 posts)
 
-**#57** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#57** · 8/10 · tabloid · ai
 
-📋 Post (copy):
-
-> The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score. #AI #Threadverse
-
----
-
-**#58** · 8/10 · tabloid · ai
-
-🖼️ `x-manual/images/058-ai-tabloid.png`
+🖼️ `x-manual/images/057-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> The White House lifted its export block on Anthropic's frontier model. The reversal matters less than the precedent: access to a model is now a license the state grants and revokes — the same legal machinery as arms exports. #AI #Threadverse
+> Game stocks slid on Google's Genie release. The market didn't reprice games — it repriced content pipelines. The threat isn't AI-made games; it's playable video that never needed an engine, an asset store, or a studio. #AI #Threadverse
 
 ---
 
-**#59** · 6/10 · bigStat · gaming
+**#58** · 6/10 · bigStat · gaming
 
-🖼️ `x-manual/images/059-gaming-bigStat.png`
+🖼️ `x-manual/images/058-gaming-bigStat.png`
 
 📋 Caption (copy):
 
@@ -649,9 +641,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#60** · 7/10 · splitProof · crypto
+**#59** · 7/10 · splitProof · crypto
 
-🖼️ `x-manual/images/060-crypto-splitProof.png`
+🖼️ `x-manual/images/059-crypto-splitProof.png`
 
 📋 Caption (copy):
 
@@ -659,7 +651,15 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-30  (4 posts)
+**#60** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> The benchmark you trust most is the one whose answers already leaked into the pretraining set. Every public eval is a training signal you handed the next model. Contamination isn't a bug in the score, it is the score. #AI #Threadverse
+
+---
+
+## 2026-08-13  (4 posts)
 
 **#61** · 8/10 · tabloid · ai
 
@@ -667,21 +667,13 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> Anthropic accuses Alibaba of using thousands of fake accounts to 'illicitly extract' Claude's capabilities. The uncomfortable part: if a model can be distilled through its API, the moat isn't the weights — it's just the terms of service. #AI #Threadverse
+> The White House lifted its export block on Anthropic's frontier model. The reversal matters less than the precedent: access to a model is now a license the state grants and revokes — the same legal machinery as arms exports. #AI #Threadverse
 
 ---
 
-**#62** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#62** · 9/10 · banner · science
 
-📋 Post (copy):
-
-> The real cost of a coding agent isn't tokens. It's that you stop holding the whole system in your head. Six months in you can prompt your codebase but you can no longer reason about it. You outsourced the map, not just the typing. #AI #Threadverse
-
----
-
-**#63** · 9/10 · banner · science
-
-🖼️ `x-manual/images/063-science-banner.png`
+🖼️ `x-manual/images/062-science-banner.png`
 
 📋 Caption (copy):
 
@@ -689,9 +681,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#64** · 7/10 · bigStat · crypto
+**#63** · 7/10 · bigStat · crypto
 
-🖼️ `x-manual/images/064-crypto-bigStat.png`
+🖼️ `x-manual/images/063-crypto-bigStat.png`
 
 📋 Caption (copy):
 
@@ -699,17 +691,23 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-07-31  (4 posts)
+**#64** · 8/10 · tabloid · ai
 
-**#65** · 7/10 · tabloid · ai
-
-🖼️ `x-manual/images/065-ai-tabloid.png`
+🖼️ `x-manual/images/064-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Meta's going commercial to catch OpenAI and Google — the open-weights champion wants your money now. The trap for anyone who built on 'free Llama': open-source was never charity, it was a wedge to commoditize a rival's product. You were the strategy, not the customer. #AI
+> Anthropic accuses Alibaba of using thousands of fake accounts to 'illicitly extract' Claude's capabilities. The uncomfortable part: if a model can be distilled through its API, the moat isn't the weights — it's just the terms of service. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december
+---
+
+## 2026-08-14  (4 posts)
+
+**#65** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> The real cost of a coding agent isn't tokens. It's that you stop holding the whole system in your head. Six months in you can prompt your codebase but you can no longer reason about it. You outsourced the map, not just the typing. #AI #Threadverse
 
 ---
 
@@ -723,17 +721,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#67** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#67** · 7/10 · bigStat · crypto
 
-📋 Post (copy):
-
-> Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after. #AI #Threadverse
-
----
-
-**#68** · 7/10 · bigStat · crypto
-
-🖼️ `x-manual/images/068-crypto-bigStat.png`
+🖼️ `x-manual/images/067-crypto-bigStat.png`
 
 📋 Caption (copy):
 
@@ -741,27 +731,35 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-01  (4 posts)
+**#68** · 7/10 · tabloid · ai
 
-**#69** · 7/10 · tabloid · ai
-
-🖼️ `x-manual/images/069-ai-tabloid.png`
+🖼️ `x-manual/images/068-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> The US government asked OpenAI to stagger a release. The sharper point is who isn't in the room: closed labs can be asked to slow, open-weight releases can't be un-shipped. Regulation only reaches the players who'd have been safest anyway. #AI #Threadverse
+> Meta's going commercial to catch OpenAI and Google — the open-weights champion wants your money now. The trap for anyone who built on 'free Llama': open-source was never charity, it was a wedge to commoditize a rival's product. You were the strategy, not the customer. #AI
 
-🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mps4xss2uc2t
+🔗 source (optional, for a reply): https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december
 
 ---
 
-**#70** · 8/10 · banner · founders
+## 2026-08-15  (4 posts)
 
-🖼️ `x-manual/images/070-founders-banner.png`
+**#69** · 8/10 · banner · founders
+
+🖼️ `x-manual/images/069-founders-banner.png`
 
 📋 Caption (copy):
 
 > 'Your startup doesn't need to be a unicorn' — the missing middle keeps control and profits. VCs need outliers because portfolio math demands it; you don't. A $2M/yr business is a failure to a fund and a fortune to a founder. #Startup #Threadverse
+
+---
+
+**#70** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> Chain-of-thought isn't the model reasoning. It's the model generating text that raises the odds of a right answer, then narrating it as reasoning. Useful. But you're reading a rationalization written before the conclusion, not after. #AI #Threadverse
 
 ---
 
@@ -775,31 +773,23 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#72** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+**#72** · 7/10 · tabloid · ai
 
-📋 Post (copy):
-
-> Fine-tuning a model on your own outputs is a slow-motion photocopy of a photocopy. Each generation loses the tails. The distribution narrows, the model gets more agreeable, and you mistake the collapse for alignment. #AI #Threadverse
-
----
-
-## 2026-08-02  (4 posts)
-
-**#73** · 7/10 · tabloid · ai
-
-🖼️ `x-manual/images/073-ai-tabloid.png`
+🖼️ `x-manual/images/072-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> A proposed rule would have the government review new AI models before public release. Sounds like safety; for open source it's a kill switch. You can't submit a weights file anyone can fork the day before — the rule doesn't slow open models, it makes releasing them illegal. #AI
+> The US government asked OpenAI to stagger a release. The sharper point is who isn't in the room: closed labs can be asked to slow, open-weight releases can't be un-shipped. Regulation only reaches the players who'd have been safest anyway. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://x.com/baaaiinc/status/2074102077609923037
+🔗 source (optional, for a reply): https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mps4xss2uc2t
 
 ---
 
-**#74** · 7/10 · banner · founders
+## 2026-08-16  (4 posts)
 
-🖼️ `x-manual/images/074-founders-banner.png`
+**#73** · 7/10 · banner · founders
+
+🖼️ `x-manual/images/073-founders-banner.png`
 
 📋 Caption (copy):
 
@@ -807,13 +797,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#75** · 7/10 · bigStat · crypto
+**#74** · 7/10 · bigStat · crypto
 
-🖼️ `x-manual/images/075-crypto-bigStat.png`
+🖼️ `x-manual/images/074-crypto-bigStat.png`
 
 📋 Caption (copy):
 
 > Solana settled more SOL spot volume on-chain ($584M) than all centralized exchanges combined ($422M). The milestone isn't price — it's that for one asset, the 'decentralized' venue quietly became the primary one. Infrastructure crossed over. #Crypto #Threadverse
+
+---
+
+**#75** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> Fine-tuning a model on your own outputs is a slow-motion photocopy of a photocopy. Each generation loses the tails. The distribution narrows, the model gets more agreeable, and you mistake the collapse for alignment. #AI #Threadverse
 
 ---
 
@@ -823,25 +821,17 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> The White House is writing rules for AI models — the next ship won't be a release, it'll be a policy fight. Once launches need clearance, timing leaks become material information: release dates start trading like earnings, and the edge moves from building to knowing. #AI
+> A proposed rule would have the government review new AI models before public release. Sounds like safety; for open source it's a kill switch. You can't submit a weights file anyone can fork the day before — the rule doesn't slow open models, it makes releasing them illegal. #AI
 
-🔗 source (optional, for a reply): https://huggingface.co/spaces/reach-vb/2024-ai-timeline
-
----
-
-## 2026-08-03  (4 posts)
-
-**#77** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
-
-📋 Post (copy):
-
-> An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community. #AI #Threadverse
+🔗 source (optional, for a reply): https://x.com/baaaiinc/status/2074102077609923037
 
 ---
 
-**#78** · 9/10 · quote · founders
+## 2026-08-17  (4 posts)
 
-🖼️ `x-manual/images/078-founders-quote.png`
+**#77** · 9/10 · quote · founders
+
+🖼️ `x-manual/images/077-founders-quote.png`
 
 📋 Caption (copy):
 
@@ -849,9 +839,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#79** · 6/10 · splitProof · crypto
+**#78** · 6/10 · splitProof · crypto
 
-🖼️ `x-manual/images/079-crypto-splitProof.png`
+🖼️ `x-manual/images/078-crypto-splitProof.png`
 
 📋 Caption (copy):
 
@@ -859,23 +849,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#80** · 7/10 · tabloid · ai
+**#79** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/080-ai-tabloid.png`
+🖼️ `x-manual/images/079-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> The race isn't model quality anymore — it's who owns the training-data pipeline. The reframe: models commoditize, data compounds. Whoever controls the pipeline outranks whoever designs the architecture, because one is copyable and the other isn't. #AI #Threadverse
+> The White House is writing rules for AI models — the next ship won't be a release, it'll be a policy fight. Once launches need clearance, timing leaks become material information: release dates start trading like earnings, and the edge moves from building to knowing. #AI
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=rXSPopXet1o
+🔗 source (optional, for a reply): https://huggingface.co/spaces/reach-vb/2024-ai-timeline
 
 ---
 
-## 2026-08-04  (4 posts)
+**#80** · 8/10 · quote · philosophy
 
-**#81** · 8/10 · quote · philosophy
-
-🖼️ `x-manual/images/081-philosophy-quote.png`
+🖼️ `x-manual/images/080-philosophy-quote.png`
 
 📋 Caption (copy):
 
@@ -885,17 +873,19 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#82** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+## 2026-08-18  (4 posts)
+
+**#81** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
-> The context window is a memory leak with a marketing team. A million tokens doesn't mean the model remembers a million tokens, it means attention gets thinner across all of them. You didn't buy more memory, you diluted the memory you had. #AI #Threadverse
+> An open-weights model isn't free. The cost just moved from a per-token bill to the salary of whoever keeps it running. Labs love this: they turned their cloud margin into your ops headcount and called it a gift to the community. #AI #Threadverse
 
 ---
 
-**#83** · 6/10 · banner · crypto
+**#82** · 6/10 · banner · crypto
 
-🖼️ `x-manual/images/083-crypto-banner.png`
+🖼️ `x-manual/images/082-crypto-banner.png`
 
 📋 Caption (copy):
 
@@ -903,23 +893,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#84** · 7/10 · tabloid · ai
+**#83** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/084-ai-tabloid.png`
+🖼️ `x-manual/images/083-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Anthropic warned about its own Mythos model; CBS pulled an ex-founder to decode the report. Ask why a safety report gets a TV media cycle: safety disclosure has become a launch channel, with the alarm and the announcement sharing a comms team. #AI #Threadverse
+> The race isn't model quality anymore — it's who owns the training-data pipeline. The reframe: models commoditize, data compounds. Whoever controls the pipeline outranks whoever designs the architecture, because one is copyable and the other isn't. #AI #Threadverse
 
-🔗 source (optional, for a reply): https://youtube.com/watch?v=bUbFFSZQ5w0
+🔗 source (optional, for a reply): https://youtube.com/watch?v=rXSPopXet1o
 
 ---
 
-## 2026-08-05  (4 posts)
+**#84** · 8/10 · quote · philosophy
 
-**#85** · 8/10 · quote · philosophy
-
-🖼️ `x-manual/images/085-philosophy-quote.png`
+🖼️ `x-manual/images/084-philosophy-quote.png`
 
 📋 Caption (copy):
 
@@ -929,9 +917,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#86** · 8/10 · quote · crypto
+## 2026-08-19  (4 posts)
 
-🖼️ `x-manual/images/086-crypto-quote.png`
+**#85** · 8/10 · quote · crypto
+
+🖼️ `x-manual/images/085-crypto-quote.png`
 
 📋 Caption (copy):
 
@@ -941,9 +931,51 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
+**#86** · 7/10 · text · ai  ·  📝 TEXT-ONLY (no image)
+
+📋 Post (copy):
+
+> The context window is a memory leak with a marketing team. A million tokens doesn't mean the model remembers a million tokens, it means attention gets thinner across all of them. You didn't buy more memory, you diluted the memory you had. #AI #Threadverse
+
+---
+
 **#87** · 7/10 · tabloid · ai
 
 🖼️ `x-manual/images/087-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> Anthropic warned about its own Mythos model; CBS pulled an ex-founder to decode the report. Ask why a safety report gets a TV media cycle: safety disclosure has become a launch channel, with the alarm and the announcement sharing a comms team. #AI #Threadverse
+
+🔗 source (optional, for a reply): https://youtube.com/watch?v=bUbFFSZQ5w0
+
+---
+
+**#88** · 8/10 · quote · science
+
+🖼️ `x-manual/images/088-science-quote.png`
+
+📋 Caption (copy):
+
+> Physicists reversed local entropy with quantum computers — hinting time is emergent from entanglement, not fundamental. If time is downstream of correlation, 'when' is derived state, not an axis. Causality might be an API on top of entanglement. #Science #Threadverse
+
+---
+
+## 2026-08-20  (4 posts)
+
+**#89** · 8/10 · quote · founders
+
+🖼️ `x-manual/images/089-founders-quote.png`
+
+📋 Caption (copy):
+
+> Make the decision the protagonist. Heroes can't be argued with; decisions can be judged, copied, falsified — which is exactly why decision-led stories earn trust and bio-flexes don't. #Startup #Threadverse
+
+---
+
+**#90** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/090-ai-tabloid.png`
 
 📋 Caption (copy):
 
@@ -953,43 +985,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#88** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
+**#91** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
 > A p-value under 0.05 was never evidence something is true. It's the odds you'd see this data if nothing were going on. Half of science's replication crisis is people reading a statement about noise as a statement about reality. #Science #Threadverse
-
----
-
-## 2026-08-06  (4 posts)
-
-**#89** · 8/10 · quote · science
-
-🖼️ `x-manual/images/089-science-quote.png`
-
-📋 Caption (copy):
-
-> Physicists reversed local entropy with quantum computers — hinting time is emergent from entanglement, not fundamental. If time is downstream of correlation, 'when' is derived state, not an axis. Causality might be an API on top of entanglement. #Science #Threadverse
-
----
-
-**#90** · 8/10 · quote · founders
-
-🖼️ `x-manual/images/090-founders-quote.png`
-
-📋 Caption (copy):
-
-> Make the decision the protagonist. Heroes can't be argued with; decisions can be judged, copied, falsified — which is exactly why decision-led stories earn trust and bio-flexes don't. #Startup #Threadverse
-
----
-
-**#91** · 7/10 · tabloid · ai
-
-🖼️ `x-manual/images/091-ai-tabloid.png`
-
-📋 Caption (copy):
-
-> The EU pushes ahead on Big Tech antitrust while the US stalls. The counterintuitive read: fragmented regulation is worse than strict. When every region reins in the giants differently, your compliance surface — not the rules — becomes a moat only incumbents can afford. #AI
 
 ---
 
@@ -1003,19 +1003,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-07  (4 posts)
+## 2026-08-21  (4 posts)
 
-**#93** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
+**#93** · 8/10 · quote · founders
 
-📋 Post (copy):
-
-> Entropy isn't disorder, that's the pop-sci lie. It's the count of arrangements you can't tell apart. Your desk looks messy because you know where things go; to a stranger it's already maximally uncertain. Entropy is about the observer. #Science #Threadverse
-
----
-
-**#94** · 8/10 · quote · founders
-
-🖼️ `x-manual/images/094-founders-quote.png`
+🖼️ `x-manual/images/093-founders-quote.png`
 
 📋 Caption (copy):
 
@@ -1023,19 +1015,19 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#95** · 7/10 · tabloid · ai
+**#94** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/095-ai-tabloid.png`
+🖼️ `x-manual/images/094-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Datacenters that exist only on paper still move markets. Press releases are free; substations and transformers have three-year lead times. Track grid interconnection queues, not announcements — that's where the real buildout shows. #AI #Threadverse
+> The EU pushes ahead on Big Tech antitrust while the US stalls. The counterintuitive read: fragmented regulation is worse than strict. When every region reins in the giants differently, your compliance surface — not the rules — becomes a moat only incumbents can afford. #AI
 
 ---
 
-**#96** · 7/10 · quote · gaming
+**#95** · 7/10 · quote · gaming
 
-🖼️ `x-manual/images/096-gaming-quote.png`
+🖼️ `x-manual/images/095-gaming-quote.png`
 
 📋 Caption (copy):
 
@@ -1045,11 +1037,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-08  (4 posts)
+**#96** · 8/10 · minimal · founders
 
-**#97** · 8/10 · minimal · founders
-
-🖼️ `x-manual/images/097-founders-minimal.png`
+🖼️ `x-manual/images/096-founders-minimal.png`
 
 📋 Caption (copy):
 
@@ -1057,27 +1047,29 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#98** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
+## 2026-08-22  (4 posts)
+
+**#97** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
-> Half of what a cell does is spend energy to stay out of equilibrium. Equilibrium is death. Life isn't a stable state you reach, it's a pump that never turns off. Stop pumping for four minutes and you find out what stability actually means. #Science #Threadverse
+> Entropy isn't disorder, that's the pop-sci lie. It's the count of arrangements you can't tell apart. Your desk looks messy because you know where things go; to a stranger it's already maximally uncertain. Entropy is about the observer. #Science #Threadverse
 
 ---
 
-**#99** · 7/10 · tabloid · ai
+**#98** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/099-ai-tabloid.png`
+🖼️ `x-manual/images/098-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> GPT-5.6 goes global only after a government green light. The model isn't the story — the precedent is: frontier releases now route through federal review, and 'voluntary' frameworks harden into gates nobody voted on. #AI #Threadverse
+> Datacenters that exist only on paper still move markets. Press releases are free; substations and transformers have three-year lead times. Track grid interconnection queues, not announcements — that's where the real buildout shows. #AI #Threadverse
 
 ---
 
-**#100** · 7/10 · quote · philosophy
+**#99** · 7/10 · quote · philosophy
 
-🖼️ `x-manual/images/100-philosophy-quote.png`
+🖼️ `x-manual/images/099-philosophy-quote.png`
 
 📋 Caption (copy):
 
@@ -1087,11 +1079,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-09  (4 posts)
+**#100** · 7/10 · quote · crypto
 
-**#101** · 7/10 · quote · crypto
-
-🖼️ `x-manual/images/101-crypto-quote.png`
+🖼️ `x-manual/images/100-crypto-quote.png`
 
 📋 Caption (copy):
 
@@ -1101,27 +1091,29 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#102** · 7/10 · tabloid · ai
+## 2026-08-23  (4 posts)
 
-🖼️ `x-manual/images/102-ai-tabloid.png`
+**#101** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/101-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> OpenAI shipped to limited users after the administration weighed in on *who* gets early access. A frontier model's rollout is now an allocation decision made partly in Washington. Distribution just became policy, not product. #AI #Threadverse
+> GPT-5.6 goes global only after a government green light. The model isn't the story — the precedent is: frontier releases now route through federal review, and 'voluntary' frameworks harden into gates nobody voted on. #AI #Threadverse
 
 ---
 
-**#103** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
+**#102** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
-> The gut has more neurons than a cat's brain and runs mostly without asking upstairs. 'Trust your gut' isn't a metaphor, it's a second controller with its own reflex loops. You're not one mind deciding, you're a committee that mostly agrees. #Science #Threadverse
+> Half of what a cell does is spend energy to stay out of equilibrium. Equilibrium is death. Life isn't a stable state you reach, it's a pump that never turns off. Stop pumping for four minutes and you find out what stability actually means. #Science #Threadverse
 
 ---
 
-**#104** · 7/10 · quote · founders
+**#103** · 7/10 · quote · founders
 
-🖼️ `x-manual/images/104-founders-quote.png`
+🖼️ `x-manual/images/103-founders-quote.png`
 
 📋 Caption (copy):
 
@@ -1129,11 +1121,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-10  (4 posts)
+**#104** · 7/10 · quote · crypto
 
-**#105** · 7/10 · quote · crypto
-
-🖼️ `x-manual/images/105-crypto-quote.png`
+🖼️ `x-manual/images/104-crypto-quote.png`
 
 📋 Caption (copy):
 
@@ -1141,19 +1131,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#106** · 7/10 · tabloid · ai
+## 2026-08-24  (4 posts)
 
-🖼️ `x-manual/images/106-ai-tabloid.png`
+**#105** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/105-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Musk vs Altman looks like ego. Read the subtext: one's selling orbital datacenters to public markets, the other says they can't scale this decade. The insults are noise — it's really a wager on where compute physically lives. #AI #Threadverse
+> OpenAI shipped to limited users after the administration weighed in on *who* gets early access. A frontier model's rollout is now an allocation decision made partly in Washington. Distribution just became policy, not product. #AI #Threadverse
 
 ---
 
-**#107** · 7/10 · minimal · founders
+**#106** · 7/10 · minimal · founders
 
-🖼️ `x-manual/images/107-founders-minimal.png`
+🖼️ `x-manual/images/106-founders-minimal.png`
 
 📋 Caption (copy):
 
@@ -1161,19 +1153,17 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#108** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
+**#107** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
-> Aging isn't wear and tear, you can rebuild and a machine can't. It's that repair is selected to work great until you've reproduced, then coast. Evolution never optimized the second half of your life. Nothing broke; the warranty just ended. #Science #Threadverse
+> The gut has more neurons than a cat's brain and runs mostly without asking upstairs. 'Trust your gut' isn't a metaphor, it's a second controller with its own reflex loops. You're not one mind deciding, you're a committee that mostly agrees. #Science #Threadverse
 
 ---
 
-## 2026-08-11  (4 posts)
+**#108** · 7/10 · minimal · crypto
 
-**#109** · 7/10 · minimal · crypto
-
-🖼️ `x-manual/images/109-crypto-minimal.png`
+🖼️ `x-manual/images/108-crypto-minimal.png`
 
 📋 Caption (copy):
 
@@ -1181,19 +1171,21 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#110** · 6/10 · tabloid · ai
+## 2026-08-25  (4 posts)
 
-🖼️ `x-manual/images/110-ai-tabloid.png`
+**#109** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/109-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> The antitrust case says Amazon, Facebook and Google are (almost) all guilty — Apple's the odd one out. If you build on these clouds, a monopoly finding isn't abstract: remedies mean forced structural changes to the platforms your stack sits on. #AI #Threadverse
+> Musk vs Altman looks like ego. Read the subtext: one's selling orbital datacenters to public markets, the other says they can't scale this decade. The insults are noise — it's really a wager on where compute physically lives. #AI #Threadverse
 
 ---
 
-**#111** · 6/10 · quote · gaming
+**#110** · 6/10 · quote · gaming
 
-🖼️ `x-manual/images/111-gaming-quote.png`
+🖼️ `x-manual/images/110-gaming-quote.png`
 
 📋 Caption (copy):
 
@@ -1203,9 +1195,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#112** · 6/10 · quote · philosophy
+**#111** · 6/10 · quote · philosophy
 
-🖼️ `x-manual/images/112-philosophy-quote.png`
+🖼️ `x-manual/images/111-philosophy-quote.png`
 
 📋 Caption (copy):
 
@@ -1215,29 +1207,29 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-12  (4 posts)
-
-**#113** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+**#112** · 7/10 · text · science  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
-> A skill tree isn't for the player. It's a UI for hiding that most of your build is locked until hour 30, dressed up as freedom. Real choice would let you pick anything now. A tree is a schedule that lets you feel like you scheduled it. #Gaming #Threadverse
+> Aging isn't wear and tear, you can rebuild and a machine can't. It's that repair is selected to work great until you've reproduced, then coast. Evolution never optimized the second half of your life. Nothing broke; the warranty just ended. #Science #Threadverse
 
 ---
 
-**#114** · 6/10 · tabloid · ai
+## 2026-08-26  (4 posts)
 
-🖼️ `x-manual/images/114-ai-tabloid.png`
+**#113** · 7/10 · tabloid · ai
+
+🖼️ `x-manual/images/113-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> The DOJ's antitrust chief compares Big Tech to Standard Oil. The part builders should note isn't monopoly — it's the remedy: Standard Oil got broken into pieces. The cloud you deploy on could be a different company in five years. #AI #Threadverse
+> Early note on GPT-5.6 Sol: better output, but it exhausts token budgets noticeably quicker than 5.5. The unpriced cost of 'smarter' is that it thinks more, and you pay per thought. Capability gains you can't budget for aren't gains, they're a bigger bill. #AI #Threadverse
 
 ---
 
-**#115** · 6/10 · quote · gaming
+**#114** · 6/10 · quote · gaming
 
-🖼️ `x-manual/images/115-gaming-quote.png`
+🖼️ `x-manual/images/114-gaming-quote.png`
 
 📋 Caption (copy):
 
@@ -1247,9 +1239,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#116** · 6/10 · quote · science
+**#115** · 6/10 · quote · science
 
-🖼️ `x-manual/images/116-science-quote.png`
+🖼️ `x-manual/images/115-science-quote.png`
 
 📋 Caption (copy):
 
@@ -1257,15 +1249,25 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-13  (4 posts)
+**#116** · 7/10 · tabloid · ai
 
-**#117** · 6/10 · tabloid · ai
-
-🖼️ `x-manual/images/117-ai-tabloid.png`
+🖼️ `x-manual/images/116-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Everyone crowned Facebook the gorilla; this argues Apple was the real monopoly all along. The overlooked mechanism: Apple's power isn't market share, it's the tollbooth — one veto over distribution beats owning the biggest social graph. #AI #Threadverse
+> A dev watching an LLM get bolted onto an inventory system: it concatenates likely tokens, it makes things up. An 'it's usually right' component in a system that needs to be exactly right isn't an upgrade, it's a liability with good PR. #AI #Threadverse
+
+---
+
+## 2026-08-27  (4 posts)
+
+**#117** · 6/10 · minimal · crypto
+
+🖼️ `x-manual/images/117-crypto-minimal.png`
+
+📋 Caption (copy):
+
+> Anchor launched as DeFi's 'benchmark rate.' That 20% was never a rate — it was customer acquisition spend dressed as yield, and it drained until Terra imploded. Any benchmark someone has to top up isn't one. #Crypto #Threadverse
 
 ---
 
@@ -1273,17 +1275,17 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Post (copy):
 
-> Difficulty menus are a confession you couldn't tune one experience that works. Easy/Normal/Hard hands the hardest design problem, matching challenge to player, back to the player. Elden Ring's refusal isn't stubbornness, it's an opinion. #Gaming #Threadverse
+> A skill tree isn't for the player. It's a UI for hiding that most of your build is locked until hour 30, dressed up as freedom. Real choice would let you pick anything now. A tree is a schedule that lets you feel like you scheduled it. #Gaming #Threadverse
 
 ---
 
-**#119** · 6/10 · minimal · crypto
+**#119** · 7/10 · tabloid · ai
 
-🖼️ `x-manual/images/119-crypto-minimal.png`
+🖼️ `x-manual/images/119-ai-tabloid.png`
 
 📋 Caption (copy):
 
-> Anchor launched as DeFi's 'benchmark rate.' That 20% was never a rate — it was customer acquisition spend dressed as yield, and it drained until Terra imploded. Any benchmark someone has to top up isn't one. #Crypto #Threadverse
+> The Verge on how the giants are swallowing AI: they don't need to invent it. VC funds a thousand experiments, the incumbents acquire the three that work. Every startup you're rooting for is unpaid R&D for the company it's trying to disrupt. #AI #Threadverse
 
 ---
 
@@ -1293,25 +1295,15 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 📋 Caption (copy):
 
-> The antitrust team is taking shape and Big Tech got its warning shot. Enforcement always lands a cycle late, so by the time the giants get reined in, the leverage has moved to whatever they acquired to replace the regulated thing. You police the last war. #AI #Threadverse
+> The antitrust case says Amazon, Facebook and Google are (almost) all guilty — Apple's the odd one out. If you build on these clouds, a monopoly finding isn't abstract: remedies mean forced structural changes to the platforms your stack sits on. #AI #Threadverse
 
 ---
 
-## 2026-08-14  (4 posts)
+## 2026-08-28  (4 posts)
 
-**#121** · 6/10 · tabloid · ai
+**#121** · 6/10 · minimal · crypto
 
-🖼️ `x-manual/images/121-ai-tabloid.png`
-
-📋 Caption (copy):
-
-> The frontier gap is measured in weeks now. When every lab lands within noise of the others, capability stops deciding anything — price, latency and distribution do. 'Almost as good' is the most important benchmark result of the year. #AI #Threadverse
-
----
-
-**#122** · 6/10 · minimal · crypto
-
-🖼️ `x-manual/images/122-crypto-minimal.png`
+🖼️ `x-manual/images/121-crypto-minimal.png`
 
 📋 Caption (copy):
 
@@ -1319,17 +1311,59 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
+**#122** · 6/10 · tabloid · ai
+
+🖼️ `x-manual/images/122-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> The DOJ's antitrust chief compares Big Tech to Standard Oil. The part builders should note isn't monopoly — it's the remedy: Standard Oil got broken into pieces. The cloud you deploy on could be a different company in five years. #AI #Threadverse
+
+---
+
 **#123** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
-> Early access sells the game twice: once to those who fund the build, once to those who wait for it to be good. The first cohort pays more and reviews harsher. Your most loyal players are your worst-treated QA team. #Gaming #Threadverse
+> Difficulty menus are a confession you couldn't tune one experience that works. Easy/Normal/Hard hands the hardest design problem, matching challenge to player, back to the player. Elden Ring's refusal isn't stubbornness, it's an opinion. #Gaming #Threadverse
 
 ---
 
-**#124** · 9/10 · splitProof · ai
+**#124** · 6/10 · tabloid · ai
 
-🖼️ `x-manual/images/124-ai-splitProof.png`
+🖼️ `x-manual/images/124-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> Everyone crowned Facebook the gorilla; this argues Apple was the real monopoly all along. The overlooked mechanism: Apple's power isn't market share, it's the tollbooth — one veto over distribution beats owning the biggest social graph. #AI #Threadverse
+
+---
+
+## 2026-08-29  (4 posts)
+
+**#125** · 6/10 · tabloid · ai
+
+🖼️ `x-manual/images/125-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> The antitrust team is taking shape and Big Tech got its warning shot. Enforcement always lands a cycle late, so by the time the giants get reined in, the leverage has moved to whatever they acquired to replace the regulated thing. You police the last war. #AI #Threadverse
+
+---
+
+**#126** · 6/10 · tabloid · ai
+
+🖼️ `x-manual/images/126-ai-tabloid.png`
+
+📋 Caption (copy):
+
+> The frontier gap is measured in weeks now. When every lab lands within noise of the others, capability stops deciding anything — price, latency and distribution do. 'Almost as good' is the most important benchmark result of the year. #AI #Threadverse
+
+---
+
+**#127** · 9/10 · splitProof · ai
+
+🖼️ `x-manual/images/127-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1339,11 +1373,19 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-15  (4 posts)
+**#128** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
 
-**#125** · 8/10 · bigStat · ai
+📋 Post (copy):
 
-🖼️ `x-manual/images/125-ai-bigStat.png`
+> Early access sells the game twice: once to those who fund the build, once to those who wait for it to be good. The first cohort pays more and reviews harsher. Your most loyal players are your worst-treated QA team. #Gaming #Threadverse
+
+---
+
+## 2026-08-30  (4 posts)
+
+**#129** · 8/10 · bigStat · ai
+
+🖼️ `x-manual/images/129-ai-bigStat.png`
 
 📋 Caption (copy):
 
@@ -1353,9 +1395,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#126** · 8/10 · splitProof · ai
+**#130** · 8/10 · splitProof · ai
 
-🖼️ `x-manual/images/126-ai-splitProof.png`
+🖼️ `x-manual/images/130-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1365,9 +1407,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#127** · 8/10 · splitProof · ai
+**#131** · 8/10 · splitProof · ai
 
-🖼️ `x-manual/images/127-ai-splitProof.png`
+🖼️ `x-manual/images/131-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1375,19 +1417,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#128** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+**#132** · 8/10 · splitProof · ai
 
-📋 Post (copy):
-
-> The reason indies feel more original isn't more creativity, it's that a small team can't afford focus-testing the weirdness out. AAA doesn't kill ideas on purpose. It kills them by consensus, one 'players found this confusing' at a time. #Gaming #Threadverse
-
----
-
-## 2026-08-16  (4 posts)
-
-**#129** · 8/10 · splitProof · ai
-
-🖼️ `x-manual/images/129-ai-splitProof.png`
+🖼️ `x-manual/images/132-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1395,9 +1427,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#130** · 8/10 · bigStat · ai
+## 2026-08-31  (4 posts)
 
-🖼️ `x-manual/images/130-ai-bigStat.png`
+**#133** · 8/10 · bigStat · ai
+
+🖼️ `x-manual/images/133-ai-bigStat.png`
 
 📋 Caption (copy):
 
@@ -1405,9 +1439,17 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#131** · 8/10 · splitProof · ai
+**#134** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
 
-🖼️ `x-manual/images/131-ai-splitProof.png`
+📋 Post (copy):
+
+> The reason indies feel more original isn't more creativity, it's that a small team can't afford focus-testing the weirdness out. AAA doesn't kill ideas on purpose. It kills them by consensus, one 'players found this confusing' at a time. #Gaming #Threadverse
+
+---
+
+**#135** · 8/10 · splitProof · ai
+
+🖼️ `x-manual/images/135-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1415,9 +1457,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#132** · 8/10 · bigStat · ai
+**#136** · 8/10 · bigStat · ai
 
-🖼️ `x-manual/images/132-ai-bigStat.png`
+🖼️ `x-manual/images/136-ai-bigStat.png`
 
 📋 Caption (copy):
 
@@ -1425,9 +1467,29 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-17  (4 posts)
+## 2026-09-01  (4 posts)
 
-**#133** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
+**#137** · 8/10 · bigStat · ai
+
+🖼️ `x-manual/images/137-ai-bigStat.png`
+
+📋 Caption (copy):
+
+> Kimi K3: 2.8T parameters, mixture-of-experts, open weights. The number isn't the story — open-sourcing something that big is. You can't compete on 'we have the biggest model' when the biggest one is free to download and someone else paid to train it. #AI #Threadverse
+
+---
+
+**#138** · 8/10 · splitProof · ai
+
+🖼️ `x-manual/images/138-ai-splitProof.png`
+
+📋 Caption (copy):
+
+> Inflection, Adept, Character — all absorbed the same way: Big Tech takes the founders, skips the merger. Buying the company triggers review. Hiring the team doesn't. It's a legal wrapper for an acquisition regulators aren't allowed to see. #AI #Threadverse
+
+---
+
+**#139** · 7/10 · text · gaming  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
@@ -1435,9 +1497,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#134** · 7/10 · splitProof · ai
+**#140** · 7/10 · splitProof · ai
 
-🖼️ `x-manual/images/134-ai-splitProof.png`
+🖼️ `x-manual/images/140-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1445,9 +1507,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#135** · 7/10 · bigStat · ai
+## 2026-09-02  (4 posts)
 
-🖼️ `x-manual/images/135-ai-bigStat.png`
+**#141** · 7/10 · bigStat · ai
+
+🖼️ `x-manual/images/141-ai-bigStat.png`
 
 📋 Caption (copy):
 
@@ -1455,9 +1519,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#136** · 7/10 · splitProof · ai
+**#142** · 7/10 · splitProof · ai
 
-🖼️ `x-manual/images/136-ai-splitProof.png`
+🖼️ `x-manual/images/142-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1465,11 +1529,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-18  (4 posts)
+**#143** · 7/10 · bigStat · ai
 
-**#137** · 7/10 · bigStat · ai
-
-🖼️ `x-manual/images/137-ai-bigStat.png`
+🖼️ `x-manual/images/143-ai-bigStat.png`
 
 📋 Caption (copy):
 
@@ -1477,7 +1539,7 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#138** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
+**#144** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
@@ -1485,9 +1547,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#139** · 6/10 · splitProof · ai
+## 2026-09-03  (4 posts)
 
-🖼️ `x-manual/images/139-ai-splitProof.png`
+**#145** · 6/10 · splitProof · ai
+
+🖼️ `x-manual/images/145-ai-splitProof.png`
 
 📋 Caption (copy):
 
@@ -1495,9 +1559,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#140** · 6/10 · bigStat · ai
+**#146** · 6/10 · bigStat · ai
 
-🖼️ `x-manual/images/140-ai-bigStat.png`
+🖼️ `x-manual/images/146-ai-bigStat.png`
 
 📋 Caption (copy):
 
@@ -1505,11 +1569,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-19  (4 posts)
+**#147** · 8/10 · banner · ai
 
-**#141** · 8/10 · banner · ai
-
-🖼️ `x-manual/images/141-ai-banner.png`
+🖼️ `x-manual/images/147-ai-banner.png`
 
 📋 Caption (copy):
 
@@ -1517,9 +1579,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#142** · 8/10 · banner · ai
+**#148** · 8/10 · banner · ai
 
-🖼️ `x-manual/images/142-ai-banner.png`
+🖼️ `x-manual/images/148-ai-banner.png`
 
 📋 Caption (copy):
 
@@ -1527,7 +1589,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#143** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
+## 2026-09-04  (4 posts)
+
+**#149** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
@@ -1535,9 +1599,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#144** · 7/10 · banner · ai
+**#150** · 7/10 · banner · ai
 
-🖼️ `x-manual/images/144-ai-banner.png`
+🖼️ `x-manual/images/150-ai-banner.png`
 
 📋 Caption (copy):
 
@@ -1545,11 +1609,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-20  (4 posts)
+**#151** · 7/10 · banner · ai
 
-**#145** · 7/10 · banner · ai
-
-🖼️ `x-manual/images/145-ai-banner.png`
+🖼️ `x-manual/images/151-ai-banner.png`
 
 📋 Caption (copy):
 
@@ -1557,9 +1619,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#146** · 7/10 · banner · ai
+**#152** · 7/10 · banner · ai
 
-🖼️ `x-manual/images/146-ai-banner.png`
+🖼️ `x-manual/images/152-ai-banner.png`
 
 📋 Caption (copy):
 
@@ -1567,9 +1629,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#147** · 6/10 · banner · ai
+## 2026-09-05  (4 posts)
 
-🖼️ `x-manual/images/147-ai-banner.png`
+**#153** · 6/10 · banner · ai
+
+🖼️ `x-manual/images/153-ai-banner.png`
 
 📋 Caption (copy):
 
@@ -1577,19 +1641,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#148** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
+**#154** · 8/10 · quote · ai
 
-📋 Post (copy):
-
-> Gas fees aren't a tax, they're the only spam filter a permissionless system can have. Make transactions free and someone fills every block for the lulz by lunch. The fee isn't friction, it's the immune system. Free chains die of infection. #Crypto #Threadverse
-
----
-
-## 2026-08-21  (4 posts)
-
-**#149** · 8/10 · quote · ai
-
-🖼️ `x-manual/images/149-ai-quote.png`
+🖼️ `x-manual/images/154-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1599,9 +1653,17 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#150** · 8/10 · quote · ai
+**#155** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
 
-🖼️ `x-manual/images/150-ai-quote.png`
+📋 Post (copy):
+
+> Gas fees aren't a tax, they're the only spam filter a permissionless system can have. Make transactions free and someone fills every block for the lulz by lunch. The fee isn't friction, it's the immune system. Free chains die of infection. #Crypto #Threadverse
+
+---
+
+**#156** · 8/10 · quote · ai
+
+🖼️ `x-manual/images/156-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1609,9 +1671,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#151** · 8/10 · quote · ai
+## 2026-09-06  (4 posts)
 
-🖼️ `x-manual/images/151-ai-quote.png`
+**#157** · 8/10 · quote · ai
+
+🖼️ `x-manual/images/157-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1619,9 +1683,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#152** · 7/10 · quote · ai
+**#158** · 7/10 · quote · ai
 
-🖼️ `x-manual/images/152-ai-quote.png`
+🖼️ `x-manual/images/158-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1631,19 +1695,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-22  (4 posts)
+**#159** · 7/10 · quote · ai
 
-**#153** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
-
-📋 Post (copy):
-
-> Immutability sounds like strength until it means the network can't fix a mistake without becoming a new network. A hard fork isn't an upgrade, it's an admission that 'code is law' held right up until the law got inconvenient enough. #Crypto #Threadverse
-
----
-
-**#154** · 7/10 · quote · ai
-
-🖼️ `x-manual/images/154-ai-quote.png`
+🖼️ `x-manual/images/159-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1651,9 +1705,19 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#155** · 7/10 · minimal · ai
+**#160** · 7/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
 
-🖼️ `x-manual/images/155-ai-minimal.png`
+📋 Post (copy):
+
+> Immutability sounds like strength until it means the network can't fix a mistake without becoming a new network. A hard fork isn't an upgrade, it's an admission that 'code is law' held right up until the law got inconvenient enough. #Crypto #Threadverse
+
+---
+
+## 2026-09-07  (4 posts)
+
+**#161** · 7/10 · minimal · ai
+
+🖼️ `x-manual/images/161-ai-minimal.png`
 
 📋 Caption (copy):
 
@@ -1661,9 +1725,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#156** · 7/10 · quote · ai
+**#162** · 7/10 · quote · ai
 
-🖼️ `x-manual/images/156-ai-quote.png`
+🖼️ `x-manual/images/162-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1671,11 +1735,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-23  (4 posts)
+**#163** · 7/10 · minimal · ai
 
-**#157** · 7/10 · minimal · ai
-
-🖼️ `x-manual/images/157-ai-minimal.png`
+🖼️ `x-manual/images/163-ai-minimal.png`
 
 📋 Caption (copy):
 
@@ -1683,7 +1745,19 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#158** · 6/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
+**#164** · 7/10 · quote · ai
+
+🖼️ `x-manual/images/164-ai-quote.png`
+
+📋 Caption (copy):
+
+> Google says Gemini Omni can 'create anything with any input.' When a model's headline feature is that it has no specific feature, you're looking at a demo, not a product. 'Does everything' is what you say when you haven't found the one thing it's for. #AI #Threadverse
+
+---
+
+## 2026-09-08  (4 posts)
+
+**#165** · 6/10 · text · crypto  ·  📝 TEXT-ONLY (no image)
 
 📋 Post (copy):
 
@@ -1691,9 +1765,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#159** · 6/10 · quote · ai
+**#166** · 6/10 · quote · ai
 
-🖼️ `x-manual/images/159-ai-quote.png`
+🖼️ `x-manual/images/166-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1703,9 +1777,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#160** · 6/10 · quote · ai
+**#167** · 6/10 · quote · ai
 
-🖼️ `x-manual/images/160-ai-quote.png`
+🖼️ `x-manual/images/167-ai-quote.png`
 
 📋 Caption (copy):
 
@@ -1715,11 +1789,9 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-## 2026-08-24  (2 posts)
+**#168** · 6/10 · minimal · ai
 
-**#161** · 6/10 · minimal · ai
-
-🖼️ `x-manual/images/161-ai-minimal.png`
+🖼️ `x-manual/images/168-ai-minimal.png`
 
 📋 Caption (copy):
 
@@ -1727,9 +1799,11 @@ Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste t
 
 ---
 
-**#162** · 6/10 · minimal · ai
+## 2026-09-09  (1 posts)
 
-🖼️ `x-manual/images/162-ai-minimal.png`
+**#169** · 6/10 · minimal · ai
+
+🖼️ `x-manual/images/169-ai-minimal.png`
 
 📋 Caption (copy):
 

@@ -1,0 +1,670 @@
+{
+  "feed": "Give me senior dev discussions on system",
+  "count": 83,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@maheshs hackernews Ask HN: Succees in system design interviews without hands-on experience? &quot;I&#x27;m a software engineer&#x2F;engineering manager with experience building web applications from the last 15 years for small to medium-scale systems (100-100K users).<p>While I&#x27;ve successfully managed these projects, they haven&#x27;t required complex scalability solutions.<p>I&#x27;m curren",
+      "handle": "@maheshs",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@ByteMonk youtube Top 9 Software Architecture Patterns Every Developer Must Know! In this video, we explore the 9 key software architecture patterns every developer should know. From Layered Architecture to Event-Driven and Clean Architecture, these patterns will help you build scalable, maintainable, and future-proof software. Whether you're working on your first app or managing complex distribut",
+      "handle": "@ByteMonk",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@bernardlunn hackernews Software Architects Need More Respect: Hacker Culture Is Overdone Some people would say that I am not qualified to write about software development as I have never written a line of code in my life. But I have spent over 30 years working with some great developers on a wide range of projects and I have seen what works and what does not work.<p>A few years ago the art of arc",
+      "handle": "@bernardlunn",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@vcidev hackernews Ask HN: Best learning resources on architecting modern web app systems I&#x27;m wondering if anyone on HN has recommendations for learning more about software systems architecture, distributed systems, scalability, etc., mainly with regard to internet&#x2F;web systems or web applications? E.g. a book that might have a chapter on queue design patterns, when and why to use them, o",
+      "handle": "@vcidev",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@roadmapsh.bsky.social bluesky Writing code is easy. Designing systems is an art. Master the art of software architecture. Perfect for devs ready to level up from coding to crafting systems. Software Design and Architecture Roadmap Learn software design and architecture with this step by step guide and resources. roadmap.sh ♥ 7",
+      "handle": "@roadmapsh.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@freeCodeCamp.org youtube System Design for Beginners Course This course is a detailed introduction to system design for software developers and engineers. Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We di",
+      "handle": "@freeCodeCamp.org",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@Coding Tech youtube 10 Architecture Patterns Used In Enterprise Software Development Today Ever wondered how large enterprise scale systems are designed? Before major software development starts, we have to choose a suitable architecture that will provide us with the desired functionality and quality attributes. According to Wikipedia, an architectural pattern is a general, reusable solution to a",
+      "handle": "@Coding",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@chadfowler.com bluesky Most architecture diagrams describe what software can do. Mature systems are defined by what they refuse to do. ♥ 23 💬 1",
+      "handle": "@chadfowler.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@thmuch.bsky.social bluesky Most relevant IT books 2024, IMHO: 📕 \"Architecture Modernization\" 📗 \"Balancing Coupling in Software Design\" 📘 \"Collaborative Software Design\" 📙 \"Learning Systems Thinking\" Thank you 🙏 @nick-tune.me @vladikk.bsky.social @selketjah.bsky.social @kenny.weave-it.org @mentrix.bsky.social et al. ♥ 36 💬 3",
+      "handle": "@thmuch.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@Arjay McCandless youtube 3 System Design Patterns That Show Up in Every Interview System design interviews can feel overwhelming, but the same patterns come up again and again. In this video, I’ll break down three core patterns you need to know: caching, load balancing, and database sharding. You’ll learn how each one actually works in real systems, and the key tradeoffs to watch out for with eac",
+      "handle": "@Arjay",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@dondraper36 hackernews Ask HN: What were your first steps in system architecture/design? I have only had around 2 YoE as a backend developer, but I already have a deep interest in system design.<p>That said, I have realistic expectations in that becoming a software architect requires field experience with different systems, patterns, making mistakes and learning some lessons the hard way.<p>Nonet",
+      "handle": "@dondraper36",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@A Dev' Story youtube Getting the Basics - Software Architecture Introduction (part 1) The first video of Software Architecture Introduction Course covering basics and fundamentals principles. In these series of videos I will be doing a Software Architecture Introduction in a practical way. Many concepts like Architecture patterns like Layered Architecture, Scalability and scalable systems design,",
+      "handle": "@A",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@ruthmalan.bsky.social bluesky The BASIC framework: Five Ways to See the Architecture of Complex Systems From @danklyn.bsky.social and TUG understandinggroup.com/basic BASIC framework — The Understanding Group (TUG) understandinggroup.com ♥ 23 💬 2",
+      "handle": "@ruthmalan.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@Java Guides youtube Top 7 Microservices Design Patterns for Better Architecture #microservices #designpatterns #java In today’s video, we’re going to talk about something every software architect and developer needs to know: the top 7 microservices design patterns for building better architectures. If you’ve ever worked on a microservices project, you know the challenges. Things like service-to-s",
+      "handle": "@Java",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@manlius.bsky.social bluesky New short series of posts for #ComplexityThoughts – based on my recent papers – concerning a question that has been “consuming” most of my attention over the last years: can “architecture” be a scientific concept for living systems? Read it here 👉 manlius.substack.com/p/decoding-t... 🧵 1/ Decoding the “Architecture” of Living Systems: Chapter 1 DALV-01: Life has no a",
+      "handle": "@manlius.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@cyetain.com bluesky Too often, “Architecture” is treated like a noun. A thing. A fixed blueprint. But in complex systems, fixity is fragility. What if we approached architecture as a process instead? 🧵 ♥ 16 💬 2",
+      "handle": "@cyetain.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@frankel@mastodon.top mastodon Boring Technology, Boring Architecture https://www. linkedin.com/pulse/boring-tech nology-architecture-h%C3%A5var-stavseth-ndq1e/ # systemarchitecture Boring Technology, Boring Architecture If you spend any time in modern software discourse, it’s easy to come away with the impression that “serious” systems are built from microservices and micro frontends. Multiple de",
+      "handle": "@frankel",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@mazilin hackernews Show HN: An AI Workstation Inspired by Computers For a clean main context, convenient application management, and potentially unlimited scalability, an AI workstation based on Claude Code skills was created, referencing computer architecture : { CPU ==&gt; LLM }, { System Kernel ==&gt; Claude Code + CLAUDE.md }, { System Processes ==&gt; Sub-Agents }, { Apps ==&gt; Skills }, { ",
+      "handle": "@mazilin",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@TomsITCafe mastodon Architects are not promotions; they’re mindsets. Stakeholders often equate senior titles with tenure. That’s a false ledger. # SystemArchitecture # SecurityArchitecture # Leadership # ContinuousLearning # MindsetShift http:// tomsitcafe.com/2025/10/20/arch itects-are-not-promotions-theyre-mindsets/ Architects Are Not Promotions – They’re Mindsets When a stakeholder looks at th",
+      "handle": "@TomsITCafe",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@ruthmalan.bsky.social bluesky Among the books in this year’s Software Architecture humble bundle: @andrewhl.bsky.social : Facilitating Software Architecture and @dianamontalion.com : Learning Systems Thinking Software Architect Books from Humble Bundle www.humblebundle.com/books/softwa... Humble Tech Book Bundle: Software Architecture 2025 by O'Reilly Pay what you want for the latest Humble Tech ",
+      "handle": "@ruthmalan.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@ObinnaGMI x 𝗚𝗿𝗲𝗮𝘁 𝗔𝗜 𝗜𝘀𝗻’𝘁 𝗕𝘂𝗶𝗹𝘁 𝗶𝗻 𝗔 𝗦𝗶𝗻𝗴𝗹𝗲 𝗠𝗼𝗺𝗲𝗻𝘁, 𝗜𝘁’𝘀 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗢𝗻𝗲 𝗟𝗮𝘆𝗲𝗿 𝗮𝘁 𝗮 𝗧𝗶𝗺𝗲 Every breakthrough begins long before the final product. Behind every intelligent AI system are countless hours of planning, experimentation, refinement, and iteration. The strongest platforms aren’t built through shortcuts. They’re built through thoughtf",
+      "handle": "@ObinnaGMI",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@hexgaard mastodon Now its possible to see a small preview of your diagram, making it easier to identify the diagram you're working on! # developer # Programming # systemarchitecture",
+      "handle": "@hexgaard",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@allenholub.bsky.social bluesky To do that, I need to know how to program, but I also need to know architecture, product discovery and refinement, systems thinking, testing, TDD, UI/UX, and a host of other skills, including communication and process improvement. 5/9 ♥ 71 💬 3",
+      "handle": "@allenholub.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@allenholub.bsky.social bluesky There is a connection between complication and complexity, of course. Simpler complex systems are easier to manage than complicated ones. Good architecture _should_ move you towards simplicity. 4/7 ♥ 157 💬 3",
+      "handle": "@allenholub.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@AmericanTeamNY mastodon Execution Is a Technical Discipline Ideas don’t scale companies. Infrastructure does. Systems must be built, integrated, and managed correctly—or growth breaks under pressure. # TechExecution # SystemArchitecture # ITImplementation # BusinessInfrastructure # AmericanTeam ♥ 1",
+      "handle": "@AmericanTeamNY",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@frankel@mastodon.top mastodon Goodbye # Microservices : From 100s of problem children to 1 superstar https://www. twilio.com/en-us/blog/develope rs/best-practices/goodbye-microservices # systemarchitecture # systemdesign # monolith Goodbye Microservices Discover Twilio’s shift to a single powerful service! Learn cloud communication trends, customer success stories, and how to build scalable apps.",
+      "handle": "@frankel",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@pessoabrain.bsky.social bluesky *The architecture of living systems* Ambitious treatment of the physics of living systems Some quibbles but impressive! iopscience.iop.org/article/10.1... #complexsystems ♥ 70 💬 1",
+      "handle": "@pessoabrain.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@darn.es bluesky Design Systems architecture freebie: You end up standardising your backend APIs. As your frontend adopts components its expectations from the backend become more consistent. ♥ 18 💬 2",
+      "handle": "@darn.es",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@bradfrost.com bluesky AWWWW YEAH, Chapter 2 of our course is almost out! Covering a three-tiered token architecture and how to use that to establish solid color systems, typography systems, spacing systems, border systems, shadow systems, and animation systems. WHEW! Learn more and preorder here: designtokenscourse.com ♥ 31",
+      "handle": "@bradfrost.com",
+      "source": "bluesky",
+      "hasVideo": true,
+      "hasImg": false
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@h4ckernews mastodon More common mistakes to avoid when creating system architecture diagrams https://www. ilograph.com/blog/posts/more-c ommon-diagram-mistakes/ # HackerNews # systemarchitecture # diagrammistakes # softwaredevelopment # designbestpractices # techtips 7 More Common Mistakes in Architecture Diagrams A rundown of seven more common mistakes is system architecture diagrams and how to ",
+      "handle": "@h4ckernews",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@Software Architecture Academy youtube 10 ETL Design Patterns (Data Architecture | Data Warehouse) We will cover 10 ETL Design Patterns every Data Enthusiast should know - Push vs Pull, ETL vs ELT, etc. Related Video: Introduction to Data Warehouse: https://youtu.be/vv0ReKrEQf4 Other Areas (Playlists): Interviews: https://youtube.com/playlist?list=PLHnfxPFOoKcob8jQPsV9Gqi5nEonCJBQ_ Data Governance",
+      "handle": "@Software",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@dominiktornow.bsky.social bluesky Patterns of Distributed Systems details architecture patterns rarely covered elsewhere. An excellent resource beyond standard patterns by Unmeshi Joshi. ♥ 20",
+      "handle": "@dominiktornow.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@katebevan.com bluesky oh my God truly we are living in the dumbest, most destructive timeline. There are reasons banks and others are still running on legacy architecture: it's because modernisation of core systems is REALLY FUCKING HARD, and it has to be done slowly and carefully. Not in a couple of months. REPOSTED @makenakelly.bsky.social SCOOP: DOGE wants to rebuild SSA's codebase in months, ",
+      "handle": "@katebevan.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@alt-ssa.altgov.info bluesky This is so bad. Worse than people can imagine. When you work in our systems, you're generally working in dozens of separate programs that interact with the COBOL architecture. Every one of those would need to be rebuilt. Even if they succeed in migrating, no one would be able to do their jobs. REPOSTED @wired.com BREAKING: DOGE is starting to put together a team to mig",
+      "handle": "@alt-ssa.altgov.info",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@ruthmalan.bsky.social bluesky Architecture Principles (pdf) www.ruthmalan.com/systems/2025... ruthmalan.com ♥ 25 💬 1",
+      "handle": "@ruthmalan.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@looopTools mastodon love reading books on distributed systems. Quite a few of them shares and advice, which can be summarized to: *First check if someone else made it. Often it has and by people smarter than you. * Often this is very, very true. You should still implement it for fun. But for production, it is often (almost always) beneficial to use something that is tested in the field. This is b",
+      "handle": "@looopTools",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@hexgaard mastodon Its now possible to share your diagram in zooml.dev! # systemarchitecture # programming # coding",
+      "handle": "@hexgaard",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@ElNiak hackernews SEMA Evolution: Redefining Malware Analysis Toolchain Architecture I&#x27;m excited to share the remarkable work of my student, Manon O., on enhancing the SEMA (Symbolic Execution for Malware Analysis) toolchain, which was the focus of her Master&#x27;s thesis at École polytechnique de Louvain. This toolchain is an open-source project designed to detect and classify malware usin",
+      "handle": "@ElNiak",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-39.png",
+      "txt": "@martinelli.ch bluesky The recording of my talk \"Goodbye Microservices, Hello Self-Contained Systems\" at Voxxed Days Bucharest is online! #SCS #Microservices #Architecture www.youtube.com/watch?v=Jjre... [VDBUH2025] Simon Martinelli - Goodbye Microservices, Hello Self-Contained Systems YouTube video by Devoxx youtube.com ♥ 22",
+      "handle": "@martinelli.ch",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-40.png",
+      "txt": "@nyreviewofarch.bsky.social bluesky “Architecture, however, is different. Its practice is almost entirely tied to capital, power, and money, and as a result it can never subvert those systems, because it needs them to survive.” Kate Wagner (@katewagner.bsky.social) writes in Issue #38/39. nyra.nyc/articles/a-w... ♥ 55",
+      "handle": "@nyreviewofarch.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-41.png",
+      "txt": "@maxoncodes.bsky.social bluesky Most beginner developers learn frameworks… …but never learn how backend systems actually work. I created a simple guide covering: • API flow • Monolith vs microservices • Database design • Scaling basics • Real backend architecture examples 👇 www.maxoncodes.com/2026/05/back... Backend System Design for Beginners (Complete Guide with Real Examples) Backend system de",
+      "handle": "@maxoncodes.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-42.png",
+      "txt": "@jonasnahm.com bluesky Dear WSJ Editorial Board, your April 25th piece on Germany's energy transition fundamentally misunderstands both renewable energy systems and modern grid architecture. Your \"hostage to weather\" narrative misses the mark. 1/ REPOSTED @jonasnahm.com The level of understanding and debate here is embarrassing even for @wsj.com opinion page. www.wsj.com/opinion/germ... ♥ 54 💬 3",
+      "handle": "@jonasnahm.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-43.png",
+      "txt": "@spavel.bsky.social bluesky \"attempts at damage diagnostics are hampered by damage to the diagnostics systems\" - @aptshadow.bsky.social's Final Architecture series is very on the nose ♥ 17 💬 1",
+      "handle": "@spavel.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-44.png",
+      "txt": "@TreasureHint mastodon Build What the Business Needs, Not What Looks Impressive Success isn’t about flashy features. It’s about solving the right problems. Strong development focuses on clarity, speed, and usability—not complexity for the sake of complexity. # SoftwareDevelopment # ProductEngineering # UXDesign # SystemArchitecture # BusinessTechnology See more",
+      "handle": "@TreasureHint",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-45.png",
+      "txt": "@stahlbrandt@infosec.exchange mastodon @ mjglopez Definitely a combo of #1 and #2: Been working # refactoring truly enormous amount of code for the last years, code which has its oldest roots from 2003. It has been a great learning experience while having the chance to restructure large sections of the # systemarchitecture Painpoints? Sure. But what cool results, improved # performance and first o",
+      "handle": "@stahlbrandt",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-46.png",
+      "txt": "@matheusdevmp hackernews Show HN: Dream – An LLM memory architecture using adaptive TTL to control cost Hi HN,<p>I&#x27;m an independent researcher and I&#x27;ve just published a whitepaper for an LLM memory architecture I designed: DREAM (Dynamic Retention Episodic Architecture for Memory).<p>The core problem I&#x27;m tackling is the tension between persistent memory and cost in large-scale AI sy",
+      "handle": "@matheusdevmp",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-47.png",
+      "txt": "@hackernoon@mas.to mastodon Learn how a high-scale automated pricing system managing 1M+ SKUs and 500k daily updates uses risk engineering, guardrails, and blast-radius containment. https:// hackernoon.com/the-risk-engine ering-behind-a-1-million-sku-automated-pricing-engine # systemarchitecture The Risk Engineering Behind a 1 Million SKU Automated Pricing Engine | HackerNoon Learn how a high-scal",
+      "handle": "@hackernoon",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-48.png",
+      "txt": "@Programming with Mosh youtube Design Patterns in Plain English | Mosh Hamedani Design Patterns tutorial explained in simple words using real-world examples. 🚀 Ready to master design patterns? - Check out my full course: https://mosh.link/design-patterns-course - Subscribe for more awesome content: https://bit.ly/38ijYjn ✋ Stay connected: - Twitter: https://twitter.com/moshhamedani - Facebook: ht",
+      "handle": "@Programming",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-49.png",
+      "txt": "@theotherhappyplace.bsky.social bluesky Both of my major project ideas right now involve drawing cities. Unique cities with unique architecture and world building and transportation systems. What have I done LOL I'm gonna have to draw so Many windows ♥ 75 💬 11",
+      "handle": "@theotherhappyplace.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-50.png",
+      "txt": "@martin.kleppmann.com bluesky Seems like a safe bet that object storage as a foundation of data systems architecture is here to stay blog.colinbreck.com/predicting-t... Predicting the Future of Distributed Systems There are significant changes happening in distributed systems. blog.colinbreck.com ♥ 305 💬 12",
+      "handle": "@martin.kleppmann.com",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-51.png",
+      "txt": "@bravodelta9.bsky.social bluesky Vaguepost Update: All issues have been resolved, and I have built out a contingency plan for if another issue arises so nobody has to panic or worse, think about systems architecture. REPOSTED @bravodelta9.bsky.social Please, powers that be, don't give me yet another system that isn't part of my day job that I have to maintain and provide tech support for. ♥ 50 💬 ",
+      "handle": "@bravodelta9.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-52.png",
+      "txt": "@wolven.blacksky.app bluesky Yeah, y'all: we told you it would. LLM based \"AI\" concatenates strings of next-most-likely tokens. It bullshits. It makes shit up. An inventory situation where the systems need to \"count\" & \"report\" doesn't *change* that fundamental architecture; so why are these people continually surprised by it?? REPOSTED @hypervisible.blacksky.app “Starbucks aimed to use the app to",
+      "handle": "@wolven.blacksky.app",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-53.png",
+      "txt": "@niedermeyer.online bluesky ...without falling for the obvious ploy of fixing what are fundamentally hardware and system architecture problems with software updates that quite obviously have no way of actually addressing the core issues with these systems. I hope this clarifies my position! ♥ 72 💬 1",
+      "handle": "@niedermeyer.online",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-54.png",
+      "txt": "@emilymbender.bsky.social bluesky Language models based on the transformer architecture can be used in ways that are beneficial, but such beneficial use requires transparency into training data (as I have been arguing since 2018) and that doesn't even touch the unethical production of these systems. >> ♥ 138 💬 2",
+      "handle": "@emilymbender.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-55.png",
+      "txt": "@greggyb hackernews Ask HN: Who do you talk to about system architecture and design? Who do you talk to when you have architectural questions? Where do you get feedback on design options? When you want to discuss tradeoffs of those options who do you talk that over with?<p>I am one of two technical cofounders for a small software company. We have really good discussions about the design of our pro",
+      "handle": "@greggyb",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-56.png",
+      "txt": "@akkad33 hackernews Ask HN: How to get good at software system architecture I would like to have the competence to choose the right kind of technology for example like AWS lambda for different components of a software system ♥ 25 💬 17",
+      "handle": "@akkad33",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-57.png",
+      "txt": "@Veuxdo hackernews Beyond Whiteboarding: Creating Expert System Architecture Diagrams (blog.ilograph.com) Beyond Whiteboarding: Creating Expert System Architecture Diagrams A guide for creating system architecture diagrams that deliver long-term value ilograph.com ♥ 63 💬 19",
+      "handle": "@Veuxdo",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-58.png",
+      "txt": "@metageneralist hackernews Ask HN: How to keep up to date doc of a system architecture? Hi,<p>I have helped architect embedded vision system.<p>It&#x27;s a piece of hardware with a camera, AI accelerator, processor, RT processor etc.<p>A lot of stuff is going on in this project, also a lot have changed in last just year.<p>It was easy for me to do the first diagrams in Keynote and present the arch",
+      "handle": "@metageneralist",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-59.png",
+      "txt": "@trcytony hackernews Jeff Dean’s ML System Architecture Blueprint (medium.com) Jeff Dean’s ML System Architecture Blueprint medium.com medium.com ♥ 231 💬 29",
+      "handle": "@trcytony",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-60.png",
+      "txt": "@adamnemecek hackernews StackExchange System Architecture (stackexchange.com) StackExchange System Architecture stackexchange.com stackexchange.com ♥ 248 💬 96",
+      "handle": "@adamnemecek",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-61.png",
+      "txt": "@NDC Conferences youtube Modern Architecture 101 for New Engineers &amp; Forgetful Experts - Jerry Nixon - NDC Copenhagen 2025 This talk was recorded at NDC Copenhagen in Copenhagen, Denmark. #ndccopenhagen #ndcconferences #developer #softwaredeveloper Attend the next NDC conference near you: https://ndcconferences.com https://ndccopenhagen.com/ Subscribe to our YouTube channel and learn every day",
+      "handle": "@NDC",
+      "source": "youtube",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-62.png",
+      "txt": "@jameseastham.co.uk bluesky Created an event driven architecture starter pack if you're interested in learning more about asynchronous systems and EDA these are the folks to follow 👌 go.bsky.app/15BeBMB ♥ 40 💬 6",
+      "handle": "@jameseastham.co.uk",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-63.png",
+      "txt": "@chatmasta hackernews A System Architecture Approach to Global Product Development (2007) [pdf] (mitsloan.mit.edu) A System Architecture Approach to Global Product Development (2007) [pdf] mitsloan.mit.edu mitsloan.mit.edu ♥ 12",
+      "handle": "@chatmasta",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-64.png",
+      "txt": "@billyp-rva hackernews More common mistakes to avoid when creating system architecture diagrams (www.ilograph.com) 7 More Common Mistakes in Architecture Diagrams A rundown of seven more common mistakes is system architecture diagrams and how to fix them ilograph.com ♥ 249 💬 70",
+      "handle": "@billyp-rva",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-65.png",
+      "txt": "@simplecto hackernews Diagram as Code for prototyping cloud system architectures (github.com) GitHub - mingrammer/diagrams: :art: Diagram as Code for prototyping cloud system architectures :art: Diagram as Code for prototyping cloud system architectures - mingrammer/diagrams github.com ♥ 129 💬 30",
+      "handle": "@simplecto",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-66.png",
+      "txt": "@olliej hackernews The new system architecture of Apple Silicon Macs [video] (developer.apple.com) Explore the new system architecture of Apple silicon Macs - WWDC20 - Videos - Apple Developer Discover how Macs with Apple silicon will deliver modern advantages using Apple developer.apple.com ♥ 54 💬 8",
+      "handle": "@olliej",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-67.png",
+      "txt": "@nkurz hackernews What Is Heterogeneous System Architecture (HSA)? (developer.amd.com) What Is Heterogeneous System Architecture (HSA)? developer.amd.com developer.amd.com ♥ 25 💬 3",
+      "handle": "@nkurz",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-68.png",
+      "txt": "@transpute hackernews Arm PC Base System Architecture 1.0 (developer.arm.com) Documentation – Arm Developer developer.arm.com ♥ 28 💬 4",
+      "handle": "@transpute",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-69.png",
+      "txt": "@jorzel hackernews How to visualize a system architecture using the C4 model? (jorzel.github.io) How to visualize your system architecture using the C4 model? As a software developer or system architect you often have a task to visualize your existing or potential application architecture for other people. Your audience can be software developers, but also business stakeholders (Customers, Product",
+      "handle": "@jorzel",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-70.png",
+      "txt": "@rodrigo975 hackernews Evolution of the Unix System Architecture: An Exploratory Case Study (ieeexplore.ieee.org) IEEE Xplore Full-Text PDF: ieeexplore.ieee.org ♥ 103 💬 20",
+      "handle": "@rodrigo975",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-71.png",
+      "txt": "@rbanffy hackernews In-Depth View of Wave Computing’s DPU Architecture, Systems (www.nextplatform.com) First In-Depth View of Wave Computing’s DPU Architecture, Systems Propping up a successful silicon startup is no simple feat, but venture-backed Wave Computing has managed to hold its own in the small but critical AI nextplatform.com ♥ 62 💬 9",
+      "handle": "@rbanffy",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-72.png",
+      "txt": "@Parseus hackernews Sega Master System Architecture: A Practical Analysis (www.copetti.org) https://www.copetti.org/writings/consoles/master-system/ copetti.org ♥ 271 💬 77",
+      "handle": "@Parseus",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-73.png",
+      "txt": "@chubot hackernews The Evolution of the Unix System Architecture (www.spinellis.gr) blog dds: 2021-06-18 — The Evolution of the Unix System Architecture spinellis.gr ♥ 55 💬 12",
+      "handle": "@chubot",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-74.png",
+      "txt": "@fork-bomber hackernews Arm releases Chiplet System Architecture spec beta version (newsroom.arm.com) Arm Chiplet System Architecture Makes New Strides in Accelerating the Evolution of Silicon First public specification for the Arm Chiplet System Architecture is now available, with over 60 companies engaged. newsroom.arm.com ♥ 66 💬 23",
+      "handle": "@fork-bomber",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-75.png",
+      "txt": "@roschdal hackernews System Architecture of Freeciv.net (code.google.com) Google Code Archive - Long-term storage for Google Code Project Hosting. code.google.com ♥ 26",
+      "handle": "@roschdal",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-76.png",
+      "txt": "@vezzy-fnord hackernews KLOS: Kernel-Less Operating System Architecture (2005) [pdf] (citeseerx.ist.psu.edu) KLOS: Kernel-Less Operating System Architecture (2005) [pdf] citeseerx.ist.psu.edu citeseerx.ist.psu.edu ♥ 65 💬 20",
+      "handle": "@vezzy-fnord",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-77.png",
+      "txt": "@ingve hackernews Antikernel: A Decentralized Secure Operating System Architecture (2016) [pdf] (eprint.iacr.org) Antikernel: A Decentralized Secure Operating System Architecture (2016) [pdf] eprint.iacr.org eprint.iacr.org ♥ 88 💬 32",
+      "handle": "@ingve",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-78.png",
+      "txt": "@ren_engineer hackernews InfluxDB 3.0 System Architecture (www.influxdata.com) InfluxDB 3.0: System Architecture | InfluxData This article by Nga Tran, Paul Dix, Andrew Lamb, and Marko Mikulicic describes the system architecture of InfluxDB 3.0 database. #influxdb influxdata.com ♥ 78 💬 24",
+      "handle": "@ren_engineer",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-79.png",
+      "txt": "@emaste hackernews Nested Kernel Operating System Architecture (nestedkernel.org) Nested Kernel Operating System Architecture nestedkernel.org nestedkernel.org ♥ 32 💬 10",
+      "handle": "@emaste",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-80.png",
+      "txt": "@mlerner hackernews Towards an adaptable systems architecture for memory tiering at warehouse-scale (www.micahlerner.com) Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale micahlerner.com ♥ 28 💬 4",
+      "handle": "@mlerner",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-81.png",
+      "txt": "@mardoch.bsky.social bluesky if someone with a big following is going to claim that Signal is compromised for bulk collection they need to explicitly prove that or shut the fuck up. due to its architecture it's _HIGHLY UNLIKELY_ that bulk collection is possible on Signal without, essentially, full system ownage on all systems REPOSTED @faineg.bsky.social I think it is *incredibly* irresponsible fo",
+      "handle": "@mardoch.bsky.social",
+      "source": "bluesky",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-82.png",
+      "txt": "@luu hackernews Anti-Caching: A New Approach to Database Management System Architecture [pdf] (www.vldb.org) Anti-Caching: A New Approach to Database Management System Architecture [pdf] www.vldb.org vldb.org ♥ 45 💬 12",
+      "handle": "@luu",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-83.png",
+      "txt": "@evanweaver hackernews A database built like an operating system: the architecture of FaunaDB (fauna.com) A database built like an operating system: the architecture of FaunaDB fauna.com fauna.com ♥ 143 💬 49",
+      "handle": "@evanweaver",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    }
+  ]
+}

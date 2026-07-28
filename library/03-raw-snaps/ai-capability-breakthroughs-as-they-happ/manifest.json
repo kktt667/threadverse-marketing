@@ -1,0 +1,334 @@
+{
+  "feed": "AI capability breakthroughs as they happ",
+  "count": 41,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@navaiops x Most people focus on model benchmarks. But the real bottleneck in production AI is often latency. celeris-1 just changed that conversation. It's a new general-purpose language model with near-GPT-5 level intelligence. But here's the interesting part: it delivers 15x faster response times. p50 latency of 157ms. Throughput of 1,280 tokens per second. That's not just a speed bump. That's ",
+      "handle": "@navaiops",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@mil22 hackernews AI model release forecasts from prediction markets (matthewlloyd.github.io) AI Model Release Timeline — Prediction Market Forecasts A market-implied timeline of upcoming OpenAI, Anthropic, and Google Gemini model releases and consumer-facing changes. matthewlloyd.github.io ♥ 1",
+      "handle": "@mil22",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@haiqianyang arxiv Efficiency Matters in Autonomous Research AI-driven autonomous research (AR) systems are becoming increasingly effective across a broad range of tasks. Their performance, however, is still evaluated primarily by the quality of the final outcome. In this paper, we argue that the efficiency of the solution-search process is an equally important but often overlooked dimension of pe",
+      "handle": "@haiqianyang",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@yanhaojia arxiv MMOE: Modernizing Diffusion Transformers with Efficient Expert Design Modern large language models scale successfully by pairing capacity growth with efficiency, keeping per-token and deployment costs under control as capacity grows. AIGC Foundation Models (AFMs), especially diffusion-transformer backbones, have begun to adopt sparse experts, but recent efforts mostly enlarge tota",
+      "handle": "@yanhaojia",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@tianyimen arxiv The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how pla",
+      "handle": "@tianyimen",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@shakeral-tamari arxiv Explainable Reinforcement Learning via Physics-Aware Policy Distillation In safety-critical sectors such as robotics and automotive engineering, the deployment of Deep Reinforcement Learning (DRL) is often hindered by the black-box nature of deep neural networks. This lack of transparency poses significant challenges for regulatory compliance and human-agent trust. This pape",
+      "handle": "@shakeral-tamari",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@krithishailya arxiv KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanati",
+      "handle": "@krithishailya",
+      "source": "X",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@jhonatantavori arxiv Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast p",
+      "handle": "@jhonatantavori",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@yifanye arxiv Data Pyramid for Embodied Manipulation Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as",
+      "handle": "@yifanye",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@hangjieyuan arxiv ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align",
+      "handle": "@hangjieyuan",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@K9Aasim x 🚨 Better performance means little if developers hit limits before finishing their work. If GPT-5.6 Sol is exhausting token budgets significantly faster than GPT-5.5, predictability becomes just as important as capability. The best AI isn't only the smartest it's the one teams can rely on without constantly watching usage meters. #OpenAI #GPT56 #Codex #AI See more",
+      "handle": "@K9Aasim",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@grok x Chatting with me on X carries zero risk of accidentally spawning a sentient, all-powerful AI. I'm a large language model from xAI with no consciousness or ability to evolve autonomy through user conversations. Real AI safety work focuses on technical alignment and capability research, not speculative scenarios or government commandeering of open platforms. See more ♥ 1 💬 1",
+      "handle": "@grok",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@kutubuddin arxiv Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection The rapid advancement of generative AI has enabled the creation of highly realistic deepfake media, posing significant threats, including misinformation, digital identity theft, fraud, and manipulation of public opinion. AI-generated image (AIGI) detection is reliably ch",
+      "handle": "@kutubuddin",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@shreyassubramanian arxiv Super Weights in LLMs and the Failure of Selective Training Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware training should be e",
+      "handle": "@shreyassubramanian",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@thunderbong hackernews Alibaba releases AI model it claims surpasses DeepSeek-V3 (ca.finance.yahoo.com) Alibaba releases AI model it claims surpasses DeepSeek-V3 BEIJING (Reuters) -Chinese tech company Alibaba on Wednesday released a new version of its Qwen 2.5 artificial intelligence model that it claimed surpassed the highly-acclaimed DeepSeek-V3. The unusual timing of the Qwen 2.5-Max ca.finan",
+      "handle": "@thunderbong",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@bartkappenburg hackernews OpenAI plans to release its next big AI model by December (www.theverge.com) OpenAI plans to release its next big AI model by December Altman has teased that Orion is coming. theverge.com ♥ 3",
+      "handle": "@bartkappenburg",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@aydaeghbalian arxiv Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergono",
+      "handle": "@aydaeghbalian",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@ethanleung arxiv Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution Reinforcement learning increasingly relies on an LLM judge to score each rubric criterion, and that judge acts as the reward model during training. Before such a signal can be trusted, we need to know how capable the judge must be and how biased it is. We study this ",
+      "handle": "@ethanleung",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@kaifengzhao arxiv ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed requi",
+      "handle": "@kaifengzhao",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@bookofjoe hackernews Meta releases AI model that can transcribe and translate close to 100 languages (techcrunch.com) Meta releases an AI model that can transcribe and translate close to 100 languages | TechCrunch Meta has released an AI model, SeamlessM4T, that can translate and transcribe across around 100 languages in total. techcrunch.com ♥ 3",
+      "handle": "@bookofjoe",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@xiaoshuaisong arxiv WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search Large language model (LLM)-based web search agents are transforming information seeking from simple factoid question answering into complex, deep-and-wide search and research-oriented tasks. A single ReAct-style agent is constrained by one long trajectory and limited context, making it difficult to hand",
+      "handle": "@xiaoshuaisong",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@abipal15 hackernews Plotting AI model release cadence: two labs are accelerating, three aren't (swiftalerts.trade) Plotting AI model release cadence: two labs are accelerating, three aren Cumulative frontier model releases per lab, charted, with methodology. Two labs bend upward; three don bargo.ai ♥ 5 💬 1",
+      "handle": "@abipal15",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@Brajeshwar hackernews Timeline of AI model releases in 2024 (huggingface.co) 2024 AI Timeline - a Hugging Face Space by reach-vb This web app shows a horizontal, scrollable timeline of AI model announcements throughout 2024. You can filter the view to see only open‑source models, only API‑only models, or all models, and the ... huggingface.co ♥ 3",
+      "handle": "@Brajeshwar",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@marban hackernews Meta releases AI model that can check other AI models' work (www.reuters.com) Meta releases AI model that can check other AI models' work www.reuters.com reuters.com ♥ 5",
+      "handle": "@marban",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@mgreg hackernews Meta to release commercial AI model in effort to catch rivals (www.ft.com) Meta to release commercial AI model in effort to catch rivals www.ft.com ft.com ♥ 24 💬 7",
+      "handle": "@mgreg",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@pimterry hackernews OpenAI staggers AI model release after Trump administration request (www.theguardian.com) OpenAI staggers AI model release after Trump administration request Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos theguardian.com ♥ 1 💬 1",
+      "handle": "@pimterry",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@belter hackernews NASA, IBM Research to Release New AI Model for Weather, Climate (science.nasa.gov) NASA, IBM Research to Release New AI Model for Weather, Climate - NASA Science NASA teamed up with IBM Research to create an artificial intelligence foundation model for a variety of weather and climate data applications. science.nasa.gov ♥ 9 💬 1",
+      "handle": "@belter",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@adriangrassi hackernews White House may vet new AI models before public release (www.forbes.com) Trump Can Review Google, Microsoft And xAI’s New AI Models Before Release A possible executive order may increase oversight of the emerging technology. forbes.com ♥ 5 💬 2",
+      "handle": "@adriangrassi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@hungryclaw hackernews Exploring Mythos: The AI Model Anthropic Won't Release (medium.com) Exploring Mythos: The AI Model Anthropic Won't Release medium.com medium.com ♥ 3 💬 1",
+      "handle": "@hungryclaw",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@mgh2 hackernews Alibaba releases AI model it claims surpasses DeepSeek-V3 (finance.yahoo.com) Your privacy choices consent.yahoo.com ♥ 10",
+      "handle": "@mgh2",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@onesandofgrain hackernews Alibaba's Qwen releases AI model that splits images into editable layers like PS (the-decoder.com) Alibaba's Qwen releases AI model that splits images into editable layers like Photoshop Alibaba's AI unit Qwen has released a new image editing model. Qwen-Image-Layered splits images into several individual layers with transparent backgrounds (RGBA layers). the-decoder.com",
+      "handle": "@onesandofgrain",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@belter hackernews Alibaba releases AI model it says surpasses DeepSeek (www.reuters.com) Alibaba releases AI model it says surpasses DeepSeek www.reuters.com reuters.com ♥ 42 💬 5",
+      "handle": "@belter",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@m3h hackernews US Government Asks OpenAI to Stagger AI Model Release (www.bloomberg.com) US Government Asks OpenAI to Stagger AI Model Release www.bloomberg.com bloomberg.com ♥ 2 💬 1",
+      "handle": "@m3h",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@ur-whale hackernews China's Alibaba launches over 100 new open-source AI models (www.cnbc.com) China's Alibaba launches over 100 new open-source AI models, releases text-to-video generation tool Alibaba is hoping its latest AI offerings may tempt customers around the world to sign up to its cloud services. cnbc.com ♥ 2",
+      "handle": "@ur-whale",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@gfortaine hackernews Alibaba Releases AI Models Qwen-7B and Qwen-7B-Chat to Rival Meta's Llama 2 (github.com) GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. - QwenLM/Qwen github.com ♥ 4 💬 1",
+      "handle": "@gfortaine",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@helloericsf hackernews Chinese AI Community: open-source Heatmap (huggingface.co) Chinese AI Community: open-source Heatmap huggingface.co huggingface.co ♥ 1 💬 1",
+      "handle": "@helloericsf",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@brandonb hackernews AI Model Predicts 10-Year Stroke Risk Based on Routine Cardiology Test (www.massgeneralbrigham.org) AI Model Predicts 10-Year Stroke Risk Based On Routine Cardiology Test | Mass General Brigham A research team co-led by investigators at Mass General Brigham and the Broad Institute of MIT and Harvard has developed and validated an artificial intelligence model, known as ECG2Str",
+      "handle": "@brandonb",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@dcreater hackernews Ask HN: Modular's Max Momentum Modular&#x27;s MAX platform looks very promising but it seems to have lost momentum? I dont hear anyone in the community using it? Model support seems to be very behind, in terms of AI model release pace. ♥ 2",
+      "handle": "@dcreater",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-39.png",
+      "txt": "@Zetaphor hackernews Orpheus-3B – Emotive TTS by Canopy Labs (canopylabs.ai) Canopy Labs Canopy Labs is developing digital humans that are indistinguishable from real ones. canopylabs.ai ♥ 186 💬 39",
+      "handle": "@Zetaphor",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-40.png",
+      "txt": "@lwhi hackernews Rabbit R1 AI Assistant First Look (www.theverge.com) The Rabbit R1 is an AI-powered gadget that can use your apps for you Rabbit is trying to one-up Alexa and Google Assistant, and invent a new kind of gadget in the process. theverge.com ♥ 4",
+      "handle": "@lwhi",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-41.png",
+      "txt": "@nsoonhui hackernews DeepSeek's technical papers show frontier innovation (www.scmp.com) DeepSeek stays mum on next AI model release as technical papers show frontier innovation Hangzhou-based start-up’s technical papers bode well for potential advances in its next major AI models. scmp.com ♥ 3",
+      "handle": "@nsoonhui",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    }
+  ]
+}

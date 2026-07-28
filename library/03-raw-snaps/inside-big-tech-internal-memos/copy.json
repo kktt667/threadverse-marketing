@@ -1,0 +1,544 @@
+{
+  "feed": "inside-big-tech-internal-memos",
+  "cards": [
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-07.png",
+      "keep": true,
+      "score": 9,
+      "vibe": "damning",
+      "topic": "ai",
+      "title": "Zuckerberg admitted they make the product worse on purpose",
+      "caption": "Antitrust evidence: Zuckerberg conceding Big Tech deliberately degrades the user experience. It's the quiet part of the attention economy — a product with no competition doesn't need to be good, it needs to be inescapable. Enshittification isn't drift, it's strategy.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-26.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "sharp",
+      "topic": "ai",
+      "title": "The acqui-hire is antitrust arbitrage",
+      "caption": "Inflection, Adept, Character — all absorbed the same way: Big Tech takes the founders, skips the merger. Buying the company triggers review. Hiring the team doesn't. It's a legal wrapper for an acquisition regulators aren't allowed to see.",
+      "format": "splitProof",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-56.png",
+      "keep": true,
+      "score": 8,
+      "vibe": "revealing",
+      "topic": "ai",
+      "title": "You're paying for the AI boom, you just can't see it",
+      "caption": "New paper: the AI buildout's real cost is quietly socialised — subsidised power, water, tax breaks — while the upside is private. The compute isn't cheap, it's just billed to someone who never signed up. 'AI is expensive' is true; you're one of the payers.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "emotion",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-74.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "specific",
+      "topic": "ai",
+      "title": "Data centers under-report their water by omission",
+      "caption": "WSJ: most Big Tech underreports data-center water use — they disclose cooling water and quietly omit the rest. It's not lying, it's scope games. The number you're allowed to see is engineered as carefully as the thing it's measuring.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-25.png",
+      "keep": true,
+      "score": 7,
+      "vibe": "pattern",
+      "topic": "ai",
+      "title": "Big Tech's AI playbook: let VCs fund the R&D, buy the winners",
+      "caption": "The Verge on how the giants are swallowing AI: they don't need to invent it. VC funds a thousand experiments, the incumbents acquire the three that work. Every startup you're rooting for is unpaid R&D for the company it's trying to disrupt.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "social-currency"
+      ]
+    },
+    {
+      "file": "card-01.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-02.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-03.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-05.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-06.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-08.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-10.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-11.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-12.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-13.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-14.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-15.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-16.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-17.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-18.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-19.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-20.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-22.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-23.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-24.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-27.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-28.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-29.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-30.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-32.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-33.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-35.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-37.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-38.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-39.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-42.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-43.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-44.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-48.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-49.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-50.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-52.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-53.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-54.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-57.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-58.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-59.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-60.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-61.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-62.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-63.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-64.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-65.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-66.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-67.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-68.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-69.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-70.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-71.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-72.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-73.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-75.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-76.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-77.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-78.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-79.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-80.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-81.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-82.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-83.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-84.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-85.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-86.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-87.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-88.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-89.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-90.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-91.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-92.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-93.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-94.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-95.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-96.png",
+      "keep": false,
+      "score": 0
+    }
+  ]
+}
