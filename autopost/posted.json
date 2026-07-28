@@ -2238,5 +2238,18 @@
     "platform": "bluesky",
     "at": "2026-07-28T10:39:34.265Z",
     "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrp7uefrwm2y"
+  },
+  {
+    "tile": null,
+    "caption": "Shader compilation stutter is the tax for cross-platform. The game cannot know your exact GPU ahead of time, so it compiles on the fly — and you feel it as a hitch. PC ports live or die on how they hide this.\n\n#Gaming #IndieGames #GameDev #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-28T14:17:18.289Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrplzlvgh22w"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-17-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-07-28T14:17:18.289Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrplzodvpz2v"
   }
 ]
