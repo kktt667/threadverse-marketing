@@ -29,6 +29,9 @@ const SLOTS = ['08:00', '10:00', '12:00', '14:00', '16:00', '18:00', '20:00', '2
 
 function priority(item) {
   const f = item.format, t = (item.topic || '').toLowerCase();
+  // TIMELY news goes out FIRST (it goes stale); evergreen backfills as timely runs out.
+  // -1 beats every other bucket, so timely tiles lead the queue regardless of format.
+  if (item.timely === true) return -1;
   if (f === 'tabloid') return 0;
   if (/drama|viral|good ?news|truecrime|true crime/.test(t)) return 1;
   if (f === 'splitProof' || f === 'bigStat') return 2;
@@ -75,7 +78,7 @@ if (fs.existsSync(textTakesPath)) {
     const plats = (t.platforms && t.platforms.length ? t.platforms : PLATFORMS)
       .filter(p => laneWanted(p, t.topic));
     for (const p of plats) {
-      content.push({ platform: p, topic: t.topic, caption: t.caption, tile: null, format: 'text', score: t.score || 6, sourceUrl: t.sourceUrl || null, category: t.category || null });
+      content.push({ platform: p, topic: t.topic, caption: t.caption, tile: null, format: 'text', score: t.score || 6, sourceUrl: t.sourceUrl || null, category: t.category || null, timely: t.timely === true });
       added++;
     }
   }

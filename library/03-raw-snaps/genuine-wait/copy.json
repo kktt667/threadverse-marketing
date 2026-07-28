@@ -2,6 +2,92 @@
   "feed": "genuine-wait",
   "cards": [
     {
+      "quote": "",
+      "povText": "",
+      "file": "card-32.png",
+      "keep": true,
+      "timely": false,
+      "score": 8,
+      "vibe": "wait-what",
+      "topic": "science",
+      "title": "Top quarks at the LHC are behaving like magic",
+      "caption": "Physicists found top quarks at the LHC showing quantum entanglement at the highest energies ever measured. The wild part: entanglement was a tabletop-photon phenomenon, and it's holding up inside a proton collision. The spooky action isn't fragile — it scales all the way up.",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-41.png",
+      "keep": true,
+      "timely": false,
+      "score": 8,
+      "vibe": "mind-bending",
+      "topic": "science",
+      "title": "Time might 'emerge' from entanglement, not exist",
+      "caption": "A quantum experiment supports the idea that time isn't fundamental — it emerges from entanglement between systems. If that holds, 'when' is a derived quantity, like temperature, not a stage everything sits on. Causality could be an API on top of correlation, not the other way round.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-28.png",
+      "keep": true,
+      "timely": false,
+      "score": 8,
+      "vibe": "striking",
+      "topic": "science",
+      "title": "A language model is now designing quantum experiments",
+      "caption": "Scientists built a language model that invents novel setups for quantum optics — experiments no human proposed. The shift most miss: it's not solving faster, it's exploring a space human intuition can't reach. Discovery is starting to decouple from comprehension.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-31.png",
+      "keep": true,
+      "timely": false,
+      "score": 7,
+      "vibe": "vivid",
+      "topic": "science",
+      "title": "Physicists just observed 'quantum rain' for the first time",
+      "caption": "First-ever observation of 'quantum rain' — atoms condensing into droplets governed by quantum, not classical, rules. The reason it matters isn't the visual: it's another place where quantum behaviour shows up at a scale we can nearly see. The boundary between quantum and classical keeps moving up.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-42.png",
+      "keep": true,
+      "timely": false,
+      "score": 7,
+      "vibe": "practical",
+      "topic": "science",
+      "title": "Post-quantum crypto is already live in your browser",
+      "caption": "Cloudflare + Chrome quietly ran the TLS post-quantum experiment — future-proof encryption, shipping in real traffic now. The threat ('quantum computers break RSA') feels sci-fi, but the migration is already happening under the hood. You're being defended against a computer that doesn't exist yet.",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
       "file": "card-01.png",
       "keep": false,
       "score": 0
@@ -137,27 +223,12 @@
       "score": 0
     },
     {
-      "file": "card-28.png",
-      "keep": false,
-      "score": 0
-    },
-    {
       "file": "card-29.png",
       "keep": false,
       "score": 0
     },
     {
       "file": "card-30.png",
-      "keep": false,
-      "score": 0
-    },
-    {
-      "file": "card-31.png",
-      "keep": false,
-      "score": 0
-    },
-    {
-      "file": "card-32.png",
       "keep": false,
       "score": 0
     },
@@ -198,16 +269,6 @@
     },
     {
       "file": "card-40.png",
-      "keep": false,
-      "score": 0
-    },
-    {
-      "file": "card-41.png",
-      "keep": false,
-      "score": 0
-    },
-    {
-      "file": "card-42.png",
       "keep": false,
       "score": 0
     },

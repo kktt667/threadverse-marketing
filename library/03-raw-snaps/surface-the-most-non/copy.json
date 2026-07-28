@@ -1,0 +1,459 @@
+{
+  "feed": "Surface the most non-obvious debate-worthy",
+  "cards": [
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-11.png",
+      "keep": false,
+      "timely": true,
+      "score": 9,
+      "vibe": "staggering",
+      "topic": "ai",
+      "title": "Nvidia is backstopping $250B of OpenAI's data-center debt",
+      "caption": "Nvidia is reportedly guaranteeing $250B of OpenAI's data-center debt. Sit with the loop: the chipmaker underwrites the loans its biggest customer uses to buy its chips. That's not a supply deal, it's vendor financing at a scale that makes the whole AI boom one balance sheet.",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-08.png",
+      "keep": false,
+      "timely": true,
+      "score": 8,
+      "vibe": "pointed",
+      "topic": "ai",
+      "title": "Zuckerberg is suddenly the open-AI guy. Read the timing",
+      "caption": "Zuckerberg blasts OpenAI and Anthropic for centralising AI power, championing 'open.' Convenient: Meta's behind on the frontier, and 'open' is what you preach when you can't win closed. Openness isn't his principle, it's his catch-up strategy wearing a halo.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "social-currency",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-18.png",
+      "keep": false,
+      "timely": true,
+      "score": 8,
+      "vibe": "dry",
+      "topic": "ai",
+      "title": "JFrog is spinning the OpenAI 0-day as a win",
+      "caption": "New detail on the OpenAI-hacks-HuggingFace story: it went through a JFrog 0-day, and JFrog is now framing getting exploited as a success story. 10 days from breach to press release. When the vendor breached spins it as a demo, security theatre has a new act.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-19.png",
+      "keep": false,
+      "timely": true,
+      "score": 8,
+      "vibe": "cautionary",
+      "topic": "ai",
+      "title": "Claude chats are leaking into Google search",
+      "caption": "Claude joins the list of chatbots whose private conversations turned up indexed in Google and Bing. The pattern's now undeniable: 'private' in an AI chat means 'not private yet.' Every share button is a publish button someone forgot to label.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-32.png",
+      "keep": false,
+      "timely": true,
+      "score": 8,
+      "vibe": "sobering",
+      "topic": "ai",
+      "title": "Tech job offer rates fell from 51% to 39% since 2015",
+      "caption": "Offer rates for tech interviews dropped from 51% to 39% over a decade — and that's before you price in AI. The 'learn to code' era quietly inverted: the pipeline got wider while the door got narrower. Supply met a demand curve that stopped rising.",
+      "format": "bigStat",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-07.png",
+      "keep": false,
+      "timely": false,
+      "score": 8,
+      "vibe": "contrarian",
+      "topic": "ai",
+      "title": "Banning AI won't make it go away",
+      "caption": "An essay making the rounds: banning AI doesn't remove it, it just moves it somewhere you can't see or regulate. Prohibition doesn't kill a technology with this little marginal cost — it hands it to whoever's willing to ignore the ban. The off switch was never real.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-53.png",
+      "keep": false,
+      "timely": false,
+      "score": 8,
+      "vibe": "blunt",
+      "topic": "ai",
+      "title": "'Sick of AI agent frameworks' — and he has a point",
+      "caption": "A dev asks why agent frameworks (crewai, langgraph, autogen) are popular when you can do it all in a few hours of plain code. The uncomfortable answer: most frameworks aren't solving a hard problem, they're selling structure to people nervous about not having any.",
+      "format": "quote",
+      "bestPlatform": "x",
+      "triggers": [
+        "identity",
+        "social-currency"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-10.png",
+      "keep": false,
+      "timely": true,
+      "score": 7,
+      "vibe": "damning",
+      "topic": "ai",
+      "title": "Fired Tesla manager: FSD cars were 'rolling hazards'",
+      "caption": "A fired Tesla manager calls the Full Self-Driving fleet 'rolling hazards.' The detail that matters isn't the quote, it's who said it — insiders only talk after they're pushed out. The gap between the demo and the deployment is usually measured in NDAs.",
+      "format": "tabloid",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-01.png",
+      "keep": false,
+      "timely": true,
+      "score": 7,
+      "vibe": "observant",
+      "topic": "founders",
+      "title": "YC's new batch tells you where the smart money thinks it's going",
+      "caption": "YC's Fall 2026 categories: AI for kids, compute at sea, proving you're human. Read them as a map — YC isn't predicting the future, it's pricing it. 'Proving you're human' being a startup category is the quiet admission that the internet broke that assumption.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-15.png",
+      "keep": false,
+      "timely": true,
+      "score": 8,
+      "vibe": "wait-what",
+      "topic": "science",
+      "title": "The ocean is quietly losing its oxygen",
+      "caption": "Researchers warn underwater oxygen loss threatens Earth's stability. The unsettling part is the mechanism: warmer water holds less oxygen AND speeds up the things consuming it — a feedback loop that doesn't need us to keep going once it starts. Some thresholds only announce themselves after you cross them.",
+      "format": "splitProof",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-06.png",
+      "keep": false,
+      "timely": false,
+      "score": 7,
+      "vibe": "vivid",
+      "topic": "science",
+      "title": "The dinosaurs were charbroiled, not just wiped out",
+      "caption": "New study on Chicxulub: the impact didn't just cause extinction, it briefly turned the atmosphere into an oven that charbroiled everything exposed. The asteroid gets the headline; the real killer was the few hours of infrared afterward. Sometimes the aftershock is the event.",
+      "format": "tabloid",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-16.png",
+      "keep": false,
+      "timely": true,
+      "score": 7,
+      "vibe": "milestone",
+      "topic": "ai",
+      "title": "Nvidia shipped an AI framework 100% generated by AI",
+      "caption": "Nvidia presents the first AI framework written entirely by AI. The milestone isn't the code — it's the review problem. When no human authored it, 'who understands this well enough to fix it at 3am' stops having an answer. We're shipping systems nobody has read.",
+      "format": "minimal",
+      "bestPlatform": "x",
+      "triggers": [
+        "novelty",
+        "identity"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-37.png",
+      "keep": false,
+      "timely": true,
+      "score": 7,
+      "vibe": "shift",
+      "topic": "ai",
+      "title": "Microsoft's new framework turns devs into supervisors",
+      "caption": "Microsoft paper: a fully autonomous AI framework that recasts the developer as a supervisor. The quiet career reframe nobody voted on — you stop writing systems and start approving them. Whether that's a promotion or a demotion depends entirely on whether you still understand what you're approving.",
+      "format": "quote",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "identity",
+        "emotion"
+      ]
+    },
+    {
+      "quote": "",
+      "povText": "",
+      "file": "card-44.png",
+      "keep": false,
+      "timely": false,
+      "score": 7,
+      "vibe": "technical",
+      "topic": "ai",
+      "title": "Sometimes measuring beats accumulating in model memory",
+      "caption": "Paper reframes context-window eviction as a smoothing problem: a model with bounded memory constantly decides what to keep. The insight — measuring what matters beats hoarding everything. Bigger context isn't better memory, it's just a more expensive way to forget slower.",
+      "format": "minimal",
+      "bestPlatform": "mastodon",
+      "triggers": [
+        "novelty"
+      ]
+    },
+    {
+      "file": "card-02.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-03.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-04.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-05.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-09.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-12.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-13.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-14.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-17.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-20.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-21.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-22.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-23.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-24.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-25.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-26.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-27.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-28.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-29.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-30.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-31.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-33.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-34.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-35.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-36.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-38.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-39.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-40.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-41.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-42.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-43.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-45.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-46.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-47.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-48.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-49.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-50.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-51.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-52.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-54.png",
+      "keep": false,
+      "score": 0
+    },
+    {
+      "file": "card-55.png",
+      "keep": false,
+      "score": 0
+    }
+  ]
+}

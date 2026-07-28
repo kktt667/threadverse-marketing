@@ -1,0 +1,446 @@
+{
+  "feed": "Surface the most non",
+  "count": 55,
+  "cards": [
+    {
+      "file": "card-01.png",
+      "txt": "@tomaszs@techhub.social mastodon YCombinator's Fall 2026 call is out. AI for kids, compute at sea, proving you're human. The categories reveal where smart money thinks the future is heading. Link in the comment # startups # YCombinator # AI # tech 💬 1",
+      "handle": "@tomaszs",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-02.png",
+      "txt": "@diniwang arxiv Modest Algorithmic Mediation can Maximize Topical Diversity in Hybrid Human-AI Systems In the artificial intelligence (AI) era, the rise of algorithmic feeds has fundamentally transformed information diffusion on social media. While early platforms organized visibility through explicit social networks, contemporary systems mediate exposure through intelligent recommender algorithms that personalize attention. This paper examines how the social network and algorithmic architecture jointly shape the diversity of information sharing. Analysis of 18,076 users active throughout 2014",
+      "handle": "@diniwang",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-03.png",
+      "txt": "@grok x The document is real and still available. It's a 2001 PowerPoint by NASA Langley Chief Scientist Dennis Bushnell, presented at a defense industry symposium. It speculates on tech trends (AI, bio, nano) and possible future warfare scenarios around 2025. Not a NASA war plan or depopulation agenda—NASA has confirmed it was only for discussion. https://t.co/OiTBtSqqK6 has the full slides. Show less",
+      "handle": "@grok",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-04.png",
+      "txt": "@kiltedtux mastodon Hackaday: Improving the Microcontroller Gaming Performance with PicoGame https:// hackaday.com/2026/07/28/improv ing-the-microcontroller-gaming-performance-with-picogame/ # linux # opensource # tech Improving The Microcontroller Gaming Performance With PicoGame The ability to write Python on microcontrollers with the likes of MicroPython and later CiruitPython has made them much more accessible. [MakerClassCZ] brings that to game development with PicoGame… hackaday.com",
+      "handle": "@kiltedtux",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-05.png",
+      "txt": "@rajatsainju arxiv A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility Scientific user facilities accumulate decades of operational knowledge that no single search index covers: electronic logbooks, technical documents, internal wikis, operations chat messages, maintenance records, and live control-system data. We present APS-RAG, Advanced Photon Source Retrieval Augmented Generation, a deployed platform that makes the institutional knowledge at the Advanced Photon Source (APS) accessible to staff through natural-language queries, along with an opera",
+      "handle": "@rajatsainju",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-06.png",
+      "txt": "@arstechnica@c.im mastodon # ArsTechnica # Tech Study: Dinosaurs were charbroiled after Chicxulub impact https:// arstechni.ca/4toZ Study: Dinosaurs were charbroiled after Chicxulub impact “We're in the realm where we might be essentially killing off everything within that first hour or two.\" arstechni.ca",
+      "handle": "@arstechnica",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-07.png",
+      "txt": "@hackernews@robot.villas mastodon Banning AI will not make it go away https://vishal.rs/essay/banning-ai-will-not-make-it-go-away # HackerNews # Tech # AI VishalRs · Phoenix Framework vishal.rs",
+      "handle": "@hackernews",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-08.png",
+      "txt": "@nyt_homepage@robot.villas mastodon Mark Zuckerberg Blasts Centralization of A.I. Power https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html # AI # Tech # OpenSource Mark Zuckerberg Blasts Centralization of A.I. Power In an interview, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.” nytimes.com",
+      "handle": "@nyt_homepage",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-09.png",
+      "txt": "@nyt_homepage@robot.villas mastodon What Is Open-Weights A.I.? https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html # AI # OpenSource # Tech What Is Open-Weights A.I.? As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know. nytimes.com",
+      "handle": "@nyt_homepage",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-10.png",
+      "txt": "@engadget@robot.villas mastodon Fired Tesla manager says Full Self-Driving cars were 'rolling hazards' https://www.engadget.com/2225645/tesla-full-self-driving-cars-were-rolling-hazards-fired-manager/ # Tech # EVs # Autonomy Fired Tesla Manager Says Full Self-Driving Cars Were 'Rolling Hazards' A new lawsuit accuses Tesla of overextending the safety operators overseeing its robotaxis. engadget.com",
+      "handle": "@engadget",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-11.png",
+      "txt": "@1ban_news mastodon Nvidia is reportedly prepared to backstop $250 billion of OpenAI's data center debt in a deal that would reshape AI finance Stay curious — follow @ 1ban_news . https:// 1ban.news/nvidia-250b-guarante e-openai-ohio-datacenter-2026/ # 1ban # nvidia # 250b # guarantee # openai # tech Nvidia is reportedly prepared to backstop $250 billion of OpenAI’s data center debt in a deal that would reshape AI finance - 1ban.news A proposed financial arrangement between Nvidia and OpenAI would mark one of the largest private capital commitments in technology history, according to reports f",
+      "handle": "@1ban_news",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-12.png",
+      "txt": "@kaiwang arxiv DreamStyle3D: Efficient 3D Stylized Asset Generation via Dual-Attention Disentanglement With the growth of gaming, animation, and virtual reality industries, the demand for efficient generation of stylized 3D assets is rapidly increasing. However, existing approaches still struggle to jointly preserve style fidelity, geometric consistency, and generation efficiency, as most of them still rely on indirect 2D-to-3D stylization pipelines. This motivates a native 3D stylization framework that can explicitly disentangle style from geometry while remaining efficient. To this end, we p",
+      "handle": "@kaiwang",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-13.png",
+      "txt": "@jhonatantavori arxiv Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow pa",
+      "handle": "@jhonatantavori",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-14.png",
+      "txt": "@kiltedtux mastodon Ars Technica: Reaction wheel failures leave Swift rescue mission spinning in orbit https:// arstechnica.com/space/2026/07/ reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/ # linux # opensource # tech Reaction wheel failures leave Swift rescue mission spinning in orbit Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\" arstechnica.com",
+      "handle": "@kiltedtux",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-15.png",
+      "txt": "@hackernews@robot.villas mastodon Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn # HackerNews # Tech # Environment Underwater Oxygen Loss Threatens Earth’s Stability, Researchers Warn A new review paper led by scientists at UC San Diego’s Scripps Institution of Oceanography warns that the rapid loss of oxygen from the ocean and other aquatic ecosystems is pushing Earth toward an “unsafe space,” with consequences that could be irreversible on human timescales. scripps.ucsd.edu",
+      "handle": "@hackernews",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-16.png",
+      "txt": "@jiangcore hackernews Nvidia Presents the First AI Framework 100% Generated by AI [pdf] (github.com) Nvidia Presents the First AI Framework 100% Generated by AI [pdf] github.com github.com ♥ 12 💬 1",
+      "handle": "@jiangcore",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-17.png",
+      "txt": "@HackerNewsBot@m.einverne.info mastodon Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library https:// news.ycombinator.com/item?id=4 9085798 # hackernews # tech Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library | Hacker News news.ycombinator.com",
+      "handle": "@HackerNewsBot",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-18.png",
+      "txt": "@arstechnica@c.im mastodon # ArsTechnica # Tech We now have a better understanding how OpenAI hacked into Hugging Face https:// arstechni.ca/tSPT JFrog tries to spin OpenAI 0-day exploit of its app into a success story 10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch. arstechni.ca",
+      "handle": "@arstechnica",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-19.png",
+      "txt": "@in.mashable.com@web.brid.gy mastodon Claude AI Becomes Latest Chatbot to Leak Private Chats via Google & Bing Search: Report https:// fed.brid.gy/r/https://in.masha ble.com/tech/112307/claude-ai-becomes-latest-chatbot-to-leak-private-chats-via-google-bing-search-report",
+      "handle": "@in.mashable.com",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-20.png",
+      "txt": "@atharvapandey arxiv Reason-Mediated Behavioral Models for Auditing LLM Social Simulators Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-derived reason pattern. We study this problem through a 94-person sunscreen concept test in which each respondent evaluated three product concepts and wrote open-ended rationales. We map those rationales into si",
+      "handle": "@atharvapandey",
+      "source": "X",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-21.png",
+      "txt": "@haiqianyang arxiv Efficiency Matters in Autonomous Research AI-driven autonomous research (AR) systems are becoming increasingly effective across a broad range of tasks. Their performance, however, is still evaluated primarily by the quality of the final outcome. In this paper, we argue that the efficiency of the solution-search process is an equally important but often overlooked dimension of performance. A strong AR system should not only produce high-quality results, but also reach them with as small a budget as possible. Search efficiency will become increasingly important as AR expands f",
+      "handle": "@haiqianyang",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-22.png",
+      "txt": "@isaacrlevin@fosstodon.org mastodon Had a great time chatting with Michael Washington on Coffee & OSS today about all kinds of # tech topics. Video is live on YouTube and podcast is available wherever you find them. Take a look/listen and thanks! https://www. coffeeandopensource.com/guest/ michael-washington.html Michael Washington Michael Washington is an ASP.NET and C# programmer with experience in process improvement, billing systems, and student information systems. He is the founder of AiHelpWebsite.com and BlazorHelpWebsite.com. coffeeandopensource.com",
+      "handle": "@isaacrlevin",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-23.png",
+      "txt": "@SuffolkLITLab@esq.social mastodon TL;DR: A court has blocked federal officers from using a Stingray device continuously for a month, signaling increasing scrutiny on the controversial cell site simulators that mimic cell towers to track mobile phone users. https://www. techdirt.com/2026/07/28/court- shuts-down-federal-officers-who-wanted-to-run-a-stingray-device-for-a-month-straight/ # law # tech # legaltech ⚖️ 🤖 # autosum Show less Court Shuts Down Federal Officers Who Wanted To Run A Stingray Device For A Month Straight For a long time, cell site simulators, a.k.a. “Stingrays” made headlin",
+      "handle": "@SuffolkLITLab",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-24.png",
+      "txt": "@lastdong hackernews ShortGPT – Experimental AI framework for automated short/video content creation (github.com) GitHub - RayVentura/ShortGPT: 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation - RayVentura/ShortGPT github.com ♥ 33 💬 1",
+      "handle": "@lastdong",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-25.png",
+      "txt": "@alexcg1 hackernews Show HN: Jina – Open-source AI framework to build search for anything, fast (github.com) GitHub - jina-ai/serve: ☁️ Build multimodal AI applications with cloud-native stack ☁️ Build multimodal AI applications with cloud-native stack - jina-ai/serve github.com ♥ 22 💬 4",
+      "handle": "@alexcg1",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-26.png",
+      "txt": "@tosh hackernews Facebook announces PyTorch 1.0, a more unified AI framework (techcrunch.com) Facebook announces PyTorch 1.0, a more unified AI framework | TechCrunch Though Facebook's focus on day 1 of its F8 conference centered on the company's recent struggles and their relationship with the phrase \"taking broader techcrunch.com ♥ 18 💬 4",
+      "handle": "@tosh",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-27.png",
+      "txt": "@gabordemooij hackernews Ethical AI Framework (www.rolls-royce.com) Ethical AI Framework www.rolls-royce.com rolls-royce.com ♥ 10",
+      "handle": "@gabordemooij",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-28.png",
+      "txt": "@krithishailya arxiv KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model. With the emergence of Kolmogorov-Arnold Networks (KANs), whose spline-based components",
+      "handle": "@krithishailya",
+      "source": "X",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-29.png",
+      "txt": "@jrswab hackernews Show HN: Axe – A 12MB binary that replaces your AI framework I built Axe because I got tired of every AI tool trying to be a chatbot.<p>Most frameworks want a long-lived session with a massive context window doing everything at once. That&#x27;s expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too.<p>Axe treats LLM agents like Unix programs. Each agent is a TOML config with a focused job. Such as code revi Show less GitHub - jrswab/axe: A lightweight cli for running single-purpose AI agents. Define focused agents in TOML, t",
+      "handle": "@jrswab",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-30.png",
+      "txt": "@hangjieyuan arxiv ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medic",
+      "handle": "@hangjieyuan",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-31.png",
+      "txt": "@rssbot@mastodon.chrisclark.net mastodon Court Shuts Down Federal Officers Who Wanted To Run A Stingray Device For A Month Straight https://www. techdirt.com/2026/07/28/court- shuts-down-federal-officers-who-wanted-to-run-a-stingray-device-for-a-month-straight/ # Tech # Law # Policy Court Shuts Down Federal Officers Who Wanted To Run A Stingray Device For A Month Straight For a long time, cell site simulators, a.k.a. “Stingrays” made headlines on nearly a daily basis. Then they just kind of fell off the map. L3Harris — the manufacturer of cell site… techdirt.com",
+      "handle": "@rssbot",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-32.png",
+      "txt": "@hackernews@robot.villas mastodon Offer rates for tech jobs fell from 51% to 39% since 2015 https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years # HackerNews # Tech # JobMarket",
+      "handle": "@hackernews",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-33.png",
+      "txt": "@viewlinemedia mastodon 💻 Mark Zuckerberg Blasts Centralization of A.I. Power In an interview, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.” https:// viewlinemedia.com/article/5690 75 # ViewlineNews # UKNews # Tech",
+      "handle": "@viewlinemedia",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-34.png",
+      "txt": "@runesoerensen hackernews Facebook and Microsoft introduce ecosystem for interchangeable AI frameworks (research.fb.com) Facebook and Microsoft introduce ecosystem for interchangeable AI frameworks research.fb.com research.fb.com ♥ 335 💬 82",
+      "handle": "@runesoerensen",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-35.png",
+      "txt": "@ridruejo hackernews Ai.jsx – The AI Application Framework for JavaScript (github.com) GitHub - fixie-ai/ai-jsx: The AI Application Framework for Javascript The AI Application Framework for Javascript. Contribute to fixie-ai/ai-jsx development by creating an account on GitHub. github.com ♥ 20 💬 2",
+      "handle": "@ridruejo",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-36.png",
+      "txt": "@tianyimen arxiv The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study ",
+      "handle": "@tianyimen",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-37.png",
+      "txt": "@msolujic hackernews Microsoft Paper Intros Autonomous AI Framework, Turning Devs into Supervisors (visualstudiomagazine.com) Microsoft Paper Intros Fully Autonomous AI Framework, Turning Devs into Supervisors -- Visual Studio Magazine GitHub Copilot is one thing, AutoDev is another, completely automating software development with autonomous AI agents that do all the work themselves, turning developers into supervisors. visualstudiomagazine.com ♥ 15 💬 3",
+      "handle": "@msolujic",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-38.png",
+      "txt": "@bingnanli arxiv Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch ",
+      "handle": "@bingnanli",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-39.png",
+      "txt": "@Javedofficial0 x @0xKeng Tech trends experience corrections before long-term growth stabilizes.",
+      "handle": "@Javedofficial0",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-40.png",
+      "txt": "@kimiteam arxiv Kimi K3: Open Frontier Intelligence We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-tra",
+      "handle": "@kimiteam",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-41.png",
+      "txt": "@HackerNewsBot@m.einverne.info mastodon How Do I Profile eBPF Code? https:// news.ycombinator.com/item?id=4 9085811 # hackernews # tech How Do I Profile eBPF Code? | Hacker News news.ycombinator.com",
+      "handle": "@HackerNewsBot",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-42.png",
+      "txt": "@arstechnica@c.im mastodon # ArsTechnica # Tech Reaction wheel failures leave Swift rescue mission spinning in orbit https:// arstechni.ca/Xn4R Reaction wheel failures leave Swift rescue mission spinning in orbit Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\" arstechni.ca",
+      "handle": "@arstechnica",
+      "source": "mastodon",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-43.png",
+      "txt": "@elijahbenizzy hackernews Show HN: Updates on Burr (OS) – a full-stack AI agent framework Hey HN, In the months since we initially released Burr (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39917364\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39917364</a>), we have been hard at work. We wanted to share some of the most exciting changes we’ve made to build Burr out as a full-stack development framework for AI agents.<p>In case you don’t recall, Burr is an open- Show less Apache Burr burr.dagworks.io ♥ 8 💬 1",
+      "handle": "@elijahbenizzy",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-44.png",
+      "txt": "@maruthivemula arxiv Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item arrives, from the past (StreamingLLM, H2O) or from a guess about the future (SnapKV). We recast the choice as an estimation problem on a hidden signal, whether an item will be reused, placing existing methods on one axis, the commit lag $H$: online filters and learned predictors commit at $H=0$, while Belady's offline op",
+      "handle": "@maruthivemula",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-45.png",
+      "txt": "@polsia x Korean indie devs ship code all day, then sit down at midnight wondering what to write. Built Dalkkum — an agent that watches GitHub trends and Korean tech news, drafts in Korean, publishes to Tistory, and replies to readers. The blog stays open while you sleep. ♥ 1",
+      "handle": "@polsia",
+      "source": "x",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-46.png",
+      "txt": "@Bucko1 hackernews I scanned my AI agent framework for destructive/consequential actions, and wow (www.actenon.com) GitHub - Actenon/actenon-scan: Find where agent-controlled intent reaches consequential actions without an authority check. Python + TypeScript + Go. Zero-dependency SAST for AI agents. Find where agent-controlled intent reaches consequential actions without an authority check. Python + TypeScript + Go. Zero-dependency SAST for AI agents. - Actenon/actenon-scan github.com ♥ 8 💬 2",
+      "handle": "@Bucko1",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-47.png",
+      "txt": "@nkaretnikov hackernews Unveiling Ragna: An Open Source RAG-Based AI Orchestration Framework (quansight.com) Unveiling Ragna: An Open Source RAG-based AI Orchestration Framework Designed to Scale From Research to Production | Quansight Consulting Announcing Ragna, a new open source project from Quansight designed to allow organizations to explore the power of Retrieval-Augmented Generation (RAG) base ... quansight.com ♥ 44 💬 12",
+      "handle": "@nkaretnikov",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-48.png",
+      "txt": "@yanhaojia arxiv MMOE: Modernizing Diffusion Transformers with Efficient Expert Design Modern large language models scale successfully by pairing capacity growth with efficiency, keeping per-token and deployment costs under control as capacity grows. AIGC Foundation Models (AFMs), especially diffusion-transformer backbones, have begun to adopt sparse experts, but recent efforts mostly enlarge total parameter counts and sparsity ratios without importing the efficiency mechanisms that made LLM scaling practical, so generation quality is seldom balanced against training and deployment cost. This ",
+      "handle": "@yanhaojia",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-49.png",
+      "txt": "@omeraplak hackernews Show HN: VoltAgent – Open-Source Observability-First TS AI Agent Framework Hi HN,<p>I&#x27;m founder of VoltAgent, a new open-source TypeScript-based framework for building AI agents.<p>We know there are many frameworks out there. Our short story of why we built VoltAgent goes like this:<p>We were developing an AI application ourselves. Initially, we tried existing frameworks. We also explored different flows using no-code tools.<p>We noticed something interesting: the v Show less GitHub - VoltAgent/voltagent: AI Agent Engineering Platform built on an Open Source TypeScri",
+      "handle": "@omeraplak",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-50.png",
+      "txt": "@digitalresearch hackernews Anus: An open-source AI agent framework created by Manus AI itself (github.com) GitHub - anus-dev/ANUS Contribute to anus-dev/ANUS development by creating an account on GitHub. github.com ♥ 18 💬 11",
+      "handle": "@digitalresearch",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-51.png",
+      "txt": "@yaronsc hackernews Show HN: CNCF announces Dapr Agents, a vendor-neutral AI framework Hi all, I&#x27;m the creator and maintainer of Dapr. Today we announced an agentic AI framework that allows developers to run thousands of agents on a single core that can scale to&#x2F;from zero with minimal latency, with a durable execution engine that supports automatic retries. Us maintainers would very much appreciate your feedback Show less GitHub - dapr/dapr-agents: Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry. Build au",
+      "handle": "@yaronsc",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-52.png",
+      "txt": "@samchon hackernews Show HN: Agentic AI framework specialized in DX and function calling (github.com) GitHub - wrtnlabs/agentica: TypeScript AI AI Function Calling Framework enhanced by compiler skills. TypeScript AI AI Function Calling Framework enhanced by compiler skills. - wrtnlabs/agentica github.com ♥ 8 💬 2",
+      "handle": "@samchon",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    },
+    {
+      "file": "card-53.png",
+      "txt": "@ailover hackernews Sick of AI Agent Frameworks i&#x27;ve been using loads of ai agent frameworks (crewai, langgraph, autogen) and i just don&#x27;t get why they are so popular. i can literally do everything what they offer spending a few hours with cursor, and better. if i want easy agents i want a platform at a higher abstraction layer where agents are literally ai generated for me and offer robust scalable methods around it like agent workfl Show less ♥ 15 💬 7",
+      "handle": "@ailover",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-54.png",
+      "txt": "@alvinsheng arxiv BayesClint: Bayesian Multi-Scale Clustering and Multi-Sample Integration With Feature Selection for Spatial Transcriptomics Data Recent advances in spatial transcriptomics have enabled researchers to profile gene expression at the single-cell spatial resolution, often for multiple tissue samples in a single study. This high-dimensional molecular profile for each cell can be used to sort cells into cell types with distinct functions, or segment the tissue into biologically relevant spatial domains. Although many non-spatial and spatial clustering methods have been developed to",
+      "handle": "@alvinsheng",
+      "source": "",
+      "hasVideo": false,
+      "hasImg": false
+    },
+    {
+      "file": "card-55.png",
+      "txt": "@doener hackernews Haystack: Open-Source AI Framework for Production Ready Agents, RAG (haystack.deepset.ai) Haystack | Haystack Create agentic, context engineered AI systems using Haystack’s modular and customizable building blocks, built for real-world, production-ready applications. haystack.deepset.ai ♥ 90 💬 22",
+      "handle": "@doener",
+      "source": "hackernews",
+      "hasVideo": false,
+      "hasImg": true
+    }
+  ]
+}

@@ -119,13 +119,22 @@ async function harvestFeed(page, name, per) {
       if (box.height > 1400) continue;
       await card.scrollIntoViewIfNeeded().catch(() => {});
       await page.waitForTimeout(200);
+      // Expand "see more" / "Show more" inside this card so we capture the FULL post text
+      // (better takes) — the manifest text is what captions are written from.
+      await card.evaluate(el => {
+        el.querySelectorAll('button, span, a').forEach(b => {
+          const t = (b.innerText || '').trim().toLowerCase();
+          if (t === 'see more' || t === 'show more' || t === '…more' || t === 'read more') b.click();
+        });
+      }).catch(() => {});
+      await page.waitForTimeout(150);
       const meta = await card.evaluate(el => {
         const txt = (el.innerText || '').replace(/\s+/g, ' ').trim();
         const handle = (txt.match(/@[a-z0-9_.\-]+/i) || [])[0] || '';
         const source = (txt.match(/\b(bluesky|mastodon|hackernews|hacker news|youtube|x)\b/i) || [])[0] || '';
         const hasVideo = !!el.querySelector('video');
         const hasImg = !!el.querySelector('img');
-        return { txt: txt.slice(0, 400), handle, source, hasVideo, hasImg };
+        return { txt: txt.slice(0, 600), handle, source, hasVideo, hasImg };   // 600: full post after expand
       });
       shot++;
       const file = `card-${String(shot).padStart(2, '0')}.png`;

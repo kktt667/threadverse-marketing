@@ -94,6 +94,7 @@ async function renderCard(c, cardPath, meta) {
           platform, topic, format: c.format, score: c.score, vibe: c.vibe,
           tile: path.relative(ROOT, out), title: c.title, caption: c.caption,
           triggers: c.triggers || [], sourceUrl: meta.url || null,
+          timely: c.timely === true,   // timely news → schedules before evergreen (see build-queue priority)
         });
       } catch (e) { console.log(`  ⚠️ ${slug}/${fileName} (${c.format}): ${e.message}`); }
     }

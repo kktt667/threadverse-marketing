@@ -3457,21 +3457,6 @@
   {
     "platform": "bluesky",
     "topic": "gaming",
-    "format": "quote",
-    "score": 7,
-    "vibe": "classic",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-25-quote.png",
-    "title": "$80 games meet the one market with infinite substitutes",
-    "caption": "Guybrush had it right. Price elasticity in games is brutal because the substitute isn't a rival — it's your backlog, F2P, and a 10-year-old masterpiece on sale for $4. Pricing power lives with platforms, not publishers.",
-    "triggers": [
-      "novelty",
-      "social-currency"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "platform": "bluesky",
-    "topic": "gaming",
     "format": "minimal",
     "score": 6,
     "vibe": "tell",
@@ -3624,21 +3609,6 @@
     "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-44-bigStat.png",
     "title": "Xbox's target: 24x Steam's peak, every single day",
     "caption": "A billion people 'entertained daily' isn't a games KPI — no game business has ever had one. It's an ads-and-media KPI. The memo quietly tells you what Xbox is becoming, and it isn't a console company.",
-    "triggers": [
-      "novelty",
-      "social-currency"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "platform": "bluesky",
-    "topic": "gaming",
-    "format": "minimal",
-    "score": 6,
-    "vibe": "cynical",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-48-minimal.png",
-    "title": "Bad news travels in convoys, on purpose",
-    "caption": "Sony's disc exit dropped the same week Xbox gutted studios. Not conspiracy — coverage arbitrage. Platform holders bank bad announcements and release them under a rival's news cycle. Watch the timing, not the spin.",
     "triggers": [
       "novelty",
       "social-currency"
@@ -3974,21 +3944,6 @@
     "triggers": [
       "novelty",
       "identity"
-    ],
-    "sourceUrl": null
-  },
-  {
-    "platform": "bluesky",
-    "topic": "gaming",
-    "format": "tabloid",
-    "score": 8,
-    "vibe": "telling",
-    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-83-tabloid.png",
-    "title": "State of Decay 3 on PS5: exclusivity just died on stage",
-    "caption": "State of Decay 3, revealed at the Xbox Showcase, ships on PS5 day one. Exclusives were the whole point of owning a console — Xbox just conceded it's a publisher now, and the hardware is a legacy peripheral.",
-    "triggers": [
-      "novelty",
-      "social-currency"
     ],
     "sourceUrl": null
   },
@@ -7831,5 +7786,409 @@
       "social-currency"
     ],
     "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 9,
+    "vibe": "staggering",
+    "tile": "library/01-content-cards/x/ai-surface-the--card-11-bigStat.png",
+    "title": "Nvidia is backstopping $250B of OpenAI's data-center debt",
+    "caption": "Nvidia is reportedly guaranteeing $250B of OpenAI's data-center debt. Sit with the loop: the chipmaker underwrites the loans its biggest customer uses to buy its chips. That's not a supply deal, it's vendor financing at a scale that makes the whole AI boom one balance sheet.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/mastodon/ai-surface-the--card-08-tabloid.png",
+    "title": "Zuckerberg is suddenly the open-AI guy. Read the timing",
+    "caption": "Zuckerberg blasts OpenAI and Anthropic for centralising AI power, championing 'open.' Convenient: Meta's behind on the frontier, and 'open' is what you preach when you can't win closed. Openness isn't his principle, it's his catch-up strategy wearing a halo.",
+    "triggers": [
+      "social-currency",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 8,
+    "vibe": "dry",
+    "tile": "library/01-content-cards/mastodon/ai-surface-the--card-18-minimal.png",
+    "title": "JFrog is spinning the OpenAI 0-day as a win",
+    "caption": "New detail on the OpenAI-hacks-HuggingFace story: it went through a JFrog 0-day, and JFrog is now framing getting exploited as a success story. 10 days from breach to press release. When the vendor breached spins it as a demo, security theatre has a new act.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "cautionary",
+    "tile": "library/01-content-cards/x/ai-surface-the--card-19-tabloid.png",
+    "title": "Claude chats are leaking into Google search",
+    "caption": "Claude joins the list of chatbots whose private conversations turned up indexed in Google and Bing. The pattern's now undeniable: 'private' in an AI chat means 'not private yet.' Every share button is a publish button someone forgot to label.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "bigStat",
+    "score": 8,
+    "vibe": "sobering",
+    "tile": "library/01-content-cards/x/ai-surface-the--card-32-bigStat.png",
+    "title": "Tech job offer rates fell from 51% to 39% since 2015",
+    "caption": "Offer rates for tech interviews dropped from 51% to 39% over a decade — and that's before you price in AI. The 'learn to code' era quietly inverted: the pipeline got wider while the door got narrower. Supply met a demand curve that stopped rising.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/mastodon/ai-surface-the--card-07-quote.png",
+    "title": "Banning AI won't make it go away",
+    "caption": "An essay making the rounds: banning AI doesn't remove it, it just moves it somewhere you can't see or regulate. Prohibition doesn't kill a technology with this little marginal cost — it hands it to whoever's willing to ignore the ban. The off switch was never real.",
+    "triggers": [
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "quote",
+    "score": 8,
+    "vibe": "blunt",
+    "tile": "library/01-content-cards/x/ai-surface-the--card-53-quote.png",
+    "title": "'Sick of AI agent frameworks' — and he has a point",
+    "caption": "A dev asks why agent frameworks (crewai, langgraph, autogen) are popular when you can do it all in a few hours of plain code. The uncomfortable answer: most frameworks aren't solving a hard problem, they're selling structure to people nervous about not having any.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "damning",
+    "tile": "library/01-content-cards/x/ai-surface-the--card-10-tabloid.png",
+    "title": "Fired Tesla manager: FSD cars were 'rolling hazards'",
+    "caption": "A fired Tesla manager calls the Full Self-Driving fleet 'rolling hazards.' The detail that matters isn't the quote, it's who said it — insiders only talk after they're pushed out. The gap between the demo and the deployment is usually measured in NDAs.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "founders",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "observant",
+    "tile": "library/01-content-cards/mastodon/founders-surface-the--card-01-minimal.png",
+    "title": "YC's new batch tells you where the smart money thinks it's going",
+    "caption": "YC's Fall 2026 categories: AI for kids, compute at sea, proving you're human. Read them as a map — YC isn't predicting the future, it's pricing it. 'Proving you're human' being a startup category is the quiet admission that the internet broke that assumption.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "wait-what",
+    "tile": "library/01-content-cards/mastodon/science-surface-the--card-15-splitProof.png",
+    "title": "The ocean is quietly losing its oxygen",
+    "caption": "Researchers warn underwater oxygen loss threatens Earth's stability. The unsettling part is the mechanism: warmer water holds less oxygen AND speeds up the things consuming it — a feedback loop that doesn't need us to keep going once it starts. Some thresholds only announce themselves after you cross them.",
+    "triggers": [
+      "novelty",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "vivid",
+    "tile": "library/01-content-cards/mastodon/science-surface-the--card-06-tabloid.png",
+    "title": "The dinosaurs were charbroiled, not just wiped out",
+    "caption": "New study on Chicxulub: the impact didn't just cause extinction, it briefly turned the atmosphere into an oven that charbroiled everything exposed. The asteroid gets the headline; the real killer was the few hours of infrared afterward. Sometimes the aftershock is the event.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "x",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "milestone",
+    "tile": "library/01-content-cards/x/ai-surface-the--card-16-minimal.png",
+    "title": "Nvidia shipped an AI framework 100% generated by AI",
+    "caption": "Nvidia presents the first AI framework written entirely by AI. The milestone isn't the code — it's the review problem. When no human authored it, 'who understands this well enough to fix it at 3am' stops having an answer. We're shipping systems nobody has read.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "quote",
+    "score": 7,
+    "vibe": "shift",
+    "tile": "library/01-content-cards/mastodon/ai-surface-the--card-37-quote.png",
+    "title": "Microsoft's new framework turns devs into supervisors",
+    "caption": "Microsoft paper: a fully autonomous AI framework that recasts the developer as a supervisor. The quiet career reframe nobody voted on — you stop writing systems and start approving them. Whether that's a promotion or a demotion depends entirely on whether you still understand what you're approving.",
+    "triggers": [
+      "identity",
+      "emotion"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "ai",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "technical",
+    "tile": "library/01-content-cards/mastodon/ai-surface-the--card-44-minimal.png",
+    "title": "Sometimes measuring beats accumulating in model memory",
+    "caption": "Paper reframes context-window eviction as a smoothing problem: a model with bounded memory constantly decides what to keep. The insight — measuring what matters beats hoarding everything. Bigger context isn't better memory, it's just a more expensive way to forget slower.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 8,
+    "vibe": "sharp",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-51-quote.png",
+    "title": "A rival calling Destiny's death 'existentially threatening'",
+    "caption": "Warframe's director says Destiny 2 dying is 'horrible' and 'existentially threatening' — for Warframe. Odd, until you get it: live-service games share an audience's *time budget*, not just a genre. When a big one dies, players don't migrate, they leave. The tide going out lowers every boat.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 8,
+    "vibe": "unsettling",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-21-tabloid.png",
+    "title": "AI firms are buying and pulping millions of books",
+    "caption": "Report: AI companies anonymously buying and destroying millions of physical books — for the scans. The physical copy is a licensing liability once you've got the text. We're watching the strip-mining of culture, where the artifact is destroyed to launder the data inside it.",
+    "triggers": [
+      "emotion",
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "pointed",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-48-minimal.png",
+    "title": "Console makers should be afraid of 'the thousands'",
+    "caption": "Industry vets: console makers must innovate or die, and should fear 'the thousands' — the flood of small studios shipping on open platforms. The console's moat was distribution. Once Steam and itch are the default, a walled garden is just a garden with worse plants.",
+    "triggers": [
+      "identity",
+      "social-currency"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "splitProof",
+    "score": 7,
+    "vibe": "precise",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-69-splitProof.png",
+    "title": "Read the layoff math: it's a management cull",
+    "caption": "Xbox layoffs, broken down: no studios closed, 4 moved under new management, 3,200 jobs gone, management-layer reduction. The tell isn't the number, it's the shape — they're not cutting games, they're cutting the org chart. This is a company reorganising to make fewer, not to make better.",
+    "triggers": [
+      "identity",
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "quote",
+    "score": 7,
+    "vibe": "contrarian",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-25-quote.png",
+    "title": "Games should look worse and run better",
+    "caption": "A dev's plea: the industry should ship worse-looking, better-optimised games that run on weak hardware. It's heresy in a graphics arms race — but the market it ignores (old GPUs, handhelds, the global south) is bigger than the one it's chasing. Fidelity is a tax most players didn't ask to pay.",
+    "triggers": [
+      "identity",
+      "participation"
+    ],
+    "sourceUrl": null,
+    "timely": false
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "telling",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-97-minimal.png",
+    "title": "Sony's already repurposing its disc factory",
+    "caption": "Buried in the gaming news: Sony's PlayStation disc factory is already being repurposed. Not 'planning to phase out discs' — already reallocating the plant. The clearest signal of where a company's going isn't its roadmap, it's what it's quietly dismantling.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "bluesky",
+    "topic": "gaming",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "notable",
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-83-tabloid.png",
+    "title": "The Shadow of the Colossus creator's back, on Xbox",
+    "caption": "gen ATLAS: a new game from Fumito Ueda (Shadow of the Colossus, ICO) — and it's an Xbox debut. The story isn't the game, it's the exclusivity flip: the auteurs who defined PlayStation's identity are now shipping elsewhere first. Platform loyalty was always a contract, not a value.",
+    "triggers": [
+      "novelty",
+      "social-currency"
+    ],
+    "sourceUrl": null,
+    "timely": true
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "splitProof",
+    "score": 8,
+    "vibe": "wait-what",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wait-card-32-splitProof.png",
+    "title": "Top quarks at the LHC are behaving like magic",
+    "caption": "Physicists found top quarks at the LHC showing quantum entanglement at the highest energies ever measured. The wild part: entanglement was a tabletop-photon phenomenon, and it's holding up inside a proton collision. The spooky action isn't fragile — it scales all the way up.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": false
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "quote",
+    "score": 8,
+    "vibe": "mind-bending",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wait-card-41-quote.png",
+    "title": "Time might 'emerge' from entanglement, not exist",
+    "caption": "A quantum experiment supports the idea that time isn't fundamental — it emerges from entanglement between systems. If that holds, 'when' is a derived quantity, like temperature, not a stage everything sits on. Causality could be an API on top of correlation, not the other way round.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": false
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "minimal",
+    "score": 8,
+    "vibe": "striking",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wait-card-28-minimal.png",
+    "title": "A language model is now designing quantum experiments",
+    "caption": "Scientists built a language model that invents novel setups for quantum optics — experiments no human proposed. The shift most miss: it's not solving faster, it's exploring a space human intuition can't reach. Discovery is starting to decouple from comprehension.",
+    "triggers": [
+      "novelty",
+      "identity"
+    ],
+    "sourceUrl": null,
+    "timely": false
+  },
+  {
+    "platform": "mastodon",
+    "topic": "science",
+    "format": "tabloid",
+    "score": 7,
+    "vibe": "vivid",
+    "tile": "library/01-content-cards/mastodon/science-genuine-wait-card-31-tabloid.png",
+    "title": "Physicists just observed 'quantum rain' for the first time",
+    "caption": "First-ever observation of 'quantum rain' — atoms condensing into droplets governed by quantum, not classical, rules. The reason it matters isn't the visual: it's another place where quantum behaviour shows up at a scale we can nearly see. The boundary between quantum and classical keeps moving up.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": false
+  },
+  {
+    "platform": "x",
+    "topic": "science",
+    "format": "minimal",
+    "score": 7,
+    "vibe": "practical",
+    "tile": "library/01-content-cards/x/science-genuine-wait-card-42-minimal.png",
+    "title": "Post-quantum crypto is already live in your browser",
+    "caption": "Cloudflare + Chrome quietly ran the TLS post-quantum experiment — future-proof encryption, shipping in real traffic now. The threat ('quantum computers break RSA') feels sci-fi, but the migration is already happening under the hood. You're being defended against a computer that doesn't exist yet.",
+    "triggers": [
+      "novelty"
+    ],
+    "sourceUrl": null,
+    "timely": false
   }
 ]
