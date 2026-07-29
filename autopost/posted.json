@@ -2373,5 +2373,31 @@
     "platform": "mastodon",
     "at": "2026-07-29T14:19:12.738Z",
     "url": "https://mastodon.social/@threadverse/117003699020313010"
+  },
+  {
+    "tile": null,
+    "caption": "Nvidia is guaranteeing $250B of OpenAI's data-center debt AND funding Sutskever's Safe Superintelligence. Follow the circle: the chipmaker underwrites the loans used to buy its chips, then buys equity in the buyers. It's not a market anymore, it's one balance sheet wearing several logos.\n\n#AI #LLM",
+    "platform": "bluesky",
+    "at": "2026-07-29T17:18:30.867Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrsgmjxtju2o"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/founders-surface-the--card-01-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-07-29T17:18:30.867Z",
+    "url": "https://mastodon.social/@threadverse/117004403679576773"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-87-quote.png",
+    "platform": "bluesky",
+    "at": "2026-07-29T17:18:30.867Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrsgmq6wsg2u"
+  },
+  {
+    "tile": null,
+    "caption": "Difficulty menus are a confession you couldn't tune one experience that works. Easy/Normal/Hard hands the hardest design problem, matching challenge to player, back to the player. Elden Ring's refusal isn't stubbornness, it's an opinion.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-29T17:18:30.867Z",
+    "url": "https://mastodon.social/@threadverse/117004403958063542"
   }
 ]
