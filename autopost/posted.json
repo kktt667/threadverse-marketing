@@ -2322,5 +2322,30 @@
     "platform": "mastodon",
     "at": "2026-07-29T06:35:19.516Z",
     "url": "https://mastodon.social/@threadverse/117001874814217394"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-48-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-07-29T10:42:35.963Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrrqimdywp2v"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-surface-the--card-18-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-07-29T10:42:35.963Z",
+    "url": "https://mastodon.social/@threadverse/117002846883024795"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-69-splitProof.png",
+    "platform": "bluesky",
+    "at": "2026-07-29T10:42:35.963Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrrqirmebw2m"
+  },
+  {
+    "tile": null,
+    "caption": "Nvidia is guaranteeing $250B of OpenAI's data-center debt AND funding Sutskever's Safe Superintelligence. Follow the circle: the chipmaker underwrites the loans used to buy its chips, then buys equity in the buyers. It's not a market anymore, it's one balance sheet wearing several logos.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-29T10:42:35.963Z",
+    "url": "https://mastodon.social/@threadverse/117002847174091692"
   }
 ]
