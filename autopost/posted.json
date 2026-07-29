@@ -2296,5 +2296,31 @@
     "platform": "mastodon",
     "at": "2026-07-29T02:54:57.834Z",
     "url": "https://mastodon.social/@threadverse/117001008408966112"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-21-tabloid.png",
+    "platform": "bluesky",
+    "at": "2026-07-29T06:35:19.516Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrrcoh4qkb2j"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-surface-the--card-15-splitProof.png",
+    "platform": "mastodon",
+    "at": "2026-07-29T06:35:19.516Z",
+    "url": "https://mastodon.social/@threadverse/117001874559751784"
+  },
+  {
+    "tile": null,
+    "caption": "A p-value under 0.05 was never proof of anything. It's the odds you'd see this data if nothing were happening. Half the replication crisis is people reading a statement about noise as a statement about truth, and building careers on the mistranslation.\n\n#Science #Physics #QuantumComputing #tech",
+    "platform": "bluesky",
+    "at": "2026-07-29T06:35:19.516Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrrcom5dki2m"
+  },
+  {
+    "tile": null,
+    "caption": "Google delayed Gemini 3.5 Pro for falling short on coding. The tell isn't the delay — it's the metric. When a search company's flagship model gets benchmarked on whether it can write code, the product you thought you were competing on has already moved.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-29T06:35:19.516Z",
+    "url": "https://mastodon.social/@threadverse/117001874814217394"
   }
 ]
