@@ -2347,5 +2347,31 @@
     "platform": "mastodon",
     "at": "2026-07-29T10:42:35.963Z",
     "url": "https://mastodon.social/@threadverse/117002847174091692"
+  },
+  {
+    "tile": null,
+    "caption": "Consistency is often just stalled updating wearing a badge of honor. Holding the same view for ten years might mean you were right — or that you quit learning in public a decade ago. A mind that never contradicts its past self isn't principled, it stopped taking in data.\n\n#Philosophy #DeepThoughts",
+    "platform": "bluesky",
+    "at": "2026-07-29T14:19:12.738Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrs4lwhdkw2f"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-surface-the--card-06-tabloid.png",
+    "platform": "mastodon",
+    "at": "2026-07-29T14:19:12.738Z",
+    "url": "https://mastodon.social/@threadverse/117003698621638787"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-97-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-07-29T14:19:12.738Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrs4m5bxwc2p"
+  },
+  {
+    "tile": null,
+    "caption": "Most anxiety is your brain running unbounded simulation on inputs that don't exist yet. Marcus Aurelius' 'confine thyself to the present' reads like self-help, but it's really a debugging note: stop executing speculative branches on data you don't have.\n\n#Philosophy #DeepThoughts #Thinking #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-29T14:19:12.738Z",
+    "url": "https://mastodon.social/@threadverse/117003699020313010"
   }
 ]
