@@ -2399,5 +2399,31 @@
     "platform": "mastodon",
     "at": "2026-07-29T17:18:30.867Z",
     "url": "https://mastodon.social/@threadverse/117004403958063542"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-96-quote.png",
+    "platform": "bluesky",
+    "at": "2026-07-29T19:22:18.224Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrsnjwf24z2y"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-genuine-wait-card-31-tabloid.png",
+    "platform": "mastodon",
+    "at": "2026-07-29T19:22:18.224Z",
+    "url": "https://mastodon.social/@threadverse/117004890503010046"
+  },
+  {
+    "tile": null,
+    "caption": "205,000 tech workers laid off this year while VCs poured $104B into AI startups. It's not a contradiction, it's a transfer: the same dollar that was a salary is now a GPU. The 'AI boom' and the 'tech bust' are the same money, just relabeled.\n\n#AI #MachineLearning #LLM #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-07-29T19:22:18.224Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrsnk4firy2y"
+  },
+  {
+    "tile": null,
+    "caption": "205,000 tech workers laid off this year while VCs poured $104B into AI startups. It's not a contradiction, it's a transfer: the same dollar that was a salary is now a GPU. The 'AI boom' and the 'tech bust' are the same money, just relabeled.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-29T19:22:18.224Z",
+    "url": "https://mastodon.social/@threadverse/117004890784159779"
   }
 ]
