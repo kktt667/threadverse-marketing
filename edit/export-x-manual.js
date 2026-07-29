@@ -17,6 +17,10 @@ const IMG = path.join(OUT, 'images');
 const arg = (n, d = null) => { const i = process.argv.indexOf(`--${n}`); if (i === -1) return d; const v = process.argv[i + 1]; return (!v || v.startsWith('--')) ? true : v; };
 const PER_DAY = +(arg('per-day', 4));
 const START = arg('start', '2026-07-03');
+// Posting times to schedule each day's posts at — good X engagement windows (UK local).
+// One time per slot; if PER_DAY > SLOT_TIMES.length, extra posts reuse the last time.
+const SLOT_TIMES = ['09:00', '13:00', '17:00', '21:00', '11:00', '15:00', '19:00', '23:00'];
+const dayName = dstr => ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][new Date(dstr + 'T12:00:00Z').getUTCDay()];
 
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(IMG, { recursive: true });
@@ -89,30 +93,40 @@ mixed.forEach((c, i) => {
   }
 });
 
-// per-day markdown
+// ── CALENDAR markdown: one dated section per day, each post with a TIME, image + caption together ──
 const nImg = posts.filter(p => p.image).length, nTxt = posts.length - nImg;
-let md = `# X — Manual Posting Schedule\n\n`;
-md += `${posts.length} posts (${nImg} image · ${nTxt} text-only) · ${PER_DAY}/day · a mix of tiles and pure takes.\n`;
-md += `Image posts: attach the image + paste the caption. TEXT-ONLY posts: just paste the text, no image.\n`;
-md += `> Tip: put **threadverse.ai** in your X bio + a pinned comment; keep captions link-free for max reach.\n\n`;
+const days = Math.ceil(posts.length / PER_DAY);
+let md = `# X — Posting Calendar\n\n`;
+md += `**${posts.length} posts** · ${nImg} image · ${nTxt} text-only · ${PER_DAY}/day over ${days} days (${dayName(START)} ${START} → ${dayName(addDays(START, days - 1))} ${addDays(START, days - 1)})\n\n`;
+md += `Times are UK local — post at (or near) the time shown, no need to calculate.\n`;
+md += `**IMG** = attach the image file + paste the caption.  **TXT** = just paste the text, no image.\n`;
+md += `Bio tip: put **threadverse.ai** in your X bio + a pinned comment; keep captions link-free.\n\n---\n`;
 
 let i = 0, day = 0;
 while (i < posts.length) {
   const date = addDays(START, day++);
-  md += `\n## ${date}  (${Math.min(PER_DAY, posts.length - i)} posts)\n`;
+  const n = Math.min(PER_DAY, posts.length - i);
+  md += `\n# 📅 ${dayName(date)} ${date}  ·  ${n} posts\n`;
   for (let s = 0; s < PER_DAY && i < posts.length; s++, i++) {
     const p = posts[i];
-    md += `\n**#${p.n}** · ${p.score}/10 · ${p.format} · ${p.topic}${p.image ? '' : '  ·  📝 TEXT-ONLY (no image)'}\n\n`;
-    if (p.image) md += `🖼️ \`x-manual/${p.image}\`\n\n`;
-    md += `📋 ${p.image ? 'Caption' : 'Post'} (copy):\n\n> ${p.caption.replace(/\n/g, '\n> ')}\n`;
-    if (p.sourceUrl) md += `\n🔗 source (optional, for a reply): ${p.sourceUrl}\n`;
-    md += `\n---\n`;
+    const time = SLOT_TIMES[Math.min(s, SLOT_TIMES.length - 1)];
+    const kind = p.image ? 'IMG' : 'TXT';
+    md += `\n### 🕘 ${time}  ·  ${kind}  ·  ${p.topic}${p.image ? ` (${p.format})` : ''}\n`;
+    if (p.image) md += `**Image:** \`x-manual/${p.image}\`\n\n`;
+    md += `**${p.image ? 'Caption' : 'Post'}:**\n> ${p.caption.replace(/\n/g, '\n> ')}\n`;
+    if (p.sourceUrl) md += `\n*(optional reply source: ${p.sourceUrl})*\n`;
   }
+  md += `\n---\n`;
 }
 
+// stamp date + time onto each post in the data file too (so x-posts.json is a real calendar)
+posts.forEach((p, idx) => {
+  const d = Math.floor(idx / PER_DAY), s = idx % PER_DAY;
+  p.date = addDays(START, d);
+  p.time = SLOT_TIMES[Math.min(s, SLOT_TIMES.length - 1)];
+});
 fs.writeFileSync(path.join(OUT, 'X_SCHEDULE.md'), md);
 fs.writeFileSync(path.join(OUT, 'x-posts.json'), JSON.stringify(posts, null, 2));
-const days = Math.ceil(posts.length / PER_DAY);
 console.log(`✅ ${posts.length} X posts (${nImg} image · ${nTxt} text-only) → x-manual/`);
-console.log(`   ${PER_DAY}/day over ${days} days (${START} → ${addDays(START, days - 1)})`);
-console.log(`   images/ (numbered in posting order) · X_SCHEDULE.md (per-day, paste-ready)`);
+console.log(`   ${PER_DAY}/day over ${days} days (${START} → ${addDays(START, days - 1)}) · times: ${SLOT_TIMES.slice(0, PER_DAY).join(', ')} UK`);
+console.log(`   X_SCHEDULE.md = dated calendar with times · images/ numbered in order`);
