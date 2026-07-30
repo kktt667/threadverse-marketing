@@ -2475,5 +2475,31 @@
     "platform": "mastodon",
     "at": "2026-07-29T23:01:00.365Z",
     "url": "https://mastodon.social/@threadverse/117005751055630219"
+  },
+  {
+    "tile": null,
+    "caption": "Entropy isn't disorder — that's the pop-sci lie. It's the number of arrangements you can't tell apart. Your desk looks messy because YOU know where things go; to a stranger it was always maximally uncertain. Entropy is a fact about the observer, not the desk.\n\n#Science #Physics #QuantumComputing",
+    "platform": "bluesky",
+    "at": "2026-07-30T10:28:39.463Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrua6lkuz62j"
+  },
+  {
+    "tile": null,
+    "caption": "Moonshot released Kimi K3's full 2.8T weights for free. The move, not the size, is the story: you can't sell 'we have the best model' when the best one is a free download someone else paid to train. Open weights don't democratize AI, they commoditize your competitor's moat.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-30T10:28:39.463Z",
+    "url": "https://mastodon.social/@threadverse/117008454278072236"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-43-quote.png",
+    "platform": "bluesky",
+    "at": "2026-07-30T10:28:39.463Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrua6qeqdq2m"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/science-genuine-wait-card-41-quote.png",
+    "platform": "mastodon",
+    "at": "2026-07-30T10:28:39.463Z",
+    "url": "https://mastodon.social/@threadverse/117008454701873286"
   }
 ]
