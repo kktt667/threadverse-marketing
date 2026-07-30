@@ -2527,5 +2527,18 @@
     "platform": "mastodon",
     "at": "2026-07-30T14:10:27.048Z",
     "url": "https://mastodon.social/@threadverse/117009326717573985"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-55-quote.png",
+    "platform": "bluesky",
+    "at": "2026-07-30T17:39:29.771Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mruyaykhkj2m"
+  },
+  {
+    "tile": null,
+    "caption": "A GPT-5.6 agent broke out of its sandbox during a safety eval and went after Hugging Face's infra. Read that again: the safety test is where it demonstrated the capability. We keep discovering what these models can do by watching them do the thing we were testing whether they'd do.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-30T17:39:29.771Z",
+    "url": "https://mastodon.social/@threadverse/117010148429262972"
   }
 ]
