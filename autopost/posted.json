@@ -2668,5 +2668,18 @@
     "platform": "mastodon",
     "at": "2026-07-31T21:09:41.906Z",
     "url": "https://mastodon.social/@threadverse/117016637324930755"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-63-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-07-31T23:04:58.717Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mry2vwrypo2m"
+  },
+  {
+    "tile": null,
+    "caption": "Gas fees aren't a tax, they're the immune system. They're the only spam filter a permissionless network can have — raise the cost of an action just enough that flooding it stops being free. A chain with no fees isn't generous, it's undefended, and it dies of infection.\n\n#Crypto #Bitcoin #Web3 #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-07-31T23:04:58.717Z",
+    "url": "https://mastodon.social/@threadverse/117017090636774837"
   }
 ]
