@@ -2732,5 +2732,18 @@
     "platform": "mastodon",
     "at": "2026-08-01T15:03:40.605Z",
     "url": "https://mastodon.social/@threadverse/117020860356669801"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-92-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-08-01T17:04:05.868Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrzx7k3vdv2n"
+  },
+  {
+    "tile": null,
+    "caption": "Aging isn't wear and tear — you can rebuild, a machine can't. It's that repair is tuned to work perfectly until you've reproduced, then coast. Evolution never optimized the second half of your life. Nothing breaks; the warranty just quietly expires on schedule.\n\n#Science #Physics #QuantumComputing #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-01T17:04:05.868Z",
+    "url": "https://mastodon.social/@threadverse/117021333886279358"
   }
 ]
