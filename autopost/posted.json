@@ -2681,5 +2681,31 @@
     "platform": "mastodon",
     "at": "2026-07-31T23:04:58.717Z",
     "url": "https://mastodon.social/@threadverse/117017090636774837"
+  },
+  {
+    "tile": null,
+    "caption": "The strongest sign you understand a position is that you can argue the other side better than its holders can. If you can only beat the weak version of what you disagree with, you don't disagree with it yet — you just haven't met it.\n\n#Philosophy #DeepThoughts #Thinking #threadverse #tech #feeds",
+    "platform": "bluesky",
+    "at": "2026-08-01T10:02:30.388Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrz7nnsbwv2b"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-34-splitProof.png",
+    "platform": "mastodon",
+    "at": "2026-08-01T10:02:30.388Z",
+    "url": "https://mastodon.social/@threadverse/117019676095490168"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-86-quote.png",
+    "platform": "bluesky",
+    "at": "2026-08-01T10:02:30.388Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3mrz7nt4rs62c"
+  },
+  {
+    "tile": null,
+    "caption": "The White House wants 30 days to review frontier models before release. Sounds like safety; for open weights it's a kill switch. You can't submit a file anyone can fork the day before launch — so the rule doesn't slow open models, it quietly makes shipping them the risky path.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-01T10:02:30.388Z",
+    "url": "https://mastodon.social/@threadverse/117019676405549154"
   }
 ]
