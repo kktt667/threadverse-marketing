@@ -2835,5 +2835,18 @@
     "platform": "mastodon",
     "at": "2026-08-02T15:05:38.844Z",
     "url": "https://mastodon.social/@threadverse/117026530452960627"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-96-quote.png",
+    "platform": "bluesky",
+    "at": "2026-08-02T17:04:00.272Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3ms4hocjfr62p"
+  },
+  {
+    "tile": null,
+    "caption": "Oracle cut 30,000 people this year — the single biggest tech layoff of 2026. The quiet part: it wasn't a struggling company, it was a pivoting one. The largest cuts aren't coming from failure anymore, they're coming from firms healthy enough to bet the org chart on AI.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-02T17:04:00.272Z",
+    "url": "https://mastodon.social/@threadverse/117026995909197240"
   }
 ]
