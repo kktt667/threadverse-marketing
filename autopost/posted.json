@@ -2860,5 +2860,18 @@
     "platform": "mastodon",
     "at": "2026-08-02T19:15:51.491Z",
     "url": "https://mastodon.social/@threadverse/117027514372609113"
+  },
+  {
+    "tile": null,
+    "caption": "The White House wants 30 days to review frontier models before release. Sounds like safety; for open weights it's a kill switch. You can't submit a file anyone can fork the day before launch — so the rule doesn't slow open models, it quietly makes shipping them the risky path.\n\n#AI #MachineLearning",
+    "platform": "bluesky",
+    "at": "2026-08-02T20:59:29.756Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3ms4uteldy52p"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-26-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-08-02T20:59:29.756Z",
+    "url": "https://mastodon.social/@threadverse/117027921810014950"
   }
 ]
