@@ -2950,5 +2950,18 @@
     "platform": "mastodon",
     "at": "2026-08-03T17:54:49.034Z",
     "url": "https://mastodon.social/@threadverse/117032858078556893"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-68-quote.png",
+    "platform": "bluesky",
+    "at": "2026-08-03T19:42:45.498Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3ms7az4bwdd2j"
+  },
+  {
+    "tile": null,
+    "caption": "A live-service game has to be slightly unsatisfying by design. A game that fully satisfies you is one you close. Retention and fun point opposite ways, and the roadmap you're excited about exists to keep you from finishing.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-03T19:42:45.498Z",
+    "url": "https://mastodon.social/@threadverse/117033282440345486"
   }
 ]
