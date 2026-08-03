@@ -2886,5 +2886,31 @@
     "platform": "mastodon",
     "at": "2026-08-02T22:58:51.409Z",
     "url": "https://mastodon.social/@threadverse/117028391205412442"
+  },
+  {
+    "tile": null,
+    "caption": "Intel's cutting 20% of manufacturing while everyone else builds fabs. The divergence is the signal: the AI buildout isn't lifting all chip boats, it's picking winners. Owning silicon used to be the moat. Owning the RIGHT silicon at the right node is the only moat now.\n\n#AI #MachineLearning #LLM",
+    "platform": "bluesky",
+    "at": "2026-08-03T11:29:13.605Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3ms6fgkzlbq25"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-create-a-liv-card-39-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-08-03T11:29:13.605Z",
+    "url": "https://mastodon.social/@threadverse/117031341725010601"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-gam-card-28.png",
+    "platform": "bluesky",
+    "at": "2026-08-03T11:29:13.605Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3ms6fgqvvii2m"
+  },
+  {
+    "tile": null,
+    "caption": "The reason indies feel more original isn't more creativity, it's that a small team can't afford focus-testing the weirdness out. AAA doesn't kill ideas on purpose. It kills them by consensus, one 'players found this confusing' at a time.\n\n#Gaming #IndieGames #GameDev #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-03T11:29:13.605Z",
+    "url": "https://mastodon.social/@threadverse/117031342066079115"
   }
 ]
