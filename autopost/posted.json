@@ -2976,5 +2976,18 @@
     "platform": "mastodon",
     "at": "2026-08-03T21:07:07.416Z",
     "url": "https://mastodon.social/@threadverse/117033614181163430"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-create-a-liv-card-79-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-08-03T23:05:23.814Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3ms7mdgs2zc2g"
+  },
+  {
+    "tile": null,
+    "caption": "Every eval you run against a public benchmark is a training signal you hand the next model. The leaderboard isn't measuring capability, it's leaking answers into the pretraining set. Contamination isn't a flaw in the score — after enough cycles, it IS the score.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-03T23:05:23.814Z",
+    "url": "https://mastodon.social/@threadverse/117034079221324664"
   }
 ]
