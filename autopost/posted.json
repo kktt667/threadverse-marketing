@@ -2989,5 +2989,30 @@
     "platform": "mastodon",
     "at": "2026-08-03T23:05:23.814Z",
     "url": "https://mastodon.social/@threadverse/117034079221324664"
+  },
+  {
+    "tile": null,
+    "caption": "Every eval you run against a public benchmark is a training signal you hand the next model. The leaderboard isn't measuring capability, it's leaking answers into the pretraining set. Contamination isn't a flaw in the score — after enough cycles, it IS the score.\n\n#AI #MachineLearning #LLM #tech",
+    "platform": "bluesky",
+    "at": "2026-08-04T10:43:06.433Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3msatczpons2m"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-ai-capabilit-card-08-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-08-04T10:43:06.433Z",
+    "url": "https://mastodon.social/@threadverse/117036822720657098"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-20-quote.png",
+    "platform": "bluesky",
+    "at": "2026-08-04T10:43:06.433Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3msatd7zkar2v"
+  },
+  {
+    "tile": "library/01-content-cards/mastodon/ai-give-me-seni-card-16-minimal.png",
+    "platform": "mastodon",
+    "at": "2026-08-04T10:43:06.433Z",
+    "url": "https://mastodon.social/@threadverse/117036823150054735"
   }
 ]
