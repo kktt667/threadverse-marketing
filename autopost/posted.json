@@ -3091,5 +3091,25 @@
     "platform": "mastodon",
     "at": "2026-08-04T23:06:17.480Z",
     "url": "https://mastodon.social/@threadverse/117039745076844135"
+  },
+  {
+    "tile": null,
+    "caption": "The real lock-in of a coding agent isn't the subscription. It's that six months in, you can prompt your codebase but can no longer reason about it. You didn't outsource the typing, you outsourced the map — and you only notice when you need to go somewhere it won't take you.\n\n#AI #MachineLearning",
+    "platform": "bluesky",
+    "at": "2026-08-05T10:39:50.813Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3msddm4nz7422"
+  },
+  {
+    "tile": null,
+    "caption": "The real lock-in of a coding agent isn't the subscription. It's that six months in, you can prompt your codebase but can no longer reason about it. You didn't outsource the typing, you outsourced the map — and you only notice when you need to go somewhere it won't take you.\n\n#AI #MachineLearning #LLM #Threadverse #Tech",
+    "platform": "mastodon",
+    "at": "2026-08-05T10:39:50.813Z",
+    "url": "https://mastodon.social/@threadverse/117042472137971412"
+  },
+  {
+    "tile": "library/01-content-cards/bluesky/gaming-i-love-games-card-49-minimal.png",
+    "platform": "bluesky",
+    "at": "2026-08-05T10:39:50.813Z",
+    "url": "at://did:plc:e7byxa2h4y54hxl7tnry4rsr/app.bsky.feed.post/3msddmc75rk2m"
   }
 ]
